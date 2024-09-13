@@ -1,0 +1,76 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,Correct,Actual Value,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface
+0,B.Purdy u32.5 Pass Att,Markus_Markets,San Francisco 49ers,B.Purdy,New York Jets,1,Y,29.0,1.0,1,1.0,1,1.0,1,74.0,10.0,59.0,2.0,Partly Cloudy,Levi's,outdoors,grass
+3,G.Kittle o40.5 receiving yards,Rotowire Prizepicks,San Francisco 49ers,G.Kittle,New York Jets,1,N,40.0,0.0,0,0.0,0,0.0,0,75.0,12.0,62.0,1.0,Partly Cloudy,Levi's,outdoors,grass
+4,D.Samuel o9.5 rushing yards,Rotowire Sleeper,San Francisco 49ers,D.Samuel,New York Jets,1,Y,23.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+5,B.Hall o24.5 receiving yards,Rotowire Sleeper,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+6,B.Aiyuk o49.5 receiving yards,Rotowire Prizepicks,San Francisco 49ers,B.Aiyuk,New York Jets,1,N,28.0,0.0,0,0.0,0,0.0,0,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+9,B.Purdy u2.5 Rush Att,MoneylineHacks,San Francisco 49ers,B.Purdy,New York Jets,1,Y,1.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+10,A.Lazard o0.5 rush_td+rec_td,GDAWG5000,New York Jets,A.Lazard,San Francisco 49ers,0,Y,2.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+11,G.Kittle o0.5 rush_td+rec_td,GDAWG5000,San Francisco 49ers,G.Kittle,New York Jets,1,N,0.0,0.0,0,0.0,0,0.0,0,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+12,B.Hall o3.5 Recs,PropBetGuy,New York Jets,B.Hall,San Francisco 49ers,0,Y,5.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+14,A.Rodgers o0.5 ints,Ryan Gilbert,New York Jets,A.Rodgers,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+15,B.Hall u15.5 rush att,Ryan Gilbert,New York Jets,B.Hall,San Francisco 49ers,0,N,16.0,0.0,0,0.0,0,0.0,0,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+16,B.Hall o62.5 rushing yards,Rotowire Sleeper,New York Jets,B.Hall,San Francisco 49ers,0,N,54.0,0.0,0,0.0,0,0.0,0,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+17,B.Hall o92.5 rushing + receiving yards,Rotowire Prizepicks,New York Jets,B.Hall,San Francisco 49ers,0,Y,93.0,1.0,1,1.0,1,1.0,1,75.0,12.0,62.0,0.0,Partly Cloudy,Levi's,outdoors,grass
+19,D.Samuel o1.5 rush_td+rec_td,BetWhatHappensLive,San Francisco 49ers,D.Samuel,New York Jets,1,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+20,B.Purdy o6.5 Rush Yds,moneybadger24_,San Francisco 49ers,B.Purdy,New York Jets,1,Y,11.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+21,K.Juszczyk o3.5 Rec Yds,charliedisturco,San Francisco 49ers,K.Juszczyk,New York Jets,1,Y,40.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+22,B.Hall o49.5 Rec Yds,charliedisturco,New York Jets,B.Hall,San Francisco 49ers,0,N,39.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+23,J.Mason u14.5 Rush Att,nick_giffen,San Francisco 49ers,J.Mason,New York Jets,1,N,28.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+24,D.Samuel o77.5 Rush + Rec Yds,JoeDellera,San Francisco 49ers,D.Samuel,New York Jets,1,N,77.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+25,D.Samuel o99.5 Rush + Rec Yds,JoeDellera,San Francisco 49ers,D.Samuel,New York Jets,1,N,77.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+26,D.Samuel o124.5 Rush + Rec Yds,JoeDellera,San Francisco 49ers,D.Samuel,New York Jets,1,N,77.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+28,G.Kittle o3.5 Recs,CroweRadio,San Francisco 49ers,G.Kittle,New York Jets,1,Y,4.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+29,A.Lazard o1.5 Recs,theprophunter0_,New York Jets,A.Lazard,San Francisco 49ers,0,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+30,A.Lazard o3.5 Recs,theprophunter0_,New York Jets,A.Lazard,San Francisco 49ers,0,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+31,B.Hall o0.5 rush_td+rec_td,theprophunter0_,New York Jets,B.Hall,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+32,B.Hall o0.5 rush_td+rec_td,Proptology,New York Jets,B.Hall,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+33,T.Conklin u14.5 Longest Reception,PropBetGuy,New York Jets,T.Conklin,San Francisco 49ers,0,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+34,K.Juszczyk o0.5 rush_td+rec_td,charliedisturco,San Francisco 49ers,K.Juszczyk,New York Jets,1,N,0.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+35,G.Wilson o21.5 Longest Reception,Proptology,New York Jets,G.Wilson,San Francisco 49ers,0,N,16.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+37,J.Mason o10.5 Rush Yds,MoneylineHacks,San Francisco 49ers,J.Mason,New York Jets,1,Y,147.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+38,B.Hall o0.5 rush_td+rec_td,FirefighterBets,New York Jets,B.Hall,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+39,A.Lazard o16.5 Rec Yds,FirefighterBets,New York Jets,A.Lazard,San Francisco 49ers,0,Y,89.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+40,D.Samuel o0.5 rush_td+rec_td,moneybadger24_,San Francisco 49ers,D.Samuel,New York Jets,1,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+41,B.Hall o0.5 rush_td+rec_td,rsura_,New York Jets,B.Hall,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+43,D.Samuel u73.5 Rush + Rec Yds,charliedisturco,San Francisco 49ers,D.Samuel,New York Jets,1,N,77.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+44,B.Aiyuk u3.5 Recs,GreenDotDaily,San Francisco 49ers,B.Aiyuk,New York Jets,1,Y,2.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+45,J.Moody o1.5 FGs Made,GreenDotDaily,San Francisco 49ers,J.Moody,New York Jets,1,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+46,D.Samuel o69.5 Rush + Rec Yds,GreenDotDaily,San Francisco 49ers,D.Samuel,New York Jets,1,Y,77.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+47,G.Kittle o0.5 rush_td+rec_td,GreenDotDaily,San Francisco 49ers,G.Kittle,New York Jets,1,N,0.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+48,B.Hall o49.5 Receiving Yds,GreenDotDaily,New York Jets,B.Hall,San Francisco 49ers,0,N,39.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+49,A.Lazard o0.5 rush_td+rec_td,GreenDotDaily,New York Jets,A.Lazard,San Francisco 49ers,0,Y,2.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+50,B.Purdy o0.5 Int,sandyplashkes,San Francisco 49ers,B.Purdy,New York Jets,1,N,0.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+51,A.Lazard o1.5 Recs,cowhitchurch,New York Jets,A.Lazard,San Francisco 49ers,0,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+52,A.Lazard o16.5 Rec Yds,kylemurray03,New York Jets,A.Lazard,San Francisco 49ers,0,Y,89.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+53,T.Conklin o4.5 Recs,Mjaybrxd,New York Jets,T.Conklin,San Francisco 49ers,0,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+54,T.Conklin o5.5 Recs,Mjaybrxd,New York Jets,T.Conklin,San Francisco 49ers,0,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+55,T.Conklin o3.5 Recs,Mjaybrxd,New York Jets,T.Conklin,San Francisco 49ers,0,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+56,A.Lazard o1.5 Recs,kylemurray03,New York Jets,A.Lazard,San Francisco 49ers,0,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+57,J.Moody o1.5 FGs Made,nick_giffen,San Francisco 49ers,J.Moody,New York Jets,1,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+58,B.Aiyuk u3.5 Recs,cowhitchurch,San Francisco 49ers,B.Aiyuk,New York Jets,1,Y,2.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+59,B.Aiyuk u51.5 Rec Yds,cowhitchurch,San Francisco 49ers,B.Aiyuk,New York Jets,1,Y,28.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+60,J.Moody o1.5 FGs Made,cowhitchurch,San Francisco 49ers,J.Moody,New York Jets,1,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+61,B.Aiyuk u3.5 Recs,The_Oddsmaker,San Francisco 49ers,B.Aiyuk,New York Jets,1,Y,2.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+62,T.Conklin o5.5 Recs,RoyalsProps,New York Jets,T.Conklin,San Francisco 49ers,0,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+63,T.Conklin o4.5 Recs,RoyalsProps,New York Jets,T.Conklin,San Francisco 49ers,0,N,1.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+64,G.Wilson o0.5 rush_td+rec_td,gneiffer07,New York Jets,G.Wilson,San Francisco 49ers,0,N,0.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+65,B.Hall o0.5 rush_td+rec_td,gneiffer07,New York Jets,B.Hall,San Francisco 49ers,0,Y,1.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+67,B.Hall o27.5 Rec Yds,FirefighterBets,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+68,A.Rodgers u0.5 Int,sandyplashkes,New York Jets,A.Rodgers,San Francisco 49ers,0,Y,39.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+69,G.Kittle o41.5 Rec Yds,FirefighterBets,San Francisco 49ers,G.Kittle,New York Jets,1,N,40.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+70,A.Rodgers o21.5 Pass Comp,LinesAtLunch,New York Jets,A.Rodgers,San Francisco 49ers,0,N,13.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+71,A.Rodgers o249.5 Pass Yds,LinesAtLunch,New York Jets,A.Rodgers,San Francisco 49ers,0,N,167.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+72,B.Hall o28.5 Rec Yds,LinesAtLunch,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+73,B.Hall o64.5 Rush Yds,LinesAtLunch,New York Jets,B.Hall,San Francisco 49ers,0,N,54.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+74,B.Hall o64.5 Rush Yds,rsura_,New York Jets,B.Hall,San Francisco 49ers,0,N,54.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+75,B.Hall o28.5 Rec Yds,MoneylineHacks,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+76,G.Wilson o70.5 Rec Yds,gamblersdream,New York Jets,G.Wilson,San Francisco 49ers,0,N,60.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+77,B.Hall o28.5 Rec Yds,sandyplashkes,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+78,D.Samuel o60.5 Rush + Rec Yds,charliedisturco,San Francisco 49ers,D.Samuel,New York Jets,1,Y,77.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+79,A.Rodgers u234.5 Pass Yds,KyleJustBets,New York Jets,A.Rodgers,San Francisco 49ers,0,Y,167.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+80,J.Moody o1.5 FGs Made,KyleJustBets,San Francisco 49ers,J.Moody,New York Jets,1,Y,6.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+81,B.Hall o39.5 Receiving Yds,KyleJustBets,New York Jets,B.Hall,San Francisco 49ers,0,N,39.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+82,B.Purdy o7.5 Rush Yds,KyleJustBets,San Francisco 49ers,B.Purdy,New York Jets,1,Y,11.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+83,B.Hall o26.5 Rec Yds,KyleJustBets,New York Jets,B.Hall,San Francisco 49ers,0,Y,39.0,1.0,1,1.0,1,1.0,1,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass
+84,B.Hall o64.5 Rush Yds,kylemurray03,New York Jets,B.Hall,San Francisco 49ers,0,N,54.0,0.0,0,0.0,0,0.0,0,77.0,13.0,66.0,4.0,Clear,Levi's,outdoors,grass

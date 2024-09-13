@@ -1,0 +1,78 @@
+Play,Expert,Odds,Units,Name,Payout,Profit,Team,Opponent,Hmcrt_adv,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface
+J.Hill o7.5 Rec Yds,MikeRandle,-115,1.0,J.Hill,1.869565217391304,0.8695652173913042,Baltimore Ravens,Kansas City Chiefs,0,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice o5.5 Recs,ThePropfessor_,-125,1.25,R.Rice,2.25,1.0,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o2.5 Recs,Markus_Markets,-120,1.0,I.Pacheco,1.8333333333333333,0.8333333333333335,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice o5.5 Recs,chrisgimino_,-130,1.0,R.Rice,1.7692307692307692,0.7692307692307692,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o2.5 Recs,kylemurray03,-120,1.2,I.Pacheco,2.2,1.0000000000000002,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o24.5 Rushing Yds,MJCLocks,180,0.25,P.Mahomes,0.7,0.4499999999999999,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o16.5 Rush Yds,MJCLocks,-115,1.0,P.Mahomes,1.869565217391304,0.8695652173913042,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o16.5 Rush Yds,Markus_Markets,-115,1.0,P.Mahomes,1.869565217391304,0.8695652173913042,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o24.5 Rush Yds,MillyProps,180,0.25,P.Mahomes,0.7,0.4499999999999999,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o16.5 Rush Yds,MillyProps,-115,1.0,P.Mahomes,1.869565217391304,0.8695652173913042,Kansas City Chiefs,Baltimore Ravens,1,82.0,7.0,56.0,34.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o48.5 Rush Yds,gneiffer07,-113,1.13,L.Jackson,2.13,1.0,Baltimore Ravens,Kansas City Chiefs,0,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+T.Kelce o5.5 Recs,PlayerPropSavant,-128,1.28,T.Kelce,2.28,1.0000000000000002,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+T.Kelce o5.5 Recs,KyleJustBets,-145,1.45,T.Kelce,2.45,1.0000000000000002,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o4.5 Recs,kylemurray03,-130,1.3,Z.Flowers,2.3,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice o5.5 Recs,kylemurray03,-125,1.25,R.Rice,2.25,1.0,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,TheBMatt,210,1.0,Z.Flowers,3.1,2.1,Baltimore Ravens,Kansas City Chiefs,0,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,GDAWG5000,210,1.0,Z.Flowers,3.1,2.1,Baltimore Ravens,Kansas City Chiefs,0,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o0.5 rush_td+rec_td,GDAWG5000,110,1.0,I.Pacheco,2.1,1.1,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+P.Mahomes o258.5 passing yards,Neil Parker,100,0.75,P.Mahomes,1.5,0.75,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice o60.5 receiving yards,Neil Parker,100,0.75,R.Rice,1.5,0.75,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+J.Watson o15.5 receiving yards,Neil Parker,100,0.75,J.Watson,1.5,0.75,Kansas City Chiefs,Baltimore Ravens,1,83.0,7.0,53.0,22.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o48.5 Rush Yds,charliedisturco,-110,1.1,L.Jackson,2.1,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+J.Hill o9.5 Rec Yds,PropBomb,-110,1.1,J.Hill,2.1,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,rsura_,-125,1.25,D.Henry,2.25,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o2.5 Recs,TopShelfAction,-110,1.0,I.Pacheco,1.9090909090909087,0.9090909090909092,Kansas City Chiefs,Baltimore Ravens,1,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+J.Hill o9.5 Rec Yds,PropBetGuy,-113,1.13,J.Hill,2.13,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o75.5 Rush + Rec Yds,charliedisturco,-113,1.13,I.Pacheco,2.13,1.0,Kansas City Chiefs,Baltimore Ravens,1,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Bateman o49.5 Receiving Yds,RoyalsProps,275,0.3,R.Bateman,1.125,0.825,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Bateman o27.5 Rec Yds,RoyalsProps,-114,1.14,R.Bateman,2.14,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Bateman o39.5 Receiving Yds,RoyalsProps,175,0.5,R.Bateman,1.375,0.875,Baltimore Ravens,Kansas City Chiefs,0,85.0,7.0,51.0,26.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,theprophunter0_,-105,1.05,D.Henry,2.05,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,MoneylineHacks,-125,1.0,D.Henry,1.8,0.8,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o49.5 Rush Yds,MoneylineHacks,-115,2.0,L.Jackson,3.739130434782608,1.7391304347826084,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Bateman o2.5 Receptions Yds,theprophunter0_,-125,1.25,R.Bateman,2.25,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o0.5 rush_td+rec_td,theprophunter0_,110,0.5,I.Pacheco,1.05,0.55,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,theprophunter0_,205,0.5,Z.Flowers,1.525,1.025,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o8.5 Rush Att,sandyplashkes,-116,1.16,L.Jackson,2.16,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,GreenDotDaily,-105,1.0,L.Jackson,1.9523809523809523,0.9523809523809524,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o77.5 Rush + Rec Yds,GreenDotDaily,-115,1.0,I.Pacheco,1.869565217391304,0.8695652173913042,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,GreenDotDaily,210,0.5,Z.Flowers,1.55,1.05,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o0.5 rush_td+rec_td,GreenDotDaily,-110,1.0,I.Pacheco,1.9090909090909087,0.9090909090909092,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o55.5 Rush Yds,GreenDotDaily,130,0.5,L.Jackson,1.15,0.6499999999999999,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+N.Agholor o24.5 Receiving Yds,GreenDotDaily,165,1.0,N.Agholor,2.65,1.65,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+M.Andrews u4.5 Recs,GreenDotDaily,-125,1.0,M.Andrews,1.8,0.8,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+X.Worthy o39.5 Receiving Yds,JBBets1,-144,1.0,X.Worthy,1.6944444444444444,0.6944444444444444,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,JBBets1,-125,1.0,D.Henry,1.8,0.8,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,HPBasketball,-105,1.05,L.Jackson,2.05,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o77.5 Rush + Rec Yds,cowhitchurch,-115,0.58,I.Pacheco,1.0843478260869563,0.5043478260869564,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o0.5 rush_td+rec_td,cowhitchurch,115,0.25,I.Pacheco,0.5375,0.2875,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,cowhitchurch,210,0.25,Z.Flowers,0.775,0.525,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,Stuckey2,100,0.2,L.Jackson,0.4,0.2,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,cowhitchurch,107,1.0,L.Jackson,2.0700000000000003,1.0700000000000005,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,GDAWG5000,-105,0.53,L.Jackson,1.0347619047619048,0.5047619047619047,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,AnthonyDabbundo,100,1.0,L.Jackson,2.0,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,The_Oddsmaker,-105,1.05,L.Jackson,2.05,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o2.5 Recs,CroweRadio,-120,0.3,I.Pacheco,0.55,0.25,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o49.5 Rush Yds,moneybadger24_,-115,1.15,L.Jackson,2.1499999999999995,0.9999999999999996,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,moneybadger24_,-125,1.25,D.Henry,2.25,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+X.Worthy o21.5 Longest Reception,Mjaybrxd,-110,1.0,X.Worthy,1.9090909090909087,0.9090909090909092,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u30.5 Pass Att,LinesAtLunch,-114,1.14,L.Jackson,2.14,0.9999999999999998,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+T.Kelce o5.5 Recs,LinesAtLunch,-120,1.2,T.Kelce,2.2,1.0000000000000002,Kansas City Chiefs,Baltimore Ravens,1,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,LinesAtLunch,-125,1.25,D.Henry,2.25,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+J.Hill o9.5 Rec Yds,ThePropfessor_,-110,1.1,J.Hill,2.1,1.0,Baltimore Ravens,Kansas City Chiefs,0,85.0,6.0,49.0,21.0,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o31.5 Pass Att,KyleJustBets,-105,0.5,L.Jackson,0.9761904761904762,0.4761904761904761,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+C.Steele o0.5 rush_td+rec_td,HPBasketball,850,0.2,C.Steele,1.9,1.7000000000000002,Kansas City Chiefs,Baltimore Ravens,1,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+N.Gray o0.5 rush_td+rec_td,HPBasketball,1000,0.2,N.Gray,2.2,2.0,Kansas City Chiefs,Baltimore Ravens,1,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Bateman o28.5 Rec Yds,Mjaybrxd,-120,0.5,R.Bateman,0.9166666666666669,0.4166666666666667,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+Z.Flowers o0.5 rush_td+rec_td,charliedisturco,220,0.2,Z.Flowers,0.6400000000000001,0.4400000000000001,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson u19.5 Pass Comp,rsura_,-120,1.2,L.Jackson,2.2,1.0000000000000002,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Pacheco o0.5 rush_td+rec_td,charliedisturco,130,0.2,I.Pacheco,0.4599999999999999,0.2599999999999999,Kansas City Chiefs,Baltimore Ravens,1,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice u21.5 longest reception yards,Jared Hochman,100,0.75,['R.Rice'],1.5,0.75,Kansas City Chiefs,Baltimore Ravens,1,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+L.Jackson o0.5 rush_td+rec_td,BetWhatHappensLive,425,0.25,L.Jackson,1.3125,1.0625,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+I.Likely o0.5 rush_td+rec_td,BetWhatHappensLive,900,2.25,I.Likely,22.5,20.25,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+N.Agholor o0.5 rush_td+rec_td,nick_giffen,850,0.2,N.Agholor,1.9,1.7000000000000002,Baltimore Ravens,Kansas City Chiefs,0,84.0,6.0,49.0,21.0,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+J.Hill o7.5 Rec Yds,FirefighterBets,-115,0.87,J.Hill,1.6265217391304347,0.7565217391304347,Baltimore Ravens,Kansas City Chiefs,0,84,6,49,21,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+D.Henry o0.5 rush_td+rec_td,FirefighterBets,-110,0.91,D.Henry,1.7372727272727273,0.8272727272727273,Baltimore Ravens,Kansas City Chiefs,0,84,6,49,21,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass
+R.Rice u65.5 receiving yards,Rotowire Prizepicks,100,1.5,R.Rice,3.0,1.5,Kansas City Chiefs,Baltimore Ravens,1,84,6,49,21,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass

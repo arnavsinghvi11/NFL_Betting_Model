@@ -1,0 +1,63 @@
+Play,Expert,Odds,Units,Name,Payout,Profit,Team,Opponent,Hmcrt_adv,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface
+J.Jacobs o15.5 Rec Yds,Markus_Markets,-120,1.0,J.Jacobs,1.8333333333333333,0.8333333333333335,Green Bay Packers,Philadelphia Eagles,0,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o15.5 Rec Yds,chrisgimino_,-115,1.0,S.Barkley,1.869565217391304,0.8695652173913042,Philadelphia Eagles,Green Bay Packers,1,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o2.5 Recs,JoeDellera,-110,1.0,S.Barkley,1.9090909090909087,0.9090909090909092,Philadelphia Eagles,Green Bay Packers,1,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,sandyplashkes,-114,1.14,C.Watson,2.14,0.9999999999999998,Green Bay Packers,Philadelphia Eagles,0,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Love o22.5 Pass Comp,PlayerPropSavant,-115,1.73,J.Love,3.2343478260869563,1.5043478260869565,Green Bay Packers,Philadelphia Eagles,0,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o0.5 rush_td+rec_td,GDAWG5000,220,1.0,C.Watson,3.2,2.2,Green Bay Packers,Philadelphia Eagles,0,56.0,12.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Hurts o7.5 Rush Att,PropBetGuy,-128,1.28,J.Hurts,2.28,1.0000000000000002,Philadelphia Eagles,Green Bay Packers,1,56.0,7.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o0.5 rush_td+rec_td,Bettingyoda,-110,1.0,S.Barkley,1.9090909090909087,0.9090909090909092,Philadelphia Eagles,Green Bay Packers,1,56.0,7.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Jacobs o0.5 rush_td+rec_td,Bettingyoda,112,1.0,J.Jacobs,2.12,1.12,Green Bay Packers,Philadelphia Eagles,0,56.0,7.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Love o256.5 pass yards,Jared Hochman,100,0.75,['J.Love'],1.5,0.75,Green Bay Packers,Philadelphia Eagles,0,56.0,7.0,97.0,0.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o18.5 Longest Reception,Brinson,-120,1.2,C.Watson,2.2,1.0000000000000002,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o82.5 Rush + Rec Yds,Markus_Markets,-115,1.0,S.Barkley,1.869565217391304,0.8695652173913042,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o82.5 Rush + Rec Yds,charliedisturco,-115,1.15,S.Barkley,2.1499999999999995,0.9999999999999996,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o15.5 Rec Yds,kylemurray03,-115,1.13,S.Barkley,2.112608695652173,0.9826086956521736,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o3.5 Recs,kylemurray03,125,1.0,C.Watson,2.25,1.25,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,kylemurray03,-115,1.13,C.Watson,2.112608695652173,0.9826086956521736,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+A.Brown o69.5 Rec Yds,charliedisturco,-115,1.15,A.Brown,2.1499999999999995,0.9999999999999996,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o49.5 Rec Yds,charliedisturco,160,0.25,C.Watson,0.65,0.4,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o37.5 Rec Yds,charliedisturco,-113,0.73,C.Watson,1.3760176991150443,0.6460176991150444,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,MikeRandle,-115,1.0,C.Watson,1.869565217391304,0.8695652173913042,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Love o7.5 Rush Yds,cowhitchurch,-118,0.59,J.Love,1.09,0.4999999999999999,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o64.5 Rush Yds,LinesAtLunch,-113,1.13,S.Barkley,2.13,1.0,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,LinesAtLunch,-114,1.14,C.Watson,2.14,0.9999999999999998,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Reed o0.5 rush_td+rec_td,cowhitchurch,210,0.5,J.Reed,1.55,1.05,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o0.5 rush_td+rec_td,cowhitchurch,210,0.5,C.Watson,1.55,1.05,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+D.Goedert o0.5 rush_td+rec_td,cowhitchurch,250,0.5,D.Goedert,1.75,1.25,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+D.Goedert o0.5 rush_td+rec_td,GDAWG5000,260,1.0,D.Goedert,3.6,2.6,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Hurts o35.5 Longest Completion,Mjaybrxd,-115,1.0,J.Hurts,1.869565217391304,0.8695652173913042,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o0.5 rush_td+rec_td,sandyplashkes,200,1.0,C.Watson,3.0,2.0,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+S.Barkley o82.5 Rush + Rec Yds,cowhitchurch,-115,0.58,S.Barkley,1.0843478260869563,0.5043478260869564,Philadelphia Eagles,Green Bay Packers,1,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,cowhitchurch,-110,0.55,C.Watson,1.05,0.5,Green Bay Packers,Philadelphia Eagles,0,61.0,8.0,91.0,8.0,Partly Cloudy,Corinthians,outdoors,grass
+J.Dotson o0.5 rush_td+rec_td,GDAWG5000,700,0.2,J.Dotson,1.6,1.4,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Dotson o0.5 rush_td+rec_td,nick_giffen,700,0.2,J.Dotson,1.6,1.4,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Reed o43.5 Rec Yds,Proptology,-115,1.0,J.Reed,1.869565217391304,0.8695652173913042,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+D.Smith o59.5 Rec Yds,Proptology,-110,2.0,D.Smith,3.8181818181818175,1.8181818181818183,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Jacobs o0.5 rush_td+rec_td,Proptology,-110,1.1,J.Jacobs,2.1,1.0,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Dotson o15.5 Rec Yds,theprophunter0_,-120,1.2,J.Dotson,2.2,1.0000000000000002,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+S.Barkley o0.5 rush_td+rec_td,theprophunter0_,-105,1.0,S.Barkley,1.9523809523809523,0.9523809523809524,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+L.Musgrave o24.5 Rec Yds,Markus_Markets,-110,1.0,L.Musgrave,1.9090909090909087,0.9090909090909092,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+L.Musgrave o2.5 Recs,PropBomb,-130,1.3,L.Musgrave,2.3,0.9999999999999998,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+S.Barkley o16.5 Rec Yds,JBBets1,-110,0.91,S.Barkley,1.7372727272727273,0.8272727272727273,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Hurts o12.5 Longest Rush,cowhitchurch,-110,0.55,J.Hurts,1.05,0.5,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Hurts o0.5 Int,nick_giffen,102,1.02,J.Hurts,2.0604,1.0404,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Hurts o0.5 Int,GDAWG5000,102,1.02,J.Hurts,2.0604,1.0404,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+S.Barkley o19.5 Longest Reception,JoeDellera,850,0.2,S.Barkley,1.9,1.7000000000000002,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+C.Watson o74.5 Receiving Yds,charliedisturco,425,0.1,C.Watson,0.525,0.425,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Jacobs o17.5 Rec Yds,PropBetGuy,-115,1.0,J.Jacobs,1.869565217391304,0.8695652173913042,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Love o249.5 Passing Yds,JBBets1,-120,0.83,J.Love,1.5216666666666667,0.6916666666666668,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Reed o39.5 Receiving Yds,JBBets1,-124,0.81,J.Reed,1.463225806451613,0.653225806451613,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+S.Barkley o0.5 rush_td+rec_td,JBBets1,-105,0.95,S.Barkley,1.8547619047619048,0.9047619047619048,Philadelphia Eagles,Green Bay Packers,1,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+C.Watson o38.5 Rec Yds,gneiffer07,-115,1.15,C.Watson,2.1499999999999995,0.9999999999999996,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Love o254.5 Pass Yds,gneiffer07,-110,1.0,J.Love,1.9090909090909087,0.9090909090909092,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Love o257.5 Pass Yds,moneybadger24_,-115,1.0,J.Love,1.869565217391304,0.8695652173913042,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Reed o0.5 rush_td+rec_td,GreenDotDaily,210,2.1,J.Reed,6.510000000000001,4.41,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+C.Watson o0.5 rush_td+rec_td,GreenDotDaily,210,2.1,C.Watson,6.510000000000001,4.41,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Reed o45.5 Rush + Rec Yds,The_Oddsmaker,-115,1.0,J.Reed,1.869565217391304,0.8695652173913042,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+C.Watson o0.5 rush_td+rec_td,nick_giffen,210,2.1,C.Watson,6.510000000000001,4.41,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+J.Reed o0.5 rush_td+rec_td,nick_giffen,210,2.1,J.Reed,6.510000000000001,4.41,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+C.Watson o39.5 Rec Yds,rsura_,-110,1.1,C.Watson,2.1,1.0,Green Bay Packers,Philadelphia Eagles,0,63.0,7.0,86.0,0.0,Mostly Cloudy,Corinthians,outdoors,grass
+L.Musgrave o24.5 Rec Yds,FirefighterBets,-120,1.0,L.Musgrave,1.8333333333333335,0.8333333333333335,Green Bay Packers,Philadelphia Eagles,0,63,7,86,0,Mostly Cloudy,Corinthians,outdoors,grass
+S.Barkley o0.5 rush_td+rec_td,FirefighterBets,-110,0.91,S.Barkley,1.7372727272727273,0.8272727272727273,Philadelphia Eagles,Green Bay Packers,1,63,7,86,0,Mostly Cloudy,Corinthians,outdoors,grass
+D.Smith o4.5 Recs,FirefighterBets,-135,0.74,D.Smith,1.288148148148148,0.548148148148148,Philadelphia Eagles,Green Bay Packers,1,63,7,86,0,Mostly Cloudy,Corinthians,outdoors,grass
