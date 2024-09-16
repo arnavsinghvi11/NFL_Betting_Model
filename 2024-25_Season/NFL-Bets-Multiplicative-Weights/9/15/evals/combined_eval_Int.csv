@@ -1,0 +1,5 @@
+,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,B.Nix o0.5 Int,MJCLocks,b.nix,Y,2.0,Denver Broncos,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
+1,J.Goff o0.5 Int,cowhitchurch,j.goff,Y,2.0,Detroit Lions,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,82,7,50,2,Clear,Ford Field,indoors,turf,116,0.5,1.08,0.5800000000000001
+2,J.Goff o0.5 Int,GDAWG5000,j.goff,Y,2.0,Detroit Lions,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,82,7,50,2,Clear,Ford Field,indoors,turf,115,0.5,1.075,0.575
+3,D.Watson o1.5 Int,moneybadger24_,d.watson,N,0.0,Cleveland Browns,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,80,11,77,27,Overcast,TIAA Bank,outdoors,grass,175,1.0,2.75,1.75
