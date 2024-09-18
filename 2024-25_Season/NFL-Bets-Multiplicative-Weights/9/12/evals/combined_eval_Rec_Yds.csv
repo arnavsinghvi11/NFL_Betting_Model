@@ -1,15 +1,22 @@
 ,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 0,K.Shakir o39.5 Rec Yds,MillyProps,K.Shakir,Y,54.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
-1,K.Shakir o39.5 Rec Yds,FirefighterBets,k.shakir,Y,54.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
-2,J.Waddle u65.5 Rec Yds,boomerslocks,j.waddle,Y,41.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,84,5,80,18,Rain,Hard Rock,outdoors,grass,-102,1.0,1.9803921568627447,0.9803921568627452
-3,T.Hill u94.5 Rec Yds,PropBomb,t.hill,Y,24.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-4,C.Samuel u18.5 Rec Yds,The_Oddsmaker,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-5,C.Samuel u18.5 Rec Yds,GreenDotDaily,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
-6,C.Samuel u18.5 Rec Yds,charliedisturco,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-7,C.Samuel u18.5 Rec Yds,cowhitchurch,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-8,C.Samuel u18.5 Rec Yds,boomerslocks,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546
-9,J.Cook o17.5 Rec Yds,kylemurray03,j.cook,N,17.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-135,1.0,1.7407407407407407,0.7407407407407407
-10,T.Hill o98.5 Rec Yds,sandyplashkes,T.Hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-112,1.12,2.12,1.0
-11,T.Hill o99.5 Rec Yds,rsura_,T.Hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-104,1.04,2.04,1.0
-12,T.Hill o91.5 receiving yards,Rotowire Sleeper,t.hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.5,3.0,1.5
-13,T.Hill o119.5 Rec Yds,rsura_,t.hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,205,0.5,1.525,1.025
+1,T.Hill o98.5 Rec Yds,sandyplashkes,T.Hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-112,1.12,2.12,1.0
+2,T.Hill o99.5 Rec Yds,rsura_,T.Hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-104,1.04,2.04,1.0
+3,K.Shakir o39.5 Rec Yds,FirefighterBets,k.shakir,Y,54.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
+4,J.Waddle o63.5 Rec Yds,cowhitchurch,j.waddle,N,41.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,0.58,1.0843478260869563,0.5043478260869564
+5,J.Waddle o64.5 Rec Yds,PropBetGuy,j.waddle,N,41.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
+6,J.Waddle o63.5 Rec Yds,charliedisturco,j.waddle,N,41.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+7,K.Coleman o43.5 Rec Yds,chrisgimino_,k.coleman,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-116,1.0,1.862068965517241,0.8620689655172413
+8,K.Coleman o42.5 Rec Yds,kylemurray03,k.coleman,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-113,1.13,2.13,1.0
+9,C.Samuel u18.5 Rec Yds,The_Oddsmaker,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
+10,C.Samuel u18.5 Rec Yds,GreenDotDaily,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+11,J.Waddle o69.5 Receiving Yards,GreenDotDaily,j.waddle,N,41.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,160,1.0,2.6,1.6
+12,C.Samuel u18.5 Rec Yds,charliedisturco,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
+13,C.Samuel u18.5 Rec Yds,cowhitchurch,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
+14,T.Hill o91.5 receiving yards,Rotowire Sleeper,t.hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.5,3.0,1.5
+15,C.Samuel u18.5 Rec Yds,boomerslocks,c.samuel,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546
+16,T.Hill o119.5 Rec Yds,rsura_,t.hill,N,24.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,205,0.5,1.525,1.025
+17,J.Cook o17.5 Rec Yds,kylemurray03,j.cook,N,17.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-135,1.0,1.7407407407407407,0.7407407407407407
+18,K.Coleman o44.5 Rec Yds,gamblersdream,k.coleman,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,87,3,82,24,Clear,Hard Rock,outdoors,grass,-120,1.2,2.2,1.0000000000000002
+19,J.Waddle u65.5 Rec Yds,boomerslocks,j.waddle,Y,41.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,84,5,80,18,Rain,Hard Rock,outdoors,grass,-102,1.0,1.9803921568627447,0.9803921568627452
+20,T.Hill u94.5 Rec Yds,PropBomb,t.hill,Y,24.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0

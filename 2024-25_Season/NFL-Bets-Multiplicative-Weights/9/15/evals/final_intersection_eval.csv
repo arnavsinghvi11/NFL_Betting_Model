@@ -1,11 +1,10 @@
 Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
-D.Samuel u5.5 Rush Att,cowhitchurch,-130,0.65,1.15,San Francisco 49ers,d.samuel,Minnesota Vikings,0.0,0.4999999999999999,Y,0.0,0,0.0,0,0.0,0
-D.Samuel u5.5 Rush Att,nick_giffen,-130,1.3,2.3,San Francisco 49ers,d.samuel,Minnesota Vikings,0.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
+N.Harris o14.5 Rush Att,PropBetGuy,-105,1.05,2.05,Pittsburgh Steelers,n.harris,Denver Broncos,0.0,0.9999999999999998,Y,1.0,1,1.0,1,1.0,1
+N.Harris o14.5 Rush Att,ThePropfessor_,-130,1.3,2.3,Pittsburgh Steelers,n.harris,Denver Broncos,0.0,0.9999999999999998,Y,1.0,1,1.0,1,1.0,1
 C.Hubbard u14.5 Rush Att,MoneylineHacks,-120,1.0,1.8333333333333333,Carolina Panthers,c.hubbard,Los Angeles Chargers,1.0,0.8333333333333335,Y,1.0,1,1.0,1,1.0,1
-Z.Moss u12.5 Rush Att,cowhitchurch,-114,0.5,0.9385964912280702,Cincinnati Bengals,z.moss,Kansas City Chiefs,0.0,0.4385964912280702,Y,1.0,1,1.0,1,1.0,1
-Z.Moss u12.5 Rush Att,The_Oddsmaker,-114,1.0,1.8771929824561404,Cincinnati Bengals,z.moss,Kansas City Chiefs,0.0,0.8771929824561404,Y,1.0,1,1.0,1,1.0,1
+G.Smith u245.5 passing + rushing yards,Rotowire Prizepicks,100,1.5,3.0,Seattle Seahawks,g.smith,New England Patriots,0.0,1.5,N,1.0,1,1.0,1,1.0,1
+J.Dobbins o14.5 Longest Rush,KyleJustBets,-110,1.0,1.9090909090909087,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,0.9090909090909092,Y,1.0,1,1.0,1,1.0,1
 C.Stroud u34.5 pass attempts,Rohit Ponnaiya,100,0.75,1.5,Houston Texans,c.stroud,Chicago Bears,1.0,0.75,N,1.0,1,1.0,1,1.0,1
-L.Jackson u28.5 Pass Att,Theotherbabs,100,1.0,2.0,Baltimore Ravens,l.jackson,Las Vegas Raiders,1.0,1.0,N,0.0,0,0.0,0,0.0,0
 B.Young u192.5 passing yards,Rotowire Prizepicks,100,1.5,3.0,Carolina Panthers,b.young,Los Angeles Chargers,1.0,1.5,Y,1.0,1,1.0,1,1.0,1
 B.Young u191.5 passing yards,Rotowire Prizepicks,100,1.5,3.0,Carolina Panthers,b.young,Los Angeles Chargers,1.0,1.5,Y,1.0,1,1.0,1,1.0,1
 A.Richardson u201.5 passing yards,Rotowire Prizepicks,100,1.5,3.0,Indianapolis Colts,a.richardson,Green Bay Packers,0.0,1.5,N,0.0,0,0.0,0,0.0,0
@@ -13,11 +12,12 @@ J.Burrow u235.5 passing yards,Rob Paul,100,0.75,1.5,Cincinnati Bengals,j.burrow,
 C.Williams u215.5 passing yards,Rohit Ponnaiya,100,0.75,1.5,Chicago Bears,c.williams,Houston Texans,0.0,0.75,Y,1.0,1,1.0,1,1.0,1
 M.Evans u70.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Tampa Bay Buccaneers,M.Evans,Detroit Lions,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
 J.Smith-njigba u44.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Seattle Seahawks,j.smith-njigba,New England Patriots,0.0,1.5,N,1.0,1,1.0,1,1.0,1
-R.White u26.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Tampa Bay Buccaneers,r.white,Detroit Lions,0.0,1.5,Y,0.0,0,0.0,0,0.0,0
+Q.Johnston u33.5 Rec Yds,chrisgimino_,-117,1.0,1.8547008547008548,Los Angeles Chargers,q.johnston,Carolina Panthers,0.0,0.8547008547008548,N,0.0,0,0.0,0,0.0,0
 L.Mcconkey u46.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
 L.Mcconkey u45.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
 J.McMillan u30.5 Rec Yds,kylemurray03,-111,1.11,2.1100000000000003,Tampa Bay Buccaneers,j.mcmillan,Detroit Lions,0.0,1.0000000000000002,Y,0.0,0,0.0,0,0.0,0
 M.Evans u72.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
+T.Johnson u35.5 Rec Yds,kylemurray03,-114,1.14,2.14,Los Angeles Rams,t.johnson,Arizona Cardinals,0.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
 J.Nailor u32.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Minnesota Vikings,j.nailor,San Francisco 49ers,1.0,1.5,N,1.0,1,1.0,1,1.0,1
 A.Lazard u37.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,New York Jets,a.lazard,Tennessee Titans,0.0,1.5,Y,0.0,0,0.0,0,0.0,0
 B.Cooks u47.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Dallas Cowboys,b.cooks,New Orleans Saints,1.0,1.5,Y,1.0,1,1.0,1,1.0,1
@@ -27,6 +27,13 @@ A.Iosivas u40.5 receiving yards,Rotowire Prizepicks,100,1.5,3.0,Cincinnati Benga
 A.Gibson u10.5 Rec Yds,MoneylineHacks,-121,1.0,1.826446280991736,New England Patriots,a.gibson,Seattle Seahawks,1.0,0.8264462809917354,Y,0.0,0,0.0,0,0.0,0
 R.Odunze u38.5 Rec Yds,MoneylineHacks,-110,2.0,3.8181818181818175,Chicago Bears,r.odunze,Houston Texans,0.0,1.8181818181818183,Y,1.0,1,1.0,1,1.0,1
 J.Palmer u36.5 Rec Yds,Theotherbabs,-110,1.0,1.9090909090909087,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,0.9090909090909092,Y,1.0,1,1.0,1,1.0,1
+M.Evans o0.5 rush_td+rec_td,gneiffer07,125,1.0,2.25,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.25,N,1.0,1,1.0,1,1.0,1
+J.Dobbins o0.5 rush_td+rec_td,gneiffer07,160,0.87,2.262,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.392,Y,1.0,1,1.0,1,1.0,1
+J.Dobbins o0.5 rush_td+rec_td,Proptology,150,1.0,2.5,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
+B.Robinson o0.5 rush_td+rec_td,JBBets1,145,1.0,2.45,Washington Commanders,b.robinson,New York Giants,1.0,1.4500000000000002,N,1.0,1,1.0,1,1.0,1
+I.Pacheco o0.5 rush_td+rec_td,JBBets1,-130,1.0,1.7692307692307692,Kansas City Chiefs,i.pacheco,Cincinnati Bengals,1.0,0.7692307692307692,N,1.0,1,1.0,1,1.0,1
+J.Dobbins o0.5 rush_td+rec_td,theprophunter0_,115,1.0,2.15,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.15,Y,1.0,1,1.0,1,1.0,1
+J.Mixon o0.5 rush_td+rec_td,moneybadger24_,-130,1.3,2.3,Houston Texans,j.mixon,Chicago Bears,1.0,0.9999999999999998,N,1.0,1,1.0,1,1.0,1
 G.Dulcich u2.5 Recs,kylemurray03,-120,1.2,2.2,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0000000000000002,N,1.0,1,1.0,1,1.0,1
 I.Likely u3.5 Recs,cowhitchurch,-114,1.14,2.14,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
 I.Likely u3.5 Recs,The_Oddsmaker,-114,1.14,2.14,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
@@ -40,8 +47,16 @@ R.Odunze u3.5 Recs,MoneylineHacks,-140,1.0,1.7142857142857144,Chicago Bears,r.od
 R.Odunze u3.5 Recs,charliedisturco,-120,1.2,2.2,Chicago Bears,r.odunze,Houston Texans,0.0,1.0000000000000002,Y,1.0,1,1.0,1,1.0,1
 R.Odunze u3.5 Recs,cowhitchurch,125,0.5,1.125,Chicago Bears,r.odunze,Houston Texans,0.0,0.625,Y,1.0,1,1.0,1,1.0,1
 R.Odunze u3.5 Recs,The_Oddsmaker,-120,1.2,2.2,Chicago Bears,r.odunze,Houston Texans,0.0,1.0000000000000002,Y,1.0,1,1.0,1,1.0,1
-C.Hubbard u47.5 Rush Yds,kylemurray03,-115,1.15,2.1499999999999995,Carolina Panthers,c.hubbard,Los Angeles Chargers,1.0,0.9999999999999996,N,1.0,1,1.0,1,1.0,1
 J.Mixon o66.5 Rush Yds,TheBMatt,-115,1.15,2.1499999999999995,Houston Texans,J.Mixon,Chicago Bears,1.0,0.9999999999999996,N,1.0,1,1.0,1,1.0,1
+A.Kamara o46.5 rushing yards,Rotowire Sleeper,100,1.5,3.0,New Orleans Saints,a.kamara,Dallas Cowboys,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
+C.Hubbard u47.5 Rush Yds,kylemurray03,-115,1.15,2.1499999999999995,Carolina Panthers,c.hubbard,Los Angeles Chargers,1.0,0.9999999999999996,N,1.0,1,1.0,1,1.0,1
+L.Jackson o48.5 Rush Yds,gneiffer07,-113,1.13,2.13,Baltimore Ravens,l.jackson,Las Vegas Raiders,1.0,1.0,N,1.0,1,1.0,1,1.0,1
 G.Minshew u7.5 Rush Yds,gneiffer07,-114,1.14,2.14,Las Vegas Raiders,g.minshew,Baltimore Ravens,0.0,0.9999999999999998,Y,1.0,1,1.0,1,1.0,1
 J.Mixon o69.5 Rush Yds,Theotherbabs,-125,1.0,1.8,Houston Texans,j.mixon,Chicago Bears,1.0,0.8,N,1.0,1,1.0,1,1.0,1
+Z.White o39.5 rushing yards,Rotowire Prizepicks,100,1.5,3.0,Las Vegas Raiders,z.white,Baltimore Ravens,0.0,1.5,N,1.0,1,1.0,1,1.0,1
+J.Fields o39.5 Rush Yds,rsura_,-117,1.17,2.17,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,1.0,N,1.0,1,1.0,1,1.0,1
+J.Fields o37.5 rushing yards,Rotowire Sleeper,100,1.5,3.0,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,1.5,N,1.0,1,1.0,1,1.0,1
+Z.White o39.5 rushing yards,Rotowire Sleeper,100,1.5,3.0,Las Vegas Raiders,z.white,Baltimore Ravens,0.0,1.5,N,1.0,1,1.0,1,1.0,1
+J.Fields o40.5 rushing yards,Rotowire Sleeper,100,1.5,3.0,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,1.5,N,1.0,1,1.0,1,1.0,1
 J.Mixon o66.5 Rush Yds,FirefighterBets,-115,1.0,1.869565217391304,Houston Texans,j.mixon,Chicago Bears,1.0,0.8695652173913042,N,1.0,1,1.0,1,1.0,1
+J.Goff o0.5 Rush Yds,MoneylineHacks,-115,1.0,1.869565217391304,Detroit Lions,j.goff,Tampa Bay Buccaneers,1.0,0.8695652173913042,Y,1.0,1,1.0,1,1.0,1

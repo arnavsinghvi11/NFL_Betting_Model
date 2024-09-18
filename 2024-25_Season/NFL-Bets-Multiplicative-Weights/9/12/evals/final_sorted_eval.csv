@@ -1,5 +1,6 @@
 Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
 J.Allen u33.5 pass attempts,Rohit Ponnaiya,100,0.75,1.5,Buffalo Bills,j.allen,Miami Dolphins,0.0,0.75,Y,1.0,1,1.0,1,1.0,1
+T.Tagovailoa o264.5 passing yards,Rohit Ponnaiya,100,0.75,1.5,Miami Dolphins,t.tagovailoa,Buffalo Bills,1.0,0.75,N,1.0,1,1.0,1,1.0,1
 K.Shakir o39.5 Rec Yds,MillyProps,-110,1.0,1.9090909090909087,Buffalo Bills,K.Shakir,Miami Dolphins,0.0,0.9090909090909092,Y,1.0,1,1.0,1,1.0,1
 K.Shakir o39.5 Rec Yds,FirefighterBets,-110,1.0,1.9090909090909087,Buffalo Bills,k.shakir,Miami Dolphins,0.0,0.9090909090909092,Y,1.0,1,1.0,1,1.0,1
 C.Samuel u18.5 Rec Yds,The_Oddsmaker,-110,1.1,2.1,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,Y,1.0,1,1.0,1,1.0,1
@@ -10,7 +11,19 @@ C.Samuel u18.5 Rec Yds,boomerslocks,-110,0.5,0.9545454545454546,Buffalo Bills,c.
 J.Cook o17.5 Rec Yds,kylemurray03,-135,1.0,1.7407407407407407,Buffalo Bills,j.cook,Miami Dolphins,0.0,0.7407407407407407,N,1.0,1,1.0,1,1.0,1
 D.Achane o0.5 rush_td+rec_td,Brinson,100,1.0,2.0,Miami Dolphins,D.Achane,Buffalo Bills,1.0,1.0,Y,1.0,1,1.0,1,1.0,1
 D.Achane o0.5 rush_td+rec_td,gneiffer07,-115,1.15,2.1499999999999995,Miami Dolphins,d.achane,Buffalo Bills,1.0,0.9999999999999996,Y,1.0,1,1.0,1,1.0,1
-K.Shakir u3.5 Recs,MoneylineHacks,-115,1.0,1.869565217391304,Buffalo Bills,k.shakir,Miami Dolphins,0.0,0.8695652173913042,N,1.0,1,1.0,1,1.0,1
+T.Hill o0.5 rush_td+rec_td,gneiffer07,-110,1.1,2.1,Miami Dolphins,t.hill,Buffalo Bills,1.0,1.0,N,1.0,1,1.0,1,1.0,1
+M.Hollins o0.5 rush_td+rec_td,GDAWG5000,600,0.5,3.5,Buffalo Bills,M.Hollins,Miami Dolphins,0.0,3.0,N,1.0,1,1.0,1,1.0,1
+K.Coleman o3.5 Recs,FirefighterBets,-120,1.0,1.8333333333333333,Buffalo Bills,k.coleman,Miami Dolphins,0.0,0.8333333333333335,N,1.0,1,1.0,1,1.0,1
+T.Hill o6.5 Recs,Markus_Markets,-130,1.0,1.7692307692307692,Miami Dolphins,t.hill,Buffalo Bills,1.0,0.7692307692307692,N,1.0,1,1.0,1,1.0,1
+J.Waddle o4.5 Recs,kylemurray03,-135,1.35,2.35,Miami Dolphins,j.waddle,Buffalo Bills,1.0,1.0,N,1.0,1,1.0,1,1.0,1
+K.Coleman o3.5 Recs,Bettingyoda,-125,1.0,1.8,Buffalo Bills,k.coleman,Miami Dolphins,0.0,0.8,N,1.0,1,1.0,1,1.0,1
+J.Cook o83.5 Rush + Rec Yds,charliedisturco,-114,1.14,2.14,Buffalo Bills,J.Cook,Miami Dolphins,0.0,0.9999999999999998,Y,1.0,1,1.0,1,1.0,1
+J.Cook o81.5 Rush + Rec Yds,GreenDotDaily,-119,1.0,1.8403361344537816,Buffalo Bills,j.cook,Miami Dolphins,0.0,0.8403361344537816,Y,1.0,1,1.0,1,1.0,1
+J.Cook o80.5 Rush + Rec Yds,cowhitchurch,-115,0.58,1.0843478260869563,Buffalo Bills,j.cook,Miami Dolphins,0.0,0.5043478260869564,Y,1.0,1,1.0,1,1.0,1
 T.Tagovailoa o4.5 Rush Yds,Proptology,-115,2.3,4.299999999999999,Miami Dolphins,T.Tagovailoa,Buffalo Bills,1.0,1.9999999999999991,Y,1.0,1,1.0,1,1.0,1
+J.Allen o37.5 Rush Yds,sandyplashkes,-116,1.16,2.16,Buffalo Bills,j.allen,Miami Dolphins,0.0,0.9999999999999998,N,1.0,1,1.0,1,1.0,1
+J.Allen o37.5 Rush Yds,chrisgimino_,-111,1.0,1.900900900900901,Buffalo Bills,j.allen,Miami Dolphins,0.0,0.900900900900901,N,1.0,1,1.0,1,1.0,1
+J.Allen o35.5 Rush Yds,kylemurray03,-113,1.13,2.13,Buffalo Bills,j.allen,Miami Dolphins,0.0,1.0,N,1.0,1,1.0,1,1.0,1
 T.Tagovailoa o4.5 Rush Yds,moneybadger24_,-110,1.1,2.1,Miami Dolphins,t.tagovailoa,Buffalo Bills,1.0,1.0,Y,1.0,1,1.0,1,1.0,1
 T.Tagovailoa o4.5 Rush Yds,MoneylineHacks,-110,2.0,3.8181818181818175,Miami Dolphins,t.tagovailoa,Buffalo Bills,1.0,1.8181818181818183,Y,1.0,1,1.0,1,1.0,1
+J.Cook o59.5 Rushing Yards,JBBets1,-120,1.0,1.8333333333333333,Buffalo Bills,j.cook,Miami Dolphins,0.0,0.8333333333333335,Y,1.0,1,1.0,1,1.0,1

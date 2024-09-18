@@ -1,14 +1,12 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 M.Evans u70.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,M.Evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,80,8,51,9,Rain,Ford Field,indoors,turf,100,1.5,3.0,1.5
 J.Smith-njigba u44.5 receiving yards,Rotowire Prizepicks,Seattle Seahawks,j.smith-njigba,New England Patriots,0.0,1.0,1,1.0,1,1.0,1,77,5,58,1,Rain,Gillette,outdoors,turf,100,1.5,3.0,1.5
-Q.Johnston u33.5 Rec Yds,chrisgimino_,Los Angeles Chargers,q.johnston,Carolina Panthers,0.0,0.0,0,0.0,0,0.0,0,75,12,80,27,Rain,Bank of America,outdoors,grass,-117,1.0,1.8547008547008548,0.8547008547008548
-R.White u26.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,r.white,Detroit Lions,0.0,0.0,0,0.0,0,0.0,0,80,8,52,7,Partly Cloudy,Ford Field,indoors,turf,100,1.5,3.0,1.5
+Q.Johnston u33.5 Rec Yds,chrisgimino_,Los Angeles Chargers,q.johnston,Carolina Panthers,0.0,0.0,0,0.0,0,0.0,0,75,12,64,27,Rain,Bank of America,outdoors,grass,-117,1.0,1.8547008547008548,0.8547008547008548
 L.Mcconkey u46.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,12,80,27,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5
 L.Mcconkey u45.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,14,80,28,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5
-T.Hill u94.5 Rec Yds,PropBomb,Miami Dolphins,t.hill,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,89,5,52,4,Clear,AT&amp;T,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
 J.McMillan u30.5 Rec Yds,kylemurray03,Tampa Bay Buccaneers,j.mcmillan,Detroit Lions,0.0,0.0,0,0.0,0,0.0,0,81,7,49,1,Clear,Ford Field,indoors,turf,-111,1.11,2.1100000000000003,1.0000000000000002
 M.Evans u72.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,100,1.5,3.0,1.5
-T.Johnson u35.5 Rec Yds,kylemurray03,Los Angeles Rams,t.johnson,Arizona Cardinals,0.0,0.0,0,0.0,0,0.0,0,94,8,38,47,Rain,State Farm,indoors,grass,-114,1.14,2.14,0.9999999999999998
+T.Johnson u35.5 Rec Yds,kylemurray03,Los Angeles Rams,t.johnson,Arizona Cardinals,0.0,0.0,0,0.0,0,0.0,0,94,8,38,8,Rain,State Farm,indoors,grass,-114,1.14,2.14,0.9999999999999998
 J.Nailor u32.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.nailor,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,80,10,65,3,Rain,U.S. Bank,indoors,turf,100,1.5,3.0,1.5
 A.Lazard u37.5 receiving yards,Rotowire Prizepicks,New York Jets,a.lazard,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,83,8,61,20,Rain,Nissan,outdoors,grass,100,1.5,3.0,1.5
 B.Cooks u47.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,b.cooks,New Orleans Saints,1.0,1.0,1,1.0,1,1.0,1,85,6,53,0,Clear,AT&amp;T,indoors,turf,100,1.5,3.0,1.5

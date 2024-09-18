@@ -1,17 +1,20 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-65,G.Dulcich u2.5 Recs,kylemurray03,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
-140,I.Likely u3.5 Recs,cowhitchurch,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-141,I.Likely u3.5 Recs,The_Oddsmaker,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-145,J.Johnson u2.5 Recs,cowhitchurch,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
-146,J.Johnson u2.5 Recs,boomerslocks,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
-147,J.Johnson u2.5 Recs,The_Oddsmaker,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-135,1.35,2.35,1.0
-148,B.Aiyuk u4.5 Recs,cowhitchurch,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
-149,B.Aiyuk u4.5 Recs,The_Oddsmaker,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002
-170,T.Irwin u2.5 Recs,cowhitchurch,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5
-171,T.Irwin u2.5 Recs,nick_giffen,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0
-194,J.Palmer u3.5 Recs,PropBomb,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0
-195,J.McLaughlin u2.5 Recs,MoneylineHacks,Denver Broncos,j.mclaughlin,Pittsburgh Steelers,1.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,106,1.0,2.06,1.06
-197,R.Odunze u3.5 Recs,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
-256,R.Odunze u3.5 Recs,charliedisturco,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
-257,R.Odunze u3.5 Recs,cowhitchurch,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625
-259,R.Odunze u3.5 Recs,The_Oddsmaker,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+59,G.Dulcich u2.5 Recs,kylemurray03,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
+134,I.Likely u3.5 Recs,cowhitchurch,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+135,I.Likely u3.5 Recs,The_Oddsmaker,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+139,J.Johnson u2.5 Recs,cowhitchurch,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
+140,J.Johnson u2.5 Recs,boomerslocks,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
+141,J.Johnson u2.5 Recs,The_Oddsmaker,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-135,1.35,2.35,1.0
+142,B.Aiyuk u4.5 Recs,cowhitchurch,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
+143,B.Aiyuk u4.5 Recs,The_Oddsmaker,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002
+144,J.Polk o1.5 Recs,cowhitchurch,New England Patriots,j.polk,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
+145,J.Polk o1.5 Recs,boomerslocks,New England Patriots,j.polk,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
+146,J.Polk o1.5 Recs,The_Oddsmaker,New England Patriots,j.polk,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.32,2.3200000000000003,1.0000000000000002
+164,T.Irwin u2.5 Recs,cowhitchurch,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5
+165,T.Irwin u2.5 Recs,nick_giffen,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0
+188,J.Palmer u3.5 Recs,PropBomb,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0
+189,J.McLaughlin u2.5 Recs,MoneylineHacks,Denver Broncos,j.mclaughlin,Pittsburgh Steelers,1.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,106,1.0,2.06,1.06
+191,R.Odunze u3.5 Recs,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
+249,R.Odunze u3.5 Recs,charliedisturco,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+250,R.Odunze u3.5 Recs,cowhitchurch,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625
+252,R.Odunze u3.5 Recs,The_Oddsmaker,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
