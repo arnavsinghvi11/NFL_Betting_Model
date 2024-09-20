@@ -1,0 +1,4 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+B.Hall o0.5 rush_td+rec_td,theprophunter0_,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
+R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
+B.Hall o0.5 rush_td+rec_td,JBBets1,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,-105.0,0.5,0.9761904761904762,0.4761904761904761
