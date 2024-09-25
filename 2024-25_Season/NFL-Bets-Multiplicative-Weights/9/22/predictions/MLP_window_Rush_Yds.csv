@@ -7,16 +7,12 @@
 30,A.Richardson o40.5 Rush Yds,RoyalsProps,Indianapolis Colts,a.richardson,Chicago Bears,1.0,0.5,0,0.5,0,0.5,0,80,5,74,52,Rain,Lucas Oil,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
 33,G.Edwards o29.5 rushing yards,Rotowire Sleeper,Los Angeles Chargers,g.edwards,Pittsburgh Steelers,0.0,0.5,0,0.5,0,0.5,0,80,6,61,7,Mostly Cloudy,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
 45,D.Carr o1.5 Rush Yds,MoneylineHacks,New Orleans Saints,d.carr,Philadelphia Eagles,1.0,0.5,0,0.5,0,0.5,0,85,7,71,2,Rain,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-56,J.Gibbs o49.5 Rush Yds,kylemurray03,Detroit Lions,j.gibbs,Arizona Cardinals,0.0,0.5,0,0.5,0,0.5,0,93,11,19,0,Clear,State Farm,indoors,grass,-110.0,1.1,2.1,1.0
 58,K.Murray o32.5 Rush Yds,kylemurray03,Arizona Cardinals,k.murray,Detroit Lions,1.0,1.0,1,1.0,1,1.0,1,93,11,19,0,Clear,State Farm,indoors,grass,-114.0,1.14,2.14,0.9999999999999998
-65,G.Edwards o31.5 rushing yards,Rotowire Prizepicks,Los Angeles Chargers,g.edwards,Pittsburgh Steelers,0.0,0.5,0,0.5,0,0.5,0,78,3,61,5,Mostly Cloudy,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
 77,J.Williams u45.5 rushing yards,Rotowire Prizepicks,Denver Broncos,j.williams,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,86,7,69,5,Rain,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
 84,B.Irving o25.5 Rush Yds,PropBetGuy,Tampa Bay Buccaneers,b.irving,Denver Broncos,1.0,0.5,0,0.5,0,0.5,0,88,7,64,14,Rain,Raymond James,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 92,D.Swift u59.5 Rush Yds,kylemurray03,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,80,6,65,61,Rain,Lucas Oil,indoors,turf,-110.0,1.1,2.1,1.0
 98,D.Henry o66.5 rush yds,Rob Paul,Baltimore Ravens,d.henry,Dallas Cowboys,0.0,0.5,0,0.5,0,0.5,0,92,7,44,2,Rain,AT&amp;T,indoors,turf,100.0,0.75,1.5,0.75
-104,B.Robinson o73.5 rushing yards,Rohit Ponnaiya,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.5,0,0.5,0,0.5,0,84,3,54,0,Partly Cloudy,Mercedes-Benz,indoors,turf,100.0,0.75,1.5,0.75
 106,D.Swift u57.5 Rush Yds,chrisgimino_,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,78,6,70,52,Rain,Lucas Oil,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-110,J.Gibbs o50.5 Rush Yds,chrisgimino_,Detroit Lions,j.gibbs,Arizona Cardinals,0.0,0.5,0,0.5,0,0.5,0,94,11,19,0,Clear,State Farm,indoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 121,D.Carr o1.5 rushing yards,Rotowire Prizepicks,New Orleans Saints,d.carr,Philadelphia Eagles,1.0,0.5,0,0.5,0,0.5,0,86,7,70,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
 127,K.Williams u65.5 Rush Yds,millmanc,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-145.0,1.0,1.6896551724137931,0.6896551724137931
 128,K.Williams u69.5 Rush Yds,cowhitchurch,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-135.0,2.03,3.533703703703704,1.5037037037037035
@@ -33,7 +29,11 @@
 192,J.Mason o89.5 Rushing Yards,JBBets1,San Francisco 49ers,j.mason,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,76,6,61,0,Foggy,SoFi,indoors,turf,-125.0,1.0,1.8,0.8
 197,J.Dobbins o56.5 Rush Yds,theprophunter0_,Los Angeles Chargers,j.dobbins,Pittsburgh Steelers,0.0,1.0,1,1.0,1,1.0,1,72,8,56,1,Clear,Acrisure,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002
 203,J.Goff o0.5 Rush Yds,MoneylineHacks,Detroit Lions,j.goff,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,94,11,18,0,Clear,State Farm,indoors,grass,105.0,1.0,2.05,1.0499999999999998
-205,D.Foreman o43.5 Rush Yds,theprophunter0_,Cleveland Browns,d.foreman,New York Giants,1.0,0.0,0,0.0,0,0.0,0,80,6,54,2,Clear,Cleveland Browns,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002
 219,T.Allgeier o23.5 rushing yards,Rotowire Sleeper,Atlanta Falcons,t.allgeier,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,6,54,2,Clear,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5
 226,C.Steele u48.5 Rush Yds,kylemurray03,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,1.0,1,1.0,1,1.0,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-229,B.Robinson o73.5 Rush Yds,rsura_,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.5,0,0.5,0,0.5,0,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+247,B.Robinson o55.5 Rush Yds,rsura_,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
+248,B.Robinson o54.5 Rush Yds,FirefighterBets,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+249,E.Elliott u30.5 rushing yards,Rotowire Prizepicks,Dallas Cowboys,e.elliott,Baltimore Ravens,1.0,0.5,0,0.5,0,0.5,0,91,6,41,11,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
+250,B.Robinson o49.5 Rushing Yards,JBBets1,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
+251,B.Robinson o53.5 Rush Yds,KyleJustBets,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-125.0,1.0,1.8,0.8
+252,B.Robinson o53.5 Rush Yds,the_degenerates,Atlanta Falcons,b.robinson,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0

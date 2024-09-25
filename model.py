@@ -24,7 +24,7 @@ import re
 
 conversions = {
     'Cmp': re.compile(r'^(?!.*long(est)? completion)(completions?|pass completions?|pass comp)', re.IGNORECASE),
-    'Pass_Yds': re.compile(r'passing\s*(yards|yds)|passing\s*\+\s*rushing\s*(yards|yds)', re.IGNORECASE),
+    'Pass_Yds': re.compile(r'passing\s*(yards|yds)|pass\s*\+\s*rush\s*(yards|yds)|passing\s*\+\s*rushing\s*(yards|yds)', re.IGNORECASE),
     'Pass_TD': re.compile(r'pass(ing)?\s+touchdowns?|pass(ing)?\s+tds?', re.IGNORECASE),
     'Int': re.compile(r'int(erceptions?)?', re.IGNORECASE),
     'Pass_Att': re.compile(r'pass att(empts?)?', re.IGNORECASE),

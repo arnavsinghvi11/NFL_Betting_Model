@@ -1,15 +1,14 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-J.Cook o0.5 rush_td+rec_td,gneiffer07,Buffalo Bills,j.cook,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,115.0,1.0,2.15,1.15
-J.Chase o0.5 rush_td+rec_td,wheatonbrando,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,81,5,79,35,Rain,Paycor,outdoors,turf,120.0,1.0,2.2,1.2000000000000002
-J.Chase o0.5 rush_td+rec_td,sandyplashkes,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.0,2.0,1.0
-M.Gesicki o0.5 rush_td+rec_td,GDAWG5000,Cincinnati Bengals,m.gesicki,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,75,3,74,37,Rain,Paycor,outdoors,turf,300.0,0.5,2.0,1.5
-J.Chase o0.5 rush_td+rec_td,LinesAtLunch,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,3,71,20,Rain,Paycor,outdoors,turf,100.0,1.1,2.2,1.1
-J.Chase o0.5 rush_td+rec_td,Bettingyoda,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,3,71,20,Rain,Paycor,outdoors,turf,112.0,1.0,2.12,1.12
+J.Cook o0.5 rush_td+rec_td,gneiffer07,Buffalo Bills,j.cook,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,3,97,33,Rain,Highmark,outdoors,turf,115.0,1.0,2.15,1.15
 B.Thomas o0.5 rush_td+rec_td,AnthonyDabbundo,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,61,7,89,47,Rain,Highmark,outdoors,turf,300.0,0.5,2.0,1.5
-B.Thomas o0.5 rush_td+rec_td,GDAWG5000,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,63,9,90,29,Rain,Highmark,outdoors,turf,255.0,0.5,1.775,1.275
+J.Chase o0.5 rush_td+rec_td,wheatonbrando,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,70,5,79,67,Rain,Paycor,outdoors,turf,120.0,1.0,2.2,1.2000000000000002
+J.Chase o0.5 rush_td+rec_td,sandyplashkes,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,75,0,74,67,Rain,Paycor,outdoors,turf,100.0,1.0,2.0,1.0
+B.Thomas o0.5 rush_td+rec_td,GDAWG5000,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,63,3,90,29,Rain,Highmark,outdoors,turf,255.0,0.5,1.775,1.275
+J.Chase o0.5 rush_td+rec_td,LinesAtLunch,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,100.0,1.1,2.2,1.1
+J.Chase o0.5 rush_td+rec_td,Bettingyoda,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,112.0,1.0,2.12,1.12
 B.Thomas o0.5 rush_td+rec_td,GreenDotDaily,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,62,5,92,29,Rain,Highmark,outdoors,turf,255.0,0.5,1.775,1.275
 B.Thomas o0.5 rush_td+rec_td,charliedisturco,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,63,5,90,29,Rain,Highmark,outdoors,turf,265.0,0.25,0.9125,0.6625
-J.Chase o0.5 rush_td+rec_td,charliedisturco,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,2,70,23,Rain,Paycor,outdoors,turf,110.0,0.25,0.525,0.275
+J.Chase o0.5 rush_td+rec_td,charliedisturco,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,0,70,67,Rain,Paycor,outdoors,turf,110.0,0.25,0.525,0.275
 J.Chase o0.5 rush_td+rec_td,theprophunter0_,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Partly Cloudy,Paycor,outdoors,turf,100.0,0.5,1.0,0.5
 J.Chase o0.5 rush_td+rec_td,JBBets1,Cincinnati Bengals,j.chase,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Rain,Paycor,outdoors,turf,110.0,1.0,2.1,1.1
 Z.Moss o0.5 rush_td+rec_td,BetWhatHappensLive,Cincinnati Bengals,z.moss,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,70,0,71,67,Rain,Paycor,outdoors,turf,250.0,1.0,3.5,2.5

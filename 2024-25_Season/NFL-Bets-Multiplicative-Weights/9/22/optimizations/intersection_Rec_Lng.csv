@@ -1,9 +1,7 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-W.Robinson u14.5 Longest Reception,PropBetGuy,New York Giants,w.robinson,Cleveland Browns,0.0,0.5,0,0.5,0,0.5,0,78,8,65,7,Rain,Cleveland Browns,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
-R.Shaheed o22.5 longest reception yards,Jared Hochman,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,85,7,71,2,Rain,Caesars Superdome,indoors,turf,100,0.75,1.5,0.75
-R.Shaheed o21.5 Longest Reception,cowhitchurch,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-113,1.69,3.185575221238938,1.495575221238938
-R.Shaheed o22.5 Longest Reception,The_Oddsmaker,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-118,1.18,2.18,0.9999999999999998
-R.Shaheed o23.5 Longest Reception,therocketplays,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,87,6,68,1,Clear,Caesars Superdome,indoors,turf,-110,1.1,2.1,1.0
-G.Dortch u15.5 Longest Reception,PropBetGuy,Arizona Cardinals,g.dortch,Detroit Lions,1.0,1.0,1,1.0,1,1.0,1,94,3,18,0,Clear,State Farm,indoors,grass,-120,1.2,2.2,1.0000000000000002
-C.Parkinson u14.5 Longest Reception,PropBetGuy,Los Angeles Rams,c.parkinson,San Francisco 49ers,1.0,0.5,0,0.5,0,0.5,0,76,12,61,0,Foggy,SoFi,indoors,turf,-110,1.1,2.1,1.0
-C.Lamb o25.5 Longest Reception,KyleJustBets,Dallas Cowboys,c.lamb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,93,6,40,3,Rain,AT&amp;T,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+R.Shaheed o22.5 longest reception yards,Jared Hochman,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,85,7,71,2,Rain,Caesars Superdome,indoors,turf,100.0,0.75,1.5,0.75
+R.Shaheed o21.5 Longest Reception,cowhitchurch,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.69,3.185575221238938,1.495575221238938
+R.Shaheed o22.5 Longest Reception,The_Oddsmaker,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-118.0,1.18,2.18,0.9999999999999998
+R.Shaheed o23.5 Longest Reception,therocketplays,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,87,6,68,1,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0
+G.Dortch u15.5 Longest Reception,PropBetGuy,Arizona Cardinals,g.dortch,Detroit Lions,1.0,1.0,1,1.0,1,1.0,1,94,11,18,0,Clear,State Farm,indoors,grass,-120.0,1.2,2.2,1.0000000000000002
+C.Lamb o25.5 Longest Reception,KyleJustBets,Dallas Cowboys,c.lamb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,93,6,40,3,Rain,AT&amp;T,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092

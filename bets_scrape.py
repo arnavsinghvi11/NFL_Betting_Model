@@ -176,7 +176,7 @@ class Bets:
         covers_links = list({
             a_href["href"]
             for a_href in soup.find_all("a", href=True)
-            if not "sign-up" in a_href["href"] and not "forum" in a_href["href"] and not "code" in a_href["href"] and not "promos" in a_href["href"]  and (
+            if not "sign-up" in a_href["href"] and not "forum" in a_href["href"] and not "code" in a_href["href"] and not "promos" in a_href["href"] and not "odds" in a_href["href"]  and (
                 f"week-{week}" in a_href["href"] or                
                 any(re.search(rf"{month}-{day}-\d{{4}}", a_href["href"]) for month, day in dates)
             )
