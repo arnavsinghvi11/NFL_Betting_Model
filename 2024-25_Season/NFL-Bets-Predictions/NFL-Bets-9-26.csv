@@ -1,0 +1,80 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+D.Jones o29.5 Rush Yds,PropBomb,New York Giants,d.jones,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+R.Dowdle o39.5 Rush Yds,Theotherbabs,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,6,84,44,Rain,MetLife,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+C.Lamb o80.5 Rec Yds,sandyplashkes,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,-120,1.2,2.2,1.0000000000000002
+J.Ferguson o0.5 rush_td+rec_td,GDAWG5000,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,6,84,44,Rain,MetLife,outdoors,turf,270,1.0,3.7,2.7
+C.Lamb o85.5 Rush + Rec Yds,RoyalsProps,Dallas Cowboys,c.lamb,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,84,44,Rain,MetLife,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+R.Dowdle o10.5 Rec Yds,KyleJustBets,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,84,44,Rain,MetLife,outdoors,turf,-120,1.0,1.8333333333333333,0.8333333333333335
+R.Dowdle o51.5 Rush + Rec Yds,ThePropfessor_,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,84,44,Rain,MetLife,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+D.Singletary u2.5 Recs,MoneylineHacks,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,128,1.0,2.28,1.2800000000000002
+E.Elliott o1.5 Recs,MoneylineHacks,Dallas Cowboys,e.elliott,New York Giants,0.0,1.0,1,1.0,1,1.0,1,73,6,84,44,Rain,MetLife,outdoors,turf,125,1.0,2.25,1.25
+D.Prescott o7.5 Rush Yds,MoneylineHacks,Dallas Cowboys,d.prescott,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
+C.Lamb o76.5 Rec Yds,GDAWG5000,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,-114,0.57,1.0699999999999998,0.4999999999999999
+W.Robinson o34.5 receiving yards,Rotowire Sleeper,New York Giants,w.robinson,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,84,44,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+B.Cooks o36.5 receiving yards,Rotowire Sleeper,Dallas Cowboys,b.cooks,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+D.Singletary u62.5 rushing yards,Rotowire Prizepicks,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+J.Ferguson u43.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,6,84,44,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+R.Dowdle u57.5 rushing + receiving yards,Rotowire Prizepicks,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,75,6,82,46,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+W.Robinson o0.5 rush_td+rec_td,GDAWG5000,New York Giants,w.robinson,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,6,82,46,Rain,MetLife,outdoors,turf,460,0.5,2.8,2.3
+D.Jones o0.5 rush_td+rec_td,GDAWG5000,New York Giants,d.jones,Dallas Cowboys,1.0,0.0,0,0.0,0,0.0,0,75,6,82,46,Rain,MetLife,outdoors,turf,310,1.0,4.1,3.1
+J.Ferguson o41.5 Rec Yds,FirefighterBets,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,75,6,82,46,Rain,MetLife,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+W.Robinson o34.5 Rec Yds,FirefighterBets,New York Giants,w.robinson,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,75,6,82,46,Rain,MetLife,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+D.Prescott u264.5 passing yards,Rotowire Prizepicks,Dallas Cowboys,d.prescott,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,6,82,46,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+R.Dowdle u39.5 rushing yards,Rotowire Prizepicks,Dallas Cowboys,r.dowdle,New York Giants,0.0,1.0,1,1.0,1,1.0,1,75,6,82,46,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+D.Prescott u263.5 Pass Yds,gneiffer07,Dallas Cowboys,d.prescott,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,72,6,93,48,Rain,MetLife,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+R.Dowdle u39.5 Rush Yds,gneiffer07,Dallas Cowboys,r.dowdle,New York Giants,0.0,1.0,1,1.0,1,1.0,1,72,6,93,48,Rain,MetLife,outdoors,turf,-113,1.13,2.13,1.0
+D.Singletary o60.5 rushing yards,Ed Scimia,New York Giants,d.singletary,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,6,93,48,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
+D.Jones o1.5 passing touchdowns,Ed Scimia,New York Giants,d.jones,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,6,93,48,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
+J.Tolbert o0.5 rush_td+rec_td,Ed Scimia,Dallas Cowboys,j.tolbert,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,72,6,93,48,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
+R.Dowdle o0.5 rush_td+rec_td,therocketplays,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.0,0,0.0,0,0.0,0,72,6,93,48,Rain,MetLife,outdoors,turf,210,0.5,1.55,1.05
+R.Dowdle o13.5 Rec Yds,therocketplays,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,6,93,48,Rain,MetLife,outdoors,turf,-113,1.13,2.13,1.0
+J.Ferguson o0.5 rush_td+rec_td,cowhitchurch,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,6,87,47,Rain,MetLife,outdoors,turf,240,0.5,1.7,1.2
+D.Jones o0.5 rush_td+rec_td,cowhitchurch,New York Giants,d.jones,Dallas Cowboys,1.0,0.0,0,0.0,0,0.0,0,73,6,87,47,Rain,MetLife,outdoors,turf,330,0.33,1.419,1.089
+W.Robinson o0.5 rush_td+rec_td,cowhitchurch,New York Giants,w.robinson,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,425,0.25,1.3125,1.0625
+J.Ferguson o39.5 Rec Yds,LinesAtLunch,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,6,87,47,Rain,MetLife,outdoors,turf,-118,1.18,2.18,0.9999999999999998
+D.Jones o31.5 Rush Yds,moneybadger24_,New York Giants,d.jones,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110,1.65,3.15,1.5
+M.Nabers u70.5 Rec Yds,moneybadger24_,New York Giants,m.nabers,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+C.Lamb o79.5 Rec Yds,charliedisturco,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+J.Tolbert o28.5 Rec Yds,FirefighterBets,Dallas Cowboys,j.tolbert,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+M.Nabers u72.5 Rec Yds,boomerslocks,New York Giants,m.nabers,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-113,1.0,1.8849557522123888,0.8849557522123894
+D.Singletary o15.5 longest rush yards,Jared Hochman,New York Giants,d.singletary,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
+R.Dowdle o14.5 Rec Yds,sandyplashkes,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,-112,1.12,2.12,1.0
+R.Dowdle o0.5 rush_td+rec_td,sandyplashkes,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,6,87,47,Rain,MetLife,outdoors,turf,200,0.5,1.5,1.0
+C.Lamb o80.5 Rec Yds,LinesAtLunch,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-120,1.2,2.2,1.0000000000000002
+M.Nabers o0.5 rush_td+rec_td,CroweRadio,New York Giants,m.nabers,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,150,0.4,1.0,0.6
+R.Dowdle u60.5 rushing + receiving yards,Rotowire Prizepicks,Dallas Cowboys,r.dowdle,New York Giants,0.0,1.0,1,1.0,1,1.0,1,73,6,87,47,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+E.Elliott u7.5 Rush Att,MoneylineHacks,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,6,87,47,Rain,MetLife,outdoors,turf,-105,1.0,1.9523809523809523,0.9523809523809524
+C.Lamb o0.5 Rush Yds,MoneylineHacks,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110,3.0,5.727272727272728,2.7272727272727275
+D.Jones o11.5 Longest Rush,RoyalsProps,New York Giants,d.jones,Dallas Cowboys,1.0,0.0,0,0.0,0,0.0,0,73,6,87,47,Rain,MetLife,outdoors,turf,-105,1.05,2.05,0.9999999999999998
+D.Jones o31.5 Rush Yds,RoyalsProps,New York Giants,d.jones,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+E.Elliott u27.5 Rush Yds,GreenDotDaily,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-120,1.0,1.8333333333333333,0.8333333333333335
+C.Lamb o89.5 Receiving Yards,GreenDotDaily,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,122,1.0,2.22,1.2199999999999998
+J.Ferguson o0.5 rush_td+rec_td,GreenDotDaily,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,5,93,49,Rain,MetLife,outdoors,turf,240,1.0,3.4,2.4
+J.Tolbert u2.5 Recs,GreenDotDaily,Dallas Cowboys,j.tolbert,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-120,0.5,0.9166666666666669,0.4166666666666667
+C.Lamb o79.5 Rec Yds,GreenDotDaily,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+D.Jones o6.5 Rush Att,PropBetGuy,New York Giants,d.jones,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,115,1.0,2.15,1.15
+E.Elliott u28.5 Rush Yds,cowhitchurch,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-119,1.19,2.19,1.0
+E.Elliott u29.5 Rush Yds,charliedisturco,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-114,1.14,2.14,0.9999999999999998
+E.Elliott u27.5 Rush Yds,The_Oddsmaker,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+D.Singletary u62.5 Rush Yds,kylemurray03,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+J.Ferguson o40.5 Rec Yds,kylemurray03,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+W.Robinson o33.5 Rec Yds,kylemurray03,New York Giants,w.robinson,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+R.Dowdle o9.5 Rush Att,kylemurray03,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,5,93,49,Rain,MetLife,outdoors,turf,-125,1.25,2.25,1.0
+R.Dowdle o0.5 rush_td+rec_td,sirlockselot_,Dallas Cowboys,r.dowdle,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,5,93,49,Rain,MetLife,outdoors,turf,230,1.0,3.3,2.3
+J.Ferguson o39.5 Rec Yds,rsura_,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-118,1.18,2.18,0.9999999999999998
+J.Ferguson u45.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
+J.Ferguson o41.5 Rec Yds,KyleJustBets,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+M.Nabers o6.5 Recs,chrisgimino_,New York Giants,m.nabers,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,107,1.0,2.0700000000000003,1.0700000000000005
+D.Singletary u60.5 Rush Yds,chrisgimino_,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,100,1.0,2.0,1.0
+D.Prescott o23.5 Pass Comp,chrisgimino_,Dallas Cowboys,d.prescott,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,-112,1.0,1.8928571428571428,0.8928571428571428
+C.Lamb o0.5 Rush Yds,kylemurray03,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+W.Robinson o33.5 Rec Yds,theprophunter0_,New York Giants,w.robinson,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,-120,1.2,2.2,1.0000000000000002
+D.Singletary o0.5 rush_td+rec_td,theprophunter0_,New York Giants,d.singletary,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,110,1.0,2.1,1.1
+J.Ferguson o0.5 rush_td+rec_td,theprophunter0_,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.0,0,0.0,0,0.0,0,73,5,93,49,Rain,MetLife,outdoors,turf,235,0.5,1.675,1.175
+C.Lamb o78.5 Rec Yds,theprophunter0_,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-120,1.2,2.2,1.0000000000000002
+W.Robinson o34.5 Rush + Rec Yds,therocketplays,New York Giants,w.robinson,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
+C.Lamb o80.5 Rec Yds,Mjaybrxd,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,3,93,49,Overcast,MetLife,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+J.Ferguson o0.5 rush_td+rec_td,charliedisturco,Dallas Cowboys,j.ferguson,New York Giants,0.0,0.0,0,0.0,0,0.0,0,75,3,93,49,Overcast,MetLife,outdoors,turf,240,0.25,0.85,0.6
+B.Aubrey o1.5 FGs Made,gamblersdream,Dallas Cowboys,b.aubrey,New York Giants,0.0,1.0,1,1.0,1,1.0,1,75,3,93,49,Overcast,MetLife,outdoors,turf,-152,2.8,4.642105263157895,1.8421052631578947
+D.Jones u34.5 rushing yards,Rotowire Prizepicks,New York Giants,d.jones,Dallas Cowboys,1.0,1.0,1,1.0,1,1.0,1,75,3,93,49,Overcast,MetLife,outdoors,turf,100,1.5,3.0,1.5
+T.Tracy o5.5 Rec Yds,ThePropfessor_,New York Giants,t.tracy,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,5,93,49,Mostly Cloudy,MetLife,outdoors,turf,-120,0.6,1.1,0.5000000000000001
