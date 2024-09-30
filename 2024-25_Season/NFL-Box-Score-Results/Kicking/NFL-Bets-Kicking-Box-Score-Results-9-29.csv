@@ -1,0 +1,27 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,J.Karty,Los Angeles Rams,0,0,4,5,929,Chicago Bears,0,Soldier Field,outdoors,grass,71,78,16,13,Overcast
+1,C.Santos,Chicago Bears,3,3,1,1,929,Los Angeles Rams,1,Soldier Field,outdoors,grass,71,78,16,13,Overcast
+2,D.Hopkins,Cleveland Browns,1,2,1,1,929,Las Vegas Raiders,0,Allegiant,indoors,grass,98,9,5,2,Clear
+3,D.Carlson,Las Vegas Raiders,2,2,2,2,929,Cleveland Browns,1,Allegiant,indoors,grass,98,9,5,2,Clear
+4,H.Butker,Kansas City Chiefs,2,2,1,2,929,Los Angeles Chargers,0,SoFi,indoors,turf,69,54,9,0,Clear
+5,C.Dicker,Los Angeles Chargers,1,1,1,2,929,Kansas City Chiefs,1,SoFi,indoors,turf,69,54,9,0,Clear
+6,E.McPherson,Cincinnati Bengals,4,4,2,2,929,Carolina Panthers,0,Bank of America,outdoors,grass,77,70,9,22,Mostly Cloudy
+7,E.Pineiro,Carolina Panthers,3,3,1,1,929,Cincinnati Bengals,1,Bank of America,outdoors,grass,77,70,9,22,Mostly Cloudy
+8,A.Seibert,Washington Commanders,4,4,2,2,929,Arizona Cardinals,0,State Farm,indoors,grass,106,10,9,0,Clear
+9,M.Prater,Arizona Cardinals,2,2,0,0,929,Washington Commanders,1,State Farm,indoors,grass,106,10,9,0,Clear
+10,J.Slye,New England Patriots,1,1,2,2,929,San Francisco 49ers,0,Levi's,outdoors,grass,73,64,0,0,Clear
+11,J.Moody,San Francisco 49ers,3,3,3,3,929,New England Patriots,1,Levi's,outdoors,grass,73,64,0,0,Clear
+12,C.Boswell,Pittsburgh Steelers,3,3,1,1,929,Indianapolis Colts,0,Lucas Oil,indoors,turf,70,84,11,49,Mostly Cloudy
+13,M.Gay,Indianapolis Colts,3,3,2,3,929,Pittsburgh Steelers,1,Lucas Oil,indoors,turf,70,84,11,49,Mostly Cloudy
+14,T.Bass,Buffalo Bills,1,1,1,2,929,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,69,93,10,36,Rain
+15,J.Tucker,Baltimore Ravens,5,5,0,0,929,Buffalo Bills,1,M&amp;T Bank,outdoors,grass,69,93,10,36,Rain
+16,B.Grupe,New Orleans Saints,3,3,1,1,929,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,76,69,10,8,Clear
+17,Y.Koo,Atlanta Falcons,2,2,4,4,929,New Orleans Saints,1,Mercedes-Benz,indoors,turf,76,69,10,8,Clear
+18,C.Little,Jacksonville Jaguars,2,2,2,2,929,Houston Texans,0,NRG,indoors,turf,85,34,0,0,Clear
+19,K.Fairbairn,Houston Texans,3,3,1,1,929,Jacksonville Jaguars,1,NRG,indoors,turf,85,34,0,0,Clear
+20,W.Reichard,Minnesota Vikings,4,4,1,1,929,Green Bay Packers,0,Lambeau Field,outdoors,grass,70,61,15,0,Clear
+21,B.Narveson,Green Bay Packers,3,3,0,2,929,Minnesota Vikings,1,Lambeau Field,outdoors,grass,70,61,15,0,Clear
+22,W.Lutz,Denver Broncos,1,1,1,2,929,New York Jets,0,MetLife,outdoors,turf,61,87,5,43,Rain
+23,G.Zuerlein,New York Jets,0,0,3,4,929,Denver Broncos,1,MetLife,outdoors,turf,61,87,5,43,Rain
+24,J.Elliott,Philadelphia Eagles,2,2,0,0,929,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,88,74,9,31,Clear
+25,C.McLaughlin,Tampa Bay Buccaneers,3,4,2,2,929,Philadelphia Eagles,1,Raymond James,outdoors,grass,88,74,9,31,Clear
