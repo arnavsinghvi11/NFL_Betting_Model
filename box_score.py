@@ -56,7 +56,7 @@ def map_forecast(forecast):
     elif forecast in ["Foggy", "Fog", "Patchy Fog"]:
         return "Foggy"
     elif forecast in ["Light Rain", "Rain", "Drizzle", "Possible Drizzle", "Rain And Windy", "Light Rain And Windy",
-                    "Isolated Thunderstorms", "Chance Thunderstorms",  "Chance Rain", "Chance Rain Showers", "Slight Chance Thunderstorms", "Likely Rain", "Definite Rain", "Slight Chance Rain Showers", "Numerous Rain Showers", "Likely Rain Showers", "Numerous Thunderstorms", "Slight Chance Rain"]:
+                    "Isolated Thunderstorms", "Chance Thunderstorms",  "Chance Rain", "Chance Rain Showers", "Slight Chance Thunderstorms", "Scattered Rain Showers", "Likely Rain", "Definite Rain", "Slight Chance Rain Showers", "Numerous Rain Showers", "Likely Rain Showers", "Numerous Thunderstorms", "Slight Chance Rain"]:
         return "Rain" 
     elif forecast in ["Snow", "Possible Flurries", "Light Snow", "Possible Light Snow", "Light Snow And Windy", "Heavy Snow"]:
         return "Snow"
