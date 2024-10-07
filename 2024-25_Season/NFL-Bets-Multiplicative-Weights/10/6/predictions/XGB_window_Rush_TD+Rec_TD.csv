@@ -1,0 +1,12 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+5,A.Jones o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,a.jones,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,100,1.5,3.0,1.5
+26,R.Odunze o0.5 rush_td+rec_td,shadybiev,Chicago Bears,r.odunze,Carolina Panthers,1.0,0.25,0,0.3333333333333333,0,0.25,0,73,19,24,0,Clear,Soldier Field,outdoors,grass,300,0.5,2.0,1.5
+85,T.Etienne o0.5 rush_td+rec_td,sandyplashkes,Jacksonville Jaguars,t.etienne,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-124,1.24,2.24,0.9999999999999998
+86,T.Etienne o0.5 rush_td+rec_td,shadybiev,Jacksonville Jaguars,t.etienne,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-125,2.19,3.942,1.7520000000000002
+98,J.Downs o0.5 rush_td+rec_td,GDAWG5000,Indianapolis Colts,j.downs,Jacksonville Jaguars,0.0,0.5,0,0.5,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,330,0.5,2.15,1.65
+135,D.Wicks o0.5 rush_td+rec_td,GDAWG5000,Green Bay Packers,d.wicks,Los Angeles Rams,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,74,10,44,1,Foggy,SoFi,indoors,turf,210,1.0,3.1,2.1
+189,B.Thomas o0.5 rush_td+rec_td,TheTDShow,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,75,7,82,75,Rain,TIAA Bank,outdoors,grass,200,1.0,3.0,2.0
+202,B.Thomas o0.5 rush_td+rec_td,TheBMatt,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,76,10,82,75,Overcast,TIAA Bank,outdoors,grass,200,1.0,3.0,2.0
+204,D.Wicks o0.5 rush_td+rec_td,sandyplashkes,Green Bay Packers,d.wicks,Los Angeles Rams,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,74,10,44,1,Foggy,SoFi,indoors,turf,142,1.0,2.42,1.42
+208,J.Conner o0.5 rush_td+rec_td,shadybiev,Arizona Cardinals,j.conner,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,85,3,32,1,Clear,Levi's,outdoors,grass,102,1.5,3.03,1.5300000000000002
+213,M.Harrison o0.5 rush_td+rec_td,theprophunter0_,Arizona Cardinals,m.harrison,San Francisco 49ers,0.0,0.75,1,1.0,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,185,0.5,1.425,0.925
