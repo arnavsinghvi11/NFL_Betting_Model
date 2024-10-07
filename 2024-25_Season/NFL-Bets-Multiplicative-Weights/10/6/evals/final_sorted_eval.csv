@@ -1,0 +1,36 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
+M.Williams u2.5 Recs,cowhitchurch,New York Jets,m.williams,Minnesota Vikings,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998,Y,2.0
+M.Williams u2.5 Recs,The_Oddsmaker,New York Jets,m.williams,Minnesota Vikings,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998,Y,2.0
+C.Akers u1.5 Recs,cowhitchurch,Houston Texans,c.akers,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,88,10,55,0,Clear,NRG,indoors,turf,-102.0,1.02,2.02,1.0,N,2.0
+C.Akers u1.5 Recs,The_Oddsmaker,Houston Texans,c.akers,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,88,10,55,0,Clear,NRG,indoors,turf,-102.0,1.02,2.02,1.0,N,2.0
+T.Sermon u1.5 Recs,chrisgimino_,Indianapolis Colts,t.sermon,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-128.0,1.0,1.78125,0.78125,N,6.0
+J.Cook o0.5 rush_td+rec_td,shadybiev,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,88,10,55,0,Clear,NRG,indoors,turf,110.0,1.5,3.1500000000000004,1.6500000000000004,Y,1.0
+J.Cook o0.5 rush_td+rec_td,TheTDShow,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,115.0,1.0,2.15,1.15,Y,1.0
+J.Conner o0.5 rush_td+rec_td,shadybiev,Arizona Cardinals,j.conner,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,85,3,32,1,Clear,Levi's,outdoors,grass,102.0,1.5,3.03,1.5300000000000002,N,0.0
+J.Mason o0.5 rush_td+rec_td,BetWhatHappensLive,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,160.0,1.0,2.6,1.6,N,0.0
+A.Jones u15.5 Rush Att,chrisgimino_,Minnesota Vikings,a.jones,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092,Y,7.0
+D.Henry o18.5 Rush Att,cawright95,Baltimore Ravens,d.henry,Cincinnati Bengals,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,13,53,2,Clear,Paycor,outdoors,turf,-108.0,1.08,2.08,1.0,N,15.0
+J.Daniels o9.5 Rush Att,PropBetGuy,Washington Commanders,j.daniels,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,106.0,1.0,2.06,1.06,Y,11.0
+J.Daniels o9.5 Rush Att,Markus_Markets,Washington Commanders,j.daniels,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,110.0,1.0,2.1,1.1,Y,11.0
+Z.Flowers o52.5 Rush + Rec Yds,RoyalsProps,Baltimore Ravens,z.flowers,Cincinnati Bengals,0.0,0.25,0,0.3333333333333333,0,0.25,0,83,13,53,2,Clear,Paycor,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,Y,120.0
+A.Rodgers u32.5 Pass Att,Mjaybrxd,New York Jets,a.rodgers,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092,N,54.0
+A.Rodgers u33.5 Pass Att,MoneylineHacks,New York Jets,a.rodgers,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110.0,1.5,2.863636363636364,1.3636363636363638,N,54.0
+J.Love o33.5 Pass Att,convince_me,Green Bay Packers,j.love,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,74,10,44,1,Foggy,SoFi,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335,N,26.0
+J.Love o33.5 Pass Att,nick_giffen,Green Bay Packers,j.love,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,74,10,44,1,Foggy,SoFi,indoors,turf,-125.0,1.25,2.25,1.0,N,26.0
+S.Darnold o0.5 Int,GDAWG5000,Minnesota Vikings,s.darnold,New York Jets,1.0,0.75,1,0.6666666666666666,1,0.75,1,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-115.0,0.58,1.0843478260869563,0.5043478260869564,Y,1.0
+S.Diggs u54.5 Rec Yds,Mjaybrxd,Houston Texans,s.diggs,Buffalo Bills,1.0,0.5,0,0.3333333333333333,0,0.5,0,88,10,55,0,Clear,NRG,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042,N,82.0
+E.Elliott o3.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,e.elliott,Pittsburgh Steelers,0.0,1.0,1,1.0,1,1.0,1,80,14,66,70,Clear,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5,N,0.0
+T.Higgins u21.5 Longest Reception,cowhitchurch,Cincinnati Bengals,t.higgins,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,83,13,53,2,Clear,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0,Y,17.0
+T.Higgins u21.5 Longest Reception,nick_giffen,Cincinnati Bengals,t.higgins,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,83,13,53,2,Clear,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0,Y,17.0
+Z.Ertz u14.5 Longest Reception,PropBetGuy,Washington Commanders,z.ertz,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,-119.0,1.19,2.19,1.0,Y,7.0
+C.Samuel u16.5 Longest Reception,PropBetGuy,Buffalo Bills,c.samuel,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,10,55,0,Clear,NRG,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,Y,0.0
+T.McBride u17.5 Longest Reception,PropBetGuy,Arizona Cardinals,t.mcbride,San Francisco 49ers,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,88,6,30,2,Partly Cloudy,Levi's,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996,N,22.0
+T.Lockett u18.5 Longest Reception,The_Oddsmaker,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,N,33.0
+T.Lockett u18.5 Longest Reception,cowhitchurch,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,N,33.0
+T.Lockett u18.5 Longest Reception,convince_me,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042,N,33.0
+J.Mingo u15.5 Longest Reception,PropBetGuy,Carolina Panthers,j.mingo,Chicago Bears,0.0,0.75,1,1.0,1,0.75,1,73,14,26,0,Clear,Soldier Field,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996,N,29.0
+L.Jackson o262.5 Pass + Rush Yds,Proptology,Baltimore Ravens,l.jackson,Cincinnati Bengals,0.0,0.75,1,0.6666666666666666,1,0.75,1,81,8,53,2,Clear,Paycor,outdoors,turf,-113.0,1.13,2.13,1.0,Y,403.0
+R.Stevenson u59.5 Rush Yds,ChrisRaybon,New England Patriots,r.stevenson,Miami Dolphins,1.0,0.5,0,0.6666666666666666,1,0.5,0,66,1,50,0,Clear,Gillette,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042,N,89.0
+E.Wilson o26.5 Rush Yds,PropBetGuy,Green Bay Packers,e.wilson,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,74,10,44,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0,N,24.0
+A.Ekeler o21.5 Rush Yds,moneybadger24_,Washington Commanders,a.ekeler,Cleveland Browns,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,70,3,48,1,Clear,FedExField,outdoors,grass,-120.0,1.8,3.3000000000000003,1.5000000000000002,Y,67.0
+C.Lamb o4.5 Rush Yds,PropBetGuy,Dallas Cowboys,c.lamb,Pittsburgh Steelers,0.0,0.5,0,0.3333333333333333,0,0.5,0,80,14,66,70,Clear,Acrisure,outdoors,grass,-110.0,1.1,2.1,1.0,N,2.0
