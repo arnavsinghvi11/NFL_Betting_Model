@@ -1,0 +1,26 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,T.Bass,Buffalo Bills,2,2,2,2,1006,Houston Texans,0,NRG,indoors,turf,87,55,11,0,Partly Cloudy
+1,K.Fairbairn,Houston Texans,2,2,3,3,1006,Buffalo Bills,1,NRG,indoors,turf,87,55,11,0,Partly Cloudy
+2,J.Sanders,Miami Dolphins,0,0,3,4,1006,New England Patriots,0,Gillette,outdoors,turf,64,50,3,0,Partly Cloudy
+3,J.Slye,New England Patriots,1,1,1,2,1006,Miami Dolphins,1,Gillette,outdoors,turf,64,50,3,0,Partly Cloudy
+4,B.Aubrey,Dallas Cowboys,2,2,2,3,1006,Pittsburgh Steelers,0,Acrisure,outdoors,grass,79,66,12,70,Rain
+5,C.Boswell,Pittsburgh Steelers,2,2,1,1,1006,Dallas Cowboys,1,Acrisure,outdoors,grass,79,66,12,70,Rain
+6,E.Pineiro,Carolina Panthers,1,1,1,2,1006,Chicago Bears,0,Soldier Field,outdoors,grass,73,26,14,0,Clear
+7,C.Santos,Chicago Bears,3,4,1,1,1006,Carolina Panthers,1,Soldier Field,outdoors,grass,73,26,14,0,Clear
+8,M.Gay,Indianapolis Colts,4,4,2,2,1006,Jacksonville Jaguars,0,EverBank,outdoors,grass,76,82,10,75,Overcast
+9,C.Little,Jacksonville Jaguars,4,4,3,3,1006,Indianapolis Colts,1,EverBank,outdoors,grass,76,82,10,75,Overcast
+10,C.Ryland,Arizona Cardinals,1,1,3,4,1006,San Francisco 49ers,0,Levi's,outdoors,grass,91,32,6,1,Clear
+11,J.Moody,San Francisco 49ers,2,2,2,2,1006,Arizona Cardinals,1,Levi's,outdoors,grass,91,32,6,1,Clear
+12,M.Wishnowsky,San Francisco 49ers,0,0,1,1,1006,Arizona Cardinals,1,Levi's,outdoors,grass,91,32,6,1,Clear
+13,G.Joseph,New York Giants,2,2,3,3,1006,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,65,3,1,Clear
+14,J.Myers,Seattle Seahawks,2,2,2,3,1006,New York Giants,1,Lumen Field,outdoors,turf,60,65,3,1,Clear
+15,J.Tucker,Baltimore Ravens,5,5,2,2,1006,Cincinnati Bengals,0,Paycor,outdoors,turf,84,53,14,2,Clear
+16,E.McPherson,Cincinnati Bengals,4,4,0,1,1006,Baltimore Ravens,1,Paycor,outdoors,turf,84,53,14,2,Clear
+17,G.Zuerlein,New York Jets,2,2,1,1,1006,Minnesota Vikings,0,Tottenham,outdoors,grass,59,82,9,65,Mostly Cloudy
+18,W.Reichard,Minnesota Vikings,2,2,3,3,1006,New York Jets,1,Tottenham,outdoors,grass,59,82,9,65,Mostly Cloudy
+19,D.Hopkins,Cleveland Browns,1,1,2,2,1006,Washington Commanders,0,Northwest,outdoors,grass,74,48,6,1,Partly Cloudy
+20,A.Seibert,Washington Commanders,4,4,2,2,1006,Cleveland Browns,1,Northwest,outdoors,grass,74,48,6,1,Partly Cloudy
+21,B.Narveson,Green Bay Packers,3,3,1,1,1006,Los Angeles Rams,0,SoFi,indoors,turf,72,44,6,1,Clear
+22,J.Karty,Los Angeles Rams,1,2,0,0,1006,Green Bay Packers,1,SoFi,indoors,turf,72,44,6,1,Clear
+23,D.Carlson,Las Vegas Raiders,1,1,1,1,1006,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,68,20,9,0,Clear
+24,W.Lutz,Denver Broncos,4,4,2,2,1006,Las Vegas Raiders,1,Empower Field at Mile High,outdoors,grass,68,20,9,0,Clear
