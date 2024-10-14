@@ -1,0 +1,19 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Jacobs o0.5 rush_td+rec_td,TopShelfAction,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,51,8,86,80,Rain,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+J.Mixon o0.5 rush_td+rec_td,TheTDShow,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+J.Dobbins o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,j.dobbins,Denver Broncos,0.0,0.5,0,0.3333333333333333,0,0.5,0,69,6,25,2,Partly Cloudy,Empower Field at Mile High,outdoors,grass,127.0,1.5,3.405,1.905
+C.Ridley o0.5 rush_td+rec_td,GDAWG5000,Tennessee Titans,c.ridley,Indianapolis Colts,1.0,0.25,0,0.3333333333333333,0,0.25,0,82,14,47,1,Clear,Nissan,outdoors,grass,240.0,1.0,3.4,2.4
+C.Ridley o0.5 rush_td+rec_td,TheTDShow,Tennessee Titans,c.ridley,Indianapolis Colts,1.0,0.25,0,0.3333333333333333,0,0.25,0,75,16,51,3,Clear,Nissan,outdoors,grass,240.0,1.0,3.4,2.4
+B.Irving o0.5 rush_td+rec_td,shadybiev,Tampa Bay Buccaneers,b.irving,New Orleans Saints,0.0,0.2,0,0.3333333333333333,0,0.2,0,79,6,58,0,Clear,Caesars Superdome,indoors,turf,-105.0,1.58,3.084761904761905,1.5047619047619047
+J.Conner o0.5 rush_td+rec_td,daletanhardt,Arizona Cardinals,j.conner,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,49,6,86,80,Overcast,Lambeau Field,outdoors,grass,110.0,2.0,4.2,2.2
+J.Mixon o0.5 rush_td+rec_td,GDAWG5000,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,0.5,1.2,0.7
+J.Mixon o0.5 rush_td+rec_td,TheBMatt,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+A.Gibson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,a.gibson,Houston Texans,1.0,0.0,0,0.0,0,0.0,0,45,0,61,20,Overcast,Gillette,outdoors,turf,145.0,0.5,1.225,0.7250000000000001
+B.Irving o0.5 rush_td+rec_td,theprophunter0_,Tampa Bay Buccaneers,b.irving,New Orleans Saints,0.0,0.2,0,0.3333333333333333,0,0.2,0,79,6,58,0,Clear,Caesars Superdome,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+J.Gibbs o0.5 rush_td+rec_td,cowhitchurch,Detroit Lions,j.gibbs,Dallas Cowboys,0.0,0.75,1,0.6666666666666666,1,0.75,1,97,7,15,1,Clear,AT&amp;T,indoors,turf,109.0,0.5,1.045,0.5449999999999999
+J.Jacobs o0.5 rush_td+rec_td,JBBets1,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,50,0,86,80,Overcast,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+D.Henry o0.5 rush_td+rec_td,CroweRadio,Baltimore Ravens,d.henry,Washington Commanders,1.0,1.0,1,1.0,1,1.0,1,74,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-195.0,0.4,0.6051282051282052,0.2051282051282051
+B.Robinson o0.5 rush_td+rec_td,JBBets1,Washington Commanders,b.robinson,Baltimore Ravens,0.0,0.8,1,1.0,1,0.8,1,74,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-135.0,1.0,1.7407407407407407,0.7407407407407407
+J.Chase o0.5 rush_td+rec_td,JBBets1,Cincinnati Bengals,j.chase,New York Giants,0.0,0.6,1,1.0,1,0.6,1,69,6,59,21,Rain,MetLife,outdoors,turf,105.0,1.0,2.05,1.0499999999999998
+T.Pollard o0.5 rush_td+rec_td,JBBets1,Tennessee Titans,t.pollard,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,77,14,51,3,Clear,Nissan,outdoors,grass,120.0,1.0,2.2,1.2000000000000002
+C.Hubbard o0.5 rush_td+rec_td,TopShelfAction,Carolina Panthers,c.hubbard,Atlanta Falcons,1.0,0.75,1,1.0,1,0.75,1,78,10,44,1,Clear,Bank of America,outdoors,grass,115.0,1.0,2.15,1.15

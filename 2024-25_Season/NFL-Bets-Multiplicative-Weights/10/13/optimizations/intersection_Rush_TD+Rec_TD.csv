@@ -1,0 +1,10 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Jacobs o0.5 rush_td+rec_td,TopShelfAction,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,51,8,86,80,Rain,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+J.Mixon o0.5 rush_td+rec_td,TheTDShow,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+J.Dobbins o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,j.dobbins,Denver Broncos,0.0,0.5,0,0.3333333333333333,0,0.5,0,69,6,25,2,Partly Cloudy,Empower Field at Mile High,outdoors,grass,127.0,1.5,3.405,1.905
+J.Conner o0.5 rush_td+rec_td,daletanhardt,Arizona Cardinals,j.conner,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,49,6,86,80,Overcast,Lambeau Field,outdoors,grass,110.0,2.0,4.2,2.2
+J.Mixon o0.5 rush_td+rec_td,GDAWG5000,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,0.5,1.2,0.7
+J.Mixon o0.5 rush_td+rec_td,TheBMatt,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+J.Jacobs o0.5 rush_td+rec_td,JBBets1,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,50,0,86,80,Overcast,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+D.Henry o0.5 rush_td+rec_td,CroweRadio,Baltimore Ravens,d.henry,Washington Commanders,1.0,1.0,1,1.0,1,1.0,1,74,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-195.0,0.4,0.6051282051282052,0.2051282051282051
+B.Robinson o0.5 rush_td+rec_td,JBBets1,Washington Commanders,b.robinson,Baltimore Ravens,0.0,0.8,1,1.0,1,0.8,1,74,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-135.0,1.0,1.7407407407407407,0.7407407407407407

@@ -1,0 +1,15 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+201,J.Jacobs o0.5 rush_td+rec_td,TopShelfAction,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,51,9,86,80,Rain,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+202,J.Hurts o0.5 rush_td+rec_td,sirlockselot_,Philadelphia Eagles,j.hurts,Cleveland Browns,1.0,0.0,0,0.0,0,0.0,0,76,9,42,4,Rain,Lincoln Financial Field,outdoors,grass,115.0,2.0,4.3,2.3
+209,J.Mixon o0.5 rush_td+rec_td,TheTDShow,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+211,J.Daniels o0.5 rush_td+rec_td,TheTDShow,Washington Commanders,j.daniels,Baltimore Ravens,0.0,0.0,0,0.0,0,0.0,0,71,10,39,2,Rain,M&amp;T Bank,outdoors,grass,155.0,1.0,2.55,1.5499999999999998
+213,J.Dobbins o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,j.dobbins,Denver Broncos,0.0,0.5,0,0.3333333333333333,0,0.5,0,55,6,25,2,Partly Cloudy,Empower Field at Mile High,outdoors,grass,127.0,1.5,3.405,1.905
+216,J.Conner o0.5 rush_td+rec_td,daletanhardt,Arizona Cardinals,j.conner,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,49,9,86,80,Overcast,Lambeau Field,outdoors,grass,110.0,2.0,4.2,2.2
+221,J.Mixon o0.5 rush_td+rec_td,GDAWG5000,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,0.5,1.2,0.7
+222,J.Mixon o0.5 rush_td+rec_td,TheBMatt,Houston Texans,j.mixon,New England Patriots,0.0,0.5,0,0.5,0,0.5,0,45,0,61,20,Overcast,Gillette,outdoors,turf,140.0,1.0,2.4,1.4
+229,J.Downs o0.5 rush_td+rec_td,theprophunter0_,Indianapolis Colts,j.downs,Tennessee Titans,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,16,51,3,Clear,Nissan,outdoors,grass,250.0,0.5,1.75,1.25
+236,J.Gibbs o0.5 rush_td+rec_td,cowhitchurch,Detroit Lions,j.gibbs,Dallas Cowboys,0.0,0.75,1,0.6666666666666666,1,0.75,1,97,8,15,1,Clear,AT&amp;T,indoors,turf,109.0,0.5,1.045,0.5449999999999999
+237,J.Jacobs o0.5 rush_td+rec_td,JBBets1,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.2,0,0.3333333333333333,0,0.2,0,50,9,86,80,Overcast,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+239,T.Pollard o0.5 rush_td+rec_td,JBBets1,Tennessee Titans,t.pollard,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,77,14,51,3,Clear,Nissan,outdoors,grass,120.0,1.0,2.2,1.2000000000000002
+248,B.Robinson o0.5 rush_td+rec_td,JBBets1,Washington Commanders,b.robinson,Baltimore Ravens,0.0,0.8,1,1.0,1,0.8,1,74,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-135.0,1.0,1.7407407407407407,0.7407407407407407
+268,R.Dowdle o0.5 rush_td+rec_td,BetWhatHappensLive,Dallas Cowboys,r.dowdle,Detroit Lions,1.0,0.4,0,0.6666666666666666,1,0.4,0,95,8,21,1,Clear,AT&amp;T,indoors,turf,500.0,0.5,3.0,2.5
