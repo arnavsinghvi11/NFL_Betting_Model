@@ -1,0 +1,88 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Allen o246.5 passing + rushing yards,Rotowire Sleeper,Buffalo Bills,j.allen,New York Jets,0.0,0.4,0,0.3333333333333333,0,0.4,0,53,10,52,4,Partly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+J.Allen o1.5 Int,wheatonbrando,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,53,17,52,4,Partly Cloudy,MetLife,outdoors,turf,375.0,0.25,1.1875,0.9375
+J.Allen o0.5 Int,wheatonbrando,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,53,17,52,4,Partly Cloudy,MetLife,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+B.Allen o30.5 rushing yards,Rotowire Prizepicks,New York Jets,b.allen,Buffalo Bills,1.0,0.75,1,0.6666666666666666,1,0.75,1,53,14,48,3,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Allen o0.5 rush_td+rec_td,GDAWG5000,New York Jets,b.allen,Buffalo Bills,1.0,0.25,0,0.0,0,0.25,0,53,14,48,3,Clear,MetLife,outdoors,turf,350.0,0.5,2.25,1.75
+K.Coleman o34.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.coleman,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,52,13,48,3,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Allen o31.5 rushing yards,Rotowire Prizepicks,New York Jets,b.allen,Buffalo Bills,1.0,0.75,1,0.6666666666666666,1,0.75,1,52,13,48,3,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+J.Cook o54.5 rushing yards,Rotowire Sleeper,Buffalo Bills,j.cook,New York Jets,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+J.Allen o30.5 pass attempts,Rotowire Prizepicks,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+C.Samuel o0.5 rush_td+rec_td,GDAWG5000,Buffalo Bills,c.samuel,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,13,54,1,Clear,MetLife,outdoors,turf,550.0,0.5,3.25,2.75
+B.Hall o81.5 rushing + receiving yards,Rotowire Sleeper,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Hall o54.5 rushing yards,Rotowire Sleeper,New York Jets,b.hall,Buffalo Bills,1.0,0.2,0,0.0,0,0.2,0,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+A.Rodgers o2.5 rushing yards,Rotowire Prizepicks,New York Jets,a.rodgers,Buffalo Bills,1.0,0.4,0,0.6666666666666666,1,0.4,0,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+J.Allen o6.5 Rush Att,PropBetGuy,Buffalo Bills,j.allen,New York Jets,0.0,0.2,0,0.0,0,0.2,0,52,13,54,1,Clear,MetLife,outdoors,turf,-130.0,1.3,2.3,0.9999999999999998
+B.Hall o55.5 Rush Yds,kylemurray03,New York Jets,b.hall,Buffalo Bills,1.0,0.2,0,0.0,0,0.2,0,52,13,54,1,Clear,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+J.Allen o33.5 Rush Yds,kylemurray03,Buffalo Bills,j.allen,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,52,13,54,1,Clear,MetLife,outdoors,turf,-112.0,1.12,2.12,1.0
+B.Hall o13.5 Rush Att,kylemurray03,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,13,54,1,Clear,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
+B.Allen u1.5 Recs,kylemurray03,New York Jets,b.allen,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.5,0,52,13,54,1,Clear,MetLife,outdoors,turf,100.0,1.0,2.0,1.0
+J.Allen o0.5 Int,MJCLocks,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,13,54,1,Clear,MetLife,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
+T.Bass o1.5 FGs Made,PropBomb,Buffalo Bills,t.bass,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,52,13,54,1,Clear,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
+B.Hall o13.5 Rush Att,ThePropfessor_,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+T.Conklin u30.5 Rec Yds,Theotherbabs,New York Jets,t.conklin,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-125.0,1.0,1.8,0.8
+B.Hall o56.5 Rush Yds,cawright95,New York Jets,b.hall,Buffalo Bills,1.0,0.2,0,0.0,0,0.2,0,52,14,56,1,Clear,MetLife,outdoors,turf,-117.0,1.17,2.17,1.0
+B.Hall o24.5 Receiving Yards,Markus_Markets,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-128.0,1.0,1.78125,0.78125
+B.Hall o61.5 Rush Yds,sandyplashkes,New York Jets,b.hall,Buffalo Bills,1.0,0.2,0,0.0,0,0.2,0,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
+A.Rodgers o2.5 Rush Yds,MoneylineHacks,New York Jets,a.rodgers,Buffalo Bills,1.0,0.4,0,0.6666666666666666,1,0.4,0,52,14,56,1,Clear,MetLife,outdoors,turf,-108.0,1.0,1.925925925925926,0.925925925925926
+B.Hall o99.5 Rushing Yards,therocketplays,New York Jets,b.hall,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,600.0,0.25,1.75,1.5
+B.Hall o69.5 Rushing Yards,therocketplays,New York Jets,b.hall,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,210.0,0.5,1.55,1.05
+B.Hall o57.5 Rush Yds,therocketplays,New York Jets,b.hall,Buffalo Bills,1.0,0.2,0,0.0,0,0.2,0,52,14,56,1,Clear,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0
+D.Kincaid u38.5 receiving yards,Shawn Wronka,Buffalo Bills,d.kincaid,New York Jets,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,0.75,1.5,0.75
+T.Conklin o26.5 receiving yards,Shawn Wronka,New York Jets,t.conklin,Buffalo Bills,1.0,0.4,0,0.6666666666666666,1,0.4,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,0.75,1.5,0.75
+J.Allen o0.5 interceptions thrown,Shawn Wronka,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,0.75,1.5,0.75
+J.Allen o29.5 pass attempts,Rotowire Sleeper,Buffalo Bills,j.allen,New York Jets,0.0,0.4,0,0.6666666666666666,1,0.4,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Allen o33.5 rushing yards,Rotowire Prizepicks,New York Jets,b.allen,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.5,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+M.Williams o26.5 receiving yards,Rotowire Prizepicks,New York Jets,m.williams,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.5,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Hall o86.5 rushing + receiving yards,Rotowire Sleeper,New York Jets,b.hall,Buffalo Bills,1.0,0.4,0,0.0,0,0.4,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+A.Rodgers o222.5 passing + rushing yards,Rotowire Prizepicks,New York Jets,a.rodgers,Buffalo Bills,1.0,0.6,1,1.0,1,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+A.Rodgers o210.5 passing yards,Rotowire Sleeper,New York Jets,a.rodgers,Buffalo Bills,1.0,0.6,1,1.0,1,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+J.Allen o29.5 pass attempts,Rotowire Prizepicks,Buffalo Bills,j.allen,New York Jets,0.0,0.4,0,0.6666666666666666,1,0.4,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+A.Rodgers o213.5 Pass Yds,shadybiev,New York Jets,a.rodgers,Buffalo Bills,1.0,0.6,1,1.0,1,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,2.2,4.2,2.0
+B.Hall o0.5 rush_td+rec_td,boomerslocks,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+B.Hall o0.5 rush_td+rec_td,shadybiev,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-105.0,3.0,5.857142857142857,2.8571428571428568
+B.Hall o25.5 Rec Yds,charliedisturco,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,0.55,1.05,0.5
+A.Lazard o35.5 Rec Yds,shadybiev,New York Jets,a.lazard,Buffalo Bills,1.0,0.6,1,0.6666666666666666,1,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-112.0,2.24,4.24,2.0
+J.Cook o58.5 Rush Yds,moneybadger24_,Buffalo Bills,j.cook,New York Jets,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,1.65,3.15,1.5
+B.Hall u59.5 Rush Yds,GDAWG5000,New York Jets,b.hall,Buffalo Bills,1.0,0.8,1,1.0,1,0.8,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,0.55,1.05,0.5
+B.Hall u59.5 Rush Yds,The_Oddsmaker,New York Jets,b.hall,Buffalo Bills,1.0,0.8,1,1.0,1,0.8,1,52,14,56,1,Clear,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+B.Allen o9.5 Rec Yds,charliedisturco,New York Jets,b.allen,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,0.55,1.05,0.5
+D.Kincaid u3.5 Recs,cowhitchurch,Buffalo Bills,d.kincaid,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,52,14,56,1,Clear,MetLife,outdoors,turf,145.0,0.5,1.225,0.7250000000000001
+D.Knox u8.5 Rec Yds,cowhitchurch,Buffalo Bills,d.knox,New York Jets,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,0.55,1.05,0.5
+B.Hall u59.5 Rush Yds,cowhitchurch,New York Jets,b.hall,Buffalo Bills,1.0,0.8,1,1.0,1,0.8,1,52,14,56,1,Clear,MetLife,outdoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+M.Williams u16.5 Longest Reception,cowhitchurch,New York Jets,m.williams,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,0.5,1.0,0.5
+M.Williams u16.5 Longest Reception,GDAWG5000,New York Jets,m.williams,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,0.5,1.0,0.5
+M.Williams u16.5 Longest Reception,nick_giffen,New York Jets,m.williams,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,100.0,1.0,2.0,1.0
+B.Hall u59.5 Rush Yds,GreenDotDaily,New York Jets,b.hall,Buffalo Bills,1.0,0.8,1,1.0,1,0.8,1,52,14,56,1,Clear,MetLife,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+M.Williams u16.5 Longest Reception,GreenDotDaily,New York Jets,m.williams,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+J.Allen o0.5 Int,GreenDotDaily,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,-128.0,1.0,1.78125,0.78125
+B.Allen o0.5 rush_td+rec_td,GreenDotDaily,New York Jets,b.allen,Buffalo Bills,1.0,0.25,0,0.0,0,0.25,0,52,14,56,1,Clear,MetLife,outdoors,turf,350.0,0.5,2.25,1.75
+C.Samuel o0.5 rush_td+rec_td,GreenDotDaily,Buffalo Bills,c.samuel,New York Jets,0.0,0.0,0,0.0,0,0.0,0,52,14,56,1,Clear,MetLife,outdoors,turf,550.0,0.25,1.625,1.375
+B.Hall o3.5 Recs,TopShelfAction,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,-146.0,1.0,1.6849315068493151,0.6849315068493151
+J.Allen o18.5 Pass Comp,sirlockselot_,Buffalo Bills,j.allen,New York Jets,0.0,0.2,0,0.3333333333333333,0,0.2,0,51,17,54,2,Clear,MetLife,outdoors,turf,102.0,2.0,4.04,2.04
+D.Kincaid u41.5 Rec Yds,TopShelfAction,Buffalo Bills,d.kincaid,New York Jets,0.0,0.8,1,0.6666666666666666,1,0.8,1,51,17,54,2,Clear,MetLife,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+J.Ruckert o4.5 receiving yards,Rotowire Prizepicks,New York Jets,j.ruckert,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+G.Wilson u21.5 Longest Reception,PropBetGuy,New York Jets,g.wilson,Buffalo Bills,1.0,0.6,1,0.6666666666666666,1,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,-123.0,1.23,2.23,1.0
+B.Hall o24.5 Receiving Yards,JBBets1,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
+J.Allen o0.5 Int,TopShelfAction,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,51,17,54,2,Clear,MetLife,outdoors,turf,-128.0,1.0,1.78125,0.78125
+A.Rodgers o221.5 passing + rushing yards,Rotowire Prizepicks,New York Jets,a.rodgers,Buffalo Bills,1.0,0.6,1,1.0,1,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+K.Shakir o30.5 receiving yards,Rotowire Sleeper,Buffalo Bills,k.shakir,New York Jets,0.0,1.0,1,1.0,1,1.0,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+M.Hollins o14.5 Longest Reception,KyleJustBets,Buffalo Bills,m.hollins,New York Jets,0.0,0.4,0,0.6666666666666666,1,0.4,0,51,17,54,2,Clear,MetLife,outdoors,turf,-115.0,0.5,0.934782608695652,0.4347826086956521
+B.Allen o0.5 rush_td+rec_td,theprophunter0_,New York Jets,b.allen,Buffalo Bills,1.0,0.25,0,0.0,0,0.25,0,51,17,54,2,Clear,MetLife,outdoors,turf,275.0,0.5,1.875,1.375
+T.Bass o1.5 FGs Made,theprophunter0_,Buffalo Bills,t.bass,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+T.Conklin o3.5 Recs,theprophunter0_,New York Jets,t.conklin,Buffalo Bills,1.0,0.6,1,1.0,1,0.6,1,51,17,54,2,Clear,MetLife,outdoors,turf,125.0,1.0,2.25,1.25
+D.Knox u8.5 Rec Yds,nick_giffen,Buffalo Bills,d.knox,New York Jets,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,0.5,1.0,0.5
+D.Kincaid o0.5 rush_td+rec_td,theprophunter0_,Buffalo Bills,d.kincaid,New York Jets,0.0,0.2,0,0.3333333333333333,0,0.2,0,51,17,54,2,Clear,MetLife,outdoors,turf,270.0,0.5,1.85,1.35
+R.Davis o0.5 rush_td+rec_td,theprophunter0_,Buffalo Bills,r.davis,New York Jets,0.0,0.0,0,0.0,0,0.0,0,51,17,54,2,Clear,MetLife,outdoors,turf,545.0,0.25,1.6125,1.3625
+K.Shakir o31.5 rushing + receiving yards,Rotowire Sleeper,Buffalo Bills,k.shakir,New York Jets,0.0,1.0,1,1.0,1,1.0,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+K.Shakir o32.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.shakir,New York Jets,0.0,1.0,1,1.0,1,1.0,1,51,17,54,2,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+R.Davis o7.5 Rec Yds,chrisgimino_,Buffalo Bills,r.davis,New York Jets,0.0,0.0,0,0.0,0,0.0,0,56,17,54,2,Partly Cloudy,MetLife,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+K.Shakir o32.5 receiving yards,Rotowire Sleeper,Buffalo Bills,k.shakir,New York Jets,0.0,1.0,1,1.0,1,1.0,1,56,17,54,2,Partly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+C.Samuel o10.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,c.samuel,New York Jets,0.0,0.4,0,0.3333333333333333,0,0.4,0,56,17,54,2,Partly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Hall o0.5 rush_td+rec_td,JBBets1,New York Jets,b.hall,Buffalo Bills,1.0,0.6,1,0.3333333333333333,0,0.6,1,54,17,54,2,Mostly Cloudy,MetLife,outdoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524
+R.Davis o6.5 Rec Yds,kylemurray03,Buffalo Bills,r.davis,New York Jets,0.0,0.0,0,0.0,0,0.0,0,54,17,54,2,Mostly Cloudy,MetLife,outdoors,turf,-110.0,2.2,4.2,2.0
+J.Allen o244.5 passing + rushing yards,Rotowire Prizepicks,Buffalo Bills,j.allen,New York Jets,0.0,0.4,0,0.3333333333333333,0,0.4,0,54,17,54,2,Mostly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+A.Lazard o0.5 rush_td+rec_td,shadybiev,New York Jets,a.lazard,Buffalo Bills,1.0,0.6,1,0.6666666666666666,1,0.6,1,50,17,54,2,Partly Cloudy,MetLife,outdoors,turf,277.0,1.0,3.77,2.77
+J.Allen o0.5 rush_td+rec_td,shadybiev,Buffalo Bills,j.allen,New York Jets,0.0,0.0,0,0.0,0,0.0,0,50,17,54,2,Partly Cloudy,MetLife,outdoors,turf,125.0,1.5,3.375,1.875
+T.Johnson o6.5 Rush Att,charliedisturco,Buffalo Bills,t.johnson,New York Jets,0.0,0.0,0,0.0,0,0.0,0,50,17,54,2,Partly Cloudy,MetLife,outdoors,turf,-110.0,0.55,1.05,0.5
+T.Johnson o6.5 Rush Att,AnthonyDabbundo,Buffalo Bills,t.johnson,New York Jets,0.0,0.0,0,0.0,0,0.0,0,50,17,54,2,Partly Cloudy,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
