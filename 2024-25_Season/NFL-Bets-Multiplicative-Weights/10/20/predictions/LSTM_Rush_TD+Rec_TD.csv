@@ -1,0 +1,10 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+95,J.Mason o0.5 rush_td+rec_td,gneiffer07,San Francisco 49ers,j.mason,Kansas City Chiefs,1.0,0.5,0,0.3333333333333333,0,0.4,0,75,3,30,1,Partly Cloudy,Levi's,outdoors,grass,110.0,1.0,2.1,1.1
+143,Z.Charbonnet o0.5 rush_td+rec_td,CroweRadio,Seattle Seahawks,z.charbonnet,Atlanta Falcons,0.0,0.5,0,0.0,0,0.4,0,70,6,33,0,Clear,Mercedes-Benz,indoors,turf,350.0,0.4,1.8,1.4
+165,S.Barkley o0.5 rush_td+rec_td,Proptology,Philadelphia Eagles,s.barkley,New York Giants,0.0,0.4,0,0.3333333333333333,0,0.4,0,70,5,33,0,Clear,MetLife,outdoors,turf,-150.0,1.0,1.6666666666666663,0.6666666666666665
+218,J.Jacobs o0.5 rush_td+rec_td,shadybiev,Green Bay Packers,j.jacobs,Houston Texans,1.0,0.1666666666666666,0,0.3333333333333333,0,0.2,0,64,10,43,1,Clear,Lambeau Field,outdoors,grass,-110.0,3.0,5.727272727272728,2.7272727272727275
+219,D.Achane o0.5 rush_td+rec_td,shadybiev,Miami Dolphins,d.achane,Indianapolis Colts,0.0,0.5,0,0.3333333333333333,0,0.5,0,58,5,41,0,Clear,Lucas Oil,indoors,turf,145.0,1.5,3.675,2.1750000000000003
+221,J.Mason o0.5 rush_td+rec_td,shadybiev,San Francisco 49ers,j.mason,Kansas City Chiefs,1.0,0.5,0,0.3333333333333333,0,0.4,0,76,3,29,0,Partly Cloudy,Levi's,outdoors,grass,-115.0,2.3,4.299999999999999,1.9999999999999991
+233,S.Barkley o0.5 rush_td+rec_td,theprophunter0_,Philadelphia Eagles,s.barkley,New York Giants,0.0,0.4,0,0.3333333333333333,0,0.4,0,62,8,31,0,Foggy,MetLife,outdoors,turf,-130.0,0.5,0.8846153846153846,0.3846153846153846
+255,C.Hubbard o0.5 rush_td+rec_td,shadybiev,Carolina Panthers,c.hubbard,Washington Commanders,0.0,0.6,1,0.6666666666666666,1,0.6,1,75,3,24,0,Clear,FedExField,outdoors,grass,-115.0,1.73,3.2343478260869563,1.5043478260869565
+262,B.Robinson o0.5 rush_td+rec_td,JBBets1,Atlanta Falcons,b.robinson,Seattle Seahawks,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,68,5,32,0,Clear,Mercedes-Benz,indoors,turf,-155.0,1.0,1.6451612903225803,0.6451612903225805

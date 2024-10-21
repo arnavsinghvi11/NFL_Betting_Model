@@ -1,0 +1,7 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+S.Barkley o0.5 rush_td+rec_td,Proptology,Philadelphia Eagles,s.barkley,New York Giants,0.0,0.4,0,0.3333333333333333,0,0.4,0,70,5,33,0,Clear,MetLife,outdoors,turf,-150.0,1.0,1.6666666666666663,0.6666666666666665
+J.Jefferson o0.5 rush_td+rec_td,MJCLocks,Minnesota Vikings,j.jefferson,Detroit Lions,1.0,0.8,1,0.6666666666666666,1,0.8,1,70,10,56,1,Clear,U.S. Bank,indoors,turf,-110.0,1.2,2.290909090909091,1.090909090909091
+J.Jacobs o0.5 rush_td+rec_td,shadybiev,Green Bay Packers,j.jacobs,Houston Texans,1.0,0.1666666666666666,0,0.3333333333333333,0,0.2,0,64,10,43,1,Clear,Lambeau Field,outdoors,grass,-110.0,3.0,5.727272727272728,2.7272727272727275
+D.Metcalf o0.5 rush_td+rec_td,TheTDShow,Seattle Seahawks,d.metcalf,Atlanta Falcons,0.0,0.3333333333333333,0,0.0,0,0.4,0,63,5,32,0,Clear,Mercedes-Benz,indoors,turf,140.0,1.0,2.4,1.4
+J.Jefferson o0.5 rush_td+rec_td,theprophunter0_,Minnesota Vikings,j.jefferson,Detroit Lions,1.0,0.8,1,0.6666666666666666,1,0.8,1,64,11,51,0,Clear,U.S. Bank,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+S.Barkley o0.5 rush_td+rec_td,theprophunter0_,Philadelphia Eagles,s.barkley,New York Giants,0.0,0.4,0,0.3333333333333333,0,0.4,0,62,0,31,0,Foggy,MetLife,outdoors,turf,-130.0,0.5,0.8846153846153846,0.3846153846153846
