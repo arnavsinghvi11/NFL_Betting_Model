@@ -1,0 +1,12 @@
+,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,K.Hunt u2.5 Recs,TopShelfAction,k.hunt,Y,2.0,Kansas City Chiefs,San Francisco 49ers,0.0,1.0,1,1.0,1,1.0,1,75,3,30,1,Partly Cloudy,Levi's,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
+1,J.Smith u2.5 Recs,TopShelfAction,j.smith,N,7.0,Miami Dolphins,Indianapolis Colts,0.0,0.6,1,0.6666666666666666,1,0.6,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+2,J.Waddle o3.5 Recs,MillyProps,j.waddle,N,1.0,Miami Dolphins,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,-128.0,1.0,1.78125,0.78125
+3,J.Downs o4.5 Recs,cawright95,j.downs,N,1.0,Indianapolis Colts,Miami Dolphins,1.0,0.75,1,1.0,1,0.75,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,115.0,1.0,2.15,1.15
+4,B.Aiyuk u4.5 Recs,nick_giffen,b.aiyuk,Y,2.0,San Francisco 49ers,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,75,5,31,0,Mostly Cloudy,Levi's,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
+5,J.Waddle o3.5 Recs,PropBetGuy,j.waddle,N,1.0,Miami Dolphins,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,67,5,43,0,Clear,Lucas Oil,indoors,turf,-128.0,1.28,2.28,1.0000000000000002
+6,D.Metcalf o4.5 Recs,kylemurray03,d.metcalf,N,4.0,Seattle Seahawks,Atlanta Falcons,0.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,70,6,33,0,Clear,Mercedes-Benz,indoors,turf,-125.0,1.25,2.25,1.0
+7,M.Nabers o6.5 Recs,kylemurray03,m.nabers,N,4.0,New York Giants,Philadelphia Eagles,1.0,0.75,1,1.0,1,0.75,1,70,5,33,0,Clear,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
+8,A.Brown o5.5 Recs,kylemurray03,a.brown,N,5.0,Philadelphia Eagles,New York Giants,0.0,0.5,0,0.5,0,0.5,0,70,5,33,0,Clear,MetLife,outdoors,turf,110.0,1.0,2.1,1.1
+9,M.Nabers o6.5 Recs,therocketplays,m.nabers,N,4.0,New York Giants,Philadelphia Eagles,1.0,0.75,1,1.0,1,0.75,1,70,5,33,0,Clear,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
+10,J.Mason u1.5 Recs,PropBetGuy,j.mason,N,2.0,San Francisco 49ers,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,78,0,29,0,Clear,Levi's,outdoors,grass,-109.0,1.09,2.0900000000000003,1.0000000000000002

@@ -1,0 +1,114 @@
+,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,G.Pickens,Pittsburgh Steelers,9,5,111,1,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,79.0,1020,New York Jets,1,Acrisure,outdoors,grass,73,45,7,0,Clear
+1,J.Warren,Pittsburgh Steelers,3,2,15,0,12,44,0,2,44,3.7,0,0.0,0,0,10,11,0,0,0,0,0,0,0,51.0,1020,New York Jets,1,Acrisure,outdoors,grass,73,45,7,0,Clear
+2,N.Harris,Pittsburgh Steelers,1,0,0,0,21,102,1,4,102,4.9,0,0.0,0,0,34,0,0,0,0,0,0,0,0,49.0,1020,New York Jets,1,Acrisure,outdoors,grass,73,45,7,0,Clear
+3,R.Wilson,Pittsburgh Steelers,0,0,0,0,3,3,1,0,0,0,0,0,0,0,1,0,0,2,3,1.0,0,0.0,0,100.0,1020,New York Jets,1,Acrisure,outdoors,grass,73,45,7,0,Clear
+4,G.Wilson,New York Jets,9,5,61,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,100.0,1020,Pittsburgh Steelers,0,Acrisure,outdoors,grass,73,45,7,0,Clear
+5,B.Hall,New York Jets,9,6,103,0,12,38,1,2,38,3.2,0,0.0,0,0,13,57,0,0,0,0,0,0,0,82.0,1020,Pittsburgh Steelers,0,Acrisure,outdoors,grass,73,45,7,0,Clear
+6,A.Rodgers,New York Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,100.0,1020,Pittsburgh Steelers,0,Acrisure,outdoors,grass,73,45,7,0,Clear
+7,W.Robinson,New York Giants,9,6,23,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,84.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+8,M.Nabers,New York Giants,8,4,41,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,93.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+9,D.Singletary,New York Giants,1,1,3,0,5,18,0,0,18,3.6,0,0.0,0,0,10,3,0,0,0,0,0,0,0,21.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+10,T.Tracy,New York Giants,3,3,9,0,6,23,0,2,23,3.8,0,0.0,0,0,8,4,0,0,0,0,0,0,0,67.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+11,D.Lock,New York Giants,0,0,0,0,1,13,0,0,0,0,0,0,0,0,13,0,0,1,13,13.0,0,0.0,0,21.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+12,D.Jones,New York Giants,0,0,0,0,5,20,0,0,0,0,0,0,0,0,9,0,0,1,20,4.0,0,0.0,0,79.0,1020,Philadelphia Eagles,1,MetLife,outdoors,turf,62,31,8,0,Foggy
+13,J.Dotson,Philadelphia Eagles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58.0,1020,New York Giants,0,MetLife,outdoors,turf,62,31,8,0,Foggy
+14,K.Gainwell,Philadelphia Eagles,1,1,11,0,13,56,0,3,56,4.3,0,0.0,0,0,14,11,0,0,0,0,0,0,0,36.0,1020,New York Giants,0,MetLife,outdoors,turf,62,31,8,0,Foggy
+15,S.Barkley,Philadelphia Eagles,3,2,11,0,17,176,1,6,176,10.4,0,0.0,0,0,55,10,0,0,0,0,0,0,0,53.0,1020,New York Giants,0,MetLife,outdoors,turf,62,31,8,0,Foggy
+16,J.Hurts,Philadelphia Eagles,0,0,0,0,7,22,2,0,0,0,0,0,0,0,16,0,0,4,22,3.1,0,0.0,0,82.0,1020,New York Giants,0,MetLife,outdoors,turf,62,31,8,0,Foggy
+17,C.Watson,Green Bay Packers,2,1,9,0,1,-4,0,0,-4,-4.0,0,0.0,0,0,0,9,0,0,0,0,0,0,0,53.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+18,J.Reed,Green Bay Packers,4,2,10,0,1,0,0,0,0,0.0,0,0.0,0,0,0,6,0,0,0,0,0,0,0,74.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+19,T.Kraft,Green Bay Packers,4,3,33,1,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,95.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+20,E.Wilson,Green Bay Packers,0,0,0,0,5,11,0,1,11,2.2,0,0.0,0,0,5,0,0,0,0,0,0,0,0,21.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+21,J.Jacobs,Green Bay Packers,5,5,16,1,12,76,0,3,76,6.3,0,0.0,0,0,27,8,0,0,0,0,0,0,0,67.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+22,J.Love,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100.0,1020,Houston Texans,1,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+23,T.Dell,Houston Texans,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72.0,1020,Green Bay Packers,0,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+24,S.Diggs,Houston Texans,7,5,23,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,81.0,1020,Green Bay Packers,0,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+25,D.Ogunbowale,Houston Texans,1,0,0,0,1,6,0,1,6,6.0,0,0.0,0,0,6,0,0,0,0,0,0,0,0,23.0,1020,Green Bay Packers,0,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+26,J.Mixon,Houston Texans,3,2,9,0,25,115,2,6,115,4.6,0,0.0,0,0,32,11,0,0,0,0,0,0,0,66.0,1020,Green Bay Packers,0,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+27,C.Stroud,Houston Texans,0,0,0,0,5,19,0,0,0,0,0,0,0,0,10,0,0,2,19,3.8,0,0.0,0,100.0,1020,Green Bay Packers,0,Lambeau Field,outdoors,grass,68,43,9,1,Clear
+28,C.Tillman,Cleveland Browns,12,8,81,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,82.0,1020,Cincinnati Bengals,1,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+29,P.Strong,Cleveland Browns,3,1,9,0,3,6,0,0,6,2.0,0,0.0,0,0,4,9,0,0,0,0,0,0,0,50.0,1020,Cincinnati Bengals,1,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+30,N.Chubb,Cleveland Browns,3,1,10,0,11,22,1,1,22,2.0,0,0.0,0,0,5,10,0,0,0,0,0,0,0,36.0,1020,Cincinnati Bengals,1,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+31,D.Watson,Cleveland Browns,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0.0,0,0.0,0,39.0,1020,Cincinnati Bengals,1,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+32,D.Thompson-Robinson,Cleveland Browns,0,0,0,0,3,44,0,0,0,0,0,0,0,0,34,0,0,2,44,14.7,0,0.0,0,45.0,1020,Cincinnati Bengals,1,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+33,Z.Moss,Cincinnati Bengals,3,3,33,0,6,7,0,0,7,1.2,0,0.0,0,0,3,19,0,0,0,0,0,0,0,49.0,1020,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+34,J.Chase,Cincinnati Bengals,6,5,55,1,1,11,0,1,11,11.0,0,0.0,0,0,11,18,0,0,0,0,0,0,0,87.0,1020,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+35,C.Brown,Cincinnati Bengals,2,2,9,0,15,44,0,2,44,2.9,0,0.0,0,0,22,6,0,0,0,0,0,0,0,58.0,1020,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+36,J.Burrow,Cincinnati Bengals,0,0,0,0,3,-3,0,0,0,0,0,0,0,0,0,0,0,0,-3,-1.0,0,0.0,0,100.0,1020,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,67,51,5,1,Clear
+37,J.Addison,Minnesota Vikings,4,3,66,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,0,0,0,0,85.0,1020,Detroit Lions,1,U.S. Bank,indoors,turf,68,51,14,0,Clear
+38,J.Nailor,Minnesota Vikings,5,4,76,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,73.0,1020,Detroit Lions,1,U.S. Bank,indoors,turf,68,51,14,0,Clear
+39,J.Jefferson,Minnesota Vikings,8,7,81,1,1,3,0,0,3,3.0,0,0.0,0,0,3,25,0,0,0,0,0,0,0,97.0,1020,Detroit Lions,1,U.S. Bank,indoors,turf,68,51,14,0,Clear
+40,A.Jones,Minnesota Vikings,3,3,23,0,14,93,1,3,93,6.6,0,0.0,0,0,34,17,0,0,0,0,0,0,0,72.0,1020,Detroit Lions,1,U.S. Bank,indoors,turf,68,51,14,0,Clear
+41,S.Darnold,Minnesota Vikings,0,0,0,0,4,39,0,0,0,0,0,0,0,0,19,0,0,1,39,9.8,0,0.0,0,100.0,1020,Detroit Lions,1,U.S. Bank,indoors,turf,68,51,14,0,Clear
+42,J.Williams,Detroit Lions,1,1,-4,0,0,0,0,0,0,0,0,0,0,0,0,-4,0,0,0,0,0,0,0,75.0,1020,Minnesota Vikings,0,U.S. Bank,indoors,turf,68,51,14,0,Clear
+43,K.Raymond,Detroit Lions,4,3,39,1,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,28.0,1020,Minnesota Vikings,0,U.S. Bank,indoors,turf,68,51,14,0,Clear
+44,D.Montgomery,Detroit Lions,4,3,39,0,9,31,0,0,31,3.4,0,0.0,0,0,8,19,1,0,0,0,0,0,0,39.0,1020,Minnesota Vikings,0,U.S. Bank,indoors,turf,68,51,14,0,Clear
+45,J.Gibbs,Detroit Lions,4,4,44,0,15,116,2,3,116,7.7,0,0.0,0,0,45,18,0,0,0,0,0,0,0,58.0,1020,Minnesota Vikings,0,U.S. Bank,indoors,turf,68,51,14,0,Clear
+46,J.Goff,Detroit Lions,0,0,0,0,2,-4,0,0,-4,-2.0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,100.0,1020,Minnesota Vikings,0,U.S. Bank,indoors,turf,68,51,14,0,Clear
+47,R.McCloud,Atlanta Falcons,4,2,9,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,88.0,1020,Seattle Seahawks,1,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+48,T.Allgeier,Atlanta Falcons,1,1,9,0,5,36,0,2,36,7.2,0,0.0,0,0,24,9,0,0,0,0,0,0,0,23.0,1020,Seattle Seahawks,1,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+49,B.Robinson,Atlanta Falcons,5,3,40,0,21,103,1,5,103,4.9,0,0.0,0,0,26,26,0,0,0,0,0,0,0,68.0,1020,Seattle Seahawks,1,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+50,K.Cousins,Atlanta Falcons,0,0,0,0,1,-1,0,0,0,0,0,0,0,0,0,0,1,0,-1,-1.0,0,0.0,0,90.0,1020,Seattle Seahawks,1,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+51,Z.Charbonnet,Seattle Seahawks,1,1,-5,0,8,19,0,1,19,2.4,0,0.0,0,0,7,-5,0,0,0,0,0,0,0,55.0,1020,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+52,K.Walker,Seattle Seahawks,2,2,24,1,14,69,1,4,69,4.9,0,0.0,0,0,20,17,0,0,0,0,0,0,0,47.0,1020,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+53,G.Smith,Seattle Seahawks,0,0,0,0,4,15,0,0,0,0,0,0,0,0,8,0,0,0,15,3.8,0,0.0,0,98.0,1020,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,68,32,5,0,Clear
+54,K.Juszczyk,San Francisco 49ers,3,0,0,0,1,14,0,0,14,14.0,0,0.0,0,0,14,0,0,0,0,0,0,0,0,41.0,1020,Kansas City Chiefs,1,Levi's,outdoors,grass,78,29,0,0,Clear
+55,J.Mason,San Francisco 49ers,2,2,11,0,14,58,0,3,58,4.1,0,0.0,0,0,26,7,0,0,0,0,0,0,0,86.0,1020,Kansas City Chiefs,1,Levi's,outdoors,grass,78,29,0,0,Clear
+56,B.Purdy,San Francisco 49ers,0,0,0,0,8,27,2,0,0,0,0,0,0,0,9,0,0,4,27,3.4,0,0.0,0,100.0,1020,Kansas City Chiefs,1,Levi's,outdoors,grass,78,29,0,0,Clear
+57,T.Kelce,Kansas City Chiefs,5,4,17,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,77.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+58,X.Worthy,Kansas City Chiefs,8,3,19,0,1,5,0,0,5,5.0,0,0.0,0,0,5,8,0,0,0,0,0,0,0,60.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+59,S.Perine,Kansas City Chiefs,1,1,22,0,2,6,0,0,6,3.0,0,0.0,0,0,3,22,0,0,0,0,0,0,0,21.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+60,C.Steele,Kansas City Chiefs,0,0,0,0,6,17,0,1,17,2.8,0,0.0,0,0,7,0,0,0,0,0,0,0,0,20.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+61,M.Hardman,Kansas City Chiefs,2,1,17,0,2,38,1,2,38,19.0,0,0.0,0,0,20,17,0,0,0,0,0,0,0,30.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+62,K.Hunt,Kansas City Chiefs,2,2,5,0,22,78,2,5,78,3.5,0,0.0,0,0,13,3,0,0,0,0,0,0,0,64.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+63,P.Mahomes,Kansas City Chiefs,0,0,0,0,5,39,1,3,39,7.8,0,0.0,0,0,33,0,0,0,0,0,0,0,0,100.0,1020,San Francisco 49ers,0,Levi's,outdoors,grass,78,29,0,0,Clear
+64,B.Thomas,Jacksonville Jaguars,5,5,89,1,2,2,0,0,2,1.0,0,0.0,0,0,1,58,0,0,0,0,0,0,0,66.0,1020,New England Patriots,1,Wembley,outdoors,grass,62,85,9,90,Rain
+65,D.Johnson,Jacksonville Jaguars,4,3,32,0,9,38,0,3,38,4.2,0,0.0,0,0,10,26,0,0,0,0,0,0,0,34.0,1020,New England Patriots,1,Wembley,outdoors,grass,62,85,9,90,Rain
+66,T.Bigsby,Jacksonville Jaguars,1,0,0,0,26,118,2,8,118,4.5,0,0.0,0,0,13,0,0,0,0,0,0,0,0,66.0,1020,New England Patriots,1,Wembley,outdoors,grass,62,85,9,90,Rain
+67,T.Lawrence,Jacksonville Jaguars,0,0,0,0,2,13,0,2,13,6.5,0,0.0,0,0,11,0,0,0,0,0,0,0,0,100.0,1020,New England Patriots,1,Wembley,outdoors,grass,62,85,9,90,Rain
+68,J.Hasty,New England Patriots,5,5,49,1,2,-2,0,0,-2,-1.0,0,0.0,0,0,2,16,0,0,0,0,0,0,0,33.0,1020,Jacksonville Jaguars,0,Wembley,outdoors,grass,62,85,9,90,Rain
+69,J.Polk,New England Patriots,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57.0,1020,Jacksonville Jaguars,0,Wembley,outdoors,grass,62,85,9,90,Rain
+70,D.Douglas,New England Patriots,3,2,14,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,33.0,1020,Jacksonville Jaguars,0,Wembley,outdoors,grass,62,85,9,90,Rain
+71,R.Stevenson,New England Patriots,3,2,7,0,7,18,0,1,18,2.6,0,0.0,0,0,11,4,0,0,0,0,0,0,0,50.0,1020,Jacksonville Jaguars,0,Wembley,outdoors,grass,62,85,9,90,Rain
+72,D.Maye,New England Patriots,0,0,0,0,3,18,0,0,0,0,0,0,0,0,15,0,0,1,18,6.0,0,0.0,0,100.0,1020,Jacksonville Jaguars,0,Wembley,outdoors,grass,62,85,9,90,Rain
+73,T.McLaurin,Washington Commanders,6,6,98,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,71.0,1020,Carolina Panthers,1,Northwest,outdoors,grass,75,24,3,0,Clear
+74,A.Ekeler,Washington Commanders,2,2,3,0,4,17,0,0,17,4.3,0,0.0,0,0,6,3,0,0,0,0,0,0,0,41.0,1020,Carolina Panthers,1,Northwest,outdoors,grass,75,24,3,0,Clear
+75,J.McNichols,Washington Commanders,0,0,0,0,7,42,0,1,42,6.0,0,0.0,0,0,10,0,0,0,0,0,0,0,0,25.0,1020,Carolina Panthers,1,Northwest,outdoors,grass,75,24,3,0,Clear
+76,B.Robinson,Washington Commanders,0,0,0,0,12,71,1,5,71,5.9,0,0.0,0,0,11,0,0,0,0,0,0,0,0,38.0,1020,Carolina Panthers,1,Northwest,outdoors,grass,75,24,3,0,Clear
+77,M.Mariota,Washington Commanders,0,0,0,0,11,34,0,0,0,0,0,0,0,0,11,0,0,3,34,3.1,0,0.0,0,86.0,1020,Carolina Panthers,1,Northwest,outdoors,grass,75,24,3,0,Clear
+78,D.Johnson,Carolina Panthers,3,1,17,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,70.0,1020,Washington Commanders,0,Northwest,outdoors,grass,75,24,3,0,Clear
+79,X.Legette,Carolina Panthers,3,2,3,0,1,6,0,1,6,6.0,0,0.0,0,0,6,6,0,0,0,0,0,0,0,84.0,1020,Washington Commanders,0,Northwest,outdoors,grass,75,24,3,0,Clear
+80,M.Sanders,Carolina Panthers,2,1,-6,0,3,34,0,2,34,11.3,0,0.0,0,0,26,-6,0,0,0,0,0,0,0,26.0,1020,Washington Commanders,0,Northwest,outdoors,grass,75,24,3,0,Clear
+81,C.Hubbard,Carolina Panthers,0,0,0,0,17,52,1,2,52,3.1,0,0.0,0,0,9,0,0,0,0,0,0,0,0,84.0,1020,Washington Commanders,0,Northwest,outdoors,grass,75,24,3,0,Clear
+82,A.Dalton,Carolina Panthers,0,0,0,0,2,3,0,0,0,0,0,0,0,0,4,0,0,0,3,1.5,0,0.0,0,93.0,1020,Washington Commanders,0,Northwest,outdoors,grass,75,24,3,0,Clear
+83,T.Atwell,Los Angeles Rams,9,6,51,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,78.0,1020,Las Vegas Raiders,1,SoFi,indoors,turf,81,28,8,0,Rain
+84,K.Williams,Los Angeles Rams,0,0,0,0,21,76,2,5,76,3.6,0,0.0,0,0,14,0,0,0,0,0,0,0,0,89.0,1020,Las Vegas Raiders,1,SoFi,indoors,turf,81,28,8,0,Rain
+85,M.Stafford,Los Angeles Rams,0,0,0,0,2,-2,0,0,0,0,0,0,0,0,0,0,0,0,-2,-1.0,0,0.0,0,100.0,1020,Las Vegas Raiders,1,SoFi,indoors,turf,81,28,8,0,Rain
+86,B.Bowers,Las Vegas Raiders,14,10,93,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,84.0,1020,Los Angeles Rams,0,SoFi,indoors,turf,81,28,8,0,Rain
+87,D.Turner,Las Vegas Raiders,7,2,13,0,1,4,0,0,4,4.0,0,0.0,0,0,4,10,0,0,0,0,0,0,0,95.0,1020,Los Angeles Rams,0,SoFi,indoors,turf,81,28,8,0,Rain
+88,T.Tucker,Las Vegas Raiders,8,3,36,0,1,11,0,1,11,11.0,0,0.0,0,0,11,15,0,0,0,0,0,0,0,95.0,1020,Los Angeles Rams,0,SoFi,indoors,turf,81,28,8,0,Rain
+89,A.Mattison,Las Vegas Raiders,3,3,31,0,23,92,0,5,92,4.0,0,0.0,0,0,13,18,0,0,0,0,0,0,0,70.0,1020,Los Angeles Rams,0,SoFi,indoors,turf,81,28,8,0,Rain
+90,G.Minshew,Las Vegas Raiders,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2,0,1,1,2,2.0,0,0.0,0,82.0,1020,Los Angeles Rams,0,SoFi,indoors,turf,81,28,8,0,Rain
+91,J.Downs,Indianapolis Colts,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,61.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+92,A.Mitchell,Indianapolis Colts,3,2,30,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,23.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+93,A.Dulin,Indianapolis Colts,0,0,0,0,1,12,0,1,12,12.0,0,0.0,0,0,12,0,0,0,0,0,0,0,0,24.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+94,T.Sermon,Indianapolis Colts,1,1,13,0,8,36,0,4,36,4.5,0,0.0,0,0,11,13,0,0,0,0,0,0,0,52.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+95,T.Goodson,Indianapolis Colts,0,0,0,0,14,51,1,2,51,3.6,0,0.0,0,0,19,0,0,0,0,0,0,0,0,48.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+96,A.Richardson,Indianapolis Colts,0,0,0,0,14,56,0,0,0,0,0,0,0,0,22,0,1,3,56,4.0,0,0.0,0,100.0,1020,Miami Dolphins,1,Lucas Oil,indoors,turf,66,41,6,0,Clear
+97,A.Ingold,Miami Dolphins,1,1,25,0,2,-1,0,0,-1,-0.5,0,0.0,0,0,0,25,1,0,0,0,0,0,0,39.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+98,J.Waddle,Miami Dolphins,2,1,11,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,86.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+99,J.Smith,Miami Dolphins,7,7,96,1,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,49.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+100,T.Hill,Miami Dolphins,2,1,8,0,1,5,0,0,5,5.0,0,0.0,0,0,5,8,0,0,0,0,0,0,0,90.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+101,R.Mostert,Miami Dolphins,0,0,0,0,11,50,0,2,50,4.5,0,0.0,0,0,14,0,1,0,0,0,0,0,0,33.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+102,D.Achane,Miami Dolphins,3,2,8,0,15,77,0,3,77,5.1,0,0.0,0,0,15,9,0,0,0,0,0,0,0,58.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+103,T.Boyle,Miami Dolphins,0,0,0,0,1,4,0,0,0,0,0,0,0,0,4,0,0,1,4,4.0,0,0.0,0,33.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+104,T.Huntley,Miami Dolphins,0,0,0,0,5,20,0,0,0,0,0,0,0,0,6,0,0,2,20,4.0,0,0.0,0,67.0,1020,Indianapolis Colts,0,Lucas Oil,indoors,turf,66,41,6,0,Clear
+105,T.Johnson,Buffalo Bills,1,1,4,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,22.0,1020,Tennessee Titans,1,Highmark,outdoors,turf,63,40,10,0,Clear
+106,K.Shakir,Buffalo Bills,7,7,65,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,69.0,1020,Tennessee Titans,1,Highmark,outdoors,turf,63,40,10,0,Clear
+107,J.Cook,Buffalo Bills,0,0,0,0,12,32,1,1,32,2.7,0,0.0,0,0,11,0,0,0,0,0,0,0,0,53.0,1020,Tennessee Titans,1,Highmark,outdoors,turf,63,40,10,0,Clear
+108,R.Davis,Buffalo Bills,1,1,6,0,5,41,1,2,41,8.2,0,0.0,0,0,22,6,0,0,0,0,0,0,0,24.0,1020,Tennessee Titans,1,Highmark,outdoors,turf,63,40,10,0,Clear
+109,J.Allen,Buffalo Bills,0,0,0,0,3,1,0,0,0,0,0,0,0,0,7,0,0,0,1,0.3,0,0.0,0,100.0,1020,Tennessee Titans,1,Highmark,outdoors,turf,63,40,10,0,Clear
+110,C.Ridley,Tennessee Titans,9,3,42,0,0,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,79.0,1020,Buffalo Bills,0,Highmark,outdoors,turf,63,40,10,0,Clear
+111,T.Pollard,Tennessee Titans,6,2,4,0,16,61,0,1,61,3.8,0,0.0,0,0,14,2,0,0,0,0,0,0,0,89.0,1020,Buffalo Bills,0,Highmark,outdoors,turf,63,40,10,0,Clear
+112,M.Rudolph,Tennessee Titans,0,0,0,0,5,13,0,0,0,0,0,0,0,0,8,0,1,1,13,2.6,0,0.0,0,100.0,1020,Buffalo Bills,0,Highmark,outdoors,turf,63,40,10,0,Clear
