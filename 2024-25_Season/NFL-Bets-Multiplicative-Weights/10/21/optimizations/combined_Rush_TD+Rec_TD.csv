@@ -1,0 +1,9 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+C.Godwin o0.5 rush_td+rec_td,gneiffer07,Tampa Bay Buccaneers,c.godwin,Baltimore Ravens,1.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,77,9,74,2,Clear,Raymond James,outdoors,grass,160,1.0,2.6,1.6
+J.Dobbins o0.5 rush_td+rec_td,gneiffer07,Los Angeles Chargers,j.dobbins,Arizona Cardinals,0.0,0.6,1,0.3333333333333333,0,0.6,1,83,2,17,0,Clear,State Farm,indoors,grass,-120,1.2,2.2,1.0000000000000002
+J.Dobbins o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,j.dobbins,Arizona Cardinals,0.0,0.6,1,0.3333333333333333,0,0.6,1,83,2,17,0,Clear,State Farm,indoors,grass,-130,1.95,3.45,1.4999999999999998
+J.Dobbins o0.5 rush_td+rec_td,GreenDotDaily,Los Angeles Chargers,j.dobbins,Arizona Cardinals,0.0,0.6,1,0.3333333333333333,0,0.6,1,83,2,17,0,Clear,State Farm,indoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+M.Evans o0.5 rush_td+rec_td,shadybiev,Tampa Bay Buccaneers,m.evans,Baltimore Ravens,1.0,0.5,0,0.6666666666666666,1,0.4,0,77,9,73,0,Clear,Raymond James,outdoors,grass,130,1.5,3.45,1.95
+M.Evans o0.5 rush_td+rec_td,TopShelfAction,Tampa Bay Buccaneers,m.evans,Baltimore Ravens,1.0,0.5,0,0.6666666666666666,1,0.4,0,77,9,73,0,Clear,Raymond James,outdoors,grass,150,0.6,1.5,0.9
+M.Evans o0.5 rush_td+rec_td,theprophunter0_,Tampa Bay Buccaneers,m.evans,Baltimore Ravens,1.0,0.5,0,0.6666666666666666,1,0.4,0,84,10,73,0,Clear,Raymond James,outdoors,grass,140,0.5,1.2,0.7
+M.Evans o0.5 rush_td+rec_td,JBBets1,Tampa Bay Buccaneers,m.evans,Baltimore Ravens,1.0,0.5,0,0.6666666666666666,1,0.4,0,81,9,73,0,Clear,Raymond James,outdoors,grass,150,2.0,5.0,3.0
