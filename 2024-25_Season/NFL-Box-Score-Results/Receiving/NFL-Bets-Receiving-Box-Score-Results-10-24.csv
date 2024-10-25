@@ -1,0 +1,14 @@
+,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,T.Johnson,Los Angeles Rams,1,1,6,0,0,4,4.0,2,2.0,4.0,0,0.0,0,0.0,91.7,0,0,0,0,6,0,0,0,0,0,0,0,0.0,38.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+1,C.Parkinson,Los Angeles Rams,2,2,17,0,2,12,6.0,5,2.5,6.0,0,0.0,0,0.0,102.1,0,0,0,0,9,0,0,0,0,0,0,0,0.0,64.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+2,H.Long,Los Angeles Rams,1,1,18,0,1,10,10.0,8,8.0,10.0,0,0.0,0,0.0,118.7,0,0,0,0,18,0,0,0,0,0,0,0,0.0,42.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+3,D.Robinson,Los Angeles Rams,3,2,35,2,2,35,17.5,0,0.0,18.0,0,0.0,0,0.0,106.2,0,0,0,0,25,0,0,0,0,0,0,0,0.0,85.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+4,C.Kupp,Los Angeles Rams,8,5,51,1,0,0,0,0,0,4.1,0,0.0,0,0.0,120.3,0,0,0,0,27,0,2,25,5.0,26,5.2,0,0.0,58.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+5,P.Nacua,Los Angeles Rams,9,7,106,0,0,0,0,0,0,10.6,0,0.0,0,0.0,115.7,0,5,0,7,21,0,6,54,7.7,52,7.4,0,0.0,57.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+6,K.Williams,Los Angeles Rams,7,5,19,1,0,0,0,0,0,-1.6,0,0.0,0,0.0,113.7,0,97,0,17,7,0,1,-3,-0.6,22,4.4,0,0.0,89.0,1024,Minnesota Vikings,1,SoFi,indoors,turf,66,62,9,0,Clear
+7,J.Mundt,Minnesota Vikings,2,1,10,0,1,5,5.0,5,5.0,13.0,0,0.0,0,0.0,64.6,0,0,0,0,10,0,0,0,0,0,0,0,0.0,62.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
+8,J.Nailor,Minnesota Vikings,4,2,16,0,0,0,0,0,0,4.8,0,0.0,0,0.0,60.4,0,0,0,0,9,0,0,10,5.0,6,3.0,0,0.0,42.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
+9,J.Addison,Minnesota Vikings,3,2,22,0,0,0,0,0,0,13.3,0,0.0,0,0.0,88.2,0,0,0,0,14,0,2,20,10.0,2,1.0,0,0.0,92.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
+10,J.Oliver,Minnesota Vikings,2,2,30,1,2,8,4.0,22,11.0,4.0,0,0.0,0,0.0,158.3,0,0,0,0,25,0,0,0,0,0,0,0,0.0,70.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
+11,J.Jefferson,Minnesota Vikings,9,8,115,0,0,0,0,0,0,10.9,0,0.0,0,0.0,118.7,0,0,0,0,27,0,6,98,12.3,17,2.1,0,0.0,100.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
+12,A.Jones,Minnesota Vikings,2,2,37,0,0,0,0,0,0,11.5,0,0.0,0,0.0,118.7,0,58,0,9,25,0,2,23,11.5,14,7.0,0,0.0,92.0,1024,Los Angeles Rams,0,SoFi,indoors,turf,66,62,9,0,Clear
