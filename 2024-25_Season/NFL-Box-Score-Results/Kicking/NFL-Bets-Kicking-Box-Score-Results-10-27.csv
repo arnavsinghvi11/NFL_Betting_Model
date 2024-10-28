@@ -1,0 +1,29 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,Y.Koo,Atlanta Falcons,4,4,1,2,1027,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,79,52,6,0,Mostly Cloudy
+1,C.McLaughlin,Tampa Bay Buccaneers,3,3,1,1,1027,Atlanta Falcons,1,Raymond James,outdoors,grass,79,52,6,0,Mostly Cloudy
+2,T.Bass,Buffalo Bills,4,4,1,1,1027,Seattle Seahawks,0,Lumen Field,outdoors,turf,57,86,14,90,Partly Cloudy
+3,J.Myers,Seattle Seahawks,1,1,1,1,1027,Buffalo Bills,1,Lumen Field,outdoors,turf,57,86,14,90,Partly Cloudy
+4,G.Zuerlein,New York Jets,1,2,1,2,1027,New England Patriots,0,Gillette,outdoors,turf,54,32,9,0,Clear
+5,J.Slye,New England Patriots,2,2,1,1,1027,New York Jets,1,Gillette,outdoors,turf,54,32,9,0,Clear
+6,B.McManus,Green Bay Packers,3,3,3,3,1027,Jacksonville Jaguars,0,EverBank,outdoors,grass,81,55,6,1,Clear
+7,C.Little,Jacksonville Jaguars,3,3,2,2,1027,Green Bay Packers,1,EverBank,outdoors,grass,81,55,6,1,Clear
+8,N.Folk,Tennessee Titans,2,2,0,0,1027,Detroit Lions,0,Ford Field,indoors,turf,57,44,6,0,Clear
+9,J.Bates,Detroit Lions,7,7,1,1,1027,Tennessee Titans,1,Ford Field,indoors,turf,57,44,6,0,Clear
+10,J.Elliott,Philadelphia Eagles,4,4,3,3,1027,Cincinnati Bengals,0,Paycor,outdoors,turf,56,39,5,0,Clear
+11,E.McPherson,Cincinnati Bengals,2,2,1,2,1027,Philadelphia Eagles,1,Paycor,outdoors,turf,56,39,5,0,Clear
+12,E.Pineiro,Carolina Panthers,2,2,0,0,1027,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,70,13,3,1,Mostly Cloudy
+13,W.Lutz,Denver Broncos,4,4,0,0,1027,Carolina Panthers,1,Empower Field at Mile High,outdoors,grass,70,13,3,1,Mostly Cloudy
+14,H.Butker,Kansas City Chiefs,3,3,2,2,1027,Las Vegas Raiders,0,Allegiant,indoors,grass,78,11,5,2,Mostly Cloudy
+15,D.Carlson,Las Vegas Raiders,2,2,2,2,1027,Kansas City Chiefs,1,Allegiant,indoors,grass,78,11,5,2,Mostly Cloudy
+16,J.Tucker,Baltimore Ravens,3,3,1,2,1027,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,53,49,13,1,Clear
+17,D.Hopkins,Cleveland Browns,2,2,3,3,1027,Baltimore Ravens,1,Huntington Bank Field,outdoors,grass,53,49,13,1,Clear
+18,C.Ryland,Arizona Cardinals,2,2,2,2,1027,Miami Dolphins,0,Hard Rock,outdoors,grass,83,56,14,13,Partly Cloudy
+19,J.Sanders,Miami Dolphins,3,3,2,2,1027,Arizona Cardinals,1,Hard Rock,outdoors,grass,83,56,14,13,Partly Cloudy
+20,B.Grupe,New Orleans Saints,0,0,2,3,1027,Los Angeles Chargers,0,SoFi,indoors,turf,74,68,3,8,Clear
+21,C.Dicker,Los Angeles Chargers,2,3,2,2,1027,New Orleans Saints,1,SoFi,indoors,turf,74,68,3,8,Clear
+22,C.Santos,Chicago Bears,1,1,0,0,1027,Washington Commanders,0,Northwest,outdoors,grass,59,28,0,0,Clear
+23,A.Seibert,Washington Commanders,0,0,4,5,1027,Chicago Bears,1,Northwest,outdoors,grass,59,28,0,0,Clear
+24,B.Aubrey,Dallas Cowboys,3,3,1,1,1027,San Francisco 49ers,0,Levi's,outdoors,grass,72,86,13,3,Mostly Cloudy
+25,A.Carlson,San Francisco 49ers,3,3,3,3,1027,Dallas Cowboys,1,Levi's,outdoors,grass,72,86,13,3,Mostly Cloudy
+26,M.Gay,Indianapolis Colts,2,2,2,2,1027,Houston Texans,0,NRG,indoors,turf,83,53,0,0,Clear
+27,K.Fairbairn,Houston Texans,2,2,3,3,1027,Indianapolis Colts,1,NRG,indoors,turf,83,53,0,0,Clear
