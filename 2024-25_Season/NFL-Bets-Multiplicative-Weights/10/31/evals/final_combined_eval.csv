@@ -1,0 +1,22 @@
+Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Mixon o0.5 rush_td+rec_td,TopShelfAction,j.mixon,Y,1.0,Houston Texans,New York Jets,0.0,0.8,1,1.0,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-125.0,0.5,0.9,0.4
+M.Williams o14.5 Longest Reception,GDAWG5000,m.williams,N,6.0,New York Jets,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-120.0,0.6,1.1,0.5000000000000001
+M.Williams o14.5 Longest Reception,nick_giffen,m.williams,N,6.0,New York Jets,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+T.Conklin u14.5 Longest Reception,Markus_Markets,t.conklin,Y,-3.0,New York Jets,Houston Texans,1.0,0.625,1,0.6666666666666666,1,0.6,1,73,10,57,7,Rain,MetLife,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+M.Williams o12.5 Longest Reception,nick_giffen,m.williams,N,6.0,New York Jets,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+M.Williams o12.5 Longest Reception,GregMatherne84,m.williams,N,6.0,New York Jets,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,75,7,57,8,Clear,MetLife,outdoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+C.Stroud o234.5 passing + rushing yards,Rotowire Prizepicks,c.stroud,Y,250.0,Houston Texans,New York Jets,0.0,0.625,1,0.3333333333333333,0,0.6,1,72,9,61,18,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+C.Stroud o233.5 passing + rushing yards,Rotowire Sleeper,c.stroud,Y,250.0,Houston Texans,New York Jets,0.0,0.625,1,0.3333333333333333,0,0.6,1,72,9,61,18,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Allen o5.5 Rush Att,Bward586,b.allen,N,4.0,New York Jets,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,72,8,57,20,Rain,MetLife,outdoors,turf,-129.0,1.29,2.29,1.0
+B.Allen o5.5 Rush Att,MoneylineHacks,b.allen,N,4.0,New York Jets,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+B.Hall o28.5 receiving yards,Rotowire Prizepicks,b.hall,N,11.0,New York Jets,Houston Texans,1.0,0.625,1,0.6666666666666666,1,0.4,0,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+D.Adams o59.5 Rec Yds,sandyplashkes,d.adams,Y,91.0,New York Jets,Houston Texans,1.0,0.0,0,0.0,0,0.0,0,73,10,57,7,Rain,MetLife,outdoors,turf,-112.0,1.12,2.12,1.0
+J.Ruckert u7.5 Rec Yds,The_Oddsmaker,j.ruckert,Y,4.0,New York Jets,Houston Texans,1.0,0.25,0,0.3333333333333333,0,0.25,0,73,10,55,7,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+J.Ruckert o5.5 receiving yards,Rotowire Prizepicks,j.ruckert,N,4.0,New York Jets,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,73,10,55,7,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+R.Woods o14.5 receiving yards,Rotowire Prizepicks,r.woods,Y,44.0,Houston Texans,New York Jets,0.0,0.5,0,0.5,0,0.5,0,72,9,57,8,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+C.Stover o7.5 Rec Yds,PropBetGuy,c.stover,N,0.0,Houston Texans,New York Jets,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,75,7,57,8,Clear,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+B.Allen o19.5 rushing yards,Rotowire Prizepicks,b.allen,N,9.0,New York Jets,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+B.Allen o24.5 Rush Yds,shadybiev,b.allen,N,9.0,New York Jets,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,124.0,2.0,4.48,2.4800000000000004
+B.Allen o20.5 Rush Yds,shadybiev,b.allen,N,9.0,New York Jets,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-110.0,2.75,5.25,2.5
+C.Stroud o8.5 Rush Yds,ThePropfessor_,c.stroud,Y,59.0,Houston Texans,New York Jets,0.0,0.625,1,0.3333333333333333,0,0.6,1,72,9,57,8,Rain,MetLife,outdoors,turf,-122.0,1.22,2.22,1.0000000000000002
+J.Mixon u84.5 Rush Yds,boomerslocks,j.mixon,N,106.0,Houston Texans,New York Jets,0.0,0.2,0,0.0,0,0.2,0,75,7,57,8,Clear,MetLife,outdoors,turf,100.0,1.0,2.0,1.0
