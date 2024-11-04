@@ -1,0 +1,27 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,J.Bates,Detroit Lions,3,3,1,1,1103,Green Bay Packers,0,Lambeau Field,outdoors,grass,51,80,9,98,Rain
+1,B.McManus,Green Bay Packers,0,0,2,3,1103,Detroit Lions,1,Lambeau Field,outdoors,grass,51,80,9,98,Rain
+2,J.Slye,New England Patriots,2,2,1,2,1103,Tennessee Titans,0,Nissan,outdoors,grass,81,60,17,4,Mostly Cloudy
+3,N.Folk,Tennessee Titans,2,2,2,2,1103,New England Patriots,1,Nissan,outdoors,grass,81,60,17,4,Mostly Cloudy
+4,B.Aubrey,Dallas Cowboys,1,1,2,2,1103,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,66,76,6,0,Overcast
+5,Y.Koo,Atlanta Falcons,3,3,0,0,1103,Dallas Cowboys,1,Mercedes-Benz,indoors,turf,66,76,6,0,Overcast
+6,A.Seibert,Washington Commanders,3,3,2,2,1103,New York Giants,0,MetLife,outdoors,turf,52,31,6,0,Clear
+7,J.McAtamney,New York Giants,1,1,1,1,1103,Washington Commanders,1,MetLife,outdoors,turf,52,31,6,0,Clear
+8,B.Grupe,New Orleans Saints,1,1,3,3,1103,Carolina Panthers,0,Bank of America,outdoors,grass,64,42,7,0,Mostly Cloudy
+9,E.Pineiro,Carolina Panthers,2,2,1,1,1103,New Orleans Saints,1,Bank of America,outdoors,grass,64,42,7,0,Mostly Cloudy
+10,C.Little,Jacksonville Jaguars,1,1,0,0,1103,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,58,34,6,0,Partly Cloudy
+11,J.Elliott,Philadelphia Eagles,1,1,1,2,1103,Jacksonville Jaguars,1,Lincoln Financial Field,outdoors,grass,58,34,6,0,Partly Cloudy
+12,C.Dicker,Los Angeles Chargers,3,4,0,1,1103,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,62,32,11,0,Clear
+13,D.Hopkins,Cleveland Browns,1,1,1,2,1103,Los Angeles Chargers,1,Huntington Bank Field,outdoors,grass,62,32,11,0,Clear
+14,W.Lutz,Denver Broncos,1,1,1,1,1103,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,56,29,5,0,Clear
+15,J.Tucker,Baltimore Ravens,5,5,2,2,1103,Denver Broncos,1,M&amp;T Bank,outdoors,grass,56,29,5,0,Clear
+16,M.Gay,Indianapolis Colts,1,1,2,3,1103,Minnesota Vikings,0,U.S. Bank,indoors,turf,48,96,9,14,Rain
+17,W.Reichard,Minnesota Vikings,3,3,0,2,1103,Indianapolis Colts,1,U.S. Bank,indoors,turf,48,96,9,14,Rain
+18,J.Karty,Los Angeles Rams,2,2,2,2,1103,Seattle Seahawks,0,Lumen Field,outdoors,turf,53,83,3,30,Mostly Cloudy
+19,J.Myers,Seattle Seahawks,2,3,0,0,1103,Los Angeles Rams,1,Lumen Field,outdoors,turf,53,83,3,30,Mostly Cloudy
+20,C.Santos,Chicago Bears,0,0,3,3,1103,Arizona Cardinals,0,State Farm,indoors,grass,55,40,0,22,Mostly Cloudy
+21,C.Ryland,Arizona Cardinals,3,3,2,2,1103,Chicago Bears,1,State Farm,indoors,grass,55,40,0,22,Mostly Cloudy
+22,D.Carlson,Las Vegas Raiders,3,3,1,1,1103,Cincinnati Bengals,0,Paycor,outdoors,turf,72,40,6,2,Clear
+23,E.McPherson,Cincinnati Bengals,5,5,2,2,1103,Las Vegas Raiders,1,Paycor,outdoors,turf,72,40,6,2,Clear
+24,J.Sanders,Miami Dolphins,3,3,2,2,1103,Buffalo Bills,0,Highmark,outdoors,turf,51,40,6,1,Partly Cloudy
+25,T.Bass,Buffalo Bills,1,2,3,3,1103,Miami Dolphins,1,Highmark,outdoors,turf,51,40,6,1,Partly Cloudy
