@@ -1,0 +1,25 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,Y.Koo,Atlanta Falcons,2,2,1,4,1110,New Orleans Saints,0,Caesars Superdome,indoors,turf,78,88,13,53,Rain
+1,B.Grupe,New Orleans Saints,2,2,2,2,1110,Atlanta Falcons,1,Caesars Superdome,indoors,turf,78,88,13,53,Rain
+2,J.Bates,Detroit Lions,2,2,2,2,1110,Houston Texans,0,NRG,indoors,turf,75,79,9,0,Clear
+3,K.Fairbairn,Houston Texans,2,2,3,4,1110,Detroit Lions,1,NRG,indoors,turf,75,79,9,0,Clear
+4,S.Shrader,New York Jets,0,0,2,2,1110,Arizona Cardinals,0,State Farm,indoors,grass,72,15,5,0,Clear
+5,C.Ryland,Arizona Cardinals,4,4,1,1,1110,New York Jets,1,State Farm,indoors,grass,72,15,5,0,Clear
+6,J.Parker,Minnesota Vikings,0,0,4,4,1110,Jacksonville Jaguars,0,EverBank,outdoors,grass,78,79,16,39,Mostly Cloudy
+7,C.Little,Jacksonville Jaguars,1,1,0,0,1110,Minnesota Vikings,1,EverBank,outdoors,grass,78,79,16,39,Mostly Cloudy
+8,C.Boswell,Pittsburgh Steelers,4,4,0,0,1110,Washington Commanders,0,Northwest,outdoors,grass,54,49,7,21,Clear
+9,Z.Gonzalez,Washington Commanders,3,3,2,2,1110,Pittsburgh Steelers,1,Northwest,outdoors,grass,54,49,7,21,Clear
+10,G.Gano,New York Giants,2,2,1,2,1110,Carolina Panthers,0,Allianz Arena,outdoors,grass,43,88,8,4,Mostly Cloudy
+11,E.Pineiro,Carolina Panthers,2,2,2,2,1110,New York Giants,1,Allianz Arena,outdoors,grass,43,88,8,4,Mostly Cloudy
+12,N.Folk,Tennessee Titans,2,2,1,2,1110,Los Angeles Chargers,0,SoFi,indoors,turf,73,45,10,1,Clear
+13,C.Dicker,Los Angeles Chargers,3,3,2,2,1110,Tennessee Titans,1,SoFi,indoors,turf,73,45,10,1,Clear
+14,J.Slye,New England Patriots,1,1,4,4,1110,Chicago Bears,0,Soldier Field,outdoors,grass,60,70,13,17,Mostly Cloudy
+15,C.Santos,Chicago Bears,0,0,1,1,1110,New England Patriots,1,Soldier Field,outdoors,grass,60,70,13,17,Mostly Cloudy
+16,W.Lutz,Denver Broncos,2,2,0,2,1110,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,57,65,11,0,Clear
+17,H.Butker,Kansas City Chiefs,1,1,3,3,1110,Denver Broncos,1,GEHA Field at Arrowhead,outdoors,grass,57,65,11,0,Clear
+18,J.Elliott,Philadelphia Eagles,4,4,2,2,1110,Dallas Cowboys,0,AT&amp;T,indoors,turf,79,43,0,0,Clear
+19,B.Aubrey,Dallas Cowboys,0,0,2,2,1110,Philadelphia Eagles,1,AT&amp;T,indoors,turf,79,43,0,0,Clear
+20,J.Moody,San Francisco 49ers,2,2,3,6,1110,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,86,57,8,2,Partly Cloudy
+21,C.McLaughlin,Tampa Bay Buccaneers,2,2,2,2,1110,San Francisco 49ers,1,Raymond James,outdoors,grass,86,57,8,2,Partly Cloudy
+22,T.Bass,Buffalo Bills,3,3,3,3,1110,Indianapolis Colts,0,Lucas Oil,indoors,turf,62,84,11,3,Mostly Cloudy
+23,M.Gay,Indianapolis Colts,2,2,2,2,1110,Buffalo Bills,1,Lucas Oil,indoors,turf,62,84,11,3,Mostly Cloudy
