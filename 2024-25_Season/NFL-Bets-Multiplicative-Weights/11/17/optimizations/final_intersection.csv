@@ -1,0 +1,24 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Goff u28.5 Pass Att,ThePropfessor_,Detroit Lions,j.goff,Jacksonville Jaguars,1.0,0.75,1,0.6666666666666666,1,0.8,1,53,10,71,5,Rain,Ford Field,indoors,turf,-105.0,1.31,2.557619047619048,1.2476190476190476
+J.Love o225.5 passing yards,Rotowire Sleeper,Green Bay Packers,j.love,Chicago Bears,0.0,0.5,0,0.3333333333333333,0,0.4,0,56,13,75,14,Mostly Cloudy,Soldier Field,outdoors,grass,100.0,1.5,3.0,1.5
+B.Nix o212.5 passing yards,Rotowire Prizepicks,Denver Broncos,b.nix,Atlanta Falcons,1.0,0.5555555555555556,1,0.6666666666666666,1,0.6,1,57,2,23,0,Clear,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
+Z.Flowers o4.5 Recs,kylemurray03,Baltimore Ravens,z.flowers,Pittsburgh Steelers,0.0,0.625,1,0.6666666666666666,1,0.6,1,56,6,58,1,Mostly Cloudy,Acrisure,outdoors,grass,-118.0,1.18,2.18,0.9999999999999998
+J.Jennings o3.5 Recs,TopShelfAction,San Francisco 49ers,j.jennings,Seattle Seahawks,1.0,0.4285714285714285,0,0.3333333333333333,0,0.4,0,58,5,66,65,Rain,Levi's,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
+R.Pearsall o2.5 Recs,TopShelfAction,San Francisco 49ers,r.pearsall,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,58,5,66,65,Rain,Levi's,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
+C.Ridley u4.5 Recs,nick_giffen,Tennessee Titans,c.ridley,Minnesota Vikings,1.0,0.75,1,0.3333333333333333,0,0.6,1,68,7,63,1,Partly Cloudy,Nissan,outdoors,grass,105.0,1.0,2.05,1.0499999999999998
+T.Kraft u3.5 Recs,Theotherbabs,Green Bay Packers,t.kraft,Chicago Bears,0.0,0.75,1,1.0,1,0.6,1,57,12,67,8,Mostly Cloudy,Soldier Field,outdoors,grass,-124.0,1.0,1.806451612903225,0.8064516129032258
+M.Gesicki o2.5 Recs,PvB_Bets,Cincinnati Bengals,m.gesicki,Los Angeles Chargers,0.0,0.5714285714285714,1,0.3333333333333333,0,0.4,0,63,10,40,1,Clear,SoFi,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+C.Ridley u54.5 Rec Yds,nick_giffen,Tennessee Titans,c.ridley,Minnesota Vikings,1.0,0.625,1,0.3333333333333333,0,0.6,1,66,7,63,2,Rain,Nissan,outdoors,grass,-108.0,1.08,2.08,1.0
+T.Patrick o13.5 receiving yards,Rotowire Prizepicks,Detroit Lions,t.patrick,Jacksonville Jaguars,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,10,70,7,Rain,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
+L.Humphrey u22.5 Rec Yds,ChrisRaybon,Denver Broncos,l.humphrey,Atlanta Falcons,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,2,26,2,Clear,Empower Field at Mile High,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+M.Williams o13.5 receiving yards,Rotowire Prizepicks,New York Jets,m.williams,Indianapolis Colts,1.0,0.7142857142857143,1,0.3333333333333333,0,0.6,1,61,6,26,3,Partly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+L.Humphrey u22.5 Rec Yds,convince_me,Denver Broncos,l.humphrey,Atlanta Falcons,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,2,26,2,Clear,Empower Field at Mile High,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+J.Williams o12.5 receiving yards,Rotowire Prizepicks,Denver Broncos,j.williams,Atlanta Falcons,1.0,0.5555555555555556,1,0.3333333333333333,0,0.6,1,57,2,23,0,Clear,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
+L.Krull o9.5 receiving yards,Rotowire Prizepicks,Denver Broncos,l.krull,Atlanta Falcons,1.0,0.8,1,1.0,1,0.8,1,57,9,23,0,Clear,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
+J.Gibbs o13.5 Rush Att,The_Oddsmaker,Detroit Lions,j.gibbs,Jacksonville Jaguars,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,10,70,7,Rain,Ford Field,indoors,turf,-113.0,1.13,2.13,1.0
+J.Gibbs u15.5 Rush Att,The_Oddsmaker,Detroit Lions,j.gibbs,Jacksonville Jaguars,1.0,0.75,1,0.6666666666666666,1,0.8,1,53,10,70,7,Rain,Ford Field,indoors,turf,-125.0,0.63,1.134,0.5040000000000001
+J.Gibbs u15.5 Rush Att,nick_giffen,Detroit Lions,j.gibbs,Jacksonville Jaguars,1.0,0.75,1,0.6666666666666666,1,0.8,1,53,10,70,7,Rain,Ford Field,indoors,turf,-125.0,0.35,0.63,0.28
+J.Taylor o17.5 Rush Att,PvB_Bets,Indianapolis Colts,j.taylor,New York Jets,0.0,0.6666666666666666,1,1.0,1,0.8,1,61,6,26,3,Partly Cloudy,MetLife,outdoors,turf,-138.0,1.0,1.7246376811594204,0.7246376811594204
+J.Allen o6.5 Rush Att,wheatonbrando,Buffalo Bills,j.allen,Kansas City Chiefs,1.0,0.4444444444444444,0,0.6666666666666666,1,0.6,1,50,0,66,5,Rain,Highmark,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+A.Kamara o0.5 rush_td+rec_td,TopShelfAction,New Orleans Saints,a.kamara,Cleveland Browns,1.0,0.4444444444444444,0,0.0,0,0.2,0,77,10,71,0,Partly Cloudy,Caesars Superdome,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
+J.Jacobs o0.5 rush_td+rec_td,theprophunter0_,Green Bay Packers,j.jacobs,Chicago Bears,0.0,0.375,0,0.6666666666666666,1,0.6,1,53,11,67,8,Overcast,Soldier Field,outdoors,grass,-130.0,0.65,1.15,0.4999999999999999
