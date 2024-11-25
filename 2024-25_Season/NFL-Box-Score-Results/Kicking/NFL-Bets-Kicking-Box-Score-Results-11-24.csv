@@ -1,0 +1,23 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,J.Moody,San Francisco 49ers,1,1,1,1,1124,Green Bay Packers,0,Lambeau Field,outdoors,grass,77,66,13,4,Clear
+1,B.McManus,Green Bay Packers,5,5,1,1,1124,San Francisco 49ers,1,Lambeau Field,outdoors,grass,63,86,7,0,Mostly Cloudy
+2,B.Aubrey,Dallas Cowboys,4,4,2,4,1124,Washington Commanders,0,Northwest,outdoors,grass,67,52,18,1,Partly Cloudy
+3,A.Seibert,Washington Commanders,0,2,2,3,1124,Dallas Cowboys,1,Northwest,outdoors,grass,90,72,6,66,Mostly Cloudy
+4,J.Slye,New England Patriots,1,1,0,1,1124,Miami Dolphins,0,Hard Rock,outdoors,grass,63,36,3,0,Clear
+5,J.Sanders,Miami Dolphins,4,4,2,2,1124,New England Patriots,1,Hard Rock,outdoors,grass,91,62,13,7,Clear
+6,J.Parker,Minnesota Vikings,3,3,3,3,1124,Chicago Bears,0,Soldier Field,outdoors,grass,64,35,10,0,Clear
+7,C.Santos,Chicago Bears,1,1,2,3,1124,Minnesota Vikings,1,Soldier Field,outdoors,grass,65,40,11,0,Partly Cloudy
+8,C.McLaughlin,Tampa Bay Buccaneers,3,4,1,1,1124,New York Giants,0,MetLife,outdoors,turf,90,72,6,66,Mostly Cloudy
+9,G.Gano,New York Giants,1,1,0,0,1124,Tampa Bay Buccaneers,1,MetLife,outdoors,turf,64,35,10,0,Clear
+10,S.Shrader,Kansas City Chiefs,3,3,3,3,1124,Carolina Panthers,0,Bank of America,outdoors,grass,84,49,6,21,Partly Cloudy
+11,E.Pineiro,Carolina Panthers,1,1,4,4,1124,Kansas City Chiefs,1,Bank of America,outdoors,grass,80,69,11,2,Clear
+12,J.Elliott,Philadelphia Eagles,4,4,3,3,1124,Los Angeles Rams,0,SoFi,indoors,turf,63,86,7,0,Mostly Cloudy
+13,J.Karty,Los Angeles Rams,2,2,0,1,1124,Philadelphia Eagles,1,SoFi,indoors,turf,69,49,7,3,Clear
+14,W.Lutz,Denver Broncos,2,2,5,5,1124,Las Vegas Raiders,0,Allegiant,indoors,grass,65,73,7,3,Mostly Cloudy
+15,D.Carlson,Las Vegas Raiders,1,1,4,4,1124,Denver Broncos,1,Allegiant,indoors,grass,96,27,8,5,Clear
+16,J.Bates,Detroit Lions,3,3,1,1,1124,Indianapolis Colts,0,Lucas Oil,indoors,turf,69,49,7,3,Clear
+17,M.Gay,Indianapolis Colts,0,0,2,2,1124,Detroit Lions,1,Lucas Oil,indoors,turf,64,40,0,0,Mostly Cloudy
+18,C.Ryland,Arizona Cardinals,0,0,2,3,1124,Seattle Seahawks,0,Lumen Field,outdoors,turf,61,67,16,14,Mostly Cloudy
+19,J.Myers,Seattle Seahawks,1,2,1,1,1124,Arizona Cardinals,1,Lumen Field,outdoors,turf,65,73,7,3,Mostly Cloudy
+20,N.Folk,Tennessee Titans,3,3,3,3,1124,Houston Texans,0,NRG,indoors,turf,65,40,11,0,Partly Cloudy
+21,K.Fairbairn,Houston Texans,3,3,2,3,1124,Tennessee Titans,1,NRG,indoors,turf,64,40,0,0,Mostly Cloudy
