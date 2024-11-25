@@ -1,0 +1,4 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+C.Williams o4.5 Rush Att,ChrisRaybon,Chicago Bears,c.williams,Minnesota Vikings,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,49,12,68,1,Rain,Soldier Field,outdoors,grass,-125.0,1.0,1.8,0.8
+C.McCaffrey o17.5 rush attempts,Rob Paul,San Francisco 49ers,c.mccaffrey,Green Bay Packers,0.0,0.5,0,0.5,0,0.5,0,44,7,76,11,Rain,Lambeau Field,outdoors,grass,100.0,0.75,1.5,0.75
+A.Ekeler u5.5 Rush Att,kylemurray03,Washington Commanders,a.ekeler,Dallas Cowboys,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,56,9,51,1,Partly Cloudy,FedExField,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
