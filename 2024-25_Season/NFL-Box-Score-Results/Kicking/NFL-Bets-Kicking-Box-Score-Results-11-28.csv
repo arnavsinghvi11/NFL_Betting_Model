@@ -1,0 +1,7 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,C.Santos,Chicago Bears,2,2,0,0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+1,J.Bates,Detroit Lions,2,2,3,4,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+2,G.Gano,New York Giants,2,2,2,2,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+3,B.Aubrey,Dallas Cowboys,3,3,2,2,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+4,J.Sanders,Miami Dolphins,0,0,1,1,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+5,B.McManus,Green Bay Packers,3,3,3,3,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
