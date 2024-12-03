@@ -1,0 +1,23 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,C.Boswell,Pittsburgh Steelers,5,5,3,4,1201,Cincinnati Bengals,0,Paycor,outdoors,turf,30,41,5,0,Clear
+1,E.McPherson,Cincinnati Bengals,5,5,1,1,1201,Pittsburgh Steelers,1,Paycor,outdoors,turf,30,41,5,0,Clear
+2,J.Karty,Los Angeles Rams,3,3,0,0,1201,New Orleans Saints,0,Caesars Superdome,indoors,turf,64,48,8,0,Clear
+3,B.Grupe,New Orleans Saints,0,0,2,3,1201,Los Angeles Rams,1,Caesars Superdome,indoors,turf,64,48,8,0,Clear
+4,J.Elliott,Philadelphia Eagles,3,3,1,1,1201,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,41,46,7,12,Mostly Cloudy
+5,J.Tucker,Baltimore Ravens,1,2,2,4,1201,Philadelphia Eagles,1,M&amp;T Bank,outdoors,grass,41,46,7,12,Mostly Cloudy
+6,C.Dicker,Los Angeles Chargers,0,0,3,3,1201,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,48,37,5,0,Clear
+7,Y.Koo,Atlanta Falcons,1,1,2,3,1201,Los Angeles Chargers,1,Mercedes-Benz,indoors,turf,48,37,5,0,Clear
+8,J.Moody,San Francisco 49ers,1,1,1,3,1201,Buffalo Bills,0,Highmark,outdoors,turf,31,95,14,66,Mostly Cloudy
+9,T.Bass,Buffalo Bills,5,5,0,1,1201,San Francisco 49ers,1,Highmark,outdoors,turf,31,95,14,66,Mostly Cloudy
+10,J.Myers,Seattle Seahawks,2,3,2,2,1201,New York Jets,0,MetLife,outdoors,turf,37,31,10,0,Clear
+11,A.Carlson,New York Jets,1,2,0,0,1201,Seattle Seahawks,1,MetLife,outdoors,turf,37,31,10,0,Clear
+12,K.Fairbairn,Houston Texans,2,2,3,3,1201,Jacksonville Jaguars,0,EverBank,outdoors,grass,55,29,8,0,Clear
+13,C.Little,Jacksonville Jaguars,0,0,2,3,1201,Houston Texans,1,EverBank,outdoors,grass,55,29,8,0,Clear
+14,N.Folk,Tennessee Titans,1,1,2,2,1201,Washington Commanders,0,Northwest,outdoors,grass,42,41,6,3,Partly Cloudy
+15,Z.Gonzalez,Washington Commanders,6,6,0,2,1201,Tennessee Titans,1,Northwest,outdoors,grass,42,41,6,3,Partly Cloudy
+16,M.Gay,Indianapolis Colts,2,2,1,1,1201,New England Patriots,0,Gillette,outdoors,turf,37,40,9,1,Clear
+17,J.Slye,New England Patriots,1,1,3,5,1201,Indianapolis Colts,1,Gillette,outdoors,turf,37,40,9,1,Clear
+18,C.Ryland,Arizona Cardinals,1,1,5,6,1201,Minnesota Vikings,0,U.S. Bank,indoors,turf,10,64,9,9,Mostly Cloudy
+19,J.Parker,Minnesota Vikings,2,2,3,4,1201,Arizona Cardinals,1,U.S. Bank,indoors,turf,10,64,9,9,Mostly Cloudy
+20,C.McLaughlin,Tampa Bay Buccaneers,2,2,4,5,1201,Carolina Panthers,0,Bank of America,outdoors,grass,51,36,7,0,Partly Cloudy
+21,E.Pineiro,Carolina Panthers,2,2,3,5,1201,Tampa Bay Buccaneers,1,Bank of America,outdoors,grass,51,36,7,0,Partly Cloudy
