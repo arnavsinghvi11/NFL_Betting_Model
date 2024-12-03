@@ -1,0 +1,8 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+A.Kamara o0.5 rush_td+rec_td,chrisgimino_,New Orleans Saints,a.kamara,Los Angeles Rams,1.0,0.4,0,0.0,0,0.2,0,64,5,54,2,Clear,Caesars Superdome,indoors,turf,-109.0,1.0,1.9174311926605505,0.9174311926605504
+B.Hall o0.5 rush_td+rec_td,shadybiev,New York Jets,b.hall,Seattle Seahawks,1.0,0.4545454545454545,0,0.3333333333333333,0,0.4,0,34,10,31,0,Clear,MetLife,outdoors,turf,105.0,1.0,2.05,1.0499999999999998
+S.Barkley o0.5 rush_td+rec_td,gamblersdream,Philadelphia Eagles,s.barkley,Baltimore Ravens,0.0,0.5,0,0.6666666666666666,1,0.6,1,42,7,46,12,Mostly Cloudy,M&amp;T Bank,outdoors,grass,-125.0,1.25,2.25,1.0
+C.McCaffrey o0.5 rush_td+rec_td,shadybiev,San Francisco 49ers,c.mccaffrey,Buffalo Bills,0.0,0.0,0,0.0,0,0.0,0,22,9,95,66,Snow,Highmark,outdoors,turf,-115.0,2.88,5.384347826086956,2.5043478260869563
+C.McCaffrey o0.5 rush_td+rec_td,CroweRadio,San Francisco 49ers,c.mccaffrey,Buffalo Bills,0.0,0.0,0,0.0,0,0.0,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,100.0,0.25,0.5,0.25
+C.McCaffrey o0.5 rush_td+rec_td,gamblersdream,San Francisco 49ers,c.mccaffrey,Buffalo Bills,0.0,0.0,0,0.0,0,0.0,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,-105.0,3.0,5.857142857142857,2.8571428571428568
+J.Mason o0.5 rush_td+rec_td,CroweRadio,San Francisco 49ers,j.mason,Buffalo Bills,0.0,0.4285714285714285,0,0.0,0,0.2,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,140.0,0.25,0.6,0.35
