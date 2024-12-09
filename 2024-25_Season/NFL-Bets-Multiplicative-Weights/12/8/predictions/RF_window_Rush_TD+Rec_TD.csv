@@ -1,0 +1,16 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+5,N.Westbrook-Ikhine o0.5 rush_td+rec_td,GDAWG5000,Tennessee Titans,n.westbrook-ikhine,Jacksonville Jaguars,1.0,0.875,1,1.0,1,0.8,1,52,10,62,6,Rain,Nissan,outdoors,grass,300.0,0.5,2.0,1.5
+6,N.Westbrook-Ikhine o0.5 rush_td+rec_td,TheBMatt,Tennessee Titans,n.westbrook-ikhine,Jacksonville Jaguars,1.0,0.875,1,1.0,1,0.8,1,52,10,62,6,Rain,Nissan,outdoors,grass,300.0,0.5,2.0,1.5
+65,D.Lock o0.5 rush_td+rec_td,GDAWG5000,New York Giants,d.lock,New Orleans Saints,1.0,0.0,0,0.0,0,0.0,0,46,18,51,1,Rain,MetLife,outdoors,turf,700.0,0.3,2.4,2.1
+87,J.Jefferson o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,6,83,9,Snow,U.S. Bank,indoors,turf,-110.0,2.75,5.25,2.5
+130,C.Kupp o0.5 rush_td+rec_td,nick_giffen,Los Angeles Rams,c.kupp,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.4,0,69,8,54,0,Foggy,SoFi,indoors,turf,155.0,1.0,2.55,1.5499999999999998
+152,D.London o0.5 rush_td+rec_td,TheTDShow,Atlanta Falcons,d.london,Minnesota Vikings,0.0,0.4545454545454545,0,0.0,0,0.2,0,36,7,70,4,Overcast,U.S. Bank,indoors,turf,165.0,1.0,2.65,1.65
+167,J.Meyers o0.5 rush_td+rec_td,TheTDShow,Las Vegas Raiders,j.meyers,Tampa Bay Buccaneers,0.0,0.2,0,0.0,0,0.2,0,68,5,54,1,Partly Cloudy,Raymond James,outdoors,grass,240.0,1.0,3.4,2.4
+172,Z.Charbonnet o0.5 rush_td+rec_td,CroweRadio,Seattle Seahawks,z.charbonnet,Arizona Cardinals,0.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,72,3,24,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
+188,T.Etienne o0.5 rush_td+rec_td,sirlockselot_,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,170.0,1.5,4.050000000000001,2.5500000000000007
+189,T.Etienne o0.5 rush_td+rec_td,shadybiev,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,172.0,1.0,2.72,1.7199999999999998
+201,J.Jefferson o0.5 rush_td+rec_td,JBBets1,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,7,70,4,Overcast,U.S. Bank,indoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524
+207,J.Conner o0.5 rush_td+rec_td,CroweRadio,Arizona Cardinals,j.conner,Seattle Seahawks,1.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,68,5,23,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
+208,J.Allen o0.5 rush_td+rec_td,CroweRadio,Buffalo Bills,j.allen,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,67,3,54,4,Clear,SoFi,indoors,turf,115.0,0.25,0.5375,0.2875
+209,I.Guerendo o0.5 rush_td+rec_td,shadybiev,San Francisco 49ers,i.guerendo,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,66,6,53,0,Mostly Cloudy,Levi's,outdoors,grass,-110.0,2.2,4.2,2.0
+227,Q.Johnston o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,q.johnston,Kansas City Chiefs,0.0,0.5,0,0.3333333333333333,0,0.6,1,49,11,93,11,Overcast,GEHA Field at Arrowhead Stadium,outdoors,grass,205.0,1.0,3.05,2.05

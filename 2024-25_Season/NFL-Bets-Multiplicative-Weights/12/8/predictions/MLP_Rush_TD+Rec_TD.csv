@@ -1,0 +1,15 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+68,D.Hopkins o0.5 rush_td+rec_td,GDAWG5000,Kansas City Chiefs,d.hopkins,Los Angeles Chargers,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,51,10,89,4,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,260.0,1.0,3.6,2.6
+87,J.Jefferson o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,6,83,9,Snow,U.S. Bank,indoors,turf,-110.0,2.75,5.25,2.5
+92,J.McMillan o0.5 rush_td+rec_td,nick_giffen,Tampa Bay Buccaneers,j.mcmillan,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,72,3,52,1,Partly Cloudy,Raymond James,outdoors,grass,500.0,0.5,3.0,2.5
+130,C.Kupp o0.5 rush_td+rec_td,nick_giffen,Los Angeles Rams,c.kupp,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.4,0,69,8,54,0,Foggy,SoFi,indoors,turf,155.0,1.0,2.55,1.5499999999999998
+165,J.Ford o0.5 rush_td+rec_td,TheTDShow,Cleveland Browns,j.ford,Pittsburgh Steelers,0.0,0.1111111111111111,0,0.0,0,0.0,0,47,14,60,1,Clear,Acrisure,outdoors,grass,400.0,0.5,2.5,2.0
+172,Z.Charbonnet o0.5 rush_td+rec_td,CroweRadio,Seattle Seahawks,z.charbonnet,Arizona Cardinals,0.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,72,3,24,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
+188,T.Etienne o0.5 rush_td+rec_td,sirlockselot_,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,170.0,1.5,4.050000000000001,2.5500000000000007
+189,T.Etienne o0.5 rush_td+rec_td,shadybiev,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,172.0,1.0,2.72,1.7199999999999998
+190,B.Allen o0.5 rush_td+rec_td,shadybiev,New York Jets,b.allen,Miami Dolphins,0.0,0.25,0,0.0,0,0.2,0,77,10,57,1,Partly Cloudy,Hard Rock,outdoors,grass,115.0,1.5,3.225,1.7249999999999996
+198,D.Achane o0.5 rush_td+rec_td,JBBets1,Miami Dolphins,d.achane,New York Jets,1.0,0.6363636363636364,1,1.0,1,0.8,1,77,10,57,1,Partly Cloudy,Hard Rock,outdoors,grass,-140.0,1.0,1.7142857142857144,0.7142857142857144
+201,J.Jefferson o0.5 rush_td+rec_td,JBBets1,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,7,70,4,Overcast,U.S. Bank,indoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524
+207,J.Conner o0.5 rush_td+rec_td,CroweRadio,Arizona Cardinals,j.conner,Seattle Seahawks,1.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,68,5,23,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
+208,J.Allen o0.5 rush_td+rec_td,CroweRadio,Buffalo Bills,j.allen,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,67,3,54,4,Clear,SoFi,indoors,turf,115.0,0.25,0.5375,0.2875
+227,Q.Johnston o0.5 rush_td+rec_td,shadybiev,Los Angeles Chargers,q.johnston,Kansas City Chiefs,0.0,0.5,0,0.3333333333333333,0,0.6,1,49,11,93,11,Overcast,GEHA Field at Arrowhead Stadium,outdoors,grass,205.0,1.0,3.05,2.05
