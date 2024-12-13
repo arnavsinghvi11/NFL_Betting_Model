@@ -1,0 +1,6 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+R.Pearsall o1.5 Recs,Theotherbabs,San Francisco 49ers,r.pearsall,Los Angeles Rams,1.0,0.5,0,0.0,0,0.4,0,53,9,83,8,Partly Cloudy,Levi's,outdoors,grass,100,1.0,2.0,1.0
+G.Kittle o4.5 Recs,Mjaybrxd,San Francisco 49ers,g.kittle,Los Angeles Rams,1.0,0.6363636363636364,1,0.6666666666666666,1,0.6,1,54,9,88,29,Rain,Levi's,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+D.Samuel o4.5 Recs,shadybiev,San Francisco 49ers,d.samuel,Los Angeles Rams,1.0,0.2727272727272727,0,0.0,0,0.2,0,54,9,88,29,Rain,Levi's,outdoors,grass,-110,2.2,4.2,2.0
+C.Kupp o6.5 Recs,TopShelfAction,Los Angeles Rams,c.kupp,San Francisco 49ers,0.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,53,9,88,69,Rain,Levi's,outdoors,grass,128,1.0,2.28,1.2800000000000002
+D.Robinson o1.5 Recs,TopShelfAction,Los Angeles Rams,d.robinson,San Francisco 49ers,0.0,0.6923076923076923,1,0.6666666666666666,1,0.6,1,56,7,88,69,Overcast,Levi's,outdoors,grass,-102,1.0,1.9803921568627447,0.9803921568627452

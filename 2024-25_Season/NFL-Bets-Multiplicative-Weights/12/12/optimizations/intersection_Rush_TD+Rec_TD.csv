@@ -1,0 +1,5 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+K.Williams o0.5 rush_td+rec_td,JBBets1,Los Angeles Rams,k.williams,San Francisco 49ers,0.0,0.7692307692307693,1,1.0,1,0.6,1,54,9,88,29,Rain,Levi's,outdoors,grass,-150,1.5,2.5,1.0
+K.Williams o0.5 rush_td+rec_td,PvB_Bets,Los Angeles Rams,k.williams,San Francisco 49ers,0.0,0.7692307692307693,1,1.0,1,0.6,1,54,9,88,29,Rain,Levi's,outdoors,grass,-145,1.0,1.6896551724137931,0.6896551724137931
+G.Kittle o0.5 rush_td+rec_td,TopShelfAction,San Francisco 49ers,g.kittle,Los Angeles Rams,1.0,0.6363636363636364,1,0.3333333333333333,0,0.6,1,53,9,88,69,Rain,Levi's,outdoors,grass,150,1.0,2.5,1.5
+K.Williams o0.5 rush_td+rec_td,TopShelfAction,Los Angeles Rams,k.williams,San Francisco 49ers,0.0,0.7692307692307693,1,1.0,1,0.6,1,56,7,88,69,Overcast,Levi's,outdoors,grass,-140,1.0,1.7142857142857144,0.7142857142857144
