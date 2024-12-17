@@ -1,0 +1,24 @@
+,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,T.Tucker,Las Vegas Raiders,3,2,18,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,96.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+1,B.Bowers,Las Vegas Raiders,6,3,35,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,94.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+2,S.McCormick,Las Vegas Raiders,2,2,17,0,7,8,0,1,8,1.1,0,0.0,0,0,5,15,0,0,0,0,0,0,0,21.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+3,A.Abdullah,Las Vegas Raiders,7,7,58,1,3,8,0,0,8,2.7,0,0.0,0,0,4,24,0,0,0,0,0,0,0,46.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+4,A.Mattison,Las Vegas Raiders,4,2,3,0,7,21,0,2,21,3.0,0,0.0,0,0,12,4,1,0,0,0,0,0,0,33.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+5,J.Meyers,Las Vegas Raiders,9,5,59,0,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,90.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+6,D.Ridder,Las Vegas Raiders,0,0,0,0,5,28,0,0,0,0,0,0,0,0,11,0,0,2,28,5.6,0,0.0,0,100.0,1216,Atlanta Falcons,1,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+7,R.McCloud,Atlanta Falcons,3,1,14,0,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,41.0,1216,Las Vegas Raiders,0,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+8,D.London,Atlanta Falcons,3,3,53,1,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,98.0,1216,Las Vegas Raiders,0,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+9,T.Allgeier,Atlanta Falcons,0,0,0,0,12,43,0,2,43,3.6,0,0.0,0,0,19,0,0,0,0,0,0,0,0,26.0,1216,Las Vegas Raiders,0,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+10,B.Robinson,Atlanta Falcons,2,1,10,0,22,125,0,5,125,5.7,0,0.0,0,0,29,10,0,0,0,0,0,0,0,76.0,1216,Las Vegas Raiders,0,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+11,K.Cousins,Atlanta Falcons,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0,0.0,0,100.0,1216,Las Vegas Raiders,0,Allegiant,indoors,grass,54,18,0,0,Mostly Cloudy
+12,J.Nailor,Minnesota Vikings,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,53.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+13,J.Addison,Minnesota Vikings,9,7,63,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,86.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+14,J.Jefferson,Minnesota Vikings,13,7,73,1,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,88.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+15,C.Akers,Minnesota Vikings,0,0,0,0,10,24,1,3,24,2.4,0,0.0,0,0,11,0,0,0,0,0,0,0,0,27.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+16,A.Jones,Minnesota Vikings,3,2,20,0,18,86,1,5,86,4.8,0,0.0,0,0,14,17,0,0,0,0,0,0,0,61.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+17,S.Darnold,Minnesota Vikings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100.0,1216,Chicago Bears,1,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+18,R.Odunze,Chicago Bears,7,2,39,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,79.0,1216,Minnesota Vikings,0,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+19,T.Homer,Chicago Bears,0,0,0,0,3,7,0,1,7,2.3,0,0.0,0,0,4,0,0,0,0,0,0,0,0,25.0,1216,Minnesota Vikings,0,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+20,D.Moore,Chicago Bears,8,8,46,0,3,24,0,1,24,8.0,0,0.0,0,0,9,14,0,0,0,0,0,0,0,87.0,1216,Minnesota Vikings,0,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+21,D.Swift,Chicago Bears,1,1,10,0,19,79,0,5,79,4.2,0,0.0,0,0,17,10,0,0,0,0,0,0,0,69.0,1216,Minnesota Vikings,0,U.S. Bank,indoors,turf,33,80,15,0,Overcast
+22,C.Williams,Chicago Bears,0,0,0,0,4,3,0,0,0,0,0,0,0,0,2,0,1,0,3,0.8,0,0.0,0,96.0,1216,Minnesota Vikings,0,U.S. Bank,indoors,turf,33,80,15,0,Overcast
