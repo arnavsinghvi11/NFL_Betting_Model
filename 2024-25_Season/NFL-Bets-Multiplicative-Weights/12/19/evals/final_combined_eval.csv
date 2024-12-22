@@ -1,0 +1,33 @@
+Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+B.Nix o32.5 Pass Att,moneybadger24_,Denver Broncos,b.nix,Y,40.0,Los Angeles Chargers,0.0,0.7142857142857143,1,1.0,1,0.8,1,64,5,75,1,Foggy,SoFi,indoors,turf,-130.0,1.3,2.3,0.9999999999999998
+B.Nix o18.5 rushing yards,Rotowire Prizepicks,Denver Broncos,b.nix,Y,25.0,Los Angeles Chargers,0.0,0.5,0,0.3333333333333333,0,0.2,0,66,3,50,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+B.Nix u21.5 rushing yards,Rohit Ponnaiya,Denver Broncos,b.nix,N,25.0,Los Angeles Chargers,0.0,0.5,0,0.6666666666666666,1,0.8,1,64,5,75,1,Foggy,SoFi,indoors,turf,100.0,0.75,1.5,0.75
+G.Edwards o35.5 rushing yards,Rotowire Prizepicks,Los Angeles Chargers,g.edwards,Y,68.0,Denver Broncos,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,66,3,50,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+G.Edwards o34.5 rushing yards,Rotowire Prizepicks,Los Angeles Chargers,g.edwards,Y,68.0,Denver Broncos,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,67,3,47,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+G.Edwards o33.5 rushing yards,Rotowire Prizepicks,Los Angeles Chargers,g.edwards,Y,68.0,Denver Broncos,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,64,5,55,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+G.Edwards o33.5 Rush Yds,shadybiev,Los Angeles Chargers,g.edwards,Y,68.0,Denver Broncos,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,64,5,75,1,Foggy,SoFi,indoors,turf,-110.0,2.75,5.25,2.5
+D.Vele o28.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,N,21.0,Los Angeles Chargers,0.0,0.5,0,0.3333333333333333,0,0.6,1,66,3,51,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+M.Mims o23.5 receiving yards,Rotowire Prizepicks,Denver Broncos,m.mims,Y,62.0,Los Angeles Chargers,0.0,0.3333333333333333,0,0.6666666666666666,1,0.6,1,66,3,50,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+C.Sutton o62.5 receiving yards,Rotowire Prizepicks,Denver Broncos,c.sutton,N,50.0,Los Angeles Chargers,0.0,0.5384615384615384,1,0.6666666666666666,1,0.8,1,66,3,50,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+D.Vele o29.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,N,21.0,Los Angeles Chargers,0.0,0.5,0,0.3333333333333333,0,0.6,1,67,3,47,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+J.Palmer o32.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,j.palmer,Y,41.0,Denver Broncos,1.0,0.6153846153846154,1,0.3333333333333333,0,0.4,0,67,3,47,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+L.McConkey o64.5 Rec Yds,ThePropfessor_,Los Angeles Chargers,l.mcconkey,Y,87.0,Denver Broncos,1.0,0.3846153846153846,0,0.6666666666666666,1,0.6,1,64,6,51,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+C.Sutton o62.5 receiving yards,Rohit Ponnaiya,Denver Broncos,c.sutton,N,50.0,Los Angeles Chargers,0.0,0.5384615384615384,1,0.6666666666666666,1,0.8,1,64,5,55,1,Foggy,SoFi,indoors,turf,100.0,0.75,1.5,0.75
+T.Franklin o17.5 receiving yards,Rotowire Prizepicks,Denver Broncos,t.franklin,Y,25.0,Los Angeles Chargers,0.0,0.4545454545454545,0,0.6666666666666666,1,0.4,0,64,5,55,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
+L.McConkey o66.5 Rec Yds,sandyplashkes,Los Angeles Chargers,l.mcconkey,Y,87.0,Denver Broncos,1.0,0.3846153846153846,0,0.6666666666666666,1,0.6,1,64,5,56,1,Foggy,SoFi,indoors,turf,-106.0,1.06,2.06,1.0
+Q.Johnston u39.5 Rec Yds,LinesAtLunch,Los Angeles Chargers,q.johnston,Y,18.0,Denver Broncos,1.0,0.5,0,0.3333333333333333,0,0.4,0,64,5,54,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+Q.Johnston u39.5 Rec Yds,rsura_,Los Angeles Chargers,q.johnston,Y,18.0,Denver Broncos,1.0,0.5,0,0.3333333333333333,0,0.4,0,64,5,54,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+J.Palmer o29.5 Rec Yds,kylemurray03,Los Angeles Chargers,j.palmer,Y,41.0,Denver Broncos,1.0,0.6153846153846154,1,0.3333333333333333,0,0.4,0,64,5,54,1,Foggy,SoFi,indoors,turf,-113.0,1.13,2.13,1.0
+M.Mims o22.5 Rec Yds,kylemurray03,Denver Broncos,m.mims,Y,62.0,Los Angeles Chargers,0.0,0.3333333333333333,0,0.6666666666666666,1,0.6,1,64,5,54,1,Foggy,SoFi,indoors,turf,-110.0,1.2,2.290909090909091,1.090909090909091
+D.Vele o30.5 Rec Yds,The_Oddsmaker,Denver Broncos,d.vele,N,21.0,Los Angeles Chargers,0.0,0.5,0,0.3333333333333333,0,0.6,1,64,5,54,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+D.Vele o31.5 Rec Yds,Markus_Markets,Denver Broncos,d.vele,N,21.0,Los Angeles Chargers,0.0,0.5,0,0.3333333333333333,0,0.6,1,62,5,75,1,Foggy,SoFi,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+L.McConkey o65.5 Rec Yds,moneylinewixted,Los Angeles Chargers,l.mcconkey,Y,87.0,Denver Broncos,1.0,0.3846153846153846,0,0.6666666666666666,1,0.6,1,62,5,75,1,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+B.Nix o0.5 Int,LinesAtLunch,Denver Broncos,b.nix,N,0.0,Los Angeles Chargers,0.0,0.4285714285714285,0,0.6666666666666666,1,0.4,0,64,5,75,1,Foggy,SoFi,indoors,turf,-140.0,1.4,2.4,1.0
+J.Herbert u0.5 Int,kylemurray03,Los Angeles Chargers,j.herbert,N,5.0,Denver Broncos,1.0,0.8571428571428571,1,0.6666666666666666,1,0.8,1,64,5,75,1,Foggy,SoFi,indoors,turf,-129.0,1.29,2.29,1.0
+J.Herbert u227.5 passing yards,Rohit Ponnaiya,Los Angeles Chargers,j.herbert,N,284.0,Denver Broncos,1.0,0.6428571428571429,1,1.0,1,0.8,1,64,5,55,1,Foggy,SoFi,indoors,turf,100.0,0.75,1.5,0.75
+Q.Johnston u3.5 Recs,LinesAtLunch,Los Angeles Chargers,q.johnston,Y,3.0,Denver Broncos,1.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,54,1,Foggy,SoFi,indoors,turf,-128.0,1.28,2.28,1.0000000000000002
+Q.Johnston u3.5 Recs,rsura_,Los Angeles Chargers,q.johnston,Y,3.0,Denver Broncos,1.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,54,1,Foggy,SoFi,indoors,turf,-128.0,1.28,2.28,1.0000000000000002
+C.Sutton o5.5 Recs,kylemurray03,Denver Broncos,c.sutton,N,5.0,Los Angeles Chargers,0.0,0.5384615384615384,1,0.6666666666666666,1,0.8,1,64,5,54,1,Foggy,SoFi,indoors,turf,126.0,1.0,2.26,1.2599999999999998
+L.McConkey o5.5 Recs,PlayerPropSavant,Los Angeles Chargers,l.mcconkey,Y,6.0,Denver Broncos,1.0,0.3076923076923077,0,0.6666666666666666,1,0.6,1,62,5,75,1,Foggy,SoFi,indoors,turf,-127.0,1.27,2.27,1.0
+Q.Johnston u3.5 Recs,nick_giffen,Los Angeles Chargers,q.johnston,Y,3.0,Denver Broncos,1.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,62,5,75,1,Foggy,SoFi,indoors,turf,-128.0,1.0,1.78125,0.78125
+Q.Johnston u2.5 Recs,rsura_,Los Angeles Chargers,q.johnston,N,3.0,Denver Broncos,1.0,0.5,0,0.3333333333333333,0,0.6,1,62,5,75,1,Foggy,SoFi,indoors,turf,195.0,0.75,2.2125000000000004,1.4625000000000004
