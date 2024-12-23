@@ -1,0 +1,25 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,J.Slye,New England Patriots,3,3,0,0,1222,Buffalo Bills,0,Highmark,outdoors,turf,14,71,0,0,Clear
+1,T.Bass,Buffalo Bills,3,3,1,1,1222,New England Patriots,1,Highmark,outdoors,turf,14,71,0,0,Clear
+2,B.Narveson,Tennessee Titans,2,2,0,1,1222,Indianapolis Colts,0,Lucas Oil,indoors,turf,31,59,9,0,Mostly Cloudy
+3,M.Gay,Indianapolis Colts,5,5,1,2,1222,Tennessee Titans,1,Lucas Oil,indoors,turf,31,59,9,0,Mostly Cloudy
+4,J.Bates,Detroit Lions,4,4,2,3,1222,Chicago Bears,0,Soldier Field,outdoors,grass,30,63,11,0,Mostly Cloudy
+5,C.Santos,Chicago Bears,2,2,1,1,1222,Detroit Lions,1,Soldier Field,outdoors,grass,30,63,11,0,Mostly Cloudy
+6,G.Gano,New York Giants,1,1,0,0,1222,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,46,40,6,0,Clear
+7,R.Patterson,Atlanta Falcons,4,4,2,3,1222,New York Giants,1,Mercedes-Benz,indoors,turf,46,40,6,0,Clear
+8,W.Reichard,Minnesota Vikings,3,3,2,2,1222,Seattle Seahawks,0,Lumen Field,outdoors,turf,48,87,7,96,Overcast
+9,J.Myers,Seattle Seahawks,3,3,1,2,1222,Minnesota Vikings,1,Lumen Field,outdoors,turf,48,87,7,96,Overcast
+10,J.Moody,San Francisco 49ers,2,2,1,2,1222,Miami Dolphins,0,Hard Rock,outdoors,grass,75,59,10,8,Clear
+11,J.Sanders,Miami Dolphins,2,2,5,5,1222,San Francisco 49ers,1,Hard Rock,outdoors,grass,75,59,10,8,Clear
+12,C.Little,Jacksonville Jaguars,2,2,0,0,1222,Las Vegas Raiders,0,Allegiant,indoors,grass,60,22,3,2,Mostly Cloudy
+13,D.Carlson,Las Vegas Raiders,1,1,2,3,1222,Jacksonville Jaguars,1,Allegiant,indoors,grass,60,22,3,2,Mostly Cloudy
+14,C.McLaughlin,Tampa Bay Buccaneers,3,3,1,1,1222,Dallas Cowboys,0,AT&amp;T,indoors,turf,58,49,6,0,Overcast
+15,B.Aubrey,Dallas Cowboys,2,2,4,4,1222,Tampa Bay Buccaneers,1,AT&amp;T,indoors,turf,58,49,6,0,Overcast
+16,J.Karty,Los Angeles Rams,1,2,2,2,1222,New York Jets,0,MetLife,outdoors,turf,19,33,10,0,Clear
+17,A.Carlson,New York Jets,0,1,1,2,1222,Los Angeles Rams,1,MetLife,outdoors,turf,19,33,10,0,Clear
+18,J.Elliott,Philadelphia Eagles,3,3,4,5,1222,Washington Commanders,0,Northwest,outdoors,grass,31,39,9,0,Clear
+19,Z.Gonzalez,Washington Commanders,4,4,0,0,1222,Philadelphia Eagles,1,Northwest,outdoors,grass,31,39,9,0,Clear
+20,D.Hopkins,Cleveland Browns,0,1,0,0,1222,Cincinnati Bengals,0,Paycor,outdoors,turf,31,58,7,0,Clear
+21,C.York,Cincinnati Bengals,3,3,1,2,1222,Cleveland Browns,1,Paycor,outdoors,turf,31,58,7,0,Clear
+22,C.Ryland,Arizona Cardinals,3,3,3,3,1222,Carolina Panthers,0,Bank of America,outdoors,grass,36,34,0,0,Clear
+23,E.Pineiro,Carolina Panthers,3,4,1,1,1222,Arizona Cardinals,1,Bank of America,outdoors,grass,36,34,0,0,Clear

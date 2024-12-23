@@ -1,0 +1,12 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+99,J.Chase o0.5 rush_td+rec_td,wheatonbrando,Cincinnati Bengals,j.chase,Cleveland Browns,1.0,0.6428571428571429,1,0.6666666666666666,1,0.6,1,33,3,56,14,Clear,Paycor,outdoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
+153,A.Jones o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,a.jones,Seattle Seahawks,0.0,0.5,0,1.0,1,0.8,1,49,7,87,96,Rain,Lumen Field,outdoors,turf,105.0,1.5,3.075,1.5749999999999995
+156,A.Jones o0.5 rush_td+rec_td,TopShelfAction,Minnesota Vikings,a.jones,Seattle Seahawks,0.0,0.5,0,1.0,1,0.8,1,49,7,87,96,Rain,Lumen Field,outdoors,turf,110.0,0.5,1.05,0.55
+165,D.Achane o0.5 rush_td+rec_td,shadybiev,Miami Dolphins,d.achane,San Francisco 49ers,1.0,0.6153846153846154,1,0.6666666666666666,1,0.8,1,71,7,59,8,Partly Cloudy,Hard Rock,outdoors,grass,-105.0,1.58,3.084761904761905,1.5047619047619047
+166,G.Kittle o0.5 rush_td+rec_td,GDAWG5000,San Francisco 49ers,g.kittle,Miami Dolphins,0.0,0.5833333333333334,1,0.0,0,0.4,0,71,7,59,8,Partly Cloudy,Hard Rock,outdoors,grass,170.0,0.75,2.0250000000000004,1.2750000000000004
+171,G.Kittle o0.5 rush_td+rec_td,TopShelfAction,San Francisco 49ers,g.kittle,Miami Dolphins,0.0,0.5833333333333334,1,0.0,0,0.4,0,71,7,59,8,Partly Cloudy,Hard Rock,outdoors,grass,165.0,0.5,1.325,0.825
+207,A.Brown o0.5 rush_td+rec_td,sirlockselot_,Philadelphia Eagles,a.brown,Washington Commanders,0.0,0.4545454545454545,0,0.3333333333333333,0,0.4,0,31,8,39,0,Clear,FedExField,outdoors,grass,145.0,2.0,4.9,2.9000000000000004
+228,J.Meyers o0.5 rush_td+rec_td,daletanhardt,Las Vegas Raiders,j.meyers,Jacksonville Jaguars,1.0,0.1666666666666666,0,0.0,0,0.0,0,60,3,22,2,Mostly Cloudy,Allegiant,indoors,grass,210.0,1.2,3.72,2.52
+232,D.Samuel o0.5 rush_td+rec_td,sandyplashkes,San Francisco 49ers,d.samuel,Miami Dolphins,0.0,0.1666666666666666,0,0.0,0,0.0,0,76,10,59,8,Mostly Cloudy,Hard Rock,outdoors,grass,180.0,1.0,2.8,1.7999999999999998
+233,G.Kittle o0.5 rush_td+rec_td,daletanhardt,San Francisco 49ers,g.kittle,Miami Dolphins,0.0,0.5833333333333334,1,0.0,0,0.4,0,76,10,59,8,Mostly Cloudy,Hard Rock,outdoors,grass,155.0,1.5,3.825,2.325
+234,J.Jennings o0.5 rush_td+rec_td,daletanhardt,San Francisco 49ers,j.jennings,Miami Dolphins,0.0,0.25,0,0.3333333333333333,0,0.4,0,76,10,59,8,Mostly Cloudy,Hard Rock,outdoors,grass,210.0,1.0,3.1,2.1
