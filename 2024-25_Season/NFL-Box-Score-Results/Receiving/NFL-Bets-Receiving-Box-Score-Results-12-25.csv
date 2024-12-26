@@ -1,0 +1,37 @@
+,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,V.Jefferson,Pittsburgh Steelers,1,0,0,0,0,0,0,0,0,3.0,0,0.0,0,0.0,39.6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,43.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+1,M.Williams,Pittsburgh Steelers,2,0,0,0,0,0,0,0,0,24.5,0,0.0,0,0.0,39.6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,41.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+2,C.Heyward,Pittsburgh Steelers,1,1,8,0,1,8,8.0,0,0.0,8.0,0,0.0,0,0.0,100.0,0,0,0,0,8,0,0,0,0,0,0,0,0.0,28.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+3,D.Washington,Pittsburgh Steelers,1,1,8,0,0,5,5.0,3,3.0,5.0,0,0.0,0,0.0,100.0,0,0,0,0,8,0,0,0,0,0,0,0,0.0,35.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+4,C.Austin,Pittsburgh Steelers,5,4,31,0,1,21,5.3,10,2.5,6.0,0,0.0,0,0.0,92.5,0,0,0,0,14,0,0,0,0,0,0,0,0.0,75.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+5,G.Pickens,Pittsburgh Steelers,7,3,50,0,0,0,0,0,0,13.4,0,0.0,0,0.0,67.6,0,0,0,0,41,0,2,36,12.0,14,4.7,0,0.0,91.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+6,P.Freiermuth,Pittsburgh Steelers,8,7,60,0,2,39,5.6,21,3.0,7.1,0,0.0,0,0.0,58.3,0,0,0,0,15,1,0,0,0,0,0,0,0.0,60.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+7,J.Warren,Pittsburgh Steelers,6,5,41,0,0,0,0,0,0,0.3,0,0.0,0,0.0,95.1,0,71,0,22,21,0,3,4,0.8,37,7.4,0,0.0,53.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+8,N.Harris,Pittsburgh Steelers,4,2,7,0,0,0,0,0,0,-2.0,0,0.0,0,0.0,56.2,0,74,0,20,5,0,0,-10,-5.0,17,8.5,0,0.0,45.0,1225,Kansas City Chiefs,1,Acrisure,outdoors,grass,38,80,5,2,Overcast
+9,N.Gray,Kansas City Chiefs,1,1,6,0,0,0,0.0,6,6.0,0.0,0,0.0,0,0.0,91.7,0,0,0,0,6,0,0,0,0,0,0,0,0.0,45.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+10,D.Hopkins,Kansas City Chiefs,4,2,7,0,0,2,1.0,5,2.5,6.8,0,0.0,0,0.0,56.2,0,0,0,0,4,0,0,0,0,0,0,0,0.0,47.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+11,J.Smith-Schuster,Kansas City Chiefs,2,2,18,0,1,3,1.5,15,7.5,1.5,0,0.0,0,0.0,104.2,0,0,0,0,13,0,0,0,0,0,0,0,0.0,50.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+12,M.Brown,Kansas City Chiefs,7,4,46,0,3,35,8.8,11,2.8,9.6,0,0.0,0,0.0,77.1,0,0,0,0,17,0,0,0,0,0,0,0,0.0,40.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+13,J.Watson,Kansas City Chiefs,2,2,60,1,2,51,25.5,9,4.5,25.5,0,0.0,0,0.0,158.3,0,0,0,0,49,0,0,0,0,0,0,0,0.0,34.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+14,T.Kelce,Kansas City Chiefs,11,8,84,1,0,0,0,0,0,4.4,0,0.0,0,0.0,124.8,0,0,0,0,20,0,4,31,3.9,53,6.6,0,0.0,89.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+15,X.Worthy,Kansas City Chiefs,9,8,79,1,0,0,0,0,0,0.7,0,0.0,0,0.0,140.3,0,10,0,6,21,0,5,11,1.4,68,8.5,0,0.0,85.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+16,I.Pacheco,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,18,0,8,0,0,0,0,0,0,0,0,0.0,32.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+17,K.Hunt,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,20,1,6,0,0,0,0,0,0,0,0,0.0,48.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+18,P.Mahomes,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,12,0,12,0,0,0,0,0,0,0,0,0.0,100.0,1225,Pittsburgh Steelers,0,Acrisure,outdoors,grass,38,80,5,2,Overcast
+19,C.Stover,Houston Texans,1,1,1,0,0,-2,-2.0,3,3.0,-2.0,0,0.0,0,0.0,79.2,0,0,0,0,1,0,0,0,0,0,0,0,0.0,34.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+20,R.Woods,Houston Texans,2,2,21,0,2,18,9.0,3,1.5,9.0,0,0.0,0,0.0,110.4,0,0,0,0,16,0,0,0,0,0,0,0,0.0,38.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+21,D.Schultz,Houston Texans,6,2,21,0,1,14,7.0,7,3.5,7.0,0,0.0,0,0.0,44.4,0,0,0,0,18,0,0,0,0,0,0,0,0.0,71.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+22,X.Hutchinson,Houston Texans,4,2,21,0,1,14,7.0,7,3.5,13.0,0,0.0,0,0.0,26.0,0,0,0,0,13,0,0,0,0,0,0,0,0.0,70.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+23,J.Metchie,Houston Texans,8,5,48,0,1,42,8.4,6,1.2,9.0,0,0.0,0,0.0,79.2,0,0,0,0,19,0,0,0,0,0,0,0,0.0,71.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+24,N.Collins,Houston Texans,6,3,59,0,3,43,14.3,16,5.3,19.7,0,0.0,0,0.0,84.7,0,0,0,0,30,0,0,0,0,0,0,0,0.0,71.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+25,D.Ogunbowale,Houston Texans,1,1,6,0,0,0,0,0,0,6.0,0,0.0,0,0.0,91.7,0,12,0,9,6,0,0,6,6.0,0,0.0,0,0.0,27.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+26,D.Pierce,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,13,0,7,0,0,0,0,0,0,0,0,0.0,25.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+27,J.Mixon,Houston Texans,3,2,13,0,0,0,0,0,0,-4.7,0,0.0,0,0.0,75.7,0,26,0,8,10,0,0,-12,-6.0,25,12.5,0,0.0,48.0,1225,Baltimore Ravens,1,NRG,indoors,turf,67,78,8,9,Overcast
+28,D.Walker,Baltimore Ravens,2,0,0,0,0,0,0,0,0,33.5,0,0.0,0,0.0,39.6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,25.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+29,T.Wallace,Baltimore Ravens,1,1,2,0,0,-1,-1.0,3,3.0,-1.0,0,0.0,0,0.0,79.2,0,0,0,0,2,0,0,0,0,0,0,0,0.0,35.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+30,I.Likely,Baltimore Ravens,1,1,9,1,1,9,9.0,0,0.0,9.0,0,0.0,0,0.0,143.7,0,0,0,0,9,0,0,0,0,0,0,0,0.0,76.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+31,R.Bateman,Baltimore Ravens,1,1,12,0,1,10,10.0,2,2.0,10.0,0,0.0,0,0.0,116.7,0,0,0,0,12,0,0,0,0,0,0,0,0.0,44.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+32,Z.Flowers,Baltimore Ravens,5,2,31,0,0,0,0,0,0,14.2,0,0.0,0,0.0,61.2,0,0,0,0,27,0,1,21,10.5,10,5.0,0,0.0,65.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+33,M.Andrews,Baltimore Ravens,2,2,68,1,0,0,0,0,0,9.0,0,0.0,0,0.0,158.3,0,0,0,0,67,0,2,18,9.0,50,25.0,0,0.0,56.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+34,K.Mitchell,Baltimore Ravens,1,1,28,0,0,0,0,0,0,-5.0,0,0.0,0,0.0,118.7,0,20,0,7,28,0,1,-5,-5.0,33,33.0,0,0.0,27.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast
+35,D.Henry,Baltimore Ravens,2,2,18,0,0,0,0,0,0,0.5,0,0.0,0,0.0,104.2,0,147,1,20,14,0,1,1,0.5,17,8.5,0,0.0,65.0,1225,Houston Texans,0,NRG,indoors,turf,67,78,8,9,Overcast

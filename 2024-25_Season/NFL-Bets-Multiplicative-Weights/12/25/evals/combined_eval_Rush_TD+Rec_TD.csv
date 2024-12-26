@@ -1,0 +1,4 @@
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,M.Andrews o0.5 rush_td+rec_td,TheTDShow,Baltimore Ravens,m.andrews,Y,1.0,Houston Texans,0.0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,185,1.0,2.85,1.85
+1,R.Bateman o0.5 rush_td+rec_td,TheBMatt,Baltimore Ravens,r.bateman,N,0.0,Houston Texans,0.0,0.5,0,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,240,0.5,1.7,1.2
+2,M.Andrews o0.5 rush_td+rec_td,Ed Scimia,Baltimore Ravens,m.andrews,Y,1.0,Houston Texans,0.0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,100,0.75,1.5,0.75
