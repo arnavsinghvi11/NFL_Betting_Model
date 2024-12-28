@@ -1,4 +1,5 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+1,X.Worthy o0.5 rush_td+rec_td,shadybiev,Kansas City Chiefs,x.worthy,Pittsburgh Steelers,0.0,0.4666666666666667,0,0.6666666666666666,1,0.4,0,40,2,80,7,Mostly Cloudy,Acrisure,outdoors,grass,250,1.0,3.5,2.5
 2,D.Hopkins o0.5 rush_td+rec_td,TheTDShow,Kansas City Chiefs,d.hopkins,Pittsburgh Steelers,0.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,40,2,80,7,Mostly Cloudy,Acrisure,outdoors,grass,280,1.0,3.8,2.8
 5,D.Hopkins o0.5 rush_td+rec_td,TheBMatt,Kansas City Chiefs,d.hopkins,Pittsburgh Steelers,0.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,40,2,80,7,Mostly Cloudy,Acrisure,outdoors,grass,280,0.5,1.9,1.4
 7,D.Hopkins o0.5 rush_td+rec_td,GDAWG5000,Kansas City Chiefs,d.hopkins,Pittsburgh Steelers,0.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,40,2,80,7,Mostly Cloudy,Acrisure,outdoors,grass,280,1.0,3.8,2.8

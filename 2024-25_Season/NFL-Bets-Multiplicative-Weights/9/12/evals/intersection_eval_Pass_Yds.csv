@@ -1,2 +1,2 @@
-,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
-0,T.Tagovailoa o264.5 passing yards,Rohit Ponnaiya,100,0.75,1.5,Miami Dolphins,t.tagovailoa,Buffalo Bills,1.0,0.75,N,1.0,1,1.0,1,1.0,1
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,T.Tagovailoa o264.5 passing yards,Rohit Ponnaiya,Miami Dolphins,t.tagovailoa,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,100,0.75,1.5,0.75,,,,N,145.0

@@ -5,7 +5,7 @@
 93,M.Evans o0.5 rush_td+rec_td,nick_giffen,Tampa Bay Buccaneers,m.evans,Carolina Panthers,0.0,0.5,0,0.3333333333333333,0,0.6,1,50,7,39,2,Clear,Bank of America,outdoors,grass,130.0,1.0,2.3,1.2999999999999998
 123,J.Jennings o0.5 rush_td+rec_td,GDAWG5000,San Francisco 49ers,j.jennings,Buffalo Bills,0.0,0.2222222222222222,0,0.3333333333333333,0,0.2,0,22,9,95,78,Definite Snow,Highmark,outdoors,turf,350.0,0.5,2.25,1.75
 124,G.Kittle o0.5 rush_td+rec_td,GDAWG5000,San Francisco 49ers,g.kittle,Buffalo Bills,0.0,0.7777777777777778,1,1.0,1,0.8,1,22,9,95,78,Definite Snow,Highmark,outdoors,turf,275.0,0.6,2.25,1.65
-126,J.Allen o0.5 rush_td+rec_td,GDAWG5000,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.0,0,0.0,0,0.0,0,22,9,95,78,Definite Snow,Highmark,outdoors,turf,130.0,1.0,2.3,1.2999999999999998
+145,D.London o0.5 rush_td+rec_td,shadybiev,Atlanta Falcons,d.london,Los Angeles Chargers,1.0,0.5,0,0.0,0,0.4,0,38,0,37,0,Clear,Mercedes-Benz,indoors,turf,155.0,1.5,3.825,2.325
 146,Q.Johnston o0.5 rush_td+rec_td,TheTDShow,Los Angeles Chargers,q.johnston,Atlanta Falcons,0.0,0.5,0,0.6666666666666666,1,0.4,0,38,0,37,0,Clear,Mercedes-Benz,indoors,turf,240.0,1.0,3.4,2.4
 149,J.Jefferson o0.5 rush_td+rec_td,daletanhardt,Minnesota Vikings,j.jefferson,Arizona Cardinals,1.0,0.5,0,0.0,0,0.2,0,8,9,64,9,Snow,U.S. Bank,indoors,turf,115.0,2.0,4.3,2.3
 154,J.Jefferson o0.5 rush_td+rec_td,theprophunter0_,Minnesota Vikings,j.jefferson,Arizona Cardinals,1.0,0.5,0,0.0,0,0.2,0,8,9,64,9,Snow,U.S. Bank,indoors,turf,105.0,0.5,1.025,0.5249999999999999
@@ -19,6 +19,4 @@
 185,A.Brown o0.5 rush_td+rec_td,sirlockselot_,Philadelphia Eagles,a.brown,Baltimore Ravens,0.0,0.5714285714285714,1,0.3333333333333333,0,0.4,0,40,7,46,4,Clear,M&amp;T Bank,outdoors,grass,124.0,2.0,4.48,2.4800000000000004
 186,J.Taylor o0.5 rush_td+rec_td,JBBets1,Indianapolis Colts,j.taylor,New England Patriots,0.0,0.4285714285714285,0,0.0,0,0.4,0,37,9,40,1,Clear,Gillette,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
 210,S.Barkley o0.5 rush_td+rec_td,gamblersdream,Philadelphia Eagles,s.barkley,Baltimore Ravens,0.0,0.5,0,0.6666666666666666,1,0.6,1,42,7,46,12,Mostly Cloudy,M&amp;T Bank,outdoors,grass,-125.0,1.25,2.25,1.0
-219,J.Allen o0.5 rush_td+rec_td,rsura_,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.0,0,0.0,0,0.0,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,115.0,1.0,2.15,1.15
-222,J.Allen o0.5 rush_td+rec_td,CroweRadio,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.0,0,0.0,0,0.0,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,130.0,0.25,0.575,0.3249999999999999
 225,J.Mason o0.5 rush_td+rec_td,CroweRadio,San Francisco 49ers,j.mason,Buffalo Bills,0.0,0.4285714285714285,0,0.0,0,0.2,0,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,140.0,0.25,0.6,0.35

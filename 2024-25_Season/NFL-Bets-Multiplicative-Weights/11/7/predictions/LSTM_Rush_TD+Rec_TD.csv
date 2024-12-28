@@ -1,2 +1,6 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-44,J.Chase o0.5 rush_td+rec_td,Brinson,Cincinnati Bengals,j.chase,Baltimore Ravens,0.0,0.625,1,0.6666666666666666,1,0.8,1,73,5,67,7,Clear,M&amp;T Bank,outdoors,grass,-125.0,1.25,2.25,1.0
+35,Z.Flowers o0.5 rush_td+rec_td,gneiffer07,Baltimore Ravens,z.flowers,Cincinnati Bengals,1.0,0.125,0,0.0,0,0.0,0,73,3,67,6,Clear,M&amp;T Bank,outdoors,grass,140.0,1.0,2.4,1.4
+41,J.Hill o0.5 rush_td+rec_td,daletanhardt,Baltimore Ravens,j.hill,Cincinnati Bengals,1.0,0.25,0,0.3333333333333333,0,0.4,0,73,5,67,7,Clear,M&amp;T Bank,outdoors,grass,550.0,0.8,5.2,4.4
+53,C.Brown o0.5 rush_td+rec_td,theprophunter0_,Cincinnati Bengals,c.brown,Baltimore Ravens,0.0,0.5,0,0.6666666666666666,1,0.8,1,71,5,67,7,Clear,M&amp;T Bank,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
+56,Z.Flowers o0.5 rush_td+rec_td,moneybadger24_,Baltimore Ravens,z.flowers,Cincinnati Bengals,1.0,0.125,0,0.0,0,0.0,0,71,5,67,7,Clear,M&amp;T Bank,outdoors,grass,240.0,0.75,2.55,1.7999999999999998
+57,J.Hill o0.5 rush_td+rec_td,charliedisturco,Baltimore Ravens,j.hill,Cincinnati Bengals,1.0,0.25,0,0.3333333333333333,0,0.4,0,71,5,67,7,Clear,M&amp;T Bank,outdoors,grass,2200.0,0.1,2.3000000000000003,2.2

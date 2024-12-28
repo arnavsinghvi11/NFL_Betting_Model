@@ -1,15 +1,19 @@
-,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
-0,A.Barner,Seattle Seahawks,1,1,13,0,1,10,10.0,3,3.0,10.0,0,0.0,0,0.0,118.7,0,0,0,0,13,0,0,0,0,0,0,0,0.0,31.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-1,D.Metcalf,Seattle Seahawks,11,3,48,0,3,18,6.0,30,10.0,15.1,0,0.0,0,0.0,7.4,0,0,0,0,30,0,0,0,0,0,0,0,0.0,90.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-2,J.Smith-Njigba,Seattle Seahawks,9,5,53,0,3,32,6.4,21,4.2,8.8,0,0.0,0,0.0,72.9,0,0,0,0,19,0,0,0,0,0,0,0,0.0,94.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-3,N.Fant,Seattle Seahawks,6,6,63,0,4,30,5.0,33,5.5,5.0,0,0.0,0,0.0,110.4,0,0,0,0,12,0,0,0,0,0,0,0,0.0,69.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-4,T.Lockett,Seattle Seahawks,8,4,65,1,4,50,12.5,15,3.8,10.9,0,0.0,0,0.0,77.6,0,0,0,0,37,0,0,0,0,0,0,0,0.0,78.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-5,Z.Charbonnet,Seattle Seahawks,1,1,15,0,0,0,0,0,0,-2.0,0,0.0,0,0.0,118.7,0,20,0,9,15,0,0,-2,-2.0,17,17.0,0,0.0,31.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-6,K.Walker,Seattle Seahawks,8,8,37,0,0,0,0,0,0,-1.1,0,0.0,0,0.0,85.9,0,32,1,8,11,0,2,-9,-1.1,46,5.8,0,0.0,69.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
-7,J.Jennings,San Francisco 49ers,5,3,27,0,2,19,6.3,8,2.7,5.4,0,0.0,0,0.0,74.6,0,0,0,0,13,0,0,0,0,0,0,0,0.0,52.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-8,B.Aiyuk,San Francisco 49ers,4,2,37,0,2,31,15.5,6,3.0,15.8,0,0.0,0,0.0,82.3,0,0,0,0,21,0,0,0,0,0,0,0,0.0,95.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-9,G.Kittle,San Francisco 49ers,6,5,58,2,3,43,8.6,15,3.0,8.7,0,0.0,0,0.0,146.5,0,0,0,0,29,0,0,0,0,0,0,0,0.0,88.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-10,K.Juszczyk,San Francisco 49ers,4,3,10,0,0,0,0,0,0,-0.5,0,0.0,0,0.0,77.1,0,6,1,6,13,0,0,1,0.3,9,3.0,0,0.0,65.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-11,D.Samuel,San Francisco 49ers,5,3,102,1,0,0,0,0,0,7.2,0,0.0,0,0.0,143.7,0,15,0,5,76,0,2,29,9.7,73,24.3,0,0.0,82.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-12,P.Taylor,San Francisco 49ers,1,1,12,0,0,0,0,0,0,3.0,0,0.0,0,0.0,116.7,0,16,0,6,12,0,1,3,3.0,9,9.0,0,0.0,25.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
-13,J.Mason,San Francisco 49ers,2,1,9,0,0,0,0,0,0,3.0,0,0.0,0,0.0,62.5,0,73,0,38,9,0,0,2,2.0,7,7.0,0,0.0,28.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+Unnamed: 0,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,A.Barner,Seattle Seahawks,1,1,13,0,1.0,10.0,10.0,3.0,3.0,10.0,0.0,0.0,0,0.0,118.7,0,0,0,0,13,0,0,0,0.0,0,0.0,0,0.0,31.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+1.0,D.Metcalf,Seattle Seahawks,11,3,48,0,3.0,18.0,6.0,30.0,10.0,15.1,0.0,0.0,0,0.0,7.4,0,0,0,0,30,0,0,0,0.0,0,0.0,0,0.0,90.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+2.0,J.Smith-Njigba,Seattle Seahawks,9,5,53,0,3.0,32.0,6.4,21.0,4.2,8.8,0.0,0.0,0,0.0,72.9,0,0,0,0,19,0,0,0,0.0,0,0.0,0,0.0,94.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+3.0,N.Fant,Seattle Seahawks,6,6,63,0,4.0,30.0,5.0,33.0,5.5,5.0,0.0,0.0,0,0.0,110.4,0,0,0,0,12,0,0,0,0.0,0,0.0,0,0.0,69.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+4.0,T.Lockett,Seattle Seahawks,8,4,65,1,4.0,50.0,12.5,15.0,3.8,10.9,0.0,0.0,0,0.0,77.6,0,0,0,0,37,0,0,0,0.0,0,0.0,0,0.0,78.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+5.0,Z.Charbonnet,Seattle Seahawks,1,1,15,0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,0,0.0,118.7,0,20,0,9,15,0,0,-2,-2.0,17,17.0,0,0.0,31.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+6.0,K.Walker,Seattle Seahawks,8,8,37,0,0.0,0.0,0.0,0.0,0.0,-1.1,0.0,0.0,0,0.0,85.9,0,32,1,8,11,0,2,-9,-1.1,46,5.8,0,0.0,69.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+7.0,J.Jennings,San Francisco 49ers,5,3,27,0,2.0,19.0,6.3,8.0,2.7,5.4,0.0,0.0,0,0.0,74.6,0,0,0,0,13,0,0,0,0.0,0,0.0,0,0.0,52.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+8.0,B.Aiyuk,San Francisco 49ers,4,2,37,0,2.0,31.0,15.5,6.0,3.0,15.8,0.0,0.0,0,0.0,82.3,0,0,0,0,21,0,0,0,0.0,0,0.0,0,0.0,95.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+9.0,G.Kittle,San Francisco 49ers,6,5,58,2,3.0,43.0,8.6,15.0,3.0,8.7,0.0,0.0,0,0.0,146.5,0,0,0,0,29,0,0,0,0.0,0,0.0,0,0.0,88.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+10.0,K.Juszczyk,San Francisco 49ers,4,3,10,0,0.0,0.0,0.0,0.0,0.0,-0.5,0.0,0.0,0,0.0,77.1,0,6,1,6,13,0,0,1,0.3,9,3.0,0,0.0,65.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+11.0,D.Samuel,San Francisco 49ers,5,3,102,1,0.0,0.0,0.0,0.0,0.0,7.2,0.0,0.0,0,0.0,143.7,0,15,0,5,76,0,2,29,9.7,73,24.3,0,0.0,82.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+12.0,P.Taylor,San Francisco 49ers,1,1,12,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,0.0,116.7,0,16,0,6,12,0,1,3,3.0,9,9.0,0,0.0,25.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+13.0,J.Mason,San Francisco 49ers,2,1,9,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0,0.0,62.5,0,73,0,38,9,0,0,2,2.0,7,7.0,0,0.0,28.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+0.0,J.Bobo,Seattle Seahawks,4,2,18,0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0,0.0,62.5,0,0,0,0,11,0,1,10,5.0,8,4.0,0,0.0,15.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+0.0,G.Smith,Seattle Seahawks,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1010,San Francisco 49ers,1,Lumen Field,outdoors,turf,60,70,5,0,Clear
+0.0,B.Purdy,San Francisco 49ers,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear
+0.0,I.Guerendo,San Francisco 49ers,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1010,Seattle Seahawks,0,Lumen Field,outdoors,turf,60,70,5,0,Clear

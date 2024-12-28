@@ -1,46 +1,47 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-K.Cousins u32.5 pass attempts,Rohit Ponnaiya,Atlanta Falcons,k.cousins,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,3,54,0,Partly Cloudy,Mercedes-Benz,indoors,turf,100.0,0.75,1.5,0.75
-R.Shaheed o22.5 longest reception yards,Jared Hochman,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,85,7,71,2,Rain,Caesars Superdome,indoors,turf,100.0,0.75,1.5,0.75
-R.Shaheed o21.5 Longest Reception,cowhitchurch,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.69,3.185575221238938,1.495575221238938
-R.Shaheed o22.5 Longest Reception,The_Oddsmaker,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-118.0,1.18,2.18,0.9999999999999998
-R.Shaheed o23.5 Longest Reception,therocketplays,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,87,6,68,1,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0
-C.Lamb o25.5 Longest Reception,KyleJustBets,Dallas Cowboys,c.lamb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,93,6,40,3,Rain,AT&amp;T,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-J.Ford u12.5 Rush Att,MoneylineHacks,Cleveland Browns,j.ford,New York Giants,1.0,1.0,1,1.0,1,1.0,1,79,7,65,13,Rain,Cleveland Browns,outdoors,grass,-110.0,1.5,2.863636363636364,1.3636363636363638
-C.Akers u16.5 Rush Att,chrisgimino_,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
-J.Williams u11.5 Rush Att,convince_me,Denver Broncos,j.williams,Tampa Bay Buccaneers,0.0,1.0,1,1.0,1,1.0,1,84,6,59,10,Clear,Raymond James,outdoors,grass,105.0,1.0,2.05,1.0499999999999998
-T.Allgeier o6.5 Rush Att,MoneylineHacks,Atlanta Falcons,t.allgeier,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,100.0,1.0,2.0,1.0
-D.Swift u52.5 Rush Yds,gneiffer07,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,71,6,70,52,Rain,Lucas Oil,indoors,turf,-104.0,1.04,2.04,1.0
-J.Williams u45.5 rushing yards,Rotowire Prizepicks,Denver Broncos,j.williams,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,86,7,69,5,Rain,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-D.Swift u59.5 Rush Yds,kylemurray03,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,80,6,65,61,Rain,Lucas Oil,indoors,turf,-110.0,1.1,2.1,1.0
-J.Whittington u35.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,j.whittington,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,72,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-D.Swift u57.5 Rush Yds,chrisgimino_,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,78,6,70,52,Rain,Lucas Oil,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-J.Williams o15.5 rushing yards,Rotowire Prizepicks,Denver Broncos,j.williams,Tampa Bay Buccaneers,0.0,1.0,1,1.0,1,1.0,1,87,7,59,10,Clear,Raymond James,outdoors,grass,100.0,1.5,3.0,1.5
-K.Williams u65.5 Rush Yds,millmanc,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-145.0,1.0,1.6896551724137931,0.6896551724137931
-K.Williams u69.5 Rush Yds,cowhitchurch,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-135.0,2.03,3.533703703703704,1.5037037037037035
-K.Williams u67.5 Rush Yds,The_Oddsmaker,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-C.Akers u61.5 Rush Yds,cowhitchurch,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.13,2.13,1.0
-C.Akers u60.5 Rush Yds,millmanc,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.0,1.8849557522123888,0.8849557522123894
-C.Akers u61.5 Rush Yds,The_Oddsmaker,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.13,2.13,1.0
-T.Allgeier o23.5 rushing yards,Rotowire Sleeper,Atlanta Falcons,t.allgeier,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,6,54,2,Clear,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5
-C.Steele u48.5 Rush Yds,kylemurray03,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,1.0,1,1.0,1,1.0,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-M.Willis u188.5 passing + rushing yards,Rotowire Prizepicks,Green Bay Packers,m.willis,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,90,5,51,6,Rain,Nissan,outdoors,grass,100.0,1.5,3.0,1.5
-A.Richardson o228.5 passing + rushing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,81,6,63,61,Rain,Lucas Oil,indoors,turf,100.0,1.5,3.0,1.5
-S.Barkley u24.5 receiving yards,Rotowire Prizepicks,Philadelphia Eagles,s.barkley,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,84,7,72,2,Rain,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-J.Williams u12.5 Longest Rush,cowhitchurch,Denver Broncos,j.williams,Tampa Bay Buccaneers,0.0,1.0,1,1.0,1,1.0,1,88,7,64,14,Rain,Raymond James,outdoors,grass,-125.0,0.63,1.134,0.5040000000000001
-B.Purdy o235.5 passing + rushing yards,Rotowire Sleeper,San Francisco 49ers,b.purdy,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,78,9,72,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-D.Achane o24.5 Receiving Yards,JBBets1,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,67,5,65,7,Rain,Lumen Field,outdoors,turf,-155.0,1.0,1.6451612903225803,0.6451612903225805
-C.Otton u22.5 Rec Yds,cowhitchurch,Tampa Bay Buccaneers,c.otton,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,87,7,59,10,Clear,Raymond James,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002
-C.Otton u22.5 Rec Yds,The_Oddsmaker,Tampa Bay Buccaneers,c.otton,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,87,7,59,10,Clear,Raymond James,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002
-D.Achane o23.5 Rec Yds,TheBMatt,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,72,11,Rain,Lumen Field,outdoors,turf,-110.0,1.1,2.1,1.0
-D.Achane o23.5 Rec Yds,kylemurray03,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,68,18,Rain,Lumen Field,outdoors,turf,-125.0,1.25,2.25,1.0
-M.Pittman u53.5 Rec Yds,ChrisRaybon,Indianapolis Colts,m.pittman,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,77,6,70,52,Rain,Lucas Oil,indoors,turf,-113.0,1.0,1.8849557522123888,0.8849557522123894
-D.Achane o25.5 Rec Yds,Markus_Markets,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,68,18,Rain,Lumen Field,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
-D.Achane o26.5 Rec Yds,FirefighterBets,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,66,5,65,5,Rain,Lumen Field,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-R.McCloud o29.5 Rec Yds,PropBetGuy,Atlanta Falcons,r.mccloud,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,6,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-C.Tillman u11.5 Rec Yds,ChrisRaybon,Cleveland Browns,c.tillman,New York Giants,1.0,1.0,1,1.0,1,1.0,1,80,6,54,2,Clear,Cleveland Browns,outdoors,grass,-115.0,1.0,1.869565217391304,0.8695652173913042
-R.Shaheed o49.5 Receiving Yards,JBBets1,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,87,7,68,1,Mostly Cloudy,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-D.Ogunbowale o6.5 Rec Yds,ThePropfessor_,Houston Texans,d.ogunbowale,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,62,10,50,0,Clear,U.S. Bank,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-W.Robinson o0.5 Rush Yds,MoneylineHacks,New York Giants,w.robinson,Cleveland Browns,0.0,0.5,0,0.5,0,0.5,0,79,7,65,13,Rain,Cleveland Browns,outdoors,grass,195.0,1.0,2.95,1.95
-T.Chandler u1.5 Recs,MoneylineHacks,Minnesota Vikings,t.chandler,Houston Texans,1.0,0.5,0,0.5,0,0.5,0,62,8,60,20,Rain,U.S. Bank,indoors,turf,125.0,1.0,2.25,1.25
-C.Steele u1.5 Recs,MoneylineHacks,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,0.0,0,0.0,0,0.0,0,83,3,52,4,Rain,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35
-C.Godwin u5.5 Recs,boomerslocks,Tampa Bay Buccaneers,c.godwin,Denver Broncos,1.0,0.0,0,0.0,0,0.0,0,88,7,59,16,Rain,Raymond James,outdoors,grass,116.0,1.0,2.16,1.16
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+A.Richardson o228.5 passing + rushing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,81,6,63,61,Rain,Lucas Oil,indoors,turf,100.0,1.5,3.0,1.5,,,
+K.Williams u69.5 Rush Yds,cowhitchurch,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-135.0,2.03,3.533703703703704,1.5037037037037035,,,
+C.Akers u61.5 Rush Yds,cowhitchurch,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.13,2.13,1.0,,,
+C.Akers u60.5 Rush Yds,millmanc,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.0,1.8849557522123888,0.8849557522123894,,,
+C.Akers u61.5 Rush Yds,The_Oddsmaker,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-113.0,1.13,2.13,1.0,,,
+T.Sermon u11.5 Rush Yds,PropBomb,Indianapolis Colts,t.sermon,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,76,6,74,52,Rain,Lucas Oil,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+J.Dobbins o56.5 Rush Yds,theprophunter0_,Los Angeles Chargers,j.dobbins,Pittsburgh Steelers,0.0,1.0,1,1.0,1,1.0,1,72,8,56,1,Clear,Acrisure,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002,,,
+C.Steele u48.5 Rush Yds,kylemurray03,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,1.0,1,1.0,1,1.0,1,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0,,,
+K.Cousins u32.5 pass attempts,Rohit Ponnaiya,Atlanta Falcons,k.cousins,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,3,54,0,Partly Cloudy,Mercedes-Benz,indoors,turf,100.0,0.75,1.5,0.75,,,
+S.Barkley u24.5 receiving yards,Rotowire Prizepicks,Philadelphia Eagles,s.barkley,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,84,7,72,2,Rain,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,,,
+D.Achane o23.5 Rec Yds,TheBMatt,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,72,11,Rain,Lumen Field,outdoors,turf,-110.0,1.1,2.1,1.0,,,
+D.Achane o23.5 Rec Yds,kylemurray03,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,68,18,Rain,Lumen Field,outdoors,turf,-125.0,1.25,2.25,1.0,,,
+M.Pittman u53.5 Rec Yds,ChrisRaybon,Indianapolis Colts,m.pittman,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,77,6,70,52,Rain,Lucas Oil,indoors,turf,-113.0,1.0,1.8849557522123888,0.8849557522123894,,,
+D.Achane o25.5 Rec Yds,Markus_Markets,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,65,0,68,18,Rain,Lumen Field,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042,,,
+D.Achane o26.5 Rec Yds,FirefighterBets,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,66,5,65,5,Rain,Lumen Field,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,,,
+J.Whittington u35.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,j.whittington,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,72,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,,,
+C.Otton u22.5 Rec Yds,cowhitchurch,Tampa Bay Buccaneers,c.otton,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,87,7,59,10,Clear,Raymond James,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002,,,
+C.Otton u22.5 Rec Yds,The_Oddsmaker,Tampa Bay Buccaneers,c.otton,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,87,7,59,10,Clear,Raymond James,outdoors,grass,-120.0,1.2,2.2,1.0000000000000002,,,
+D.Achane o24.5 Receiving Yards,JBBets1,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,67,5,65,7,Rain,Lumen Field,outdoors,turf,-155.0,1.0,1.6451612903225803,0.6451612903225805,,,
+C.Tillman u11.5 Rec Yds,ChrisRaybon,Cleveland Browns,c.tillman,New York Giants,1.0,1.0,1,1.0,1,1.0,1,80,6,54,2,Clear,Cleveland Browns,outdoors,grass,-115.0,1.0,1.869565217391304,0.8695652173913042,,,
+R.McCloud o29.5 Rec Yds,PropBetGuy,Atlanta Falcons,r.mccloud,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,84,6,54,2,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0,,,
+B.Purdy o235.5 passing + rushing yards,Rotowire Sleeper,San Francisco 49ers,b.purdy,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,78,9,72,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,,,
+K.Williams u67.5 Rush Yds,The_Oddsmaker,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,,,
+K.Williams u65.5 Rush Yds,millmanc,Los Angeles Rams,k.williams,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,78,9,59,0,Foggy,SoFi,indoors,turf,-145.0,1.0,1.6896551724137931,0.6896551724137931,,,
+R.Shaheed o23.5 Longest Reception,therocketplays,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,87,6,68,1,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0,,,
+M.Willis u188.5 passing + rushing yards,Rotowire Prizepicks,Green Bay Packers,m.willis,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,90,5,51,6,Rain,Nissan,outdoors,grass,100.0,1.5,3.0,1.5,,,
+A.Richardson o182.5 passing yards,Rotowire Prizepicks,Indianapolis Colts,a.richardson,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,83,6,52,18,Rain,Lucas Oil,indoors,turf,100.0,1.5,3.0,1.5,,,
+A.Richardson o187.5 passing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,77,6,70,51,Rain,Lucas Oil,indoors,turf,100.0,1.5,3.0,1.5,,,
+D.Achane o3.5 Receptions,JBBets1,Miami Dolphins,d.achane,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,67,5,65,7,Rain,Lumen Field,outdoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144,,,
+R.Shaheed o22.5 longest reception yards,Jared Hochman,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,85,7,71,2,Rain,Caesars Superdome,indoors,turf,100.0,0.75,1.5,0.75,,,
+R.Shaheed o21.5 Longest Reception,cowhitchurch,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.69,3.185575221238938,1.495575221238938,,,
+D.Swift u57.5 Rush Yds,chrisgimino_,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,78,6,70,52,Rain,Lucas Oil,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,,,
+R.Shaheed o22.5 Longest Reception,The_Oddsmaker,New Orleans Saints,r.shaheed,Philadelphia Eagles,1.0,1.0,1,1.0,1,1.0,1,86,7,70,0,Clear,Caesars Superdome,indoors,turf,-118.0,1.18,2.18,0.9999999999999998,,,
+C.Lamb o25.5 Longest Reception,KyleJustBets,Dallas Cowboys,c.lamb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,93,6,40,3,Rain,AT&amp;T,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,,,
+J.Ford u12.5 Rush Att,MoneylineHacks,Cleveland Browns,j.ford,New York Giants,1.0,1.0,1,1.0,1,1.0,1,79,7,65,13,Rain,Cleveland Browns,outdoors,grass,-110.0,1.5,2.863636363636364,1.3636363636363638,0.0,1.0,Rush_Att
+G.Edwards o9.5 Rush Att,MoneylineHacks,Los Angeles Chargers,g.edwards,Pittsburgh Steelers,0.0,1.0,1,1.0,1,1.0,1,68,5,60,5,Rain,Acrisure,outdoors,grass,-105.0,2.0,3.9047619047619047,1.9047619047619049,1.0,0.0,Rush_Att
+C.Akers u16.5 Rush Att,chrisgimino_,Houston Texans,c.akers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,63,10,52,0,Partly Cloudy,U.S. Bank,indoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692,0.0,1.0,Rush_Att
+D.Swift u52.5 Rush Yds,gneiffer07,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,71,6,70,52,Rain,Lucas Oil,indoors,turf,-104.0,1.04,2.04,1.0,,,
+D.Swift u59.5 Rush Yds,kylemurray03,Chicago Bears,d.swift,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,80,6,65,61,Rain,Lucas Oil,indoors,turf,-110.0,1.1,2.1,1.0,,,
+D.Prescott o256.5 passing yards,Rotowire Sleeper,Dallas Cowboys,d.prescott,Baltimore Ravens,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,91,6,41,11,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5,,,
+C.Sutton u42.5 receiving yards,Rotowire Prizepicks,Denver Broncos,c.sutton,Tampa Bay Buccaneers,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,85,5,59,10,Partly Cloudy,Raymond James,outdoors,grass,100.0,1.5,3.0,1.5,,,
+E.Elliott u30.5 rushing yards,Rotowire Prizepicks,Dallas Cowboys,e.elliott,Baltimore Ravens,1.0,0.5,0,0.5,0,0.5,0,91,6,41,11,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5,,,
+E.Elliott u43.5 rush + rec yds,Rob Paul,Dallas Cowboys,e.elliott,Baltimore Ravens,1.0,0.5,0,0.5,0,0.5,0,92,7,44,2,Rain,AT&amp;T,indoors,turf,100.0,0.75,1.5,0.75,0.0,1.0,Rush_Yds+Rec_Yds
+G.Edwards o29.5 rushing yards,Rotowire Sleeper,Los Angeles Chargers,g.edwards,Pittsburgh Steelers,0.0,0.5,0,0.5,0,0.5,0,80,6,61,7,Mostly Cloudy,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5,,,
+C.Steele u1.5 Recs,MoneylineHacks,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,0.0,0,0.0,0,0.0,0,83,3,52,4,Rain,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35,,,
+C.Steele u9.5 receiving yards,Rotowire Prizepicks,Kansas City Chiefs,c.steele,Atlanta Falcons,0.0,0.0,0,0.0,0,0.0,0,84,6,54,2,Clear,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5,,,

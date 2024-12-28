@@ -1,3 +1,2 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,C.Stroud u34.5 pass attempts,Rohit Ponnaiya,c.stroud,N,36.0,Houston Texans,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,89,7,59,7,Rain,NRG,indoors,turf,100,0.75,1.5,0.75
-1,L.Jackson u28.5 Pass Att,Theotherbabs,l.jackson,N,34.0,Baltimore Ravens,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,78,13,47,0,Clear,M&amp;T Bank,outdoors,grass,100,1.0,2.0,1.0
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,C.Stroud u34.5 pass attempts,Rohit Ponnaiya,Houston Texans,c.stroud,,,,N,36.0,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,89,7,59,7,Rain,NRG,indoors,turf,100,0.75,1.5,0.75

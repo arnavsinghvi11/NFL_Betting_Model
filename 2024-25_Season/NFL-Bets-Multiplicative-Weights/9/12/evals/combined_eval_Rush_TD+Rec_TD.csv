@@ -1,13 +1,9 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,D.Achane o0.5 rush_td+rec_td,Brinson,D.Achane,Y,1.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.0,2.0,1.0
-1,J.Allen o0.5 rush_td+rec_td,Markus_Markets,J.Allen,N,0.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,85,2,82,18,Rain,Hard Rock,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042
-2,J.Allen o0.5 rush_td+rec_td,gamblersdream,j.allen,N,0.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
-3,J.Waddle o0.5 rush_td+rec_td,moneybadger24_,j.waddle,N,0.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,140,1.0,2.4,1.4
-4,J.Allen o0.5 rush_td+rec_td,cowhitchurch,j.allen,N,0.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,150,0.5,1.25,0.75
-5,J.Waddle o0.5 rush_td+rec_td,sandyplashkes,j.waddle,N,0.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,140,1.0,2.4,1.4
-6,J.Waddle o0.5 rush_td+rec_td,Mjaybrxd,j.waddle,N,0.0,Miami Dolphins,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,150,1.0,2.5,1.5
-7,J.Allen o0.5 rush_td+rec_td,GreenDotDaily,j.allen,N,0.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.0,2.0,1.0
-8,J.Cook o0.5 rush_td+rec_td,theprophunter0_,j.cook,Y,3.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,2,82,18,Rain,Hard Rock,outdoors,grass,129,1.0,2.29,1.29
-9,D.Achane o0.5 rush_td+rec_td,gneiffer07,d.achane,Y,1.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,87,3,82,24,Clear,Hard Rock,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
-10,T.Hill o0.5 rush_td+rec_td,gneiffer07,t.hill,N,0.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,87,3,82,24,Clear,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-11,M.Hollins o0.5 rush_td+rec_td,GDAWG5000,M.Hollins,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,600,0.5,3.5,3.0
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,D.Achane o0.5 rush_td+rec_td,gneiffer07,Miami Dolphins,d.achane,,,,Y,1.0,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,87,3,82,24,Clear,Hard Rock,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+1,J.Allen o0.5 rush_td+rec_td,GreenDotDaily,Buffalo Bills,j.allen,,,,N,0.0,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.0,2.0,1.0
+2,J.Allen o0.5 rush_td+rec_td,cowhitchurch,Buffalo Bills,j.allen,,,,N,0.0,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,150,0.5,1.25,0.75
+3,J.Allen o0.5 rush_td+rec_td,gamblersdream,Buffalo Bills,j.allen,,,,N,0.0,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+4,J.Cook o0.5 rush_td+rec_td,theprophunter0_,Buffalo Bills,j.cook,,,,Y,3.0,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,2,82,18,Rain,Hard Rock,outdoors,grass,129,1.0,2.29,1.29
+5,J.Waddle o0.5 rush_td+rec_td,Mjaybrxd,Miami Dolphins,j.waddle,,,,N,0.0,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,150,1.0,2.5,1.5
+6,J.Waddle o0.5 rush_td+rec_td,moneybadger24_,Miami Dolphins,j.waddle,,,,N,0.0,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,140,1.0,2.4,1.4
+7,J.Waddle o0.5 rush_td+rec_td,sandyplashkes,Miami Dolphins,j.waddle,,,,N,0.0,Buffalo Bills,1.0,0.0,0,0.0,0,0.0,0,85,3,80,35,Rain,Hard Rock,outdoors,grass,140,1.0,2.4,1.4

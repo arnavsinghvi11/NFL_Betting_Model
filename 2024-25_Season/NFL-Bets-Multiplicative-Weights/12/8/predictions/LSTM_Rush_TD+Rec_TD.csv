@@ -1,18 +1,3 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-68,D.Hopkins o0.5 rush_td+rec_td,GDAWG5000,Kansas City Chiefs,d.hopkins,Los Angeles Chargers,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,51,10,89,4,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,260.0,1.0,3.6,2.6
 87,J.Jefferson o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,6,83,9,Snow,U.S. Bank,indoors,turf,-110.0,2.75,5.25,2.5
-95,D.Smith o0.5 rush_td+rec_td,GDAWG5000,Philadelphia Eagles,d.smith,Carolina Panthers,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,52,9,44,3,Rain,Lincoln Financial Field,outdoors,grass,200.0,1.0,3.0,2.0
-152,D.London o0.5 rush_td+rec_td,TheTDShow,Atlanta Falcons,d.london,Minnesota Vikings,0.0,0.4545454545454545,0,0.0,0,0.2,0,36,7,70,4,Overcast,U.S. Bank,indoors,turf,165.0,1.0,2.65,1.65
-160,D.Smith o0.5 rush_td+rec_td,TheTDShow,Philadelphia Eagles,d.smith,Carolina Panthers,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,48,14,44,0,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,200.0,1.0,3.0,2.0
-165,J.Ford o0.5 rush_td+rec_td,TheTDShow,Cleveland Browns,j.ford,Pittsburgh Steelers,0.0,0.1111111111111111,0,0.0,0,0.0,0,47,14,60,1,Clear,Acrisure,outdoors,grass,400.0,0.5,2.5,2.0
-167,J.Meyers o0.5 rush_td+rec_td,TheTDShow,Las Vegas Raiders,j.meyers,Tampa Bay Buccaneers,0.0,0.2,0,0.0,0,0.2,0,68,5,54,1,Partly Cloudy,Raymond James,outdoors,grass,240.0,1.0,3.4,2.4
-172,Z.Charbonnet o0.5 rush_td+rec_td,CroweRadio,Seattle Seahawks,z.charbonnet,Arizona Cardinals,0.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,72,3,24,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
-188,T.Etienne o0.5 rush_td+rec_td,sirlockselot_,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,170.0,1.5,4.050000000000001,2.5500000000000007
-189,T.Etienne o0.5 rush_td+rec_td,shadybiev,Jacksonville Jaguars,t.etienne,Tennessee Titans,0.0,0.2222222222222222,0,0.0,0,0.0,0,54,8,53,12,Overcast,Nissan,outdoors,grass,172.0,1.0,2.72,1.7199999999999998
-192,C.Hubbard o0.5 rush_td+rec_td,shadybiev,Carolina Panthers,c.hubbard,Philadelphia Eagles,0.0,0.6363636363636364,1,0.6666666666666666,1,0.6,1,57,14,44,0,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,127.0,1.0,2.27,1.27
-198,D.Achane o0.5 rush_td+rec_td,JBBets1,Miami Dolphins,d.achane,New York Jets,1.0,0.6363636363636364,1,1.0,1,0.8,1,77,10,57,1,Partly Cloudy,Hard Rock,outdoors,grass,-140.0,1.0,1.7142857142857144,0.7142857142857144
 201,J.Jefferson o0.5 rush_td+rec_td,JBBets1,Minnesota Vikings,j.jefferson,Atlanta Falcons,1.0,0.4166666666666667,0,0.0,0,0.0,0,38,7,70,4,Overcast,U.S. Bank,indoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524
-207,J.Conner o0.5 rush_td+rec_td,CroweRadio,Arizona Cardinals,j.conner,Seattle Seahawks,1.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,68,5,23,0,Clear,State Farm,indoors,grass,100.0,0.25,0.5,0.25
-209,I.Guerendo o0.5 rush_td+rec_td,shadybiev,San Francisco 49ers,i.guerendo,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,66,6,53,0,Mostly Cloudy,Levi's,outdoors,grass,-110.0,2.2,4.2,2.0
-210,D.Samuel o0.5 rush_td+rec_td,sirlockselot_,San Francisco 49ers,d.samuel,Chicago Bears,1.0,0.2,0,0.0,0,0.0,0,66,6,53,0,Mostly Cloudy,Levi's,outdoors,grass,174.0,1.0,2.74,1.7400000000000002
-225,I.Pacheco o0.5 rush_td+rec_td,shadybiev,Kansas City Chiefs,i.pacheco,Los Angeles Chargers,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,50,9,93,11,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,105.0,2.0,4.1,2.1

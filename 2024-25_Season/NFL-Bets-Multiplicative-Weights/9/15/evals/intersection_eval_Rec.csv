@@ -1,14 +1,13 @@
-,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
-0,G.Dulcich u2.5 Recs,kylemurray03,-120,1.2,2.2,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0000000000000002,N,1.0,1,1.0,1,1.0,1
-1,I.Likely u3.5 Recs,cowhitchurch,-114,1.14,2.14,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
-2,I.Likely u3.5 Recs,The_Oddsmaker,-114,1.14,2.14,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.9999999999999998,Y,0.0,0,0.0,0,0.0,0
-3,B.Aiyuk u4.5 Recs,cowhitchurch,-114,1.0,1.8771929824561404,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,0.8771929824561404,Y,1.0,1,1.0,1,1.0,1
-4,B.Aiyuk u4.5 Recs,The_Oddsmaker,-120,1.2,2.2,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0000000000000002,Y,1.0,1,1.0,1,1.0,1
-5,T.Irwin u2.5 Recs,cowhitchurch,-160,0.8,1.3,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,0.5,Y,1.0,1,1.0,1,1.0,1
-6,T.Irwin u2.5 Recs,nick_giffen,-160,1.6,2.6,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,Y,1.0,1,1.0,1,1.0,1
-7,J.Palmer u3.5 Recs,PropBomb,-125,1.25,2.25,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,Y,1.0,1,1.0,1,1.0,1
-8,J.McLaughlin u2.5 Recs,MoneylineHacks,106,1.0,2.06,Denver Broncos,j.mclaughlin,Pittsburgh Steelers,1.0,1.06,Y,0.0,0,0.0,0,0.0,0
-9,R.Odunze u3.5 Recs,MoneylineHacks,-140,1.0,1.7142857142857144,Chicago Bears,r.odunze,Houston Texans,0.0,0.7142857142857144,Y,1.0,1,1.0,1,1.0,1
-10,R.Odunze u3.5 Recs,charliedisturco,-120,1.2,2.2,Chicago Bears,r.odunze,Houston Texans,0.0,1.0000000000000002,Y,1.0,1,1.0,1,1.0,1
-11,R.Odunze u3.5 Recs,cowhitchurch,125,0.5,1.125,Chicago Bears,r.odunze,Houston Texans,0.0,0.625,Y,1.0,1,1.0,1,1.0,1
-12,R.Odunze u3.5 Recs,The_Oddsmaker,-120,1.2,2.2,Chicago Bears,r.odunze,Houston Texans,0.0,1.0000000000000002,Y,1.0,1,1.0,1,1.0,1
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,G.Dulcich u2.5 Recs,kylemurray03,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002,,,,N,3.0
+1,E.Moore o2.5 Recs,cowhitchurch,Cleveland Browns,e.moore,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998,,,,Y,6.0
+2,E.Moore o2.5 Recs,The_Oddsmaker,Cleveland Browns,e.moore,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998,,,,Y,6.0
+3,B.Aiyuk u4.5 Recs,cowhitchurch,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404,,,,Y,4.0
+4,B.Aiyuk u4.5 Recs,The_Oddsmaker,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002,,,,Y,4.0
+5,T.Irwin u2.5 Recs,cowhitchurch,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5,,,,Y,1.0
+6,T.Irwin u2.5 Recs,nick_giffen,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0,,,,Y,1.0
+7,J.Palmer u3.5 Recs,PropBomb,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0,,,,Y,2.0
+8,R.Odunze u3.5 Recs,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144,,,,Y,2.0
+9,R.Odunze u3.5 Recs,charliedisturco,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002,,,,Y,2.0
+10,R.Odunze u3.5 Recs,cowhitchurch,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625,,,,Y,2.0
+11,R.Odunze u3.5 Recs,The_Oddsmaker,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002,,,,Y,2.0

@@ -1,8 +1,9 @@
-,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
-0,M.Evans o0.5 rush_td+rec_td,gneiffer07,125,1.0,2.25,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.25,N,1.0,1,1.0,1,1.0,1
-1,J.Dobbins o0.5 rush_td+rec_td,gneiffer07,160,0.87,2.262,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.392,Y,1.0,1,1.0,1,1.0,1
-2,J.Dobbins o0.5 rush_td+rec_td,Proptology,150,1.0,2.5,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.5,Y,1.0,1,1.0,1,1.0,1
-3,B.Robinson o0.5 rush_td+rec_td,JBBets1,145,1.0,2.45,Washington Commanders,b.robinson,New York Giants,1.0,1.4500000000000002,N,1.0,1,1.0,1,1.0,1
-4,I.Pacheco o0.5 rush_td+rec_td,JBBets1,-130,1.0,1.7692307692307692,Kansas City Chiefs,i.pacheco,Cincinnati Bengals,1.0,0.7692307692307692,N,1.0,1,1.0,1,1.0,1
-5,J.Dobbins o0.5 rush_td+rec_td,theprophunter0_,115,1.0,2.15,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.15,Y,1.0,1,1.0,1,1.0,1
-6,J.Mixon o0.5 rush_td+rec_td,moneybadger24_,-130,1.3,2.3,Houston Texans,j.mixon,Chicago Bears,1.0,0.9999999999999998,N,1.0,1,1.0,1,1.0,1
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,C.Kupp o0.5 rush_td+rec_td,gneiffer07,Los Angeles Rams,c.kupp,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,94,8,38,8,Rain,State Farm,indoors,grass,100,1.0,2.0,1.0,,,,N,0.0
+1,I.Pacheco o0.5 rush_td+rec_td,JBBets1,Kansas City Chiefs,i.pacheco,Cincinnati Bengals,1.0,1.0,1,1.0,1,1.0,1,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,-130,1.0,1.7692307692307692,0.7692307692307692,,,,N,0.0
+2,J.Dobbins o0.5 rush_td+rec_td,Proptology,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,76,14,78,9,Rain,Bank of America,outdoors,grass,150,1.0,2.5,1.5,,,,Y,1.0
+3,J.Dobbins o0.5 rush_td+rec_td,gneiffer07,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,15,78,14,Rain,Bank of America,outdoors,grass,160,0.87,2.262,1.392,,,,Y,1.0
+4,J.Dobbins o0.5 rush_td+rec_td,theprophunter0_,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,76,14,66,10,Mostly Cloudy,Bank of America,outdoors,grass,115,1.0,2.15,1.15,,,,Y,1.0
+5,J.Mixon o0.5 rush_td+rec_td,moneybadger24_,Houston Texans,j.mixon,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-130,1.3,2.3,0.9999999999999998,,,,N,0.0
+6,J.Taylor o0.5 rush_td+rec_td,gneiffer07,Indianapolis Colts,j.taylor,Green Bay Packers,0.0,0.0,0,0.0,0,0.0,0,81,5,63,7,Mostly Cloudy,Lambeau Field,outdoors,grass,115,1.0,2.15,1.15,,,,N,0.0
+7,J.Taylor o0.5 rush_td+rec_td,theprophunter0_,Indianapolis Colts,j.taylor,Green Bay Packers,0.0,0.0,0,0.0,0,0.0,0,82,7,58,1,Clear,Lambeau Field,outdoors,grass,-105,1.05,2.05,0.9999999999999998,,,,N,0.0

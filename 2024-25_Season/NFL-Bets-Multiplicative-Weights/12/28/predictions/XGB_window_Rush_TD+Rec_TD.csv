@@ -1,0 +1,6 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,J.Dobbins o0.5 rush_td+rec_td,rsura_,Los Angeles Chargers,j.dobbins,New England Patriots,0.0,0.5454545454545454,1,0.3333333333333333,0,0.6,1,43,5,92,66,Foggy,Gillette,outdoors,turf,110,1.1,2.3100000000000005,1.2100000000000004
+11,R.Stevenson o0.5 rush_td+rec_td,shadybiev,New England Patriots,r.stevenson,Los Angeles Chargers,1.0,0.4285714285714285,0,0.3333333333333333,0,0.2,0,43,5,92,66,Foggy,Gillette,outdoors,turf,170,1.18,3.186,2.006
+12,Q.Johnston o0.5 rush_td+rec_td,GDAWG5000,Los Angeles Chargers,q.johnston,New England Patriots,0.0,0.5384615384615384,1,0.6666666666666666,1,0.4,0,43,5,92,66,Foggy,Gillette,outdoors,turf,300,0.5,2.0,1.5
+25,B.Nix o0.5 rush_td+rec_td,TopShelfAction,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.0666666666666666,0,0.0,0,0.0,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,360,0.3,1.38,1.0799999999999998
+57,M.Harrison o0.5 rush_td+rec_td,GDAWG5000,Arizona Cardinals,m.harrison,Los Angeles Rams,0.0,0.4,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,200,1.0,3.0,2.0

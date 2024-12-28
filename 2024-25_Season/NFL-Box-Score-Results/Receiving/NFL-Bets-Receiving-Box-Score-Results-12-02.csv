@@ -1,0 +1,24 @@
+Unnamed: 0,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,A.Trautman,Denver Broncos,1,0,0,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0,0.0,39.6,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,56.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+1.0,N.Adkins,Denver Broncos,1,1,16,0,1.0,6.0,6.0,10.0,10.0,6.0,0.0,0.0,0,0.0,118.7,0,0,0,0,16,0,0,0,0.0,0,0.0,0,0.0,39.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+2.0,D.Vele,Denver Broncos,4,1,16,0,1.0,16.0,16.0,0.0,0.0,9.8,0.0,0.0,0,0.0,43.7,0,0,0,0,16,0,0,0,0.0,0,0.0,0,0.0,47.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+3.0,L.Krull,Denver Broncos,3,3,24,0,1.0,14.0,4.7,10.0,3.3,4.7,0.0,0.0,0,0.0,100.0,0,0,0,0,12,0,0,0,0.0,0,0.0,0,0.0,33.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+4.0,T.Franklin,Denver Broncos,5,2,28,0,0.0,0.0,0.0,0.0,0.0,19.6,0.0,0.0,0,0.0,19.2,0,0,0,0,23,0,1,2,1.0,26,13.0,0,0.0,41.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+5.0,C.Sutton,Denver Broncos,9,6,102,0,6.0,84.0,14.0,18.0,3.0,19.7,0.0,0.0,0,0.0,104.9,0,0,0,0,32,0,0,0,0.0,0,0.0,0,0.0,94.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+6.0,M.Burton,Denver Broncos,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,1,1,1,0,0,0,0,0.0,0,0.0,0,0.0,20.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+7.0,J.Williams,Denver Broncos,2,1,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,56.2,0,1,1,2,3,0,0,1,1.0,2,2.0,0,0.0,45.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+8.0,M.Mims,Denver Broncos,4,3,105,1,0.0,0.0,0.0,0.0,0.0,19.3,0.0,0.0,0,0.0,116.7,0,4,0,4,93,0,1,25,8.3,80,26.7,0,0.0,35.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+9.0,J.McLaughlin,Denver Broncos,2,1,0,0,0.0,0.0,0.0,0.0,0.0,-7.5,0.0,0.0,0,0.0,56.2,0,84,0,18,0,0,0,-7,-7.0,7,7.0,0,0.0,36.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+10.0,B.Nix,Denver Broncos,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,4,0,6,0,0,0,0,0.0,0,0.0,0,0.0,100.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+11.0,J.Akins,Cleveland Browns,1,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,23.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+12.0,M.Woods,Cleveland Browns,5,3,43,0,3.0,26.0,8.7,17.0,5.7,10.4,0.0,0.0,0,0.0,87.9,0,0,0,0,16,0,0,0,0.0,0,0.0,0,0.0,77.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+13.0,D.Njoku,Cleveland Browns,17,9,52,2,3.0,35.0,3.9,17.0,1.9,4.9,0.0,0.0,0,0.0,73.7,0,0,0,0,13,0,0,0,0.0,0,0.0,0,0.0,92.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+14.0,J.Jeudy,Cleveland Browns,13,9,235,1,9.0,138.0,15.3,97.0,10.8,15.2,0.0,0.0,0,0.0,137.5,0,0,0,0,70,0,0,0,0.0,0,0.0,0,0.0,91.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+15.0,E.Moore,Cleveland Browns,14,8,111,0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0,0.0,53.0,0,1,0,1,44,0,5,92,11.5,19,2.4,0,0.0,74.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+16.0,N.Chubb,Cleveland Browns,2,2,24,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,156.2,0,21,0,10,19,0,2,0,0.0,24,12.0,0,0.0,34.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+17.0,J.Ford,Cleveland Browns,1,1,21,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0,0.0,118.7,0,41,0,21,21,0,1,4,4.0,17,17.0,0,0.0,66.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+0.0,A.Estime,Denver Broncos,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,3,12,0,8,0,0,0,0,0.0,0,0.0,0,0.0,12.0,1202,Cleveland Browns,1,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+0.0,B.Whiteheart,Cleveland Browns,1,0,0,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0,0.0,39.6,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,19.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+0.0,J.Thrash,Cleveland Browns,2,2,11,0,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0,0.0,89.6,0,0,0,0,8,0,1,5,2.5,6,3.0,0,0.0,17.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+0.0,K.Toney,Cleveland Browns,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear
+0.0,J.Winston,Cleveland Browns,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1202,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,45,48,9,0,Clear

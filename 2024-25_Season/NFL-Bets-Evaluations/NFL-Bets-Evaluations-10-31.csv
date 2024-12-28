@@ -1,7 +1,7 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
 0,J.Mixon o100.5 rushing + receiving yards,Rotowire Sleeper,Houston Texans,j.mixon,New York Jets,0.0,0.8,1,1.0,1,0.8,1,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,106.0
 1,B.Hall o97.5 rushing + receiving yards,Rotowire Sleeper,New York Jets,b.hall,Houston Texans,1.0,0.375,0,0.6666666666666666,1,0.4,0,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,85.0
-2,B.Allen o19.5 rushing yards,Rotowire Prizepicks,New York Jets,b.allen,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,9.0
+2,B.Allen o19.5 rushing yards,Rotowire Prizepicks_duplicate,New York Jets,b.allen,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,9.0
 3,C.Stroud o19.5 pass completions,Rotowire Prizepicks,Houston Texans,c.stroud,New York Jets,0.0,0.875,1,0.6666666666666666,1,0.8,1,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,11.0
 4,J.Mixon o19.5 receiving yards,Rotowire Sleeper,Houston Texans,j.mixon,New York Jets,0.0,0.6,1,0.6666666666666666,1,0.6,1,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,0.0
 5,B.Hall o99.5 rushing + receiving yards,Rotowire Prizepicks,New York Jets,b.hall,Houston Texans,1.0,0.375,0,0.6666666666666666,1,0.4,0,72,10,61,3,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,85.0
@@ -11,9 +11,9 @@
 9,C.Stroud o233.5 passing + rushing yards,Rotowire Sleeper,Houston Texans,c.stroud,New York Jets,0.0,0.625,1,0.3333333333333333,0,0.6,1,72,9,61,18,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,250.0
 10,C.Stroud o0.5 rush_td+rec_td,GDAWG5000,Houston Texans,c.stroud,New York Jets,0.0,0.0,0,0.0,0,0.0,0,72,8,57,20,Rain,MetLife,outdoors,turf,650.0,0.5,3.75,3.25,N,0.0
 11,B.Hall o66.5 rushing yards,Rotowire Prizepicks,New York Jets,b.hall,Houston Texans,1.0,0.25,0,0.6666666666666666,1,0.4,0,72,8,57,20,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,74.0
-12,B.Allen o5.5 Rush Att,Bward586,New York Jets,b.allen,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,72,8,57,20,Rain,MetLife,outdoors,turf,-129.0,1.29,2.29,1.0,N,4.0
+12,B.Allen o5.5 Rush Att,Bward586_duplicate,New York Jets,b.allen,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,72,8,57,20,Rain,MetLife,outdoors,turf,-129.0,1.29,2.29,1.0,N,4.0
 13,B.Hall o65.5 rushing yards,Rotowire Sleeper,New York Jets,b.hall,Houston Texans,1.0,0.25,0,0.6666666666666666,1,0.4,0,72,8,57,20,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,74.0
-14,B.Allen o5.5 Rush Att,MoneylineHacks,New York Jets,b.allen,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407,N,4.0
+14,B.Allen o5.5 Rush Att,MoneylineHacks_duplicate,New York Jets,b.allen,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,73,8,57,18,Rain,MetLife,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407,N,4.0
 15,M.Williams o14.5 Longest Reception,GDAWG5000,New York Jets,m.williams,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-120.0,0.6,1.1,0.5000000000000001,N,6.0
 16,M.Williams o14.5 Longest Reception,nick_giffen,New York Jets,m.williams,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,8,57,18,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,N,6.0
 17,C.Stroud u20.5 Pass Comp,ThePropfessor_,Houston Texans,c.stroud,New York Jets,0.0,0.375,0,0.6666666666666666,1,0.4,0,73,8,57,18,Rain,MetLife,outdoors,turf,-128.0,1.28,2.28,1.0000000000000002,Y,11.0
@@ -25,13 +25,13 @@
 23,D.Schultz o4.5 Recs,moneybadger24_,Houston Texans,d.schultz,New York Jets,0.0,0.0,0,0.0,0,0.0,0,73,10,55,7,Rain,MetLife,outdoors,turf,120.0,1.0,2.2,1.2000000000000002,N,3.0
 24,D.Schultz o0.5 rush_td+rec_td,gneiffer07,Houston Texans,d.schultz,New York Jets,0.0,0.0,0,0.0,0,0.0,0,73,10,55,7,Rain,MetLife,outdoors,turf,370.0,0.5,2.35,1.85,N,0.0
 25,G.Wilson o0.5 rush_td+rec_td,gneiffer07,New York Jets,g.wilson,Houston Texans,1.0,0.375,0,0.3333333333333333,0,0.4,0,73,10,55,7,Rain,MetLife,outdoors,turf,190.0,1.0,2.9,1.9,Y,2.0
-26,B.Allen o24.5 Rush Yds,shadybiev,New York Jets,b.allen,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,124.0,2.0,4.48,2.4800000000000004,N,9.0
-27,B.Allen o20.5 Rush Yds,shadybiev,New York Jets,b.allen,Houston Texans,1.0,0.8,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-110.0,2.75,5.25,2.5,N,9.0
+26,B.Allen o24.5 Rush Yds,shadybiev_duplicate,New York Jets,b.allen,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,73,10,55,7,Rain,MetLife,outdoors,turf,124.0,2.0,4.48,2.4800000000000004,N,9.0
+27,B.Allen o20.5 Rush Yds,shadybiev_duplicate,New York Jets,b.allen,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,73,10,55,7,Rain,MetLife,outdoors,turf,-110.0,2.75,5.25,2.5,N,9.0
 28,J.Mixon o0.5 rush_td+rec_td,TopShelfAction,Houston Texans,j.mixon,New York Jets,0.0,0.8,1,1.0,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-125.0,0.5,0.9,0.4,Y,1.0
 29,M.Williams o12.5 Longest Reception,nick_giffen,New York Jets,m.williams,Houston Texans,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564,N,6.0
-30,J.Ruckert u7.5 Rec Yds,The_Oddsmaker,New York Jets,j.ruckert,Houston Texans,1.0,0.25,0,0.3333333333333333,0,0.25,0,73,10,55,7,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,Y,4.0
-31,J.Ruckert o5.5 receiving yards,Rotowire Prizepicks,New York Jets,j.ruckert,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,73,10,55,7,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,4.0
-32,R.Woods o14.5 receiving yards,Rotowire Prizepicks,Houston Texans,r.woods,New York Jets,0.0,0.5,0,0.5,0,0.5,0,72,9,57,8,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,44.0
+30,J.Ruckert u7.5 Rec Yds,The_Oddsmaker,New York Jets,j.ruckert,Houston Texans,1.0,0.4,0,0.3333333333333333,0,0.4,0,73,10,55,7,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,Y,4.0
+31,J.Ruckert o5.5 receiving yards,Rotowire Prizepicks,New York Jets,j.ruckert,Houston Texans,1.0,0.8,1,1.0,1,0.8,1,73,10,55,7,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,N,4.0
+32,R.Woods o14.5 receiving yards,Rotowire Prizepicks,Houston Texans,r.woods,New York Jets,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,9,57,8,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5,Y,44.0
 33,C.Stroud o8.5 Rush Yds,ThePropfessor_,Houston Texans,c.stroud,New York Jets,0.0,0.625,1,0.3333333333333333,0,0.6,1,72,9,57,8,Rain,MetLife,outdoors,turf,-122.0,1.22,2.22,1.0000000000000002,Y,59.0
 34,D.Adams o57.5 Rec Yds,charliedisturco,New York Jets,d.adams,Houston Texans,1.0,0.0,0,0.0,0,0.0,0,72,9,57,8,Rain,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,Y,91.0
 35,G.Wilson o22.5 Longest Reception,KyleJustBets,New York Jets,g.wilson,Houston Texans,1.0,0.625,1,1.0,1,0.8,1,72,9,57,8,Rain,MetLife,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042,Y,26.0

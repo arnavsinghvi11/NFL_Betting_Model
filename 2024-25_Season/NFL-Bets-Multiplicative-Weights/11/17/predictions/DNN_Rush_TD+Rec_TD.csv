@@ -1,3 +1,9 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+34,B.Robinson o0.5 rush_td+rec_td,theprophunter0_,Atlanta Falcons,b.robinson,Denver Broncos,0.0,0.5555555555555556,1,1.0,1,0.8,1,51,9,33,1,Slight Chance Snow,Empower Field at Mile High,outdoors,grass,-105.0,0.53,1.0347619047619048,0.5047619047619047
+65,G.Pickens o0.5 rush_td+rec_td,gneiffer07,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.2222222222222222,0,0.6666666666666666,1,0.4,0,41,6,60,2,Rain,Acrisure,outdoors,grass,150.0,1.0,2.5,1.5
+146,A.Jones o0.5 rush_td+rec_td,TopShelfAction,Minnesota Vikings,a.jones,Tennessee Titans,0.0,0.375,0,0.3333333333333333,0,0.2,0,64,9,62,1,Partly Cloudy,Nissan,outdoors,grass,137.0,1.0,2.37,1.37
 174,A.Kamara o0.5 rush_td+rec_td,TopShelfAction,New Orleans Saints,a.kamara,Cleveland Browns,1.0,0.4444444444444444,0,0.0,0,0.2,0,77,10,71,0,Partly Cloudy,Caesars Superdome,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-196,J.Jacobs o0.5 rush_td+rec_td,theprophunter0_,Green Bay Packers,j.jacobs,Chicago Bears,0.0,0.375,0,0.6666666666666666,1,0.6,1,53,11,67,8,Overcast,Soldier Field,outdoors,grass,-130.0,0.65,1.15,0.4999999999999999
+183,G.Pickens o0.5 rush_td+rec_td,TheTDShow,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.2222222222222222,0,0.6666666666666666,1,0.4,0,45,6,58,0,Clear,Acrisure,outdoors,grass,140.0,1.0,2.4,1.4
+197,A.Jones o0.5 rush_td+rec_td,theprophunter0_,Minnesota Vikings,a.jones,Tennessee Titans,0.0,0.375,0,0.3333333333333333,0,0.2,0,72,9,62,1,Clear,Nissan,outdoors,grass,-115.0,0.58,1.0843478260869563,0.5043478260869564
+201,G.Pickens o0.5 rush_td+rec_td,TheBMatt,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.2222222222222222,0,0.6666666666666666,1,0.4,0,45,6,58,0,Clear,Acrisure,outdoors,grass,145.0,1.0,2.45,1.4500000000000002
+222,C.McCaffrey o0.5 rush_td+rec_td,gamblersdream,San Francisco 49ers,c.mccaffrey,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,63,5,52,59,Overcast,Levi's,outdoors,grass,170.0,1.0,2.7,1.7000000000000002

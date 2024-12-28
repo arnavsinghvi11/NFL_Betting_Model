@@ -1,0 +1,22 @@
+Unnamed: 0,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,J.Mingo,Dallas Cowboys,1,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+1.0,B.Cooks,Dallas Cowboys,3,1,3,1,0,0,0,0,0,0.0,0,0.0,0,0,0,3,0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+2.0,C.Lamb,Dallas Cowboys,7,6,93,1,1,1,0,0,1,1.0,0,0.0,0,0,1,43,0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+3.0,R.Dowdle,Dallas Cowboys,2,1,10,0,18,131,0,5,131,7.3,0,0.0,0,0,27,10,0,0.0,0.0,0.0,0.0,0.0,0.0,77.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+4.0,C.Rush,Dallas Cowboys,0,0,0,0,2,5,0,0,0,0.0,0,0.0,0,0,3,0,0,1.0,5.0,2.5,0.0,0.0,0.0,100.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+5.0,D.Sample,Cincinnati Bengals,2,2,13,0,0,0,0,0,0,0.0,0,0.0,0,0,0,12,0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+6.0,T.Hudson,Cincinnati Bengals,1,1,19,0,0,0,0,0,0,0.0,0,0.0,0,0,0,19,0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+7.0,J.Chase,Cincinnati Bengals,18,14,177,2,1,14,0,1,14,14.0,0,0.0,0,0,14,40,0,0.0,0.0,0.0,0.0,0.0,0.0,93.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+8.0,C.Brown,Cincinnati Bengals,8,6,65,1,14,58,0,3,58,4.1,0,0.0,0,0,10,19,0,0.0,0.0,0.0,0.0,0.0,0.0,83.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+9.0,J.Burrow,Cincinnati Bengals,0,0,0,0,2,-2,0,0,0,0.0,0,0.0,0,0,-1,0,0,0.0,-2.0,-1.0,0.0,0.0,0.0,100.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,H.Luepke,Dallas Cowboys,1,1,5,0,0,0,0,0,0,0.0,0,0.0,0,0,0,5,0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,E.Elliott,Dallas Cowboys,1,1,2,0,2,4,0,0,1,0.5,3,1.5,0,0,3,2,0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,K.Turpin,Dallas Cowboys,4,1,16,0,2,15,0,1,13,6.5,2,1.0,0,0,10,16,0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,K.Herbert,Cincinnati Bengals,1,1,7,0,2,4,0,0,2,1.0,2,1.0,0,0,4,7,0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,M.Gesicki,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,T.Higgins,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,J.Ferguson,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,A.Iosivas,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Dallas Cowboys,0,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,R.Flournoy,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,J.Tolbert,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear
+0.0,L.Schoonmaker,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,129,Cincinnati Bengals,1,AT&amp;T,indoors,turf,61,53,7,0,Clear

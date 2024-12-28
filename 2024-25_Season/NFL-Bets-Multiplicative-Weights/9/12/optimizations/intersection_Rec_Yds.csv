@@ -1,10 +1,8 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-K.Shakir o39.5 Rec Yds,MillyProps,Buffalo Bills,K.Shakir,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
-K.Shakir o39.5 Rec Yds,FirefighterBets,Buffalo Bills,k.shakir,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
-C.Samuel u18.5 Rec Yds,The_Oddsmaker,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-C.Samuel u18.5 Rec Yds,GreenDotDaily,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
-C.Samuel u18.5 Rec Yds,charliedisturco,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-C.Samuel u18.5 Rec Yds,cowhitchurch,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0
-C.Samuel u18.5 Rec Yds,boomerslocks,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546
-J.Cook o17.5 Rec Yds,kylemurray03,Buffalo Bills,j.cook,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-135,1.0,1.7407407407407407,0.7407407407407407
-T.Johnson u35.5 Rec Yds,kylemurray03,Buffalo Bills,t.johnson,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,87,3,82,24,Clear,Hard Rock,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+K.Shakir o39.5 Rec Yds,FirefighterBets,Buffalo Bills,k.shakir,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+C.Samuel u18.5 Rec Yds,The_Oddsmaker,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0,0,1,Rec_Yds
+C.Samuel u18.5 Rec Yds,GreenDotDaily,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335,0,1,Rec_Yds
+C.Samuel u18.5 Rec Yds,charliedisturco,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0,0,1,Rec_Yds
+C.Samuel u18.5 Rec Yds,cowhitchurch,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,1.1,2.1,1.0,0,1,Rec_Yds
+C.Samuel u18.5 Rec Yds,boomerslocks,Buffalo Bills,c.samuel,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546,0,1,Rec_Yds
+J.Cook o17.5 Rec Yds,kylemurray03,Buffalo Bills,j.cook,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-135,1.0,1.7407407407407407,0.7407407407407407,1,0,Rec_Yds

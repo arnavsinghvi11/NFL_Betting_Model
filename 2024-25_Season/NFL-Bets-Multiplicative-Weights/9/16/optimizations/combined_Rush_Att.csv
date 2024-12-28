@@ -1,5 +1,8 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-B.Robinson o13.5 Rush Att,ThePropfessor_,Atlanta Falcons,b.robinson,Philadelphia Eagles,0.0,1.0,1,1.0,1,1.0,1,71,6,68,2,Rain,Lincoln Financial Field,outdoors,grass,-110,1.1,2.1,1.0
-S.Barkley u18.5 Rush Att,MoneylineHacks,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,0.0,0,0.0,0,0.0,0,70,6,73,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-114,1.0,1.8771929824561404,0.8771929824561404
-S.Barkley o17.5 Rush Att,PropBetGuy,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-120,1.2,2.2,1.0000000000000002
-S.Barkley o17.5 Rush Att,Markus_Markets,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-125,1.0,1.8,0.8
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+B.Robinson o13.5 Rush Att,ThePropfessor__duplicate,Washington Commanders,b.robinson,New York Giants,1.0,0.5,0,0.5,0,0.5,0,71,6,68,2,Rain,Lincoln Financial Field,outdoors,grass,-110,1.1,2.1,1.0,1.0,0.0,Rush_Att
+B.Robinson o13.5 Rush Att,ThePropfessor__duplicate,Atlanta Falcons,b.robinson,Philadelphia Eagles,0.0,1.0,1,1.0,1,1.0,1,71,6,68,2,Rain,Lincoln Financial Field,outdoors,grass,-110,1.1,2.1,1.0,1.0,0.0,Rush_Att
+S.Barkley o17.5 Rush Att,PropBetGuy,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-120,1.2,2.2,1.0000000000000002,1.0,0.0,Rush_Att
+S.Barkley o17.5 Rush Att,Markus_Markets,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-125,1.0,1.8,0.8,1.0,0.0,Rush_Att
+B.Robinson o13.5 Rush Att,ThePropfessor_,Atlanta Falcons,b.robinson,Philadelphia Eagles,0.0,1.0,1,1.0,1,1.0,1,71,6,68,2,Rain,Lincoln Financial Field,outdoors,grass,-110,1.1,2.1,1.0,,,
+S.Barkley o17.5 Rush Att,PropBetGuy,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-120,1.2,2.2,1.0000000000000002,,,
+S.Barkley o17.5 Rush Att,Markus_Markets,Philadelphia Eagles,s.barkley,Atlanta Falcons,1.0,1.0,1,1.0,1,1.0,1,69,7,78,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-125,1.0,1.8,0.8,,,

@@ -1,2 +1,7 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+9,A.Brown o0.5 rush_td+rec_td,daletanhardt,Philadelphia Eagles,a.brown,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,46,6,71,20,Rain,Lincoln Financial Field,outdoors,grass,130.0,2.0,4.6,2.6
+10,A.Brown o0.5 rush_td+rec_td,GDAWG5000,Philadelphia Eagles,a.brown,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,46,5,63,7,Rain,Lincoln Financial Field,outdoors,grass,135.0,1.0,2.35,1.35
 25,J.Daniels o0.5 rush_td+rec_td,shadybiev,Washington Commanders,j.daniels,Philadelphia Eagles,0.0,0.0,0,0.0,0,0.0,0,48,5,68,8,Rain,Lincoln Financial Field,outdoors,grass,210.0,1.5,4.65,3.1500000000000004
+36,A.Brown o0.5 rush_td+rec_td,rsura_,Philadelphia Eagles,a.brown,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,47,11,68,8,Overcast,Lincoln Financial Field,outdoors,grass,135.0,1.0,2.35,1.35
+39,A.Brown o0.5 rush_td+rec_td,theprophunter0_,Philadelphia Eagles,a.brown,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,46,13,68,8,Overcast,Lincoln Financial Field,outdoors,grass,110.0,0.5,1.05,0.55
+41,B.Robinson o0.5 rush_td+rec_td,theprophunter0_,Washington Commanders,b.robinson,Philadelphia Eagles,0.0,0.75,1,0.6666666666666666,1,0.8,1,45,8,68,8,Overcast,Lincoln Financial Field,outdoors,grass,-105.0,0.5,0.9761904761904762,0.4761904761904761

@@ -1,5 +1,5 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,M.Stafford o0.5 Int,MJCLocks,m.stafford,N,0.0,Los Angeles Rams,San Francisco 49ers,1.0,0.5,0,0.5,0,0.5,0,78,9,72,0,Foggy,SoFi,indoors,turf,-137.0,1.37,2.37,1.0
-1,S.Darnold o0.5 Int,GDAWG5000,s.darnold,N,0.0,Minnesota Vikings,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,62,9,56,5,,U.S. Bank,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
-2,J.Hurts o0.5 Int,GDAWG5000,j.hurts,Y,1.0,Philadelphia Eagles,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,86,7,69,5,Rain,Caesars Superdome,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
-3,J.Hurts o0.5 Int,cowhitchurch,j.hurts,Y,1.0,Philadelphia Eagles,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,86,8,69,1,Clear,Caesars Superdome,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,M.Stafford o0.5 Int,MJCLocks,Los Angeles Rams,m.stafford,,,,N,0.0,San Francisco 49ers,1.0,0.5,0,0.5,0,0.5,0,78,9,72,0,Foggy,SoFi,indoors,turf,-137.0,1.37,2.37,1.0
+1,S.Darnold o0.5 Int,GDAWG5000,Minnesota Vikings,s.darnold,,,,N,0.0,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,62,9,56,5,,U.S. Bank,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+2,J.Hurts o0.5 Int,GDAWG5000,Philadelphia Eagles,j.hurts,,,,Y,1.0,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,86,7,69,5,Rain,Caesars Superdome,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564
+3,J.Hurts o0.5 Int,cowhitchurch,Philadelphia Eagles,j.hurts,,,,Y,1.0,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,86,8,69,1,Clear,Caesars Superdome,indoors,turf,-115.0,0.58,1.0843478260869563,0.5043478260869564

@@ -1,5 +1,6 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+D.Achane o0.5 rush_td+rec_td,GDAWG5000,Miami Dolphins,d.achane,Tennessee Titans,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,85,7,74,12,Rain,Hard Rock,outdoors,grass,145.0,1.0,2.45,1.4500000000000002
+D.Achane o0.5 rush_td+rec_td,Sam Farley,Miami Dolphins,d.achane,Tennessee Titans,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,85,7,75,8,Partly Cloudy,Hard Rock,outdoors,grass,100.0,0.75,1.5,0.75
 D.Achane o0.5 rush_td+rec_td,cowhitchurch,Miami Dolphins,d.achane,Tennessee Titans,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,85,7,74,12,Rain,Hard Rock,outdoors,grass,145.0,0.5,1.225,0.7250000000000001
-D.Metcalf o0.5 rush_td+rec_td,GDAWG5000,Seattle Seahawks,d.metcalf,Detroit Lions,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,6,89,2,Foggy,Ford Field,indoors,turf,200.0,1.0,3.0,2.0
-T.Pollard o0.5 rush_td+rec_td,sandyplashkes,Tennessee Titans,t.pollard,Miami Dolphins,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,87,7,75,4,Partly Cloudy,Hard Rock,outdoors,grass,140.0,1.0,2.4,1.4
+D.Achane o0.5 rush_td+rec_td,nick_giffen,Miami Dolphins,d.achane,Tennessee Titans,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,85,7,74,12,Rain,Hard Rock,outdoors,grass,145.0,1.0,2.45,1.4500000000000002
 D.Montgomery o0.5 rush_td+rec_td,FirefighterBets,Detroit Lions,d.montgomery,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,69,3,86,9,Foggy,Ford Field,indoors,turf,-125.0,1.0,1.8,0.8

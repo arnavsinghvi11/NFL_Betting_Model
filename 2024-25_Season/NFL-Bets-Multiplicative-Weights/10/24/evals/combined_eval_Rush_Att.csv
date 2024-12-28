@@ -1,4 +1,1 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,K.Williams o17.5 Rush Att,Bward586,k.williams,Y,23.0,Los Angeles Rams,Minnesota Vikings,1.0,0.8333333333333334,1,1.0,1,0.8,1,70,7,57,1,Foggy,SoFi,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-1,K.Williams o17.5 Rush Att,cowhitchurch,k.williams,Y,23.0,Los Angeles Rams,Minnesota Vikings,1.0,0.8333333333333334,1,1.0,1,0.8,1,70,7,57,1,Foggy,SoFi,indoors,turf,-120.0,0.6,1.1,0.5000000000000001
-2,K.Williams o17.5 Rush Att,kylemurray03,k.williams,Y,23.0,Los Angeles Rams,Minnesota Vikings,1.0,0.8333333333333334,1,1.0,1,0.8,1,69,1,63,0,Foggy,SoFi,indoors,turf,-125.0,1.25,2.25,1.0
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit

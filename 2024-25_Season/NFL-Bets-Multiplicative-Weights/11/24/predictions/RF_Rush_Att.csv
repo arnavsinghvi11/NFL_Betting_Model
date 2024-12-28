@@ -1,4 +1,4 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-104,C.Williams u4.5 Rush Att,nick_giffen,Chicago Bears,c.williams,Minnesota Vikings,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,49,6,71,0,Foggy,Soldier Field,outdoors,grass,125.0,1.0,2.25,1.25
-142,J.Taylor u17.5 Rush Att,kylemurray03,Indianapolis Colts,j.taylor,Detroit Lions,1.0,0.2857142857142857,0,0.0,0,0.0,0,49,9,71,0,Mostly Cloudy,Lucas Oil,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+72,C.Williams o4.5 Rush Att,ChrisRaybon,Chicago Bears,c.williams,Minnesota Vikings,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,49,6,68,1,Rain,Soldier Field,outdoors,grass,-125.0,1.0,1.8,0.8
 154,A.Ekeler u5.5 Rush Att,kylemurray03,Washington Commanders,a.ekeler,Dallas Cowboys,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,56,9,51,1,Partly Cloudy,FedExField,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
+186,C.Williams o4.5 Rush Att,convince_me,Chicago Bears,c.williams,Minnesota Vikings,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,43,6,73,0,Mostly Cloudy,Soldier Field,outdoors,grass,-125.0,1.0,1.8,0.8

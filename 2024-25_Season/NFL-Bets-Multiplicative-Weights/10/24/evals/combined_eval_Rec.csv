@@ -1,11 +1,10 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,C.Kupp o6.5 Recs,PvB_Bets,c.kupp,N,5.0,Los Angeles Rams,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,1,63,1,Foggy,SoFi,indoors,turf,-114.0,1.0,1.8771929824561404,0.8771929824561404
-1,J.Jefferson o5.5 Recs,kylemurray03,j.jefferson,Y,8.0,Minnesota Vikings,Los Angeles Rams,0.0,0.6666666666666666,1,1.0,1,0.8,1,69,1,63,0,Foggy,SoFi,indoors,turf,-146.0,1.46,2.46,1.0
-2,C.Kupp o6.5 Recs,kylemurray03,c.kupp,N,5.0,Los Angeles Rams,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,1,63,0,Foggy,SoFi,indoors,turf,-122.0,1.22,2.22,1.0000000000000002
-3,A.Jones u3.5 Recs,GreenDotDaily,a.jones,Y,2.0,Minnesota Vikings,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-4,C.Kupp o7.5 Receptions,GreenDotDaily,c.kupp,N,5.0,Los Angeles Rams,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,1,63,0,Foggy,SoFi,indoors,turf,133.0,0.5,1.165,0.665
-5,A.Jones u3.5 Recs,cowhitchurch,a.jones,Y,2.0,Minnesota Vikings,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-121.0,0.61,1.1141322314049589,0.5041322314049587
-6,A.Jones u3.5 Recs,GDAWG5000,a.jones,Y,2.0,Minnesota Vikings,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-110.0,0.55,1.05,0.5
-7,A.Jones u3.5 Recs,charliedisturco,a.jones,Y,2.0,Minnesota Vikings,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
-8,A.Jones u3.5 Recs,The_Oddsmaker,a.jones,Y,2.0,Minnesota Vikings,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-9,C.Kupp o6.5 Recs,ThePropfessor_,c.kupp,N,5.0,Los Angeles Rams,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,72,7,62,0,Clear,SoFi,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,C.Kupp o6.5 Recs,PvB_Bets,Los Angeles Rams,c.kupp,,,,N,5.0,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,7,63,1,Foggy,SoFi,indoors,turf,-114.0,1.0,1.8771929824561404,0.8771929824561404
+1,C.Kupp o6.5 Recs,kylemurray03,Los Angeles Rams,c.kupp,,,,N,5.0,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,7,63,0,Foggy,SoFi,indoors,turf,-122.0,1.22,2.22,1.0000000000000002
+2,A.Jones u3.5 Recs,GreenDotDaily,Minnesota Vikings,a.jones,,,,Y,2.0,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
+3,C.Kupp o7.5 Receptions,GreenDotDaily,Los Angeles Rams,c.kupp,,,,N,5.0,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,7,63,0,Foggy,SoFi,indoors,turf,133.0,0.5,1.165,0.665
+4,A.Jones u3.5 Recs,cowhitchurch,Minnesota Vikings,a.jones,,,,Y,2.0,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-121.0,0.61,1.1141322314049589,0.5041322314049587
+5,A.Jones u3.5 Recs,GDAWG5000,Minnesota Vikings,a.jones,,,,Y,2.0,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-110.0,0.55,1.05,0.5
+6,A.Jones u3.5 Recs,charliedisturco,Minnesota Vikings,a.jones,,,,Y,2.0,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
+7,A.Jones u3.5 Recs,The_Oddsmaker,Minnesota Vikings,a.jones,,,,Y,2.0,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+8,C.Kupp o6.5 Recs,ThePropfessor_,Los Angeles Rams,c.kupp,,,,N,5.0,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,72,7,62,0,Clear,SoFi,indoors,turf,-120.0,1.2,2.2,1.0000000000000002

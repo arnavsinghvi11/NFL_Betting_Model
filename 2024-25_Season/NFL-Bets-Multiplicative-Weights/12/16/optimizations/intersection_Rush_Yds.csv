@@ -1,2 +1,2 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-B.Robinson u75.5 rushing yards,Rotowire Prizepicks,Atlanta Falcons,b.robinson,Las Vegas Raiders,0.0,0.4615384615384615,0,0.3333333333333333,0,0.2,0,56,5,26,1,Partly Cloudy,Allegiant,indoors,grass,100,1.5,3.0,1.5
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+A.Jones o64.5 Rush Yds,the_degenerates,Minnesota Vikings,a.jones,Chicago Bears,1.0,0.5384615384615384,1,0.6666666666666666,1,0.6,1,32,15,80,0,Mostly Cloudy,U.S. Bank,indoors,turf,-117,1.17,2.17,1.0,1,0,Rush_Yds

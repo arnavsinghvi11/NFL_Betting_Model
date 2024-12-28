@@ -1,45 +1,53 @@
-,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
-0,S.LaPorta,Detroit Lions,6,3,6,2,2,5,1.7,1,0.3,5.3,0,0.0,0,0.0,95.8,0,0,0,0,3,0,0,0,0,0,0,0,0.0,94.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-1,B.Wright,Detroit Lions,1,1,13,0,1,3,3.0,10,10.0,3.0,0,0.0,0,0.0,118.7,0,0,0,0,13,0,0,0,0,0,0,0,0.0,43.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-2,T.Patrick,Detroit Lions,3,2,48,0,2,24,12.0,24,12.0,12.0,0,0.0,0,0.0,109.7,0,0,0,0,30,0,0,0,0,0,0,0,0.0,70.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-3,A.St.,Detroit Lions,7,5,73,0,0,0,0,0,0,13.0,0,0.0,0,0.0,105.1,0,0,0,0,29,0,2,58,11.6,15,3.0,0,0.0,94.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-4,J.Williams,Detroit Lions,7,5,28,0,0,0,0,0,0,3.6,0,0.0,0,0.0,78.3,0,18,0,15,8,0,2,5,1.0,23,4.6,0,0.0,79.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-5,J.Gibbs,Detroit Lions,4,2,17,0,0,0,0,0,0,5.0,0,0.0,0,0.0,61.5,0,87,0,28,13,1,0,-4,-2.0,21,10.5,0,0.0,46.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-6,D.Montgomery,Detroit Lions,3,3,36,0,0,0,0,0,0,-3.0,0,0.0,0,0.0,116.7,0,88,0,13,19,0,3,-9,-3.0,45,15.0,0,0.0,54.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-7,J.Goff,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.0,100.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
-8,R.Odunze,Chicago Bears,6,2,25,0,0,0,0,0,0,21.3,0,0.0,0,0.0,47.2,0,0,0,0,19,0,2,23,11.5,2,1.0,0,0.0,78.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
-9,C.Kmet,Chicago Bears,3,3,26,0,2,23,7.7,3,1.0,7.7,0,0.0,0,0.0,102.8,0,0,0,0,14,0,0,0,0,0,0,0,0.0,99.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
-10,K.Allen,Chicago Bears,8,5,73,2,3,58,11.6,15,3.0,14.1,0,0.0,0,0.0,131.8,0,0,0,0,31,0,0,0,0,0,0,0,0.0,96.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
-11,D.Moore,Chicago Bears,16,8,97,1,0,0,0,0,0,10.9,0,0.0,0,0.0,89.8,0,0,0,0,31,0,3,57,7.1,40,5.0,0,0.0,97.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
-12,D.Swift,Chicago Bears,3,2,35,0,0,0,0,0,0,4.0,0,0.0,0,0.0,106.2,0,39,0,12,29,0,1,-6,-3.0,41,20.5,0,0.0,69.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
-13,J.Brooks,Dallas Cowboys,1,1,0,0,0,-2,-2.0,2,2.0,-2.0,0,0.0,0,0.0,79.2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,30.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-14,J.Mingo,Dallas Cowboys,4,1,2,0,0,0,0,0,0,18.0,0,0.0,0,0.0,39.6,0,0,0,0,2,0,0,-1,-1.0,3,3.0,0,0.0,34.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-15,B.Cooks,Dallas Cowboys,7,3,16,1,0,0,0,0,0,13.4,0,0.0,0,0.0,89.9,0,0,0,0,11,0,3,13,4.3,3,1.0,0,0.0,39.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-16,L.Schoonmaker,Dallas Cowboys,6,5,33,0,2,25,5.0,8,1.6,4.7,0,0.0,0,0.0,89.6,0,0,0,0,10,0,0,0,0,0,0,0,0.0,66.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-17,C.Lamb,Dallas Cowboys,6,2,39,0,0,0,0,0,0,7.0,0,0.0,0,0.0,56.9,0,0,0,0,22,0,2,20,10.0,19,9.5,0,0.0,67.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-18,J.Tolbert,Dallas Cowboys,4,2,41,0,1,39,19.5,2,1.0,10.0,0,0.0,0,0.0,86.5,0,0,0,0,36,0,0,0,0,0,0,0,0.0,72.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-19,H.Luepke,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0,4,0,2,0,0,0,0,0,0,0,0,0.0,42.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-20,R.Dowdle,Dallas Cowboys,3,3,11,0,0,0,0,0,0,-3.0,0,0.0,0,0.0,81.9,0,112,1,22,6,0,0,-9,-3.0,20,6.7,0,0.0,70.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
-21,W.Robinson,New York Giants,2,2,6,0,0,0,0,0,0,1.0,0,0.0,0,0.0,79.2,0,0,0,0,8,0,0,2,1.0,4,2.0,0,0.0,76.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-22,J.Hyatt,New York Giants,2,2,8,0,1,3,1.5,5,2.5,1.5,0,0.0,0,0.0,83.3,0,0,0,0,7,0,0,0,0,0,0,0,0.0,29.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-23,D.Slayton,New York Giants,6,2,8,0,0,0,0,0,0,16.8,0,0.0,0,0.0,42.4,0,0,0,0,5,0,0,7,3.5,1,0.5,0,0.0,68.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-24,T.Johnson,New York Giants,5,5,54,0,2,25,5.0,29,5.8,5.0,0,0.0,0,0.0,111.7,0,0,0,0,15,0,0,0,0,0,0,0,0.0,89.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-25,M.Nabers,New York Giants,13,8,69,0,0,0,0,0,0,5.3,0,0.0,0,0.0,75.5,0,4,0,4,18,0,3,46,5.8,23,2.9,0,0.0,95.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-26,D.Singletary,New York Giants,1,0,0,0,0,0,0,0,0,-17.0,0,0.0,0,0.0,0.0,0,23,0,7,0,0,0,0,0,0,0,0,0.0,21.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-27,T.Tracy,New York Giants,3,2,33,0,0,0,0,0,0,-0.3,0,0.0,0,0.0,103.5,0,32,1,7,18,0,2,1,0.5,32,16.0,0,0.0,73.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
-28,D.Wicks,Green Bay Packers,5,4,30,0,1,19,4.8,11,2.8,7.4,0,0.0,0,0.0,91.7,0,0,0,0,10,0,0,0,0,0,0,0,0.0,89.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-29,C.Watson,Green Bay Packers,4,2,67,0,0,0,0,0,0,24.5,0,0.0,0,0.0,95.8,0,0,0,0,46,0,2,58,29.0,9,4.5,0,0.0,94.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-30,T.Kraft,Green Bay Packers,7,6,78,0,0,0,0,0,0,2.6,0,0.0,0,0.0,113.1,0,0,0,0,17,0,4,18,3.0,60,10.0,0,0.0,91.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-31,J.Reed,Green Bay Packers,6,3,24,2,0,0,0,0,0,10.3,0,0.0,0,0.0,100.0,0,23,0,23,12,0,2,12,4.0,12,4.0,0,0.0,67.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-32,C.Brooks,Green Bay Packers,2,2,1,0,0,0,0,0,0,-4.5,0,0.0,0,0.0,79.2,0,28,0,18,5,0,0,-9,-4.5,10,5.0,0,0.0,28.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-33,J.Jacobs,Green Bay Packers,4,4,74,0,0,0,0,0,0,0.5,0,0.0,0,0.0,118.7,0,43,1,11,49,0,2,2,0.5,72,18.0,0,0.0,78.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-34,J.Hill,Miami Dolphins,1,1,5,0,0,2,2.0,3,3.0,2.0,0,0.0,0,0.0,87.5,0,0,0,0,5,0,0,0,0,0,0,0,0.0,34.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-35,M.Washington,Miami Dolphins,4,2,8,0,0,0,0,0,0,3.3,0,0.0,0,0.0,56.2,0,0,0,0,8,1,0,3,1.5,5,2.5,0,0.0,38.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-36,D.Smythe,Miami Dolphins,1,1,8,0,0,7,7.0,1,1.0,7.0,0,0.0,0,0.0,100.0,0,0,0,0,8,0,0,0,0,0,0,0,0.0,20.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-37,O.Beckham,Miami Dolphins,2,1,9,0,1,8,8.0,1,1.0,14.0,0,0.0,0,0.0,62.5,0,0,0,0,9,0,0,0,0,0,0,0,0.0,20.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-38,A.Ingold,Miami Dolphins,2,2,15,0,0,0,0,0,0,1.0,0,0.0,0,0.0,97.9,0,0,0,0,13,0,1,2,1.0,13,6.5,0,0.0,25.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-39,J.Waddle,Miami Dolphins,4,4,53,0,0,0,0,0,0,11.5,0,0.0,0,0.0,118.7,0,0,0,0,16,0,3,46,11.5,7,1.8,0,0.0,92.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-40,T.Hill,Miami Dolphins,9,6,83,1,0,0,0,0,0,11.4,0,0.0,0,0.0,133.1,0,0,0,0,30,0,4,60,10.0,23,3.8,0,0.0,80.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-41,J.Smith,Miami Dolphins,11,10,113,0,0,0,0,0,0,6.8,0,0.0,0,0.0,109.5,0,0,0,0,16,0,7,75,7.5,38,3.8,0,0.0,72.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-42,D.Achane,Miami Dolphins,9,8,56,1,0,0,0,0,0,1.8,0,0.0,0,0.0,129.6,0,14,0,13,14,0,3,1,0.1,55,6.9,0,0.0,69.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
-43,R.Mostert,Miami Dolphins,3,2,15,0,0,0,0,0,0,5.7,0,0.0,0,0.0,78.5,0,19,0,12,14,0,1,15,7.5,0,0.0,0,0.0,35.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+Unnamed: 0,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,Rec_1D,Rec_YBC,Rec_YBC/R,Rec_YAC,Rec_YAC/R,ADOT,Rec_BrkTkl,Rec_Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,1D,YBC,YBC/R,YAC,YAC/R,BrkTkl,Rec/Br,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,S.LaPorta,Detroit Lions,6,3,6,2,2.0,5.0,1.7,1.0,0.3,5.3,0.0,0.0,0,0.0,95.8,0,0,0,0,3,0,0,0,0.0,0,0.0,0,0.0,94.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+1.0,B.Wright,Detroit Lions,1,1,13,0,1.0,3.0,3.0,10.0,10.0,3.0,0.0,0.0,0,0.0,118.7,0,0,0,0,13,0,0,0,0.0,0,0.0,0,0.0,43.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+2.0,T.Patrick,Detroit Lions,3,2,48,0,2.0,24.0,12.0,24.0,12.0,12.0,0.0,0.0,0,0.0,109.7,0,0,0,0,30,0,0,0,0.0,0,0.0,0,0.0,70.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+3.0,A.St.,Detroit Lions,7,5,73,0,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0,0.0,105.1,0,0,0,0,29,0,2,58,11.6,15,3.0,0,0.0,94.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+4.0,J.Williams,Detroit Lions,7,5,28,0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0,0.0,78.3,0,18,0,15,8,0,2,5,1.0,23,4.6,0,0.0,79.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+5.0,J.Gibbs,Detroit Lions,4,2,17,0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0,0.0,61.5,0,87,0,28,13,1,0,-4,-2.0,21,10.5,0,0.0,46.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+6.0,D.Montgomery,Detroit Lions,3,3,36,0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0,0.0,116.7,0,88,0,13,19,0,3,-9,-3.0,45,15.0,0,0.0,54.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+7.0,J.Goff,Detroit Lions,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,1,0,1,0,0,0,0,0.0,0,0.0,0,0.0,100.0,1128,Chicago Bears,1,Ford Field,indoors,turf,39,61,9,4,Overcast
+8.0,R.Odunze,Chicago Bears,6,2,25,0,0.0,0.0,0.0,0.0,0.0,21.3,0.0,0.0,0,0.0,47.2,0,0,0,0,19,0,2,23,11.5,2,1.0,0,0.0,78.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+9.0,C.Kmet,Chicago Bears,3,3,26,0,2.0,23.0,7.7,3.0,1.0,7.7,0.0,0.0,0,0.0,102.8,0,0,0,0,14,0,0,0,0.0,0,0.0,0,0.0,99.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+10.0,K.Allen,Chicago Bears,8,5,73,2,3.0,58.0,11.6,15.0,3.0,14.1,0.0,0.0,0,0.0,131.8,0,0,0,0,31,0,0,0,0.0,0,0.0,0,0.0,96.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+11.0,D.Moore,Chicago Bears,16,8,97,1,0.0,0.0,0.0,0.0,0.0,10.9,0.0,0.0,0,0.0,89.8,0,0,0,0,31,0,3,57,7.1,40,5.0,0,0.0,97.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+12.0,D.Swift,Chicago Bears,3,2,35,0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0,0.0,106.2,0,39,0,12,29,0,1,-6,-3.0,41,20.5,0,0.0,69.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+13.0,J.Brooks,Dallas Cowboys,1,1,0,0,0.0,-2.0,-2.0,2.0,2.0,-2.0,0.0,0.0,0,0.0,79.2,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,30.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+14.0,J.Mingo,Dallas Cowboys,4,1,2,0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0,0.0,39.6,0,0,0,0,2,0,0,-1,-1.0,3,3.0,0,0.0,34.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+15.0,B.Cooks,Dallas Cowboys,7,3,16,1,0.0,0.0,0.0,0.0,0.0,13.4,0.0,0.0,0,0.0,89.9,0,0,0,0,11,0,3,13,4.3,3,1.0,0,0.0,39.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+16.0,L.Schoonmaker,Dallas Cowboys,6,5,33,0,2.0,25.0,5.0,8.0,1.6,4.7,0.0,0.0,0,0.0,89.6,0,0,0,0,10,0,0,0,0.0,0,0.0,0,0.0,66.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+17.0,C.Lamb,Dallas Cowboys,6,2,39,0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0,0.0,56.9,0,0,0,0,22,0,2,20,10.0,19,9.5,0,0.0,67.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+18.0,J.Tolbert,Dallas Cowboys,4,2,41,0,1.0,39.0,19.5,2.0,1.0,10.0,0.0,0.0,0,0.0,86.5,0,0,0,0,36,0,0,0,0.0,0,0.0,0,0.0,72.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+19.0,H.Luepke,Dallas Cowboys,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,4,0,2,0,0,0,0,0.0,0,0.0,0,0.0,42.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+20.0,R.Dowdle,Dallas Cowboys,3,3,11,0,0.0,0.0,0.0,0.0,0.0,-3.0,0.0,0.0,0,0.0,81.9,0,112,1,22,6,0,0,-9,-3.0,20,6.7,0,0.0,70.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+21.0,W.Robinson,New York Giants,2,2,6,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0.0,79.2,0,0,0,0,8,0,0,2,1.0,4,2.0,0,0.0,76.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+22.0,J.Hyatt,New York Giants,2,2,8,0,1.0,3.0,1.5,5.0,2.5,1.5,0.0,0.0,0,0.0,83.3,0,0,0,0,7,0,0,0,0.0,0,0.0,0,0.0,29.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+23.0,D.Slayton,New York Giants,6,2,8,0,0.0,0.0,0.0,0.0,0.0,16.8,0.0,0.0,0,0.0,42.4,0,0,0,0,5,0,0,7,3.5,1,0.5,0,0.0,68.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+24.0,T.Johnson,New York Giants,5,5,54,0,2.0,25.0,5.0,29.0,5.8,5.0,0.0,0.0,0,0.0,111.7,0,0,0,0,15,0,0,0,0.0,0,0.0,0,0.0,89.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+25.0,M.Nabers,New York Giants,13,8,69,0,0.0,0.0,0.0,0.0,0.0,5.3,0.0,0.0,0,0.0,75.5,0,4,0,4,18,0,3,46,5.8,23,2.9,0,0.0,95.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+26.0,D.Singletary,New York Giants,1,0,0,0,0.0,0.0,0.0,0.0,0.0,-17.0,0.0,0.0,0,0.0,0.0,0,23,0,7,0,0,0,0,0.0,0,0.0,0,0.0,21.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+27.0,T.Tracy,New York Giants,3,2,33,0,0.0,0.0,0.0,0.0,0.0,-0.3,0.0,0.0,0,0.0,103.5,0,32,1,7,18,0,2,1,0.5,32,16.0,0,0.0,73.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+28.0,D.Wicks,Green Bay Packers,5,4,30,0,1.0,19.0,4.8,11.0,2.8,7.4,0.0,0.0,0,0.0,91.7,0,0,0,0,10,0,0,0,0.0,0,0.0,0,0.0,89.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+29.0,C.Watson,Green Bay Packers,4,2,67,0,0.0,0.0,0.0,0.0,0.0,24.5,0.0,0.0,0,0.0,95.8,0,0,0,0,46,0,2,58,29.0,9,4.5,0,0.0,94.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+30.0,T.Kraft,Green Bay Packers,7,6,78,0,0.0,0.0,0.0,0.0,0.0,2.6,0.0,0.0,0,0.0,113.1,0,0,0,0,17,0,4,18,3.0,60,10.0,0,0.0,91.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+31.0,J.Reed,Green Bay Packers,6,3,24,2,0.0,0.0,0.0,0.0,0.0,10.3,0.0,0.0,0,0.0,100.0,0,23,0,23,12,0,2,12,4.0,12,4.0,0,0.0,67.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+32.0,C.Brooks,Green Bay Packers,2,2,1,0,0.0,0.0,0.0,0.0,0.0,-4.5,0.0,0.0,0,0.0,79.2,0,28,0,18,5,0,0,-9,-4.5,10,5.0,0,0.0,28.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+33.0,J.Jacobs,Green Bay Packers,4,4,74,0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0,0.0,118.7,0,43,1,11,49,0,2,2,0.5,72,18.0,0,0.0,78.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+34.0,J.Hill,Miami Dolphins,1,1,5,0,0.0,2.0,2.0,3.0,3.0,2.0,0.0,0.0,0,0.0,87.5,0,0,0,0,5,0,0,0,0.0,0,0.0,0,0.0,34.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+35.0,M.Washington,Miami Dolphins,4,2,8,0,0.0,0.0,0.0,0.0,0.0,3.3,0.0,0.0,0,0.0,56.2,0,0,0,0,8,1,0,3,1.5,5,2.5,0,0.0,38.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+36.0,D.Smythe,Miami Dolphins,1,1,8,0,0.0,7.0,7.0,1.0,1.0,7.0,0.0,0.0,0,0.0,100.0,0,0,0,0,8,0,0,0,0.0,0,0.0,0,0.0,20.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+37.0,O.Beckham,Miami Dolphins,2,1,9,0,1.0,8.0,8.0,1.0,1.0,14.0,0.0,0.0,0,0.0,62.5,0,0,0,0,9,0,0,0,0.0,0,0.0,0,0.0,20.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+38.0,A.Ingold,Miami Dolphins,2,2,15,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0.0,97.9,0,0,0,0,13,0,1,2,1.0,13,6.5,0,0.0,25.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+39.0,J.Waddle,Miami Dolphins,4,4,53,0,0.0,0.0,0.0,0.0,0.0,11.5,0.0,0.0,0,0.0,118.7,0,0,0,0,16,0,3,46,11.5,7,1.8,0,0.0,92.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+40.0,T.Hill,Miami Dolphins,9,6,83,1,0.0,0.0,0.0,0.0,0.0,11.4,0.0,0.0,0,0.0,133.1,0,0,0,0,30,0,4,60,10.0,23,3.8,0,0.0,80.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+41.0,J.Smith,Miami Dolphins,11,10,113,0,0.0,0.0,0.0,0.0,0.0,6.8,0.0,0.0,0,0.0,109.5,0,0,0,0,16,0,7,75,7.5,38,3.8,0,0.0,72.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+42.0,D.Achane,Miami Dolphins,9,8,56,1,0.0,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0,0.0,129.6,0,14,0,13,14,0,3,1,0.1,55,6.9,0,0.0,69.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+43.0,R.Mostert,Miami Dolphins,3,2,15,0,0.0,0.0,0.0,0.0,0.0,5.7,0.0,0.0,0,0.0,78.5,0,19,0,12,14,0,1,15,7.5,0,0.0,0,0.0,35.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+0.0,E.Wilson,Green Bay Packers,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,2,20,0,15,0,0,0,0,0.0,0,0.0,0,0.0,7.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+0.0,K.Turpin,Dallas Cowboys,5,4,53,0,0.0,0.0,0.0,0.0,0.0,-0.8,0.0,0.0,0,0.0,110.8,1,2,0,2,30,0,2,-9,-2.3,62,15.5,0,0.0,18.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+0.0,E.Elliott,Dallas Cowboys,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,1,4,0,4,0,0,0,0,0.0,0,0.0,0,0.0,12.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+0.0,C.Rush,Dallas Cowboys,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1128,New York Giants,1,AT&amp;T,indoors,turf,48,38,16,2,Clear
+0.0,C.Williams,Chicago Bears,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1128,Detroit Lions,0,Ford Field,indoors,turf,39,61,9,4,Overcast
+0.0,J.Love,Green Bay Packers,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1128,Miami Dolphins,1,Lambeau Field,outdoors,grass,27,68,10,22,Overcast
+0.0,D.Lock,New York Giants,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0,0,0.0,0,0.0,0,0.0,0.0,1128,Dallas Cowboys,0,AT&amp;T,indoors,turf,48,38,16,2,Clear
+0.0,T.Tagovailoa,Miami Dolphins,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0,0,0.0,0,0.0,0,0.0,0.0,1128,Green Bay Packers,0,Lambeau Field,outdoors,grass,27,68,10,22,Overcast

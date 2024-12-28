@@ -1,9 +1,3 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,T.Pollard o0.5 rush_td+rec_td,TheTDShow,t.pollard,N,0.0,Tennessee Titans,Green Bay Packers,1.0,0.5,0,0.5,0,0.5,0,89,8,59,24,Rain,Nissan,outdoors,grass,110.0,1.0,2.1,1.1
-1,T.Pollard o0.5 rush_td+rec_td,theprophunter0_,t.pollard,N,0.0,Tennessee Titans,Green Bay Packers,1.0,0.5,0,0.5,0,0.5,0,88,10,59,24,Clear,Nissan,outdoors,grass,105.0,0.5,1.025,0.5249999999999999
-2,B.Robinson o0.5 rush_td+rec_td,GDAWG5000,b.robinson,Y,1.0,Atlanta Falcons,Kansas City Chiefs,1.0,0.0,0,0.0,0,0.0,0,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,175.0,0.75,2.0625,1.3125
-3,B.Bowers o0.5 rush_td+rec_td,TheBMatt,b.bowers,N,0.0,Las Vegas Raiders,Carolina Panthers,1.0,0.0,0,0.0,0,0.0,0,90,3,18,1,Clear,Allegiant,indoors,grass,230.0,0.5,1.65,1.15
-4,B.Bowers o0.5 rush_td+rec_td,TheTDShow,b.bowers,N,0.0,Las Vegas Raiders,Carolina Panthers,1.0,0.0,0,0.0,0,0.0,0,90,3,18,1,Clear,Allegiant,indoors,grass,240.0,1.0,3.4,2.4
-5,M.Wilson o0.5 rush_td+rec_td,charliedisturco,m.wilson,N,0.0,Arizona Cardinals,Detroit Lions,1.0,0.5,0,0.5,0,0.5,0,91,11,18,0,Mostly Cloudy,State Farm,indoors,grass,460.0,0.15,0.84,0.69
-6,K.Pitts o0.5 rush_td+rec_td,charliedisturco,k.pitts,N,0.0,Atlanta Falcons,Kansas City Chiefs,1.0,0.5,0,0.5,0,0.5,0,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,230.0,0.25,0.825,0.575
-7,K.Pitts o0.5 rush_td+rec_td,nick_giffen,k.pitts,N,0.0,Atlanta Falcons,Kansas City Chiefs,1.0,0.5,0,0.5,0,0.5,0,86,8,54,2,Clear,Mercedes-Benz,indoors,turf,550.0,0.25,1.625,1.375
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,T.Pollard o0.5 rush_td+rec_td,TheTDShow,Tennessee Titans,t.pollard,,,,N,0.0,Green Bay Packers,1.0,0.5,0,0.5,0,0.5,0,89,8,59,24,Rain,Nissan,outdoors,grass,110.0,1.0,2.1,1.1
+1,T.Pollard o0.5 rush_td+rec_td,theprophunter0_,Tennessee Titans,t.pollard,,,,N,0.0,Green Bay Packers,1.0,0.5,0,0.5,0,0.5,0,88,10,59,24,Clear,Nissan,outdoors,grass,105.0,0.5,1.025,0.5249999999999999

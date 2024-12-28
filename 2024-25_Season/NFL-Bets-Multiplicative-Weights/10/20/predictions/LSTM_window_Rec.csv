@@ -1,12 +1,13 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 98,K.Hunt u2.5 Recs,TopShelfAction,Kansas City Chiefs,k.hunt,San Francisco 49ers,0.0,1.0,1,1.0,1,1.0,1,75,3,30,1,Partly Cloudy,Levi's,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
-101,J.Smith u2.5 Recs,TopShelfAction,Miami Dolphins,j.smith,Indianapolis Colts,0.0,0.6,1,0.6666666666666666,1,0.6,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
 106,J.Waddle o3.5 Recs,MillyProps,Miami Dolphins,j.waddle,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,-128.0,1.0,1.78125,0.78125
 114,J.Downs o4.5 Recs,cawright95,Indianapolis Colts,j.downs,Miami Dolphins,1.0,0.75,1,1.0,1,0.75,1,66,3,48,1,Clear,Lucas Oil,indoors,turf,115.0,1.0,2.15,1.15
 135,B.Aiyuk u4.5 Recs,nick_giffen,San Francisco 49ers,b.aiyuk,Kansas City Chiefs,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,75,5,31,0,Mostly Cloudy,Levi's,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 137,J.Polk o1.5 Recs,nick_giffen,New England Patriots,j.polk,Jacksonville Jaguars,0.0,0.5,0,0.3333333333333333,0,0.6,1,62,9,85,90,Rain,Wembley,outdoors,grass,104.0,1.0,2.04,1.04
 139,J.Waddle o3.5 Recs,PropBetGuy,Miami Dolphins,j.waddle,Indianapolis Colts,0.0,1.0,1,1.0,1,1.0,1,67,5,43,0,Clear,Lucas Oil,indoors,turf,-128.0,1.28,2.28,1.0000000000000002
 168,D.Metcalf o4.5 Recs,kylemurray03,Seattle Seahawks,d.metcalf,Atlanta Falcons,0.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,70,6,33,0,Clear,Mercedes-Benz,indoors,turf,-125.0,1.25,2.25,1.0
+173,M.Nabers o6.5 Recs,kylemurray03,New York Giants,m.nabers,Philadelphia Eagles,1.0,0.75,1,1.0,1,0.75,1,70,5,33,0,Clear,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
 174,A.Brown o5.5 Recs,kylemurray03,Philadelphia Eagles,a.brown,New York Giants,0.0,0.5,0,0.5,0,0.5,0,70,5,33,0,Clear,MetLife,outdoors,turf,110.0,1.0,2.1,1.1
 179,J.Polk o1.5 Recs,charliedisturco,New England Patriots,j.polk,Jacksonville Jaguars,0.0,0.5,0,0.3333333333333333,0,0.6,1,62,9,85,90,Rain,Wembley,outdoors,grass,108.0,0.5,1.04,0.54
+181,M.Nabers o6.5 Recs,therocketplays,New York Giants,m.nabers,Philadelphia Eagles,1.0,0.75,1,1.0,1,0.75,1,70,5,33,0,Clear,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
 203,A.Cooper o2.5 Recs,MoneylineHacks,Cleveland Browns,a.cooper,Cincinnati Bengals,1.0,0.8333333333333334,1,1.0,1,1.0,1,65,8,51,1,Clear,Cleveland Browns,outdoors,grass,-138.0,1.0,1.7246376811594204,0.7246376811594204

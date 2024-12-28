@@ -1,6 +1,8 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 3,M.Williams o27.8 Rec Yds,theprophunter0_,New York Jets,m.williams,Minnesota Vikings,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-120,1.2,2.2,1.0000000000000002
 4,J.Oliver o6.5 Rec Yds,shadybiev,Minnesota Vikings,j.oliver,New York Jets,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110,1.65,3.15,1.5
+8,T.Conklin o24.5 Rec Yds,KyleJustBets,New York Jets,t.conklin,Minnesota Vikings,0.0,0.25,0,0.3333333333333333,0,0.25,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
+10,T.Conklin o39.5 Receiving Yards,KyleJustBets,New York Jets,t.conklin,Minnesota Vikings,0.0,0.25,0,0.3333333333333333,0,0.25,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,220,0.25,0.8,0.55
 14,G.Wilson o52.5 Rec Yds,charliedisturco,New York Jets,g.wilson,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110,1.1,2.1,1.0
 15,G.Wilson o52.5 Rec Yds,GreenDotDaily,New York Jets,g.wilson,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042
 18,G.Wilson o52.5 Rec Yds,Markus_Markets,New York Jets,g.wilson,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-114,1.0,1.8771929824561404,0.8771929824561404
@@ -8,10 +10,17 @@
 22,G.Wilson o52.5 Rec Yds,RoyalsProps,New York Jets,g.wilson,Minnesota Vikings,0.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-114,1.14,2.14,0.9999999999999998
 41,Z.Flowers o52.5 Rec Yds,Mjaybrxd,Baltimore Ravens,z.flowers,Cincinnati Bengals,0.0,0.25,0,0.3333333333333333,0,0.25,0,83,13,53,2,Clear,Paycor,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
 49,Z.Moss o13.5 Rec Yds,Markus_Markets,Cincinnati Bengals,z.moss,Baltimore Ravens,1.0,0.75,1,0.6666666666666666,1,0.75,1,83,13,53,2,Clear,Paycor,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
-81,S.Diggs u54.5 Rec Yds,Mjaybrxd,Houston Texans,s.diggs,Buffalo Bills,1.0,0.5,0,0.3333333333333333,0,0.5,0,88,10,55,0,Clear,NRG,indoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
 82,N.Collins o78.5 Rec Yds,gneiffer07,Houston Texans,n.collins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,88,10,55,0,Clear,NRG,indoors,turf,-119,1.19,2.19,1.0
+88,J.Downs o48.5 Rec Yds,therocketplays,Indianapolis Colts,j.downs,Jacksonville Jaguars,0.0,0.5,0,0.5,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-110,1.1,2.1,1.0
+90,B.Thomas o53.5 Rec Yds,shadybiev,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-113,1.69,3.185575221238938,1.495575221238938
+91,J.Downs o48.5 Rec Yds,charliedisturco,Indianapolis Colts,j.downs,Jacksonville Jaguars,0.0,0.5,0,0.5,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-113,1.13,2.13,1.0
+94,J.Downs o49.5 Rec Yds,AnthonyDabbundo,Indianapolis Colts,j.downs,Jacksonville Jaguars,0.0,0.5,0,0.5,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-110,1.1,2.1,1.0
+97,B.Thomas o53.5 Rec Yds,Proptology,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-113,2.26,4.26,2.0
+101,B.Thomas o53.5 Rec Yds,chrisgimino_,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-113,1.0,1.8849557522123888,0.8849557522123894
+102,B.Thomas o52.5 Rec Yds,AnthonyDabbundo,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-110,1.1,2.1,1.0
+104,B.Thomas o50.5 Rec Yds,cawright95,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+105,B.Thomas o49.5 Rec Yds,Markus_Markets,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042
 110,J.Meyers o41.5 Rec Yds,gneiffer07,Las Vegas Raiders,j.meyers,Denver Broncos,0.0,0.75,1,0.6666666666666666,1,0.75,1,64,5,17,0,Foggy,Empower Field at Mile High,outdoors,grass,-110,1.1,2.1,1.0
-139,D.Robinson o36.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,d.robinson,Green Bay Packers,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,10,44,1,Foggy,SoFi,indoors,turf,100,1.5,3.0,1.5
 147,J.Smith-njigba o46.5 receiving yards,Rotowire Prizepicks,Seattle Seahawks,j.smith-njigba,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,100,1.5,3.0,1.5
 148,G.Pickens o53.5 Rec Yds,KyleJustBets,Pittsburgh Steelers,g.pickens,Dallas Cowboys,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,10,67,68,Rain,Acrisure,outdoors,grass,-112,1.0,1.8928571428571428,0.8928571428571428
 157,J.Meyers o42.5 receiving yards,Rotowire Prizepicks,Las Vegas Raiders,j.meyers,Denver Broncos,0.0,0.75,1,0.6666666666666666,1,0.75,1,78,5,17,0,Foggy,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
@@ -22,9 +31,9 @@
 175,E.All o16.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,e.all,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,77,8,53,2,Clear,Paycor,outdoors,turf,100,1.5,3.0,1.5
 181,T.Hill o39.5 Receiving Yards,JBBets1,Miami Dolphins,t.hill,New England Patriots,0.0,0.5,0,0.3333333333333333,0,0.5,0,64,3,50,0,Clear,Gillette,outdoors,turf,-168,1.0,1.5952380952380951,0.5952380952380953
 186,D.Ogunbowale o10.5 Rec Yds,ThePropfessor_,Houston Texans,d.ogunbowale,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,83,8,55,0,Partly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+188,S.Diggs o53.5 receiving yards,Rotowire Prizepicks,Houston Texans,s.diggs,Buffalo Bills,1.0,0.5,0,0.6666666666666666,1,0.5,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,100,1.5,3.0,1.5
 197,N.Collins o79.5 Rec Yds,theprophunter0_,Houston Texans,n.collins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,87,11,55,0,Partly Cloudy,NRG,indoors,turf,-110,1.1,2.1,1.0
+198,B.Thomas o50.5 Rec Yds,theprophunter0_,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.6666666666666666,1,0.5,0,76,10,82,75,Overcast,TIAA Bank,outdoors,grass,-120,1.2,2.2,1.0000000000000002
 207,J.Reynolds o23.5 receiving yards,Rotowire Prizepicks,Denver Broncos,j.reynolds,Las Vegas Raiders,1.0,0.75,1,0.6666666666666666,1,0.75,1,64,9,20,0,Clear,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
-211,D.Robinson o36.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,d.robinson,Green Bay Packers,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,10,44,1,Clear,SoFi,indoors,turf,100,1.5,3.0,1.5
-221,J.Brooks o12.5 Rec Yds,MoneylineHacks,Dallas Cowboys,j.brooks,Pittsburgh Steelers,0.0,0.5,0,0.5,0,0.5,0,74,9,66,65,Rain,Acrisure,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546
 229,J.Tolbert o32.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,j.tolbert,Pittsburgh Steelers,0.0,0.5,0,0.6666666666666666,1,0.5,0,80,14,66,70,Clear,Acrisure,outdoors,grass,100,1.5,3.0,1.5
 232,E.Elliott o3.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,e.elliott,Pittsburgh Steelers,0.0,1.0,1,1.0,1,1.0,1,80,14,66,70,Clear,Acrisure,outdoors,grass,100,1.5,3.0,1.5

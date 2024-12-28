@@ -1,5 +1,11 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 4,D.Jones o199.5 passing yards,Rotowire Sleeper,New York Giants,d.jones,Carolina Panthers,0.0,0.625,1,0.6666666666666666,1,0.8,1,43,8,88,4,Overcast,Allianz,outdoors,grass,100.0,1.5,3.0,1.5
 12,A.Rodgers o230.5 passing yards,Rotowire Prizepicks,New York Jets,a.rodgers,Arizona Cardinals,0.0,0.5555555555555556,1,0.6666666666666666,1,0.8,1,78,2,13,1,Clear,Allianz,outdoors,grass,100.0,1.5,3.0,1.5
+15,C.Stroud o225.5 passing yards,Rotowire Prizepicks,Houston Texans,c.stroud,Detroit Lions,1.0,0.5555555555555556,1,0.3333333333333333,0,0.4,0,76,5,82,9,Partly Cloudy,NRG,indoors,turf,100.0,1.5,3.0,1.5
+18,C.Stroud o226.5 passing yards,Rotowire Prizepicks,Houston Texans,c.stroud,Detroit Lions,1.0,0.5555555555555556,1,0.3333333333333333,0,0.4,0,76,5,82,9,Partly Cloudy,NRG,indoors,turf,100.0,1.5,3.0,1.5
+30,K.Murray o191.5 passing yards,Rotowire Sleeper,Arizona Cardinals,k.murray,New York Jets,1.0,0.625,1,0.6666666666666666,1,0.6,1,80,2,13,1,Clear,Allianz,outdoors,grass,100.0,1.5,3.0,1.5
+34,C.Stroud o224.5 passing yards,Rotowire Prizepicks,Houston Texans,c.stroud,Detroit Lions,1.0,0.5555555555555556,1,0.3333333333333333,0,0.4,0,76,5,72,6,Partly Cloudy,NRG,indoors,turf,100.0,1.5,3.0,1.5
 61,J.Hurts o199.5 passing yards,Rotowire Sleeper,Philadelphia Eagles,j.hurts,Dallas Cowboys,0.0,0.5714285714285714,1,0.6666666666666666,1,0.6,1,75,3,46,0,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 97,J.Hurts o216.5 passing yards,Rotowire Sleeper,Philadelphia Eagles,j.hurts,Dallas Cowboys,0.0,0.5714285714285714,1,0.6666666666666666,1,0.6,1,75,3,46,1,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
+241,J.Hurts o218.5 passing yards,Rotowire Prizepicks,Philadelphia Eagles,j.hurts,Dallas Cowboys,0.0,0.5,0,0.3333333333333333,0,0.4,0,79,0,43,0,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
+243,J.Goff o222.5 passing yards,Rotowire Sleeper,Detroit Lions,j.goff,Houston Texans,0.0,0.625,1,0.6666666666666666,1,0.8,1,75,9,79,0,Clear,NRG,indoors,turf,100.0,1.5,3.0,1.5

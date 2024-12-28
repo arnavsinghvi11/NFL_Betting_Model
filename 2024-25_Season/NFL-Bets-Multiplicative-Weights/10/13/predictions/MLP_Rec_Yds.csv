@@ -11,7 +11,7 @@
 60,K.Turpin u29.5 Rec Yds,cowhitchurch,Dallas Cowboys,k.turpin,Detroit Lions,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,95,9,24,0,Clear,AT&amp;T,indoors,turf,-110.0,0.55,1.05,0.5
 85,A.Brown o67.5 Rec Yds,cawright95,Philadelphia Eagles,a.brown,Cleveland Browns,1.0,1.0,1,1.0,1,1.0,1,72,7,53,16,Rain,Lincoln Financial Field,outdoors,grass,-125.0,1.25,2.25,1.0
 93,J.Reed o58.5 Rec Yds,Markus_Markets,Green Bay Packers,j.reed,Arizona Cardinals,1.0,0.6,1,0.6666666666666666,1,0.6,1,54,9,74,83,Rain,Lambeau Field,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
-125,A.Gibson o17.5 Rec Yds,chrisgimino_,New England Patriots,a.gibson,Houston Texans,1.0,0.25,0,0.3333333333333333,0,0.25,0,50,5,66,30,Rain,Gillette,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+122,D.Swift u20.5 Rec Yds,chrisgimino_,Chicago Bears,d.swift,Jacksonville Jaguars,1.0,0.0,0,0.0,0,0.0,0,57,6,77,2,Overcast,Tottenham,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
 127,C.Godwin o62.5 Rec Yds,chrisgimino_,Tampa Bay Buccaneers,c.godwin,New Orleans Saints,0.0,0.8,1,0.6666666666666666,1,0.8,1,81,3,56,0,Clear,Caesars Superdome,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
 133,K.Turpin u28.5 Rec Yds,chrisgimino_,Dallas Cowboys,k.turpin,Detroit Lions,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,96,9,20,0,Clear,AT&amp;T,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
 159,B.Bowers o50.5 receiving yards,Rotowire Prizepicks,Las Vegas Raiders,b.bowers,Pittsburgh Steelers,1.0,0.6,1,0.3333333333333333,0,0.6,1,89,5,11,0,Clear,Allegiant,indoors,grass,100.0,1.5,3.0,1.5
@@ -24,3 +24,7 @@
 255,E.Elliott o2.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,e.elliott,Detroit Lions,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,93,8,21,1,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 264,T.Higgins o56.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,t.higgins,New York Giants,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,6,59,16,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
 274,A.Iosivas o21.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,a.iosivas,New York Giants,0.0,0.8,1,1.0,1,0.8,1,69,6,59,16,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+287,T.Johnson o4.5 receiving yards,Rotowire Prizepicks,New York Giants,t.johnson,Cincinnati Bengals,1.0,1.0,1,1.0,1,1.0,1,63,0,59,16,Clear,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+290,D.Vele o23.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,Los Angeles Chargers,1.0,1.0,1,1.0,1,1.0,1,61,8,25,2,Partly Cloudy,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
+291,T.Johnson o13.5 Rec Yds,PropBetGuy,New York Giants,t.johnson,Cincinnati Bengals,1.0,0.6,1,0.6666666666666666,1,0.6,1,63,0,59,16,Clear,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0
+294,T.Johnson o12.5 Rec Yds,ThePropfessor_,New York Giants,t.johnson,Cincinnati Bengals,1.0,0.8,1,0.6666666666666666,1,0.8,1,63,0,59,16,Clear,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0

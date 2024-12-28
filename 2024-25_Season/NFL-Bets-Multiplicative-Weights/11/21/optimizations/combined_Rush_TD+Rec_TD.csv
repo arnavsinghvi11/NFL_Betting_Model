@@ -1,0 +1,4 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+G.Pickens o0.5 rush_td+rec_td,theprophunter0_,Pittsburgh Steelers,g.pickens,Cleveland Browns,0.0,0.2,0,0.3333333333333333,0,0.4,0,37,13,91,85,Snow,Cleveland Browns,outdoors,grass,190.0,0.5,1.45,0.95,1.0,0.0,Rush_TD+Rec_TD
+N.Chubb o0.5 rush_td+rec_td,shadybiev,Cleveland Browns,n.chubb,Pittsburgh Steelers,1.0,0.25,0,0.0,0,0.25,0,37,13,91,85,Snow,Cleveland Browns,outdoors,grass,150.0,1.0,2.5,1.5,1.0,0.0,Rush_TD+Rec_TD
+N.Chubb o0.5 rush_td+rec_td,theprophunter0_,Cleveland Browns,n.chubb,Pittsburgh Steelers,1.0,0.25,0,0.0,0,0.25,0,37,13,91,85,Snow,Cleveland Browns,outdoors,grass,140.0,0.5,1.2,0.7,1.0,0.0,Rush_TD+Rec_TD

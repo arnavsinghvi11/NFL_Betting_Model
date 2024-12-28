@@ -1,6 +1,7 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-113,T.Higgins u5.5 Recs,cowhitchurch,Cincinnati Bengals,t.higgins,Philadelphia Eagles,1.0,0.4,0,0.3333333333333333,0,0.4,0,59,5,38,0,Clear,Paycor,outdoors,turf,-105.0,0.53,1.0347619047619048,0.5047619047619047
-114,T.Higgins u5.5 Recs,nick_giffen,Cincinnati Bengals,t.higgins,Philadelphia Eagles,1.0,0.4,0,0.3333333333333333,0,0.4,0,59,5,38,0,Clear,Paycor,outdoors,turf,-105.0,1.05,2.05,0.9999999999999998
+36,K.Shakir o4.5 Receptions,Markus_Markets,Buffalo Bills,k.shakir,Seattle Seahawks,0.0,0.5,0,0.3333333333333333,0,0.6,1,55,12,92,99,Rain,Lumen Field,outdoors,turf,175.0,0.25,0.6875,0.4375
+38,K.Shakir o3.5 Recs,Markus_Markets,Buffalo Bills,k.shakir,Seattle Seahawks,0.0,0.6666666666666666,1,0.6666666666666666,1,0.8,1,55,12,92,99,Rain,Lumen Field,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
+75,D.Douglas o3.5 Recs,cawright95,New England Patriots,d.douglas,New York Jets,1.0,0.5,0,0.6666666666666666,1,0.6,1,50,8,33,1,Clear,Gillette,outdoors,turf,-135.0,1.35,2.35,1.0
 115,B.Thomas u4.5 Recs,cowhitchurch,Jacksonville Jaguars,b.thomas,Green Bay Packers,1.0,0.4285714285714285,0,0.3333333333333333,0,0.2,0,83,6,53,6,Partly Cloudy,TIAA Bank,outdoors,grass,110.0,0.5,1.05,0.55
 116,B.Thomas u4.5 Recs,nick_giffen,Jacksonville Jaguars,b.thomas,Green Bay Packers,1.0,0.4285714285714285,0,0.3333333333333333,0,0.2,0,83,6,53,6,Partly Cloudy,TIAA Bank,outdoors,grass,110.0,1.0,2.1,1.1
 132,G.Wilson o4.5 Recs,KyleJustBets,New York Jets,g.wilson,New England Patriots,0.0,0.8571428571428571,1,1.0,1,1.0,1,49,8,34,1,Partly Cloudy,Gillette,outdoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
@@ -11,4 +12,3 @@
 177,C.Olave o4.5 Recs,chrisgimino_,New Orleans Saints,c.olave,Los Angeles Chargers,0.0,0.4,0,0.6666666666666666,1,0.4,0,76,3,68,0,Clear,SoFi,indoors,turf,-112.0,1.0,1.8928571428571428,0.8928571428571428
 184,C.Hubbard o2.5 Recs,PropBetGuy,Carolina Panthers,c.hubbard,Denver Broncos,0.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,76,5,13,1,Mostly Cloudy,Empower Field at Mile High,outdoors,grass,-125.0,1.25,2.25,1.0
 185,J.Mingo o1.5 Recs,chrisgimino_,Carolina Panthers,j.mingo,Denver Broncos,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,76,5,13,1,Mostly Cloudy,Empower Field at Mile High,outdoors,grass,-106.0,1.0,1.9433962264150944,0.9433962264150944
-197,E.Engram o5.5 Recs,PlayerPropSavant,Jacksonville Jaguars,e.engram,Green Bay Packers,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,82,5,55,1,Clear,TIAA Bank,outdoors,grass,116.0,0.86,1.8576,0.9976000000000002

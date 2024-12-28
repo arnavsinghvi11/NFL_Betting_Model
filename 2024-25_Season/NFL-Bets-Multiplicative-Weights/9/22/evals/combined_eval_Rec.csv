@@ -1,6 +1,8 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,T.Chandler u1.5 Recs,MoneylineHacks,t.chandler,Y,0.0,Minnesota Vikings,Houston Texans,1.0,0.5,0,0.5,0,0.5,0,62,8,60,20,Rain,U.S. Bank,indoors,turf,125.0,1.0,2.25,1.25
-1,C.Steele u1.5 Recs,MoneylineHacks,c.steele,Y,1.0,Kansas City Chiefs,Atlanta Falcons,0.0,0.0,0,0.0,0,0.0,0,83,3,52,4,Rain,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35
-2,D.Metcalf o4.5 Recs,kylemurray03,d.metcalf,N,4.0,Seattle Seahawks,Miami Dolphins,1.0,0.5,0,0.5,0,0.5,0,65,0,68,18,Rain,Lumen Field,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
-3,C.Godwin u5.5 Recs,boomerslocks,c.godwin,N,6.0,Tampa Bay Buccaneers,Denver Broncos,1.0,0.0,0,0.0,0,0.0,0,88,7,59,16,Rain,Raymond James,outdoors,grass,116.0,1.0,2.16,1.16
-4,D.Achane o3.5 Receptions,JBBets1,d.achane,N,3.0,Miami Dolphins,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,67,5,65,7,Rain,Lumen Field,outdoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,T.Chandler u1.5 Recs,MoneylineHacks,Minnesota Vikings,t.chandler,,,,Y,0.0,Houston Texans,1.0,0.5,0,0.5,0,0.5,0,62,8,60,20,Rain,U.S. Bank,indoors,turf,125.0,1.0,2.25,1.25
+1,C.Steele u1.5 Recs,MoneylineHacks,Kansas City Chiefs,c.steele,,,,Y,1.0,Atlanta Falcons,0.0,0.0,0,0.0,0,0.0,0,83,3,52,4,Rain,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35
+2,C.Godwin u5.5 Recs,boomerslocks,Tampa Bay Buccaneers,c.godwin,,,,N,6.0,Denver Broncos,1.0,0.0,0,0.0,0,0.0,0,88,7,59,16,Rain,Raymond James,outdoors,grass,116.0,1.0,2.16,1.16
+3,D.Achane o3.5 Receptions,JBBets1,Miami Dolphins,d.achane,,,,N,3.0,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,67,5,65,7,Rain,Lumen Field,outdoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144
+4,S.Diggs o4.5 Recs,PropBetGuy,Houston Texans,s.diggs,,,,Y,10.0,Minnesota Vikings,0.0,0.5,0,0.5,0,0.5,0,64,9,53,5,Rain,U.S. Bank,indoors,turf,108.0,1.0,2.08,1.08
+5,D.Metcalf o4.5 Recs,kylemurray03,Seattle Seahawks,d.metcalf,,,,N,4.0,Miami Dolphins,1.0,0.5,0,0.5,0,0.5,0,65,0,68,18,Rain,Lumen Field,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+6,S.Diggs o4.5 Recs,KyleJustBets,Houston Texans,s.diggs,,,,Y,10.0,Minnesota Vikings,0.0,0.5,0,0.5,0,0.5,0,60,10,50,0,Clear,U.S. Bank,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335

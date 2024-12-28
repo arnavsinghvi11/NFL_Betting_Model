@@ -1,3 +1,3 @@
-,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,J.Jefferson o0.5 rush_td+rec_td,theprophunter0_,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,71,7,62,0,Clear,SoFi,indoors,turf,-105.0,1.05,2.05,0.9999999999999998,N,0.0
-1,K.Williams o0.5 rush_td+rec_td,theprophunter0_,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,71,7,62,0,Clear,SoFi,indoors,turf,-130.0,1.3,2.3,0.9999999999999998,Y,1.0
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,A.Jones o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,a.jones,Los Angeles Rams,0.0,0.5,0,0.3333333333333333,0,0.4,0,69,7,62,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,,,,N,0.0
+1,K.Williams o0.5 rush_td+rec_td,theprophunter0_,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,71,7,62,0,Clear,SoFi,indoors,turf,-130.0,1.3,2.3,0.9999999999999998,,,,Y,1.0

@@ -1,1 +1,2 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,B.Hall o97.5 Rush + Rec Yds,PlayerPropSavant,New York Jets,b.hall,1.0,0.0,Rush_Yds+Rec_Yds,N,83.0,New England Patriots,1.0,0.5,0,0.5,0,0.5,0,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0

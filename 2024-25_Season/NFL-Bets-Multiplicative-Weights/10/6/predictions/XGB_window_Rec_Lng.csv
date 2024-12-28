@@ -1,6 +1,12 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 20,M.Williams o17.5 Longest Reception,MillyProps,New York Jets,m.williams,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+30,R.Odunze o17.5 Longest Reception,The_Oddsmaker,Chicago Bears,r.odunze,Carolina Panthers,1.0,0.5,0,0.6666666666666666,1,0.5,0,73,19,24,0,Clear,Soldier Field,outdoors,grass,-110,1.1,2.1,1.0
+31,R.Odunze o17.5 Longest Reception,cowhitchurch,Chicago Bears,r.odunze,Carolina Panthers,1.0,0.5,0,0.6666666666666666,1,0.5,0,73,19,24,0,Clear,Soldier Field,outdoors,grass,-108,1.08,2.08,1.0
 45,T.Higgins u21.5 Longest Reception,cowhitchurch,Cincinnati Bengals,t.higgins,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,83,13,53,2,Clear,Paycor,outdoors,turf,-110,1.1,2.1,1.0
 46,T.Higgins u21.5 Longest Reception,nick_giffen,Cincinnati Bengals,t.higgins,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,83,13,53,2,Clear,Paycor,outdoors,turf,-110,1.1,2.1,1.0
 71,C.Samuel u16.5 Longest Reception,PropBetGuy,Buffalo Bills,c.samuel,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,10,55,0,Clear,NRG,indoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
 118,T.McBride u17.5 Longest Reception,PropBetGuy,Arizona Cardinals,t.mcbride,San Francisco 49ers,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,88,6,30,2,Partly Cloudy,Levi's,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+161,T.Lockett u18.5 Longest Reception,The_Oddsmaker,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+165,T.Lockett u18.5 Longest Reception,cowhitchurch,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+172,T.Lockett u18.5 Longest Reception,convince_me,Seattle Seahawks,t.lockett,New York Giants,1.0,0.5,0,0.6666666666666666,1,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+193,J.Mingo u15.5 Longest Reception,PropBetGuy,Carolina Panthers,j.mingo,Chicago Bears,0.0,0.75,1,1.0,1,0.75,1,73,14,26,0,Clear,Soldier Field,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996

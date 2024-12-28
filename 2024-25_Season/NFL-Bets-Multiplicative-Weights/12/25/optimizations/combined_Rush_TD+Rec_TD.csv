@@ -1,4 +1,7 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-M.Andrews o0.5 rush_td+rec_td,TheTDShow,Baltimore Ravens,m.andrews,Houston Texans,0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,185,1.0,2.85,1.85
-R.Bateman o0.5 rush_td+rec_td,TheBMatt,Baltimore Ravens,r.bateman,Houston Texans,0,0.5,0,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,240,0.5,1.7,1.2
-M.Andrews o0.5 rush_td+rec_td,Ed Scimia,Baltimore Ravens,m.andrews,Houston Texans,0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,100,0.75,1.5,0.75
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+J.Mixon o0.5 rush_td+rec_td,rsura_,Houston Texans,j.mixon,Baltimore Ravens,1.0,0.6666666666666666,1,0.3333333333333333,0,0.4,0,67,8,78,9,Overcast,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002,,,
+J.Mixon o0.5 rush_td+rec_td,sandyplashkes,Houston Texans,j.mixon,Baltimore Ravens,1.0,0.6666666666666666,1,0.3333333333333333,0,0.4,0,66,3,78,9,Overcast,NRG,indoors,turf,-110,1.1,2.1,1.0,,,
+J.Mixon o0.5 rush_td+rec_td,shadybiev,Houston Texans,j.mixon,Baltimore Ravens,1.0,0.6666666666666666,1,0.3333333333333333,0,0.4,0,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,-120,1.8,3.3000000000000003,1.5000000000000002,,,
+M.Andrews o0.5 rush_td+rec_td,Ed Scimia,Baltimore Ravens,m.andrews,Houston Texans,0.0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,100,0.75,1.5,0.75,1.0,0.0,Rush_TD+Rec_TD
+M.Andrews o0.5 rush_td+rec_td,TheTDShow,Baltimore Ravens,m.andrews,Houston Texans,0.0,0.5333333333333333,1,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,185,1.0,2.85,1.85,1.0,0.0,Rush_TD+Rec_TD
+R.Bateman o0.5 rush_td+rec_td,TheBMatt,Baltimore Ravens,r.bateman,Houston Texans,0.0,0.5,0,1.0,1,0.8,1,70,5,79,8,Mostly Cloudy,NRG,indoors,turf,240,0.5,1.7,1.2,1.0,0.0,Rush_TD+Rec_TD

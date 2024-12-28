@@ -1,26 +1,26 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-B.Nix o29.5 Pass Att,TopShelfAction,Denver Broncos,b.nix,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692
-S.Rattler o181.5 passing yards,Rotowire Prizepicks,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-B.Means u16.5 Longest Reception,PropBetGuy,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0
-D.Vele o23.5 Rec Yds,PropBetGuy,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-D.Vele o27.5 receiving yards,Rotowire Sleeper,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-D.Vele o28.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-D.Vele o29.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-D.Vele o30.5 Rec Yds,GreenDotDaily,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-A.Kamara o32.5 Rec Yds,CeeJPicks,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.8,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-D.Vele o30.5 receiving yards,Rotowire Sleeper,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-D.Vele o30.5 Rec Yds,kylemurray03,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.13,2.13,1.0
-B.Means o31.5 Rec Yds,ThePropfessor_,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.13,2.13,1.0
-B.Means o31.5 Rec Yds,rsura_,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0
-B.Means o31.5 Rec Yds,LinesAtLunch,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0
-B.Means o33.5 receiving yards,Rotowire Prizepicks,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
-F.Moreau o9.5 Rec Yds,Theotherbabs,New Orleans Saints,f.moreau,Denver Broncos,1.0,0.75,1,0.6666666666666666,1,0.75,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-121.0,1.33,2.4291735537190084,1.0991735537190084
-J.Johnson o24.5 Receiving Yards,JBBets1,New Orleans Saints,j.johnson,Denver Broncos,1.0,0.75,1,0.6666666666666666,1,0.75,1,68,5,50,0,Clear,Caesars Superdome,indoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144
-D.Vele o31.5 Rec Yds,JBBets1,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,68,5,50,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-A.Kamara o0.5 rush_td+rec_td,TopShelfAction,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.0,2.0,1.0
-A.Kamara o0.5 rush_td+rec_td,gneiffer07,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,105.0,1.0,2.05,1.0499999999999998
-A.Kamara u72.5 Rush Yds,gneiffer07,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.3333333333333333,0,0.6666666666666666,1,0.4,0,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-J.Williams u46.5 Rush Yds,gneiffer07,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-J.Williams u47.5 Rush Yds,kylemurray03,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-S.Rattler o21.5 Rush Yds,moneybadger24_,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-J.Williams o9.5 Rush Yds,cowhitchurch,Denver Broncos,j.williams,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-106.0,0.53,1.03,0.5
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+S.Rattler o181.5 passing yards,Rotowire Prizepicks,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,,,
+B.Nix o185.5 passing yards,Rotowire Prizepicks,Denver Broncos,b.nix,New Orleans Saints,0.0,0.5714285714285714,1,0.6666666666666666,1,0.6,1,68,5,50,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,,,
+J.Johnson o2.5 Recs,GreenDotDaily,New Orleans Saints,j.johnson,Denver Broncos,1.0,0.5,0,0.6666666666666666,1,0.5,0,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144,,,
+B.Means u16.5 Longest Reception,PropBetGuy,New Orleans Saints,b.means,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.1,2.1,1.0,,,
+D.Vele o15.5 Longest Reception,MJCLocks,Denver Broncos,d.vele,New Orleans Saints,0.0,0.5,0,0.5,0,0.5,0,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,0.75,1.431818181818182,0.6818181818181819,,,
+J.Williams u46.5 Rush Yds,gneiffer07,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+J.Williams u47.5 Rush Yds,kylemurray03,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+J.McLaughlin u19.5 Rush Yds,Theotherbabs,Denver Broncos,j.mclaughlin,New Orleans Saints,0.0,0.5,0,0.3333333333333333,0,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,,,
+S.Rattler o21.5 Rush Yds,moneybadger24_,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+J.Williams o9.5 Rush Yds,cowhitchurch,Denver Broncos,j.williams,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-106.0,0.53,1.03,0.5,,,
+B.Nix o25.5 Rush Yds,theprophunter0_,Denver Broncos,b.nix,New Orleans Saints,0.0,0.5,0,0.3333333333333333,0,0.4,0,65,5,50,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+A.Kamara o0.5 rush_td+rec_td,TopShelfAction,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.0,2.0,1.0,,,
+A.Kamara o0.5 rush_td+rec_td,gamblersdream,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,68,5,50,0,Clear,Caesars Superdome,indoors,turf,160.0,1.0,2.6,1.6,,,
+A.Kamara o0.5 rush_td+rec_td,gneiffer07,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,105.0,1.0,2.05,1.0499999999999998,,,
+D.Vele o23.5 Rec Yds,PropBetGuy,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,1.0,0.0,Rec_Yds
+D.Vele o27.5 receiving yards,Rotowire Sleeper,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Rec_Yds
+D.Vele o28.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Rec_Yds
+D.Vele o29.5 receiving yards,Rotowire Prizepicks,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,6,54,1,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Rec_Yds
+D.Vele o30.5 Rec Yds,GreenDotDaily,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335,1.0,0.0,Rec_Yds
+A.Kamara o32.5 Rec Yds,CeeJPicks,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.8,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,1.0,0.0,Rec_Yds
+D.Vele o30.5 receiving yards,Rotowire Sleeper,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Rec_Yds
+D.Vele o30.5 Rec Yds,kylemurray03,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.13,2.13,1.0,1.0,0.0,Rec_Yds
+C.Sutton o45.5 Rec Yds,TopShelfAction,Denver Broncos,c.sutton,New Orleans Saints,0.0,0.5,0,0.6666666666666666,1,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-113.0,1.0,1.8849557522123888,0.8849557522123894,1.0,0.0,Rec_Yds
+F.Moreau o9.5 Rec Yds,Theotherbabs,New Orleans Saints,f.moreau,Denver Broncos,1.0,0.75,1,0.6666666666666666,1,0.75,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-121.0,1.33,2.4291735537190084,1.0991735537190084,1.0,0.0,Rec_Yds
+D.Vele o31.5 Rec Yds,JBBets1,Denver Broncos,d.vele,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,68,5,50,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,1.0,0.0,Rec_Yds

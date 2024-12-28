@@ -1,4 +1,7 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-D.Watson u205.5 passing yards,Rotowire Prizepicks,Cleveland Browns,d.watson,Las Vegas Raiders,0.0,1.0,1,1.0,1,1.0,1,99,6,10,0,Clear,Allegiant,indoors,grass,100,1.5,3.0,1.5
-T.Lawrence u232.5 passing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,5,40,1,Clear,NRG,indoors,turf,100,1.5,3.0,1.5
-C.Williams u225.5 passing yards,Rotowire Prizepicks,Chicago Bears,c.williams,Los Angeles Rams,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,71,17,73,11,Rain,Soldier Field,outdoors,grass,100,1.5,3.0,1.5
+D.Watson u205.5 passing yards,Rotowire Prizepicks,Cleveland Browns,d.watson,Las Vegas Raiders,0.0,1.0,1,1.0,1,1.0,1,99,6,10,0,Clear,Allegiant,indoors,grass,100.0,1.5,3.0,1.5
+T.Lawrence u232.5 passing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,5,40,1,Clear,NRG,indoors,turf,100.0,1.5,3.0,1.5
+B.Purdy o226.5 passing yards,Rotowire Sleeper,San Francisco 49ers,b.purdy,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,74,6,59,0,Clear,Levi's,outdoors,grass,100.0,1.5,3.0,1.5
+B.Purdy o237.5 passing yards,Rotowire Sleeper,San Francisco 49ers,b.purdy,New England Patriots,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,62,0,Clear,Levi's,outdoors,grass,100.0,1.5,3.0,1.5
+B.Purdy o234.5 passing yards,Rotowire Sleeper,San Francisco 49ers,b.purdy,New England Patriots,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,3,64,0,Clear,Levi's,outdoors,grass,100.0,1.5,3.0,1.5
+A.Rodgers o220.5 passing yards,Rotowire Prizepicks,New York Jets,a.rodgers,Denver Broncos,1.0,0.5,0,0.6666666666666666,1,0.5,0,61,5,87,43,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5

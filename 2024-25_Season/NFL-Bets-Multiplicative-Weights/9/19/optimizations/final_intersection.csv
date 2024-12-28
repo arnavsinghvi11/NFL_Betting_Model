@@ -1,19 +1,18 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-A.Gibson u1.5 Recs,MoneylineHacks,New England Patriots,a.gibson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-150.0,3.0,5.0,2.0
-A.Gibson u1.5 Recs,kylemurray03,New England Patriots,a.gibson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-150.0,1.5,2.5,1.0
-B.Hall o4.5 Recs,the_degenerates,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,100.0,1.0,2.0,1.0
-B.Hall o4.5 Recs,GreenDotDaily,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,110.0,1.0,2.1,1.1
-J.Polk u20.5 Rec Yds,Theotherbabs,New England Patriots,j.polk,New York Jets,0.0,1.0,1,1.0,1,1.0,1,70,10,73,36,Rain,MetLife,outdoors,turf,-114.0,0.86,1.6143859649122807,0.7543859649122807
-A.Lazard u31.5 receiving yards,Rotowire Prizepicks,New York Jets,a.lazard,New England Patriots,1.0,0.5,0,0.5,0,0.5,0,70,10,73,36,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
-M.Williams u23.5 Rec Yds,LinesAtLunch,New York Jets,m.williams,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-116.0,1.16,2.16,0.9999999999999998
-B.Allen o20.5 Rush Yds,millmanc,New York Jets,b.allen,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,71,10,68,33,Rain,MetLife,outdoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
-A.Rodgers u2.5 Rush Yds,gneiffer07,New York Jets,a.rodgers,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,71,10,68,33,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
-R.Stevenson o64.5 Rush Yds,gneiffer07,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,71,10,68,33,Rain,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0
-A.Gibson o20.5 Rush Yds,gneiffer07,New England Patriots,a.gibson,New York Jets,0.0,0.5,0,0.5,0,0.5,0,71,10,68,33,Rain,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0
-A.Gibson o22.5 rushing yards,Jared Hochman,New England Patriots,a.gibson,New York Jets,0.0,0.5,0,0.5,0,0.5,0,71,10,68,33,Rain,MetLife,outdoors,turf,100.0,0.75,1.5,0.75
-B.Allen o21.5 Rush Yds,kylemurray03,New York Jets,b.allen,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-119.0,1.19,2.19,1.0
-J.Brissett o10.5 Rush Yds,MoneylineHacks,New England Patriots,j.brissett,New York Jets,0.0,0.5,0,0.5,0,0.5,0,76,6,56,11,Rain,MetLife,outdoors,turf,-115.0,2.0,3.739130434782608,1.7391304347826084
-J.Brissett o10.5 Rush Yds,ThePropfessor_,New England Patriots,j.brissett,New York Jets,0.0,0.5,0,0.5,0,0.5,0,79,3,45,0,Clear,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-B.Hall o0.5 rush_td+rec_td,theprophunter0_,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
-R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
-B.Hall o0.5 rush_td+rec_td,JBBets1,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,-105.0,0.5,0.9761904761904762,0.4761904761904761
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+A.Gibson u1.5 Recs,MoneylineHacks,New England Patriots,a.gibson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-150.0,3.0,5.0,2.0,0.0,1.0,Rec
+A.Gibson u1.5 Recs,kylemurray03,New England Patriots,a.gibson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-150.0,1.5,2.5,1.0,0.0,1.0,Rec
+B.Hall o4.5 Recs,the_degenerates,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,100.0,1.0,2.0,1.0,1.0,0.0,Rec
+B.Hall o4.5 Recs,GreenDotDaily,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,110.0,1.0,2.1,1.1,1.0,0.0,Rec
+M.Williams u1.5 Recs,GreenDotDaily,New York Jets,m.williams,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,165.0,0.5,1.325,0.825,0.0,1.0,Rec
+A.Rodgers u2.5 Rush Yds,gneiffer07,New York Jets,a.rodgers,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,71,3,45,11,Rain,MetLife,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,,,
+R.Stevenson o64.5 Rush Yds,gneiffer07,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,71,3,45,11,Rain,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0,,,
+A.Gibson o20.5 Rush Yds,gneiffer07,New England Patriots,a.gibson,New York Jets,0.0,0.5,0,0.5,0,0.5,0,71,3,45,11,Rain,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0,,,
+A.Gibson o22.5 rushing yards,Jared Hochman,New England Patriots,a.gibson,New York Jets,0.0,0.5,0,0.5,0,0.5,0,71,3,45,11,Rain,MetLife,outdoors,turf,100.0,0.75,1.5,0.75,,,
+B.Hall o0.5 rush_td+rec_td,JBBets1,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,-105.0,0.5,0.9761904761904762,0.4761904761904761,,,
+B.Hall o0.5 rush_td+rec_td,theprophunter0_,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55,,,
+R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55,,,
+J.Polk u20.5 Rec Yds,Theotherbabs,New England Patriots,j.polk,New York Jets,0.0,1.0,1,1.0,1,1.0,1,81,3,56,11,Rain,MetLife,outdoors,turf,-114.0,0.86,1.6143859649122807,0.7543859649122807,0.0,1.0,Rec_Yds
+M.Williams u23.5 Rec Yds,LinesAtLunch,New York Jets,m.williams,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,76,6,56,11,Rain,MetLife,outdoors,turf,-116.0,1.16,2.16,0.9999999999999998,0.0,1.0,Rec_Yds
+K.Osborn o19.5 Rec Yds,sandyplashkes,New England Patriots,k.osborn,New York Jets,0.0,0.5,0,0.5,0,0.5,0,76,6,56,2,Rain,MetLife,outdoors,turf,-102.0,1.02,2.02,1.0,1.0,0.0,Rec_Yds
+K.Osborn o19.5 Rec Yds,Mjaybrxd,New England Patriots,k.osborn,New York Jets,0.0,0.5,0,0.5,0,0.5,0,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,-101.0,1.0,1.99009900990099,0.99009900990099,1.0,0.0,Rec_Yds
+A.Lazard o24.5 Receiving Yards,JBBets1,New York Jets,a.lazard,New England Patriots,1.0,0.5,0,0.5,0,0.5,0,81,6,45,0,Clear,MetLife,outdoors,turf,-142.0,1.0,1.704225352112676,0.704225352112676,1.0,0.0,Rec_Yds

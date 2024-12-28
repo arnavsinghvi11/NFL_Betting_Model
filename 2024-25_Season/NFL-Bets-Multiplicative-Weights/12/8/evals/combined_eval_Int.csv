@@ -1,3 +1,2 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,J.Hurts o0.5 Int,GDAWG5000,j.hurts,N,0.0,Philadelphia Eagles,Carolina Panthers,1.0,0.3333333333333333,0,0.0,0,0.2,0,48,8,47,6,Rain,Lincoln Financial Field,outdoors,grass,165.0,0.5,1.325,0.825
-1,D.Carr u0.5 Int,ChrisRaybon,d.carr,Y,4.0,New Orleans Saints,New York Giants,0.0,0.5555555555555556,1,1.0,1,0.8,1,46,10,51,1,Rain,MetLife,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,D.Carr u0.5 Int,ChrisRaybon,New Orleans Saints,d.carr,,,,Y,4.0,New York Giants,0.0,0.5555555555555556,1,1.0,1,0.8,1,46,18,51,1,Rain,MetLife,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407

@@ -1,3 +1,3 @@
-,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,J.Goff o0.5 Int,cowhitchurch,Detroit Lions,j.goff,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,68,5,91,30,Rain,Ford Field,indoors,turf,104.0,0.5,1.02,0.52,N,0.0
-1,J.Goff o0.5 Int,GDAWG5000,Detroit Lions,j.goff,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,68,5,91,30,Rain,Ford Field,indoors,turf,105.0,0.5,1.025,0.5249999999999999,N,0.0
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,J.Goff o0.5 Int,cowhitchurch,Detroit Lions,j.goff,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,68,5,75,5,Rain,Ford Field,indoors,turf,104.0,0.5,1.02,0.52,,,,N,0.0
+1,J.Goff o0.5 Int,GDAWG5000,Detroit Lions,j.goff,Seattle Seahawks,1.0,1.0,1,1.0,1,1.0,1,68,5,75,5,Rain,Ford Field,indoors,turf,105.0,0.5,1.025,0.5249999999999999,,,,N,0.0

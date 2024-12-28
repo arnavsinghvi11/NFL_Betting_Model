@@ -1,0 +1,8 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+M.Jones o0.5 Int,GDAWG5000,Jacksonville Jaguars,m.jones,Tennessee Titans,1.0,0.5714285714285714,1,0.6666666666666666,1,0.6,1,74,12,76,90,Rain,EverBank,outdoors,grass,-130,1.3,2.3,0.9999999999999998
+M.Penix u0.5 interceptions,Rohit Ponnaiya,Atlanta Falcons,m.penix,Washington Commanders,0.0,0.5,0,0.5,0,0.5,0,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+M.Evans u5.5 Recs,TopShelfAction,Tampa Bay Buccaneers,m.evans,Carolina Panthers,1.0,0.75,1,0.6666666666666666,1,0.6,1,75,10,85,60,Rain,Raymond James,outdoors,grass,110,0.6,1.26,0.66
+S.Barkley o2.5 Recs,TopShelfAction,Philadelphia Eagles,s.barkley,Dallas Cowboys,1.0,0.2666666666666666,0,0.0,0,0.2,0,61,10,84,53,Rain,Lincoln Financial Field,outdoors,grass,188,0.4,1.152,0.7519999999999999
+A.Jones o2.5 Recs,goodelleaks,Minnesota Vikings,a.jones,Green Bay Packers,1.0,0.5333333333333333,1,0.3333333333333333,0,0.6,1,37,2,90,9,Foggy,U.S. Bank,indoors,turf,-130,0.65,1.15,0.4999999999999999
+R.White u42.5 Rush Yds,chrisgimino_,Tampa Bay Buccaneers,r.white,Carolina Panthers,1.0,0.6428571428571429,1,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,-117,1.0,1.8547008547008548,0.8547008547008548
+A.Richardson u26.5 Pass Att,chrisgimino_,Indianapolis Colts,a.richardson,New York Giants,0.0,0.5454545454545454,1,0.6666666666666666,1,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404

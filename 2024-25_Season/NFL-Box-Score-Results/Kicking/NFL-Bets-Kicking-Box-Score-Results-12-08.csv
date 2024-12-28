@@ -1,0 +1,23 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,A.Carlson,New York Jets,2,2,4,4,1208,Miami Dolphins,0,Hard Rock,outdoors,grass,78,57,13,1,Mostly Cloudy
+1,J.Sanders,Miami Dolphins,0,1,4,4,1208,New York Jets,1,Hard Rock,outdoors,grass,78,57,13,1,Mostly Cloudy
+2,D.Hopkins,Cleveland Browns,2,2,0,2,1208,Pittsburgh Steelers,0,Acrisure,outdoors,grass,48,60,14,1,Clear
+3,C.Boswell,Pittsburgh Steelers,3,3,2,2,1208,Cleveland Browns,1,Acrisure,outdoors,grass,48,60,14,1,Clear
+4,C.Santos,Chicago Bears,1,1,0,0,1208,San Francisco 49ers,0,Levi's,outdoors,grass,66,53,6,0,Mostly Cloudy
+5,J.Moody,San Francisco 49ers,5,5,1,1,1208,Chicago Bears,1,Levi's,outdoors,grass,66,53,6,0,Mostly Cloudy
+6,Y.Koo,Atlanta Falcons,1,1,2,2,1208,Minnesota Vikings,0,U.S. Bank,indoors,turf,38,70,7,4,Overcast
+7,W.Reichard,Minnesota Vikings,6,6,0,1,1208,Atlanta Falcons,1,U.S. Bank,indoors,turf,38,70,7,4,Overcast
+8,E.Pineiro,Carolina Panthers,1,2,1,1,1208,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,57,44,14,0,Mostly Cloudy
+9,J.Elliott,Philadelphia Eagles,2,2,0,1,1208,Carolina Panthers,1,Lincoln Financial Field,outdoors,grass,57,44,14,0,Mostly Cloudy
+10,B.Grupe,New Orleans Saints,2,2,0,2,1208,New York Giants,0,MetLife,outdoors,turf,53,40,18,0,Clear
+11,G.Gano,New York Giants,0,0,1,2,1208,New Orleans Saints,1,MetLife,outdoors,turf,53,40,18,0,Clear
+12,C.Little,Jacksonville Jaguars,1,1,1,1,1208,Tennessee Titans,0,Nissan,outdoors,grass,54,53,8,12,Overcast
+13,N.Folk,Tennessee Titans,0,0,2,2,1208,Jacksonville Jaguars,1,Nissan,outdoors,grass,54,53,8,12,Overcast
+14,D.Carlson,Las Vegas Raiders,1,1,2,2,1208,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,70,54,5,1,Mostly Cloudy
+15,C.McLaughlin,Tampa Bay Buccaneers,4,4,0,0,1208,Las Vegas Raiders,1,Raymond James,outdoors,grass,70,54,5,1,Mostly Cloudy
+16,T.Bass,Buffalo Bills,6,6,0,0,1208,Los Angeles Rams,0,SoFi,indoors,turf,67,54,3,4,Clear
+17,J.Karty,Los Angeles Rams,5,6,1,1,1208,Buffalo Bills,1,SoFi,indoors,turf,67,54,3,4,Clear
+18,C.Dicker,Los Angeles Chargers,2,2,1,1,1208,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,50,93,13,11,Overcast
+19,M.Wright,Kansas City Chiefs,1,1,4,4,1208,Los Angeles Chargers,1,GEHA Field at Arrowhead,outdoors,grass,50,93,13,11,Overcast
+20,J.Myers,Seattle Seahawks,3,3,3,3,1208,Arizona Cardinals,0,State Farm,indoors,grass,68,23,5,0,Clear
+21,C.Ryland,Arizona Cardinals,1,1,1,2,1208,Seattle Seahawks,1,State Farm,indoors,grass,68,23,5,0,Clear

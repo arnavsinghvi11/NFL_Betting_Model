@@ -2,9 +2,8 @@ Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,L
 G.Dulcich u2.5 Recs,kylemurray03,Denver Broncos,g.dulcich,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
 I.Likely u3.5 Recs,cowhitchurch,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
 I.Likely u3.5 Recs,The_Oddsmaker,Baltimore Ravens,i.likely,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-J.Johnson u2.5 Recs,cowhitchurch,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
-J.Johnson u2.5 Recs,boomerslocks,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
-J.Johnson u2.5 Recs,The_Oddsmaker,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-135,1.35,2.35,1.0
+E.Moore o2.5 Recs,cowhitchurch,Cleveland Browns,e.moore,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998
+E.Moore o2.5 Recs,The_Oddsmaker,Cleveland Browns,e.moore,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998
 B.Aiyuk u4.5 Recs,cowhitchurch,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
 B.Aiyuk u4.5 Recs,The_Oddsmaker,San Francisco 49ers,b.aiyuk,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002
 J.Polk o1.5 Recs,cowhitchurch,New England Patriots,j.polk,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
@@ -12,9 +11,22 @@ J.Polk o1.5 Recs,boomerslocks,New England Patriots,j.polk,Seattle Seahawks,1.0,0
 J.Polk o1.5 Recs,The_Oddsmaker,New England Patriots,j.polk,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.32,2.3200000000000003,1.0000000000000002
 T.Irwin u2.5 Recs,cowhitchurch,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5
 T.Irwin u2.5 Recs,nick_giffen,Cincinnati Bengals,t.irwin,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0
+Z.Charbonnet o2.5 Recs,PropBetGuy,Seattle Seahawks,z.charbonnet,New England Patriots,0.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-102,1.02,2.02,1.0
 J.Palmer u3.5 Recs,PropBomb,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0
 J.McLaughlin u2.5 Recs,MoneylineHacks,Denver Broncos,j.mclaughlin,Pittsburgh Steelers,1.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,106,1.0,2.06,1.06
 R.Odunze u3.5 Recs,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
 R.Odunze u3.5 Recs,charliedisturco,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
 R.Odunze u3.5 Recs,cowhitchurch,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625
 R.Odunze u3.5 Recs,The_Oddsmaker,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+C.Kupp o9.5 Receptions,wheatonbrando,Los Angeles Rams,C.Kupp,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,89,8,31,8,Rain,State Farm,indoors,grass,320,0.5,2.1,1.6
+C.Kupp o7.5 Recs,wheatonbrando,Los Angeles Rams,C.Kupp,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,89,8,31,8,Rain,State Farm,indoors,grass,105,1.5,3.075,1.5749999999999995
+B.Bowers o3.5 Recs,Markus_Markets,Las Vegas Raiders,b.bowers,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,81,9,53,1,Rain,M&amp;T Bank,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+J.Williams o3.5 Recs,PropBetGuy,Detroit Lions,j.williams,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,80,8,58,1,Partly Cloudy,Ford Field,indoors,turf,116,1.0,2.16,1.16
+C.Godwin o5.5 Recs,JoeDellera,Tampa Bay Buccaneers,c.godwin,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,106,1.0,2.06,1.06
+D.Samuel o4.5 Recs,kylemurray03,San Francisco 49ers,d.samuel,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,7,68,9,Rain,U.S. Bank,indoors,turf,100,1.0,2.0,1.0
+A.Kamara o4.5 Recs,MillyProps,New Orleans Saints,a.kamara,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,87,6,57,10,Clear,AT&amp;T,indoors,turf,-109,1.0,1.9174311926605505,0.9174311926605504
+A.Kamara o4.5 Recs,Proptology,New Orleans Saints,a.kamara,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,87,6,57,10,Clear,AT&amp;T,indoors,turf,-117,3.0,5.564102564102564,2.564102564102564
+J.Johnson u2.5 Recs,cowhitchurch,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
+J.Johnson u2.5 Recs,boomerslocks,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-127,1.0,1.7874015748031495,0.7874015748031495
+J.Johnson u2.5 Recs,The_Oddsmaker,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,86,6,57,3,Clear,AT&amp;T,indoors,turf,-135,1.35,2.35,1.0
+D.Samuel o4.5 Recs,ThePropfessor_,San Francisco 49ers,d.samuel,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,75,7,67,2,Clear,U.S. Bank,indoors,turf,-135,1.35,2.35,1.0

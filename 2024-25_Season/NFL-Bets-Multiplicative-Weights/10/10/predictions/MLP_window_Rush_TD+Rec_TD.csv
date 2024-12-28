@@ -1,5 +1,10 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 17,D.Metcalf o0.5 rush_td+rec_td,gneiffer07,Seattle Seahawks,d.metcalf,San Francisco 49ers,1.0,0.4,0,0.3333333333333333,0,0.4,0,61,8,63,1,Partly Cloudy,Lumen Field,outdoors,turf,150.0,1.0,2.5,1.5
+29,G.Kittle o0.5 rush_td+rec_td,shadybiev,San Francisco 49ers,g.kittle,Seattle Seahawks,0.0,0.75,1,1.0,1,0.75,1,59,8,69,0,Mostly Cloudy,Lumen Field,outdoors,turf,165.0,1.5,3.975,2.475
+32,G.Kittle o0.5 rush_td+rec_td,sandyplashkes,San Francisco 49ers,g.kittle,Seattle Seahawks,0.0,0.75,1,1.0,1,0.75,1,59,8,69,0,Mostly Cloudy,Lumen Field,outdoors,turf,175.0,1.0,2.75,1.75
+43,G.Kittle o0.5 rush_td+rec_td,nick_giffen,San Francisco 49ers,g.kittle,Seattle Seahawks,0.0,0.75,1,1.0,1,0.75,1,59,8,69,0,Mostly Cloudy,Lumen Field,outdoors,turf,175.0,1.0,2.75,1.75
+44,G.Kittle o0.5 rush_td+rec_td,GreenDotDaily,San Francisco 49ers,g.kittle,Seattle Seahawks,0.0,0.75,1,1.0,1,0.75,1,59,8,69,0,Mostly Cloudy,Lumen Field,outdoors,turf,175.0,1.0,2.75,1.75
 58,D.Metcalf o0.5 rush_td+rec_td,shadybiev,Seattle Seahawks,d.metcalf,San Francisco 49ers,1.0,0.4,0,0.3333333333333333,0,0.4,0,59,10,70,0,Partly Cloudy,Lumen Field,outdoors,turf,145.0,1.5,3.675,2.1750000000000003
 62,Z.Charbonnet o0.5 rush_td+rec_td,theprophunter0_,Seattle Seahawks,z.charbonnet,San Francisco 49ers,1.0,0.6,1,0.3333333333333333,0,0.6,1,60,5,70,0,Clear,Lumen Field,outdoors,turf,315.0,0.5,2.075,1.5750000000000002
+69,G.Kittle o0.5 rush_td+rec_td,cowhitchurch,San Francisco 49ers,g.kittle,Seattle Seahawks,0.0,0.75,1,1.0,1,0.75,1,60,5,70,0,Clear,Lumen Field,outdoors,turf,180.0,0.5,1.4,0.8999999999999999
 72,J.Jennings o0.5 rush_td+rec_td,BetWhatHappensLive,San Francisco 49ers,j.jennings,Seattle Seahawks,0.0,0.2,0,0.3333333333333333,0,0.2,0,60,5,70,0,Clear,Lumen Field,outdoors,turf,850.0,0.25,2.375,2.125

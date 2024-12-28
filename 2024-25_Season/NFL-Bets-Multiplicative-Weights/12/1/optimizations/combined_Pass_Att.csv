@@ -1,3 +1,5 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-K.Murray o29.5 Pass Att,chrisgimino_,Arizona Cardinals,k.murray,Minnesota Vikings,0.0,0.6,1,0.6666666666666666,1,0.6,1,19,8,67,4,Snow,U.S. Bank,indoors,turf,102.0,1.0,2.02,1.02
+K.Murray o29.5 Pass Att,chrisgimino_,Arizona Cardinals,k.murray,Minnesota Vikings,0.0,0.6,1,0.6666666666666666,1,0.6,1,8,8,67,4,Snow,U.S. Bank,indoors,turf,102.0,1.0,2.02,1.02
+R.Wilson o29.5 Pass Att,nick_giffen,Pittsburgh Steelers,r.wilson,Cincinnati Bengals,0.0,0.2,0,0.3333333333333333,0,0.2,0,31,7,48,0,Clear,Paycor,outdoors,turf,-106.0,1.06,2.06,1.0
 A.Richardson u27.5 Pass Att,nick_giffen,Indianapolis Colts,a.richardson,New England Patriots,0.0,0.5,0,0.0,0,0.4,0,36,9,47,1,Clear,Gillette,outdoors,turf,-105.0,1.05,2.05,0.9999999999999998
+R.Wilson o29.5 Pass Att,convince_me,Pittsburgh Steelers,r.wilson,Cincinnati Bengals,0.0,0.2,0,0.3333333333333333,0,0.2,0,32,8,41,0,Partly Cloudy,Paycor,outdoors,turf,-125.0,1.0,1.8,0.8

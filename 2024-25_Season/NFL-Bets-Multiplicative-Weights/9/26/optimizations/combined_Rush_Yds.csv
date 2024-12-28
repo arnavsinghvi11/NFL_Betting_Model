@@ -1,12 +1,14 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-D.Prescott o7.5 Rush Yds,MoneylineHacks,Dallas Cowboys,d.prescott,New York Giants,0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
-D.Singletary u62.5 rushing yards,Rotowire Prizepicks,New York Giants,d.singletary,Dallas Cowboys,1,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
-R.Dowdle u39.5 rushing yards,Rotowire Prizepicks,Dallas Cowboys,r.dowdle,New York Giants,0,1.0,1,1.0,1,1.0,1,75,6,82,46,Rain,MetLife,outdoors,turf,100,1.5,3.0,1.5
-R.Dowdle u39.5 Rush Yds,gneiffer07,Dallas Cowboys,r.dowdle,New York Giants,0,1.0,1,1.0,1,1.0,1,72,6,93,48,Rain,MetLife,outdoors,turf,-113,1.13,2.13,1.0
-D.Singletary o60.5 rushing yards,Ed Scimia,New York Giants,d.singletary,Dallas Cowboys,1,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,6,93,48,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
-D.Singletary o15.5 longest rush yards,Jared Hochman,New York Giants,d.singletary,Dallas Cowboys,1,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
-C.Lamb o0.5 Rush Yds,MoneylineHacks,Dallas Cowboys,c.lamb,New York Giants,0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110,3.0,5.727272727272728,2.7272727272727275
-D.Singletary u62.5 Rush Yds,kylemurray03,New York Giants,d.singletary,Dallas Cowboys,1,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
-D.Singletary u60.5 Rush Yds,chrisgimino_,New York Giants,d.singletary,Dallas Cowboys,1,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,100,1.0,2.0,1.0
-C.Lamb o0.5 Rush Yds,kylemurray03,Dallas Cowboys,c.lamb,New York Giants,0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110,1.1,2.1,1.0
-D.Jones u34.5 rushing yards,Rotowire Prizepicks,New York Giants,d.jones,Dallas Cowboys,1,1.0,1,1.0,1,1.0,1,75,3,93,49,Overcast,MetLife,outdoors,turf,100,1.5,3.0,1.5
+D.Singletary u62.5 rushing yards,Rotowire Prizepicks,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,84,44,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+R.Dowdle u39.5 rushing yards,Rotowire Prizepicks,Dallas Cowboys,r.dowdle,New York Giants,0.0,1.0,1,1.0,1,1.0,1,75,6,82,46,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+R.Dowdle u39.5 Rush Yds,gneiffer07,Dallas Cowboys,r.dowdle,New York Giants,0.0,1.0,1,1.0,1,1.0,1,72,6,93,48,Rain,MetLife,outdoors,turf,-113.0,1.13,2.13,1.0
+C.Lamb o0.5 Rush Yds,MoneylineHacks,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,6,87,47,Rain,MetLife,outdoors,turf,-110.0,3.0,5.727272727272728,2.7272727272727275
+E.Elliott u27.5 Rush Yds,GreenDotDaily,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
+E.Elliott u28.5 Rush Yds,cowhitchurch,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-119.0,1.19,2.19,1.0
+E.Elliott u29.5 Rush Yds,charliedisturco,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-114.0,1.14,2.14,0.9999999999999998
+E.Elliott u27.5 Rush Yds,The_Oddsmaker,Dallas Cowboys,e.elliott,New York Giants,0.0,0.5,0,0.5,0,0.5,0,73,5,93,49,Rain,MetLife,outdoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
+D.Singletary u62.5 Rush Yds,kylemurray03,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
+D.Singletary u60.5 Rush Yds,chrisgimino_,New York Giants,d.singletary,Dallas Cowboys,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,100.0,1.0,2.0,1.0
+C.Lamb o0.5 Rush Yds,kylemurray03,Dallas Cowboys,c.lamb,New York Giants,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,73,5,93,49,Rain,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
+D.Jones u34.5 rushing yards,Rotowire Prizepicks,New York Giants,d.jones,Dallas Cowboys,1.0,1.0,1,1.0,1,1.0,1,75,3,93,49,Overcast,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+D.Singletary o60.5 rushing yards,Ed Scimia,New York Giants,d.singletary,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,6,93,48,Rain,MetLife,outdoors,turf,100.0,0.75,1.5,0.75

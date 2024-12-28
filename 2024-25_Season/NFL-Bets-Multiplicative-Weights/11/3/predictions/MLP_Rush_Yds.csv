@@ -1,7 +1,6 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 27,K.Walker o60.5 rushing yards,Rotowire Sleeper,Seattle Seahawks,k.walker,Los Angeles Rams,1.0,0.5,0,0.3333333333333333,0,0.4,0,52,2,85,33,Rain,Lumen Field,outdoors,turf,100.0,1.5,3.0,1.5
 40,S.Barkley o85.5 rushing yards,Rotowire Prizepicks,Philadelphia Eagles,s.barkley,Jacksonville Jaguars,1.0,0.7142857142857143,1,0.6666666666666666,1,0.6,1,60,2,37,4,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,100.0,1.5,3.0,1.5
-49,D.Achane o47.5 Rush Yds,kylemurray03,Miami Dolphins,d.achane,Buffalo Bills,0.0,0.5,0,0.6666666666666666,1,0.6,1,51,5,49,10,Rain,Highmark,outdoors,turf,-117.0,1.17,2.17,1.0
 52,T.Lawrence o10.5 rushing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Philadelphia Eagles,0.0,0.375,0,0.6666666666666666,1,0.4,0,59,3,30,1,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,100.0,1.5,3.0,1.5
 55,D.Carr o1.5 Rush Yds,MoneylineHacks,New Orleans Saints,d.carr,Carolina Panthers,0.0,0.6,1,0.6666666666666666,1,0.6,1,67,6,55,0,Mostly Cloudy,Bank of America,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
 69,A.Kamara o60.5 rushing yards,Rotowire Sleeper,New Orleans Saints,a.kamara,Carolina Panthers,0.0,0.625,1,0.3333333333333333,0,0.4,0,67,7,48,0,Partly Cloudy,Bank of America,outdoors,grass,100.0,1.5,3.0,1.5
@@ -19,3 +18,4 @@
 238,A.Kamara o70.5 Rush Yds,theprophunter0_,New Orleans Saints,a.kamara,Carolina Panthers,0.0,0.5,0,0.0,0,0.2,0,64,7,42,0,Mostly Cloudy,Bank of America,outdoors,grass,-112.0,1.12,2.12,1.0
 245,K.Walker o63.5 Rush Yds,charliedisturco,Seattle Seahawks,k.walker,Los Angeles Rams,1.0,0.5,0,0.3333333333333333,0,0.4,0,53,3,83,30,Rain,Lumen Field,outdoors,turf,-110.0,1.1,2.1,1.0
 255,A.Jones o71.5 rushing yards,Rotowire Prizepicks,Minnesota Vikings,a.jones,Indianapolis Colts,1.0,0.5714285714285714,1,0.3333333333333333,0,0.6,1,50,9,96,23,Rain,U.S. Bank,indoors,turf,100.0,1.5,3.0,1.5
+264,L.Jackson o48.5 rushing yards,Rotowire Prizepicks,Baltimore Ravens,l.jackson,Denver Broncos,1.0,0.625,1,0.3333333333333333,0,0.6,1,56,5,29,0,Clear,M&amp;T Bank,outdoors,grass,100.0,1.5,3.0,1.5

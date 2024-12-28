@@ -1,10 +1,5 @@
-,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,A.Richardson o170.5 passing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,New England Patriots,0.0,0.625,1,1.0,1,0.6,1,38,8,46,2,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,N,109.0
-1,K.Cousins u242.5 passing yards,Rotowire Prizepicks,Atlanta Falcons,k.cousins,Los Angeles Chargers,1.0,0.7777777777777778,1,0.6666666666666666,1,0.6,1,47,10,45,0,Clear,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5,N,245.0
-2,A.Richardson o177.5 passing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,New England Patriots,0.0,0.375,0,0.3333333333333333,0,0.2,0,38,8,50,1,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,N,109.0
-3,B.Purdy o216.5 passing yards,Rotowire Prizepicks,San Francisco 49ers,b.purdy,Buffalo Bills,0.0,0.8,1,0.6666666666666666,1,0.6,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,94.0
-4,J.Allen o217.5 passing yards,Rotowire Prizepicks,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.6,1,1.0,1,0.8,1,22,9,95,70,Definite Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,148.0
-5,J.Allen o219.5 passing yards,Rotowire Prizepicks,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.6,1,1.0,1,0.8,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,148.0
-6,J.Allen o218.5 passing yards,Rotowire Prizepicks,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.6,1,1.0,1,0.8,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,148.0
-7,J.Allen o220.5 passing yards,Rotowire Prizepicks,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.6,1,1.0,1,0.8,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,148.0
-8,J.Allen o221.5 passing yards,Rotowire Sleeper,Buffalo Bills,j.allen,San Francisco 49ers,1.0,0.6,1,1.0,1,0.8,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,N,148.0
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,A.Richardson o170.5 passing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,New England Patriots,0.0,0.625,1,1.0,1,0.6,1,38,8,46,2,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Pass_Yds,N,109.0
+1,A.Richardson o177.5 passing yards,Rotowire Sleeper,Indianapolis Colts,a.richardson,New England Patriots,0.0,0.375,0,0.3333333333333333,0,0.2,0,38,8,50,1,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Pass_Yds,N,109.0
+2,B.Purdy o216.5 passing yards,Rotowire Prizepicks,San Francisco 49ers,b.purdy,Buffalo Bills,0.0,0.8,1,0.6666666666666666,1,0.6,1,22,9,95,66,Snow,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Pass_Yds,N,94.0
+3,B.Purdy o224.5 passing yards,Rotowire Prizepicks,San Francisco 49ers,b.purdy,Buffalo Bills,0.0,0.8,1,0.6666666666666666,1,0.6,1,31,14,95,66,Mostly Cloudy,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1.0,0.0,Pass_Yds,N,94.0

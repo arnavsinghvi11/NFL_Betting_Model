@@ -1,0 +1,61 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+M.Nabers u68.5 Rec Yds,chrisgimino_,New York Giants,m.nabers,Indianapolis Colts,1.0,0.4615384615384615,0,0.3333333333333333,0,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
+T.Tracy o16.5 Rec Yds,TheBMatt,New York Giants,t.tracy,Indianapolis Colts,1.0,0.4666666666666667,0,0.6666666666666666,1,0.8,1,52,7,93,22,Rain,MetLife,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+D.Singletary o18.5 Rush Yds,chrisgimino_,New York Giants,d.singletary,Indianapolis Colts,1.0,0.6153846153846154,1,0.3333333333333333,0,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,-120,2.0,3.666666666666667,1.666666666666667
+D.Lock u20.5 Pass Comp,chrisgimino_,New York Giants,d.lock,Indianapolis Colts,1.0,0.25,0,0.0,0,0.25,0,52,7,93,22,Rain,MetLife,outdoors,turf,-108,2.0,3.851851851851852,1.851851851851852
+A.Richardson u26.5 Pass Att,chrisgimino_,Indianapolis Colts,a.richardson,New York Giants,0.0,0.5454545454545454,1,0.6666666666666666,1,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
+J.Downs o0.5 rush_td+rec_td,GDAWG5000,Indianapolis Colts,j.downs,New York Giants,0.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,255,1.0,3.55,2.55
+J.Taylor u6.5 receiving yards,Trevor Knapp_duplicate,Indianapolis Colts,j.taylor,New York Giants,0.0,0.4166666666666667,0,0.6666666666666666,1,0.8,1,52,7,93,22,Rain,MetLife,outdoors,turf,100,0.75,1.5,0.75
+B.Hall o59.5 Receiving Yards,therocketplays,New York Jets,b.hall,Buffalo Bills,0.0,0.0714285714285714,0,0.0,0,0.0,0,53,20,89,64,Rain,Highmark,outdoors,turf,900,0.25,2.5,2.25
+B.Hall o69.5 Receiving Yards,therocketplays,New York Jets,b.hall,Buffalo Bills,0.0,0.0714285714285714,0,0.0,0,0.0,0,53,20,89,64,Rain,Highmark,outdoors,turf,900,0.25,2.5,2.25
+B.Hall o21.5 Rec Yds,therocketplays,New York Jets,b.hall,Buffalo Bills,0.0,0.5714285714285714,1,0.3333333333333333,0,0.6,1,53,20,89,64,Rain,Highmark,outdoors,turf,-110,1.1,2.1,1.0
+B.Hall o39.5 Receiving Yards,therocketplays,New York Jets,b.hall,Buffalo Bills,0.0,0.2857142857142857,0,0.0,0,0.2,0,53,20,89,64,Rain,Highmark,outdoors,turf,320,0.5,2.1,1.6
+B.Hall o39.5 Receiving Yards,Markus_Markets,New York Jets,b.hall,Buffalo Bills,0.0,0.2857142857142857,0,0.0,0,0.2,0,53,20,89,64,Rain,Highmark,outdoors,turf,310,0.25,1.025,0.7749999999999999
+B.Hall o21.5 Rec Yds,Markus_Markets,New York Jets,b.hall,Buffalo Bills,0.0,0.5714285714285714,1,0.3333333333333333,0,0.6,1,53,20,89,64,Rain,Highmark,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+B.Hall o29.5 Rec Yds,Markus_Markets,New York Jets,b.hall,Buffalo Bills,0.0,0.5,0,0.3333333333333333,0,0.6,1,53,20,89,64,Rain,Highmark,outdoors,turf,165,0.25,0.6625,0.4125
+D.Adams o0.5 rush_td+rec_td,wheatonbrando,New York Jets,d.adams,Buffalo Bills,0.0,0.5555555555555556,1,1.0,1,0.8,1,53,20,89,64,Rain,Highmark,outdoors,turf,180,1.25,3.5,2.25
+J.Allen o0.5 rush_td+rec_td,wheatonbrando,Buffalo Bills,j.allen,New York Jets,1.0,0.2,0,0.6666666666666666,1,0.6,1,53,20,89,64,Rain,Highmark,outdoors,turf,-105,1.0,1.9523809523809523,0.9523809523809524
+J.Williams o0.5 rush_td+rec_td,shadybiev_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,225,1.0,3.25,2.25
+T.Hill o0.5 rush_td+rec_td,wheatonbrando_duplicate,New Orleans Saints,t.hill,Las Vegas Raiders,1.0,0.375,0,0.3333333333333333,0,0.4,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,160,1.25,3.25,2.0
+J.Williams o0.5 rush_td+rec_td,GDAWG5000_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,200,1.0,3.0,2.0
+J.Williams o0.5 rush_td+rec_td,gneiffer07_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,200,0.65,1.95,1.3000000000000005
+B.Bowers o6.5 Receptions,wheatonbrando,Las Vegas Raiders,b.bowers,New Orleans Saints,0.0,0.4666666666666667,0,0.3333333333333333,0,0.4,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,110,0.5,1.05,0.55
+B.Bowers o7.5 Receptions,wheatonbrando,Las Vegas Raiders,b.bowers,New Orleans Saints,0.0,0.4666666666666667,0,0.3333333333333333,0,0.4,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,200,1.0,3.0,2.0
+B.Bowers o9.5 Receptions,wheatonbrando,Las Vegas Raiders,b.bowers,New Orleans Saints,0.0,0.2666666666666666,0,0.3333333333333333,0,0.4,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,650,0.5,3.75,3.25
+J.Williams o35.5 rushing + receiving yards,Rotowire Sleeper_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.2857142857142857,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,100,1.5,3.0,1.5
+B.Young u22.5 Pass Comp,chrisgimino_,Carolina Panthers,b.young,Tampa Bay Buccaneers,0.0,0.8,1,1.0,1,0.8,1,75,10,85,60,Rain,Raymond James,outdoors,grass,-118,1.0,1.847457627118644,0.847457627118644
+M.Evans u5.5 Recs,TopShelfAction,Tampa Bay Buccaneers,m.evans,Carolina Panthers,1.0,0.75,1,0.6666666666666666,1,0.6,1,75,10,85,60,Rain,Raymond James,outdoors,grass,110,0.6,1.26,0.66
+A.Thielen o0.5 rush_td+rec_td,GDAWG5000,Carolina Panthers,a.thielen,Tampa Bay Buccaneers,0.0,0.375,0,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,250,1.0,3.5,2.5
+B.Mayfield o0.5 Int,GDAWG5000,Tampa Bay Buccaneers,b.mayfield,Carolina Panthers,1.0,0.6,1,1.0,1,0.8,1,75,10,85,60,Rain,Raymond James,outdoors,grass,125,1.0,2.25,1.25
+B.Young o16.5 Rush Yds,gneiffer07,Carolina Panthers,b.young,Tampa Bay Buccaneers,0.0,0.4166666666666667,0,0.6666666666666666,1,0.8,1,75,10,85,60,Rain,Raymond James,outdoors,grass,-110,1.1,2.1,1.0
+B.Irving o96.5 Rush + Rec Yds,ThePropfessor_,Tampa Bay Buccaneers,b.irving,Carolina Panthers,1.0,0.2666666666666666,0,0.3333333333333333,0,0.6,1,75,10,85,60,Rain,Raymond James,outdoors,grass,-117,1.17,2.17,1.0
+R.White u42.5 Rush Yds,chrisgimino_,Tampa Bay Buccaneers,r.white,Carolina Panthers,1.0,0.6428571428571429,1,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,-117,1.0,1.8547008547008548,0.8547008547008548
+D.Moore o0.5 rush_td+rec_td,sirlockselot__duplicate,Carolina Panthers,d.moore,Tampa Bay Buccaneers,0.0,0.2,0,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,220,1.0,3.2,2.2
+D.Moore o5.5 Recs,kylemurray03_duplicate,Carolina Panthers,d.moore,Tampa Bay Buccaneers,0.0,0.1,0,0.0,0,0.2,0,75,10,85,60,Rain,Raymond James,outdoors,grass,-132,1.0,1.7575757575757576,0.7575757575757576
+D.Moore o0.5 rush_td+rec_td,TopShelfAction_duplicate,Carolina Panthers,d.moore,Tampa Bay Buccaneers,0.0,0.2,0,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,245,0.2,0.6900000000000001,0.49
+D.Moore o5.5 Recs,PvB_Bets_duplicate,Carolina Panthers,d.moore,Tampa Bay Buccaneers,0.0,0.1,0,0.0,0,0.2,0,75,10,85,60,Rain,Raymond James,outdoors,grass,-132,0.76,1.3357575757575757,0.5757575757575757
+D.Moore o5.5 Recs,TopShelfAction_duplicate,Carolina Panthers,d.moore,Tampa Bay Buccaneers,0.0,0.1,0,0.0,0,0.2,0,75,10,85,60,Rain,Raymond James,outdoors,grass,-102,0.49,0.9703921568627452,0.4803921568627451
+B.Irving o76.5 rushing yards,Trevor Knapp,Tampa Bay Buccaneers,b.irving,Carolina Panthers,1.0,0.2666666666666666,0,0.3333333333333333,0,0.6,1,75,10,85,60,Rain,Raymond James,outdoors,grass,100,0.75,1.5,0.75
+S.Barkley o2.5 Recs,TopShelfAction,Philadelphia Eagles,s.barkley,Dallas Cowboys,1.0,0.2666666666666666,0,0.0,0,0.2,0,61,10,84,19,Rain,Lincoln Financial Field,outdoors,grass,188,0.4,1.152,0.7519999999999999
+J.Ferguson u4.5 Recs,TopShelfAction,Dallas Cowboys,j.ferguson,Philadelphia Eagles,0.0,0.5,0,0.6666666666666666,1,0.6,1,61,10,84,19,Rain,Lincoln Financial Field,outdoors,grass,100,0.5,1.0,0.5
+S.Barkley o111.5 rushing yards,Trevor Knapp,Philadelphia Eagles,s.barkley,Dallas Cowboys,1.0,0.4666666666666667,0,0.6666666666666666,1,0.6,1,61,10,84,19,Rain,Lincoln Financial Field,outdoors,grass,100,0.75,1.5,0.75
+B.Cooks o30.5 receiving yards,Rotowire Sleeper,Dallas Cowboys,b.cooks,Philadelphia Eagles,0.0,0.375,0,0.6666666666666666,1,0.4,0,61,10,84,19,Rain,Lincoln Financial Field,outdoors,grass,100,1.5,3.0,1.5
+N.Westbrook-Ikhine o0.5 rush_td+rec_td,GDAWG5000,Tennessee Titans,n.westbrook-ikhine,Jacksonville Jaguars,0.0,0.7272727272727273,1,0.3333333333333333,0,0.6,1,74,12,76,90,Rain,EverBank,outdoors,grass,360,0.5,2.3,1.7999999999999998
+M.Jones o0.5 Int,GDAWG5000,Jacksonville Jaguars,m.jones,Tennessee Titans,1.0,0.5714285714285714,1,0.6666666666666666,1,0.6,1,74,12,76,90,Rain,EverBank,outdoors,grass,-130,1.3,2.3,0.9999999999999998
+C.Ridley o58.5 Rec Yds,wheatonbrando,Tennessee Titans,c.ridley,Jacksonville Jaguars,0.0,0.4666666666666667,0,0.6666666666666666,1,0.6,1,74,12,76,90,Rain,EverBank,outdoors,grass,-113,0.85,1.602212389380531,0.7522123893805309
+C.Ridley o99.5 Receiving Yards,wheatonbrando,Tennessee Titans,c.ridley,Jacksonville Jaguars,0.0,0.0666666666666666,0,0.0,0,0.0,0,74,12,76,90,Rain,EverBank,outdoors,grass,450,0.25,1.375,1.125
+T.Hill o0.5 rush_td+rec_td,wheatonbrando_duplicate,Miami Dolphins,t.hill,Cleveland Browns,0.0,0.4,0,0.6666666666666666,1,0.6,1,59,20,79,26,Rain,Huntington Bank Field,outdoors,grass,160,1.25,3.25,2.0
+J.Smith o48.5 receiving yards,Trevor Knapp,Miami Dolphins,j.smith,Cleveland Browns,0.0,0.4666666666666667,0,0.3333333333333333,0,0.6,1,59,20,79,26,Rain,Huntington Bank Field,outdoors,grass,100,0.75,1.5,0.75
+J.Reed o0.5 rush_td+rec_td,GDAWG5000,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,2,90,9,Foggy,U.S. Bank,indoors,turf,187,0.25,0.7175,0.4675
+A.Jones o2.5 Recs,goodelleaks,Minnesota Vikings,a.jones,Green Bay Packers,1.0,0.5333333333333333,1,0.3333333333333333,0,0.6,1,37,2,90,9,Foggy,U.S. Bank,indoors,turf,-130,0.65,1.15,0.4999999999999999
+S.Darnold o32.5 Pass Att,gneiffer07,Minnesota Vikings,s.darnold,Green Bay Packers,1.0,0.3333333333333333,0,0.6666666666666666,1,0.6,1,37,2,90,9,Foggy,U.S. Bank,indoors,turf,-138,1.38,2.38,1.0
+T.Hockenson o43.5 Rec Yds,wheatonbrando,Minnesota Vikings,t.hockenson,Green Bay Packers,1.0,0.5,0,0.6666666666666666,1,0.6,1,37,2,90,9,Foggy,U.S. Bank,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
+D.Mooney o0.5 rush_td+rec_td,GDAWG5000,Atlanta Falcons,d.mooney,Washington Commanders,0.0,0.2666666666666666,0,0.0,0,0.0,0,58,13,96,96,Rain,Northwest,outdoors,grass,230,1.0,3.3,2.3
+M.Penix u19.5 Pass Comp,TopShelfAction,Atlanta Falcons,m.penix,Washington Commanders,0.0,1.0,1,1.0,1,1.0,1,58,13,96,96,Rain,Northwest,outdoors,grass,-110,0.6,1.1454545454545455,0.5454545454545455
+J.Daniels o48.5 rushing yards,Rohit Ponnaiya,Washington Commanders,j.daniels,Atlanta Falcons,1.0,0.4666666666666667,0,0.6666666666666666,1,0.6,1,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+M.Penix u0.5 interceptions,Rohit Ponnaiya,Atlanta Falcons,m.penix,Washington Commanders,0.0,0.5,0,0.5,0,0.5,0,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+B.Robinson o18.5 rush attempts,Rohit Ponnaiya_duplicate,Washington Commanders,b.robinson,Atlanta Falcons,1.0,0.1666666666666666,0,0.3333333333333333,0,0.2,0,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+B.Robinson o18.5 rush attempts,Rohit Ponnaiya_duplicate,Atlanta Falcons,b.robinson,Washington Commanders,0.0,0.4666666666666667,0,1.0,1,0.8,1,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+T.Mclaurin o69.5 receiving yards,Pamela Maldonado,Washington Commanders,t.mclaurin,Atlanta Falcons,1.0,0.5333333333333333,1,0.6666666666666666,1,0.6,1,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+J.Daniels o1.5 passing touchdowns,Pamela Maldonado,Washington Commanders,j.daniels,Atlanta Falcons,1.0,0.5,0,1.0,1,0.8,1,58,13,96,96,Rain,Northwest,outdoors,grass,100,0.75,1.5,0.75
+D.Smith o45.5 receiving yards,Rotowire Sleeper,Philadelphia Eagles,d.smith,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.4,0,62,10,81,19,Rain,Lincoln Financial Field,outdoors,grass,100,1.5,3.0,1.5

@@ -1,2 +1,2 @@
-,Play,Expert,Odds,Units,Payout,Team,Name,Opponent,Hmcrt_adv,Profit,Correct,All Game Percentages,All Game Correct,Last 5 Percentages,Last 5 Correct,Last 3 Percentages,Last 3 Correct
-0,J.Allen u33.5 pass attempts,Rohit Ponnaiya,100,0.75,1.5,Buffalo Bills,j.allen,Miami Dolphins,0.0,0.75,Y,1.0,1,1.0,1,1.0,1
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,J.Allen u33.5 pass attempts,Rohit Ponnaiya,Buffalo Bills,j.allen,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,3,80,35,Rain,Hard Rock,outdoors,grass,100,0.75,1.5,0.75,,,,Y,19.0

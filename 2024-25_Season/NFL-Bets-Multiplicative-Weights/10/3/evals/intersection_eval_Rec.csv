@@ -1,2 +1,5 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,B.Robinson o3.5 Recs,PropBetGuy,Atlanta Falcons,b.robinson,Tampa Bay Buccaneers,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-120.0,1.2,2.2,1.0000000000000002,N,3.0
+0,C.Otton o3.5 Recs,PvB_Bets,Tampa Bay Buccaneers,c.otton,Atlanta Falcons,0.0,0.5,0,0.6666666666666666,1,0.5,0,75,5,77,1,Partly Cloudy,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35,N,3.0
+1,C.Otton o3.5 Recs,kylemurray03,Tampa Bay Buccaneers,c.otton,Atlanta Falcons,0.0,0.5,0,0.6666666666666666,1,0.5,0,74,7,78,3,Mostly Cloudy,Mercedes-Benz,indoors,turf,110.0,1.0,2.1,1.1,N,3.0
+2,C.Otton o3.5 Recs,FirefighterBets,Tampa Bay Buccaneers,c.otton,Atlanta Falcons,0.0,0.5,0,0.6666666666666666,1,0.5,0,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,135.0,1.0,2.35,1.35,N,3.0
+3,R.White o3.5 Recs,sirlockselot_,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,130.0,2.0,4.6,2.6,N,3.0

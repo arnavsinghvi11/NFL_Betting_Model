@@ -1,15 +1,12 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-E.Higgins u1.5 Recs,MoneylineHacks,Arizona Cardinals,e.higgins,Green Bay Packers,0.0,0.6,1,0.6666666666666666,1,0.6,1,53,13,69,60,Rain,Lambeau Field,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
-C.Kirk u4.5 Recs,ChrisRaybon,Jacksonville Jaguars,c.kirk,Chicago Bears,0.0,0.6,1,0.3333333333333333,0,0.6,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-124.0,1.0,1.806451612903225,0.8064516129032258
-C.Kirk u4.5 Recs,cowhitchurch,Jacksonville Jaguars,c.kirk,Chicago Bears,0.0,0.6,1,0.3333333333333333,0,0.6,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-124.0,0.62,1.12,0.4999999999999999
+E.Higgins u1.5 Recs,MoneylineHacks,Arizona Cardinals,e.higgins,Green Bay Packers,0.0,0.6,1,0.6666666666666666,1,0.6,1,53,9,86,83,Rain,Lambeau Field,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
 Z.Flowers o4.5 Recs,gneiffer07,Baltimore Ravens,z.flowers,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,73,9,49,18,Rain,M&amp;T Bank,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
+T.Etienne o2.5 Recs,PropBetGuy,Jacksonville Jaguars,t.etienne,Chicago Bears,0.0,0.6,1,0.6666666666666666,1,0.6,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-128.0,1.28,2.28,1.0000000000000002
 Z.Flowers o4.5 Recs,chrisgimino_,Baltimore Ravens,z.flowers,Washington Commanders,1.0,0.6,1,0.3333333333333333,0,0.6,1,78,10,39,1,Rain,M&amp;T Bank,outdoors,grass,-125.0,1.0,1.8,0.8
-M.Harrison u4.5 Recs,cowhitchurch,Arizona Cardinals,m.harrison,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,8,86,75,Rain,Lambeau Field,outdoors,grass,-110.0,0.55,1.05,0.5
-M.Harrison u4.5 Recs,The_Oddsmaker,Arizona Cardinals,m.harrison,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,8,86,75,Rain,Lambeau Field,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
-C.Otton u3.5 Recs,nick_giffen,Tampa Bay Buccaneers,c.otton,New Orleans Saints,0.0,0.6,1,0.3333333333333333,0,0.6,1,81,3,56,0,Clear,Caesars Superdome,indoors,turf,100.0,1.0,2.0,1.0
+M.Harrison u4.5 Recs,cowhitchurch,Arizona Cardinals,m.harrison,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,9,86,75,Rain,Lambeau Field,outdoors,grass,-110.0,0.55,1.05,0.5
+M.Harrison u4.5 Recs,The_Oddsmaker,Arizona Cardinals,m.harrison,Green Bay Packers,0.0,0.6,1,0.3333333333333333,0,0.6,1,52,9,86,75,Rain,Lambeau Field,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
 C.Godwin o5.5 Recs,Proptology,Tampa Bay Buccaneers,c.godwin,New Orleans Saints,0.0,0.8,1,0.6666666666666666,1,0.8,1,81,3,56,0,Clear,Caesars Superdome,indoors,turf,-128.0,2.56,4.5600000000000005,2.0000000000000004
-A.Cooper u4.5 Recs,TopShelfAction,Cleveland Browns,a.cooper,Philadelphia Eagles,0.0,0.8,1,0.6666666666666666,1,0.8,1,76,9,42,4,Rain,Lincoln Financial Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
-Z.Ertz u3.5 Recs,TopShelfAction,Washington Commanders,z.ertz,Baltimore Ravens,0.0,0.6,1,0.6666666666666666,1,0.6,1,79,10,39,2,Rain,M&amp;T Bank,outdoors,grass,-108.0,1.0,1.925925925925926,0.925925925925926
+R.Bateman o2.5 Recs,TopShelfAction,Baltimore Ravens,r.bateman,Washington Commanders,1.0,0.6,1,0.6666666666666666,1,0.6,1,79,10,39,2,Rain,M&amp;T Bank,outdoors,grass,102.0,1.0,2.02,1.02
 A.Gibson u3.5 Recs,nick_giffen,New England Patriots,a.gibson,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,51,5,61,20,Rain,Gillette,outdoors,turf,-160.0,1.6,2.6,1.0
 A.Gibson u3.5 Recs,convince_me,New England Patriots,a.gibson,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,51,5,61,20,Rain,Gillette,outdoors,turf,-160.0,1.0,1.625,0.625
 T.Sermon u2.5 Recs,MoneylineHacks,Indianapolis Colts,t.sermon,Tennessee Titans,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,75,16,51,3,Clear,Nissan,outdoors,grass,-145.0,1.0,1.6896551724137931,0.6896551724137931

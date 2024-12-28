@@ -1,25 +1,12 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 A.Jones o0.5 rush_td+rec_td,shadybiev,Minnesota Vikings,a.jones,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,100,1.5,3.0,1.5
-J.Ford o0.5 rush_td+rec_td,shadybiev,Cleveland Browns,j.ford,Washington Commanders,0.0,0.25,0,0.0,0,0.25,0,74,6,53,3,Clear,FedExField,outdoors,grass,140,1.5,3.6,2.1
+J.Conner o0.5 rush_td+rec_td,shadybiev,Arizona Cardinals,j.conner,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,85,3,32,1,Clear,Levi's,outdoors,grass,102,1.5,3.03,1.5300000000000002
+J.Cook o0.5 rush_td+rec_td,TheBMatt,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,87,11,55,0,Partly Cloudy,NRG,indoors,turf,115,1.0,2.15,1.15
+J.Cook o0.5 rush_td+rec_td,TheTDShow,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,115,1.0,2.15,1.15
 J.Cook o0.5 rush_td+rec_td,shadybiev,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,88,10,55,0,Clear,NRG,indoors,turf,110,1.5,3.1500000000000004,1.6500000000000004
+J.Ford o0.5 rush_td+rec_td,shadybiev,Cleveland Browns,j.ford,Washington Commanders,0.0,0.25,0,0.0,0,0.25,0,74,6,53,3,Clear,FedExField,outdoors,grass,140,1.5,3.6,2.1
+J.Jacobs o0.5 rush_td+rec_td,theprophunter0_,Green Bay Packers,j.jacobs,Los Angeles Rams,0.0,0.0,0,0.0,0,0.0,0,72,6,44,1,Clear,SoFi,indoors,turf,-105,1.05,2.05,0.9999999999999998
+J.Mason o0.5 rush_td+rec_td,BetWhatHappensLive,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,160,1.0,2.6,1.6
+R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.5,0,64,3,50,0,Clear,Gillette,outdoors,turf,190,0.5,1.45,0.95
 T.Etienne o0.5 rush_td+rec_td,sandyplashkes,Jacksonville Jaguars,t.etienne,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-124,1.24,2.24,0.9999999999999998
 T.Etienne o0.5 rush_td+rec_td,shadybiev,Jacksonville Jaguars,t.etienne,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-125,2.19,3.942,1.7520000000000002
-J.Downs o0.5 rush_td+rec_td,GDAWG5000,Indianapolis Colts,j.downs,Jacksonville Jaguars,0.0,0.5,0,0.5,0,0.5,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,330,0.5,2.15,1.65
-P.Freiermuth o0.5 rush_td+rec_td,GDAWG5000,Pittsburgh Steelers,p.freiermuth,Dallas Cowboys,1.0,0.25,0,0.3333333333333333,0,0.25,0,74,10,67,68,Rain,Acrisure,outdoors,grass,300,0.5,2.0,1.5
-R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.5,0,64,3,50,0,Clear,Gillette,outdoors,turf,190,0.5,1.45,0.95
-J.Cook o0.5 rush_td+rec_td,TheTDShow,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,115,1.0,2.15,1.15
-B.Thomas o0.5 rush_td+rec_td,TheTDShow,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,75,7,82,75,Rain,TIAA Bank,outdoors,grass,200,1.0,3.0,2.0
-G.Wilson o0.5 rush_td+rec_td,theprophunter0_,New York Jets,g.wilson,Minnesota Vikings,0.0,0.25,0,0.3333333333333333,0,0.25,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,180,0.5,1.4,0.8999999999999999
-G.Wilson o0.5 rush_td+rec_td,JBBets1,New York Jets,g.wilson,Minnesota Vikings,0.0,0.25,0,0.3333333333333333,0,0.25,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,200,1.0,3.0,2.0
-J.Cook o0.5 rush_td+rec_td,TheBMatt,Buffalo Bills,j.cook,Houston Texans,0.0,0.5,0,0.6666666666666666,1,0.5,0,87,11,55,0,Partly Cloudy,NRG,indoors,turf,115,1.0,2.15,1.15
-D.Wicks o0.5 rush_td+rec_td,GDAWG5000,Green Bay Packers,d.wicks,Los Angeles Rams,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,74,10,44,1,Foggy,SoFi,indoors,turf,210,1.0,3.1,2.1
-B.Thomas o0.5 rush_td+rec_td,TheBMatt,Jacksonville Jaguars,b.thomas,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,76,10,82,75,Overcast,TIAA Bank,outdoors,grass,200,1.0,3.0,2.0
-D.Wicks o0.5 rush_td+rec_td,sandyplashkes,Green Bay Packers,d.wicks,Los Angeles Rams,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,74,10,44,1,Foggy,SoFi,indoors,turf,142,1.0,2.42,1.42
-J.Conner o0.5 rush_td+rec_td,shadybiev,Arizona Cardinals,j.conner,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,85,3,32,1,Clear,Levi's,outdoors,grass,102,1.5,3.03,1.5300000000000002
-T.Atwell o0.5 rush_td+rec_td,shadybiev,Los Angeles Rams,t.atwell,Green Bay Packers,1.0,0.0,0,0.0,0,0.0,0,74,10,44,1,Clear,SoFi,indoors,turf,226,1.0,3.26,2.26
-J.Jacobs o0.5 rush_td+rec_td,theprophunter0_,Green Bay Packers,j.jacobs,Los Angeles Rams,0.0,0.0,0,0.0,0,0.0,0,72,6,44,1,Clear,SoFi,indoors,turf,-105,1.05,2.05,0.9999999999999998
-J.Williams o0.5 rush_td+rec_td,shadybiev,Denver Broncos,j.williams,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,64,9,20,0,Clear,Empower Field at Mile High,outdoors,grass,170,1.5,4.050000000000001,2.5500000000000007
-J.Williams o0.5 rush_td+rec_td,theprophunter0_,Denver Broncos,j.williams,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,68,9,20,0,Clear,Empower Field at Mile High,outdoors,grass,160,0.5,1.3,0.8
-M.Harrison o0.5 rush_td+rec_td,theprophunter0_,Arizona Cardinals,m.harrison,San Francisco 49ers,0.0,0.75,1,1.0,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,185,0.5,1.425,0.925
-J.Mason o0.5 rush_td+rec_td,BetWhatHappensLive,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,160,1.0,2.6,1.6
-G.Pickens o0.5 rush_td+rec_td,moneybadger24_,Pittsburgh Steelers,g.pickens,Dallas Cowboys,1.0,0.0,0,0.0,0,0.0,0,80,14,66,70,Clear,Acrisure,outdoors,grass,165,0.75,1.9875,1.2374999999999998

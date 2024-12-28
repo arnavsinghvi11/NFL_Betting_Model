@@ -1,0 +1,11 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+5,J.Downs o0.5 rush_td+rec_td,GDAWG5000,Indianapolis Colts,j.downs,New York Giants,0.0,0.4166666666666667,0,0.3333333333333333,0,0.4,0,52,7,93,22,Rain,MetLife,outdoors,turf,255,1.0,3.55,2.55
+14,D.Adams o0.5 rush_td+rec_td,wheatonbrando,New York Jets,d.adams,Buffalo Bills,0.0,0.5555555555555556,1,1.0,1,0.8,1,53,20,89,64,Rain,Highmark,outdoors,turf,180,1.25,3.5,2.25
+15,J.Allen o0.5 rush_td+rec_td,wheatonbrando,Buffalo Bills,j.allen,New York Jets,1.0,0.2,0,0.6666666666666666,1,0.6,1,53,20,89,64,Rain,Highmark,outdoors,turf,-105,1.0,1.9523809523809523,0.9523809523809524
+16,J.Williams o0.5 rush_td+rec_td,shadybiev_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,225,1.0,3.25,2.25
+17,T.Hill o0.5 rush_td+rec_td,wheatonbrando_duplicate,New Orleans Saints,t.hill,Las Vegas Raiders,1.0,0.375,0,0.3333333333333333,0,0.4,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,160,1.25,3.25,2.0
+18,J.Williams o0.5 rush_td+rec_td,GDAWG5000_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,200,1.0,3.0,2.0
+19,J.Williams o0.5 rush_td+rec_td,gneiffer07_duplicate,New Orleans Saints,j.williams,Las Vegas Raiders,1.0,0.1428571428571428,0,0.0,0,0.0,0,67,6,78,0,Partly Cloudy,Caesars Superdome,indoors,turf,200,0.65,1.95,1.3000000000000005
+26,A.Thielen o0.5 rush_td+rec_td,GDAWG5000,Carolina Panthers,a.thielen,Tampa Bay Buccaneers,0.0,0.375,0,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,250,1.0,3.5,2.5
+41,N.Westbrook-Ikhine o0.5 rush_td+rec_td,GDAWG5000,Tennessee Titans,n.westbrook-ikhine,Jacksonville Jaguars,0.0,0.7272727272727273,1,0.3333333333333333,0,0.6,1,74,12,76,90,Rain,EverBank,outdoors,grass,360,0.5,2.3,1.7999999999999998
+47,J.Reed o0.5 rush_td+rec_td,GDAWG5000,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,2,90,9,Foggy,U.S. Bank,indoors,turf,187,0.25,0.7175,0.4675

@@ -1,20 +1,15 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,K.Walker o60.5 rushing yards,Rotowire Sleeper,Seattle Seahawks,k.walker,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,69,6,45,1,Clear,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5
 6,D.Montgomery o55.5 rushing yards,Rotowire Sleeper,Detroit Lions,d.montgomery,Minnesota Vikings,0.0,0.6,1,0.6666666666666666,1,0.6,1,66,7,58,0,Clear,U.S. Bank,indoors,turf,100.0,1.5,3.0,1.5
 12,J.Mixon o58.5 rushing yards,Rotowire Prizepicks,Houston Texans,j.mixon,Green Bay Packers,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,67,7,49,3,Rain,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
 17,J.Gibbs o48.5 rushing yards,Rotowire Prizepicks,Detroit Lions,j.gibbs,Minnesota Vikings,0.0,0.8,1,1.0,1,0.8,1,68,7,54,0,Clear,U.S. Bank,indoors,turf,100.0,1.5,3.0,1.5
-19,K.Walker o64.5 Rush Yds,RoyalsProps,Seattle Seahawks,k.walker,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,68,7,42,1,Clear,Mercedes-Benz,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
 29,J.Mixon o59.5 rushing yards,Rotowire Sleeper,Houston Texans,j.mixon,Green Bay Packers,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,67,8,49,2,Rain,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
-31,K.Walker o69.5 Rushing Yards,RoyalsProps,Seattle Seahawks,k.walker,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,68,7,42,1,Clear,Mercedes-Benz,indoors,turf,100.0,0.5,1.0,0.5
 34,D.Montgomery o47.5 rushing yards,Rotowire Prizepicks,Detroit Lions,d.montgomery,Minnesota Vikings,0.0,0.6,1,0.6666666666666666,1,0.6,1,69,9,50,1,Rain,U.S. Bank,indoors,turf,100.0,1.5,3.0,1.5
 44,D.Montgomery o48.5 rushing yards,Rotowire Prizepicks,Detroit Lions,d.montgomery,Minnesota Vikings,0.0,0.6,1,0.6666666666666666,1,0.6,1,72,9,46,2,Clear,U.S. Bank,indoors,turf,100.0,1.5,3.0,1.5
 57,N.Harris o50.5 Rush Yds,gneiffer07,Pittsburgh Steelers,n.harris,New York Jets,1.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,61,1,57,2,Clear,Acrisure,outdoors,grass,-110.0,1.1,2.1,1.0
 70,T.Allgeier o38.5 Rush Yds,gneiffer07,Atlanta Falcons,t.allgeier,Seattle Seahawks,1.0,0.6,1,0.6666666666666666,1,0.6,1,70,6,37,0,Clear,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-76,T.Pollard o62.5 rush yards,Jared Hochman,Tennessee Titans,t.pollard,Buffalo Bills,0.0,0.6,1,0.6666666666666666,1,0.6,1,63,12,54,0,Clear,Highmark,outdoors,turf,100.0,0.75,1.5,0.75
 105,R.Stevenson o42.5 rushing yards,Rotowire Sleeper,New England Patriots,r.stevenson,Jacksonville Jaguars,0.0,0.8,1,0.6666666666666666,1,0.8,1,62,9,85,90,Rain,Wembley,outdoors,grass,100.0,1.5,3.0,1.5
-118,T.Pollard o63.5 Rush Yds,KyleJustBets,Tennessee Titans,t.pollard,Buffalo Bills,0.0,0.6,1,0.6666666666666666,1,0.6,1,66,10,51,0,Clear,Highmark,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-134,T.Lawrence o10.5 rushing yards,Rotowire Sleeper,Jacksonville Jaguars,t.lawrence,New England Patriots,1.0,0.3333333333333333,0,0.3333333333333333,0,0.4,0,62,9,85,90,Rain,Wembley,outdoors,grass,100.0,1.5,3.0,1.5
 138,R.Stevenson o45.5 rushing yards,Rotowire Sleeper,New England Patriots,r.stevenson,Jacksonville Jaguars,0.0,0.6,1,0.3333333333333333,0,0.6,1,62,9,85,90,Rain,Wembley,outdoors,grass,100.0,1.5,3.0,1.5
+144,K.Walker u70.5 Rush Yds,CroweRadio,Seattle Seahawks,k.walker,Atlanta Falcons,0.0,0.5,0,0.6666666666666666,1,0.5,0,70,6,33,0,Clear,Mercedes-Benz,indoors,turf,-110.0,0.2,0.3818181818181818,0.1818181818181818
 158,T.Bigsby o53.5 Rush Yds,ThePropfessor_,Jacksonville Jaguars,t.bigsby,New England Patriots,1.0,0.75,1,0.6666666666666666,1,0.75,1,62,9,85,90,Rain,Wembley,outdoors,grass,-113.0,1.13,2.13,1.0
 161,J.Jacobs o64.5 Rush Yds,sandyplashkes,Green Bay Packers,j.jacobs,Houston Texans,1.0,0.5,0,0.3333333333333333,0,0.4,0,70,10,47,0,Clear,Lambeau Field,outdoors,grass,-110.0,1.1,2.1,1.0
 166,T.Bigsby o54.5 Rush Yds,PropBetGuy,Jacksonville Jaguars,t.bigsby,New England Patriots,1.0,0.75,1,0.6666666666666666,1,0.75,1,62,9,85,90,Rain,Wembley,outdoors,grass,-110.0,1.1,2.1,1.0

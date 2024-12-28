@@ -1,17 +1,16 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,J.Mixon o66.5 Rush Yds,TheBMatt,J.Mixon,N,25.0,Houston Texans,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,88,8,61,12,Rain,NRG,indoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
-1,A.Kamara o46.5 rushing yards,Rotowire Sleeper,a.kamara,Y,115.0,New Orleans Saints,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,91,6,47,3,Partly Cloudy,AT&amp;T,indoors,turf,100,1.5,3.0,1.5
-2,C.Hubbard u47.5 Rush Yds,kylemurray03,c.hubbard,N,64.0,Carolina Panthers,Los Angeles Chargers,1.0,1.0,1,1.0,1,1.0,1,75,14,78,10,Rain,Bank of America,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
-3,L.Jackson o48.5 Rush Yds,gneiffer07,l.jackson,N,45.0,Baltimore Ravens,Las Vegas Raiders,1.0,1.0,1,1.0,1,1.0,1,80,10,52,2,Rain,M&amp;T Bank,outdoors,grass,-113,1.13,2.13,1.0
-4,G.Minshew u7.5 Rush Yds,gneiffer07,g.minshew,Y,-1.0,Las Vegas Raiders,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,80,10,52,2,Rain,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-5,J.Mixon o69.5 Rush Yds,Theotherbabs,j.mixon,N,25.0,Houston Texans,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,90,5,60,8,Clear,NRG,indoors,turf,-125,1.0,1.8,0.8
-6,Z.White o39.5 rushing yards,Rotowire Prizepicks,z.white,N,24.0,Las Vegas Raiders,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,79,12,54,0,Partly Cloudy,M&amp;T Bank,outdoors,grass,100,1.5,3.0,1.5
-7,J.Fields o39.5 Rush Yds,rsura_,j.fields,N,27.0,Pittsburgh Steelers,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,-117,1.17,2.17,1.0
-8,J.Fields o37.5 rushing yards,Rotowire Sleeper,j.fields,N,27.0,Pittsburgh Steelers,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
-9,J.Mclaughlin o24.5 rushing yards,Rotowire Sleeper,j.mclaughlin,N,6.0,Denver Broncos,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
-10,Z.White o39.5 rushing yards,Rotowire Sleeper,z.white,N,24.0,Las Vegas Raiders,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,79,12,56,0,Partly Cloudy,M&amp;T Bank,outdoors,grass,100,1.5,3.0,1.5
-11,J.Fields o40.5 rushing yards,Rotowire Sleeper,j.fields,N,27.0,Pittsburgh Steelers,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,86,7,18,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
-12,J.Mixon o66.5 Rush Yds,FirefighterBets,j.mixon,N,25.0,Houston Texans,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
-13,J.Goff o0.5 Rush Yds,MoneylineHacks,j.goff,Y,5.0,Detroit Lions,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,81,8,44,0,Clear,Ford Field,indoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
-14,A.Rodgers o1.5 rushing yards,Rotowire Prizepicks,a.rodgers,N,1.0,New York Jets,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,84,8,59,20,Rain,Nissan,outdoors,grass,100,1.5,3.0,1.5
-15,A.Rodgers o1.5 Rush Yds,MoneylineHacks,a.rodgers,N,1.0,New York Jets,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,83,8,61,7,Rain,Nissan,outdoors,grass,-105,2.0,3.9047619047619047,1.9047619047619049
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,A.Kamara o46.5 rushing yards,Rotowire Sleeper,New Orleans Saints,a.kamara,,,,Y,115.0,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,91,6,47,3,Partly Cloudy,AT&amp;T,indoors,turf,100,1.5,3.0,1.5
+1,C.Hubbard u47.5 Rush Yds,kylemurray03,Carolina Panthers,c.hubbard,,,,N,64.0,Los Angeles Chargers,1.0,1.0,1,1.0,1,1.0,1,75,14,78,10,Rain,Bank of America,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
+2,G.Minshew u7.5 Rush Yds,gneiffer07,Las Vegas Raiders,g.minshew,,,,Y,-1.0,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,80,10,52,2,Rain,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+3,Z.White o39.5 rushing yards,Rotowire Prizepicks,Las Vegas Raiders,z.white,,,,N,24.0,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,79,12,54,0,Partly Cloudy,M&amp;T Bank,outdoors,grass,100,1.5,3.0,1.5
+4,A.Rodgers o1.5 rushing yards,Rotowire Prizepicks,New York Jets,a.rodgers,,,,N,1.0,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,84,8,59,20,Rain,Nissan,outdoors,grass,100,1.5,3.0,1.5
+5,J.Mclaughlin o24.5 rushing yards,Rotowire Sleeper,Denver Broncos,j.mclaughlin,,,,N,6.0,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
+6,Z.White o39.5 rushing yards,Rotowire Sleeper,Las Vegas Raiders,z.white,,,,N,24.0,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,79,12,56,0,Partly Cloudy,M&amp;T Bank,outdoors,grass,100,1.5,3.0,1.5
+7,J.Goff o0.5 Rush Yds,MoneylineHacks,Detroit Lions,j.goff,,,,Y,5.0,Tampa Bay Buccaneers,1.0,1.0,1,1.0,1,1.0,1,81,8,44,0,Clear,Ford Field,indoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+8,A.Rodgers o1.5 Rush Yds,MoneylineHacks,New York Jets,a.rodgers,,,,N,1.0,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,83,8,61,7,Rain,Nissan,outdoors,grass,-105,2.0,3.9047619047619047,1.9047619047619049
+9,L.Jackson o48.5 Rush Yds,gneiffer07,Baltimore Ravens,l.jackson,,,,N,45.0,Las Vegas Raiders,1.0,1.0,1,1.0,1,1.0,1,80,10,52,2,Rain,M&amp;T Bank,outdoors,grass,-113,1.13,2.13,1.0
+10,J.Mixon o69.5 Rush Yds,Theotherbabs,Houston Texans,j.mixon,,,,N,25.0,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,90,5,60,8,Clear,NRG,indoors,turf,-125,1.0,1.8,0.8
+11,J.Fields o39.5 Rush Yds,rsura_,Pittsburgh Steelers,j.fields,,,,N,27.0,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,-117,1.17,2.17,1.0
+12,J.Fields o37.5 rushing yards,Rotowire Sleeper,Pittsburgh Steelers,j.fields,,,,N,27.0,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
+13,J.Fields o40.5 rushing yards,Rotowire Sleeper,Pittsburgh Steelers,j.fields,,,,N,27.0,Denver Broncos,0.0,1.0,1,1.0,1,1.0,1,86,7,18,18,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
+14,J.Mixon o66.5 Rush Yds,FirefighterBets,Houston Texans,j.mixon,,,,N,25.0,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-115,1.0,1.869565217391304,0.8695652173913042

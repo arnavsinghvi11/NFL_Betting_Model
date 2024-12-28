@@ -1,4 +1,8 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-35,B.Robinson o3.5 Recs,PropBetGuy,Atlanta Falcons,b.robinson,Tampa Bay Buccaneers,1,0.75,1,0.6666666666666666,1,0.75,1,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
-43,M.Evans o4.5 Recs,KyleJustBets,Tampa Bay Buccaneers,m.evans,Atlanta Falcons,0,0.5,0,0.3333333333333333,0,0.5,0,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,100.0,1.0,2.0,1.0
-63,R.White o3.5 Recs,sirlockselot_,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.5,0,0.3333333333333333,0,0.5,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,130.0,2.0,4.6,2.6
+9,D.London o5.5 Recs,Proptology,Atlanta Falcons,d.london,Tampa Bay Buccaneers,1.0,0.75,1,1.0,1,0.75,1,75,5,77,1,Partly Cloudy,Mercedes-Benz,indoors,turf,122.0,2.46,5.461199999999999,3.001199999999999
+15,D.London o5.5 Recs,kylemurray03,Atlanta Falcons,d.london,Tampa Bay Buccaneers,1.0,0.75,1,1.0,1,0.75,1,74,7,78,3,Mostly Cloudy,Mercedes-Benz,indoors,turf,102.0,1.0,2.02,1.02
+35,B.Robinson o3.5 Recs,PropBetGuy,Atlanta Falcons,b.robinson,Tampa Bay Buccaneers,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+43,M.Evans o4.5 Recs,KyleJustBets,Tampa Bay Buccaneers,m.evans,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,100.0,1.0,2.0,1.0
+60,D.London o5.5 Recs,GreenDotDaily,Atlanta Falcons,d.london,Tampa Bay Buccaneers,1.0,0.75,1,1.0,1,0.75,1,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,105.0,0.75,1.5375,0.7874999999999999
+63,R.White o3.5 Recs,sirlockselot_,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.5,0,0.3333333333333333,0,0.5,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,130.0,2.0,4.6,2.6
+77,D.London o5.5 Recs,theprophunter0_,Atlanta Falcons,d.london,Tampa Bay Buccaneers,1.0,0.75,1,1.0,1,0.75,1,80,6,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996

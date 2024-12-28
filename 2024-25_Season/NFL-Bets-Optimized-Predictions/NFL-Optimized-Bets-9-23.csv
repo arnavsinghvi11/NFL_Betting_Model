@@ -1,67 +1,48 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-B.Thomas o0.5 rush_td+rec_td,AnthonyDabbundo,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,0.5,0,0.5,0,0.5,0,61,7,89,47,Rain,Highmark,outdoors,turf,300.0,0.5,2.0,1.5
-T.McLaurin o3.5 Recs,kylemurray03,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,0.5,0,0.5,0,0.5,0,81,5,57,40,Rain,Paycor,outdoors,turf,-142.0,1.42,2.42,1.0
-G.Davis o37.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,g.davis,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-T.Mclaurin u49.5 receiving yards,Rotowire Prizepicks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-J.Daniels u49.5 rushing yards,Rotowire Prizepicks,Washington Commanders,j.daniels,Cincinnati Bengals,0.0,0.5,0,0.5,0,0.5,0,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-G.Davis o37.5 receiving yards,Rotowire Sleeper,Jacksonville Jaguars,g.davis,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-B.Strange o2.5 Recs,PropBetGuy,Jacksonville Jaguars,b.strange,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,-128.0,1.28,2.28,1.0000000000000002
-T.Irwin u13.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,t.irwin,Washington Commanders,1.0,1.0,1,1.0,1,1.0,1,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-T.Lawrence u225.5 passing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-K.Coleman o35.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.coleman,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-K.Shakir o3.5 Recs,PropBetGuy,Buffalo Bills,k.shakir,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,-121.0,1.21,2.21,1.0
-B.Strange o2.5 Recs,Theotherbabs,Jacksonville Jaguars,b.strange,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,-190.0,2.0,3.052631578947368,1.052631578947368
-B.Strange o24.5 Rec Yds,Markus_Markets,Jacksonville Jaguars,b.strange,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,-125.0,1.0,1.8,0.8
-B.Thomas o43.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,b.thomas,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-T.McLaurin o46.5 Rec Yds,boomerslocks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,76,3,71,20,Rain,Paycor,outdoors,turf,-125.0,0.5,0.9,0.4
-M.Gesicki u2.5 Recs,boomerslocks,Cincinnati Bengals,m.gesicki,Washington Commanders,1.0,0.0,0,0.0,0,0.0,0,76,3,71,20,Rain,Paycor,outdoors,turf,120.0,0.5,1.1,0.6000000000000001
-T.Irwin u13.5 Rec Yds,MoneylineHacks,Cincinnati Bengals,t.irwin,Washington Commanders,1.0,1.0,1,1.0,1,1.0,1,76,3,71,20,Rain,Paycor,outdoors,turf,-121.0,2.0,3.652892561983471,1.652892561983471
-C.Brown u38.5 rushing + receiving yards,Rotowire Prizepicks,Cincinnati Bengals,c.brown,Washington Commanders,1.0,1.0,1,1.0,1,1.0,1,76,3,71,20,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-A.Ekeler o18.5 rushing yards,Rotowire Prizepicks,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,0.5,0,0.5,0,0.5,0,76,3,71,20,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-D.Kincaid o3.5 Recs,Theotherbabs,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
-K.Shakir o44.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.shakir,Jacksonville Jaguars,1.0,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-C.Kirk u44.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,c.kirk,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5
-T.Mclaurin u52.5 receiving yards,Rotowire Prizepicks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,71,23,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-N.Brown o49.5 Rec Yds,charliedisturco,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,71,23,Rain,Paycor,outdoors,turf,650.0,0.1,0.75,0.65
-N.Brown o24.5 Rec Yds,charliedisturco,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,71,23,Rain,Paycor,outdoors,turf,160.0,0.5,1.3,0.8
-D.Kincaid u37.5 Rec Yds,GDAWG5000,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,105.0,0.5,1.025,0.5249999999999999
-D.Kincaid u37.5 Rec Yds,The_Oddsmaker,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,100.0,1.0,2.0,1.0
-A.Ekeler o17.5 Rec Yds,FirefighterBets,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,71,23,Rain,Paycor,outdoors,turf,-122.0,1.0,1.819672131147541,0.819672131147541
-D.Kincaid u40.5 Rec Yds,cowhitchurch,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
-J.Daniels o59.5 Rushing Yards,brianeedwards11_,Washington Commanders,j.daniels,Cincinnati Bengals,0.0,0.5,0,0.5,0,0.5,0,76,2,71,23,Rain,Paycor,outdoors,turf,140.0,0.7,1.68,0.98
-D.Kincaid u37.5 Rec Yds,GreenDotDaily,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,100.0,1.0,2.0,1.0
-N.Brown o24.5 Receiving Yards,GreenDotDaily,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,70,23,Rain,Paycor,outdoors,turf,165.0,0.5,1.325,0.825
-J.Allen u234.5 Pass Yds,GreenDotDaily,Buffalo Bills,j.allen,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-115.0,0.5,0.934782608695652,0.4347826086956521
-T.McLaurin u21.5 Longest Reception,PropBetGuy,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,70,23,Rain,Paycor,outdoors,turf,-111.0,1.11,2.1100000000000003,1.0000000000000002
-L.Mccaffrey o15.5 receiving yards,Rotowire Sleeper,Washington Commanders,l.mccaffrey,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,70,23,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-L.Mccaffrey u18.5 receiving yards,Rotowire Prizepicks,Washington Commanders,l.mccaffrey,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,70,23,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-G.Davis o40.5 Rec Yds,FirefighterBets,Jacksonville Jaguars,g.davis,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-B.Strange o24.5 Receiving Yards,JBBets1,Jacksonville Jaguars,b.strange,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,5,90,29,Rain,Highmark,outdoors,turf,-138.0,1.0,1.7246376811594204,0.7246376811594204
-A.Ekeler o39.5 Receiving Yards,PlayerPropSavant,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,2,70,23,Rain,Paycor,outdoors,turf,390.0,0.4,1.96,1.56
-T.McLaurin o47.5 Rec Yds,Theotherbabs,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,76,3,71,67,Rain,Paycor,outdoors,turf,-115.0,2.0,3.739130434782608,1.7391304347826084
-C.Brown o24.5 Rush Yds,Theotherbabs,Cincinnati Bengals,c.brown,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-125.0,2.0,3.6,1.6
-T.Mclaurin o48.5 receiving yards,Rotowire Sleeper,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,76,2,71,67,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5
-J.Burrow u34.5 Pass Att,nick_giffen,Cincinnati Bengals,j.burrow,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-Z.Moss o11.5 Rush Att,ThePropfessor_,Cincinnati Bengals,z.moss,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-132.0,1.32,2.3200000000000003,1.0000000000000002
-A.Iosivas u25.5 Rec Yds,GDAWG5000,Cincinnati Bengals,a.iosivas,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,0.55,1.05,0.5
-A.Iosivas u25.5 Rec Yds,The_Oddsmaker,Cincinnati Bengals,a.iosivas,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-A.Iosivas u25.5 Rec Yds,charliedisturco,Cincinnati Bengals,a.iosivas,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-J.Burrow u34.5 Pass Att,cowhitchurch,Cincinnati Bengals,j.burrow,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-A.Iosivas u25.5 Rec Yds,cowhitchurch,Cincinnati Bengals,a.iosivas,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-A.Iosivas u25.5 Rec Yds,GreenDotDaily,Cincinnati Bengals,a.iosivas,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,70,67,Rain,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-J.Burrow u34.5 Pass Att,GreenDotDaily,Cincinnati Bengals,j.burrow,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,70,67,Rain,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-C.Brown o9.5 Longest Rush,MillyProps,Cincinnati Bengals,c.brown,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,2,70,67,Rain,Paycor,outdoors,turf,-120.0,0.5,0.9166666666666669,0.4166666666666667
-A.Ekeler o49.5 Receiving Yards,PlayerPropSavant,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,0.5,0,0.5,0,0.5,0,76,2,70,67,Rain,Paycor,outdoors,turf,730.0,0.4,3.3200000000000003,2.9200000000000004
-A.Ekeler o59.5 Receiving Yards,PlayerPropSavant,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,76,2,70,67,Rain,Paycor,outdoors,turf,1200.0,0.2,2.6,2.4
-N.Brown o16.5 Rec Yds,Markus_Markets,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,3,71,67,Rain,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-N.Brown o16.5 Rec Yds,TheBMatt,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,3,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0
-G.Davis u3.5 Recs,PropBomb,Jacksonville Jaguars,g.davis,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,63,5,90,29,Rain,Highmark,outdoors,turf,-135.0,1.35,2.35,1.0
-N.Brown o1.5 Recs,kylemurray03,Washington Commanders,n.brown,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,76,3,71,67,Rain,Paycor,outdoors,turf,-118.0,1.18,2.18,0.9999999999999998
-B.Strange o27.5 Rec Yds,FirefighterBets,Jacksonville Jaguars,b.strange,Buffalo Bills,0.0,1.0,1,1.0,1,1.0,1,71,3,90,29,Overcast,Highmark,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-Z.Moss o11.5 Rush Att,Markus_Markets,Cincinnati Bengals,z.moss,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,76,9,71,67,Rain,Paycor,outdoors,turf,-132.0,1.0,1.7575757575757576,0.7575757575757576
-A.Ekeler o18.5 Rec Yds,theprophunter0_,Washington Commanders,a.ekeler,Cincinnati Bengals,0.0,1.0,1,1.0,1,1.0,1,70,0,71,67,Partly Cloudy,Paycor,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
-Z.Moss o0.5 rush_td+rec_td,BetWhatHappensLive,Cincinnati Bengals,z.moss,Washington Commanders,1.0,0.5,0,0.5,0,0.5,0,70,0,71,67,Rain,Paycor,outdoors,turf,250.0,1.0,3.5,2.5
-N.Brown o0.5 rush_td+rec_td,BetWhatHappensLive,Washington Commanders,n.brown,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Rain,Paycor,outdoors,turf,2000.0,0.1,2.1,2.0
-O.Zaccheaus o0.5 rush_td+rec_td,BetWhatHappensLive,Washington Commanders,o.zaccheaus,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Rain,Paycor,outdoors,turf,4500.0,0.1,4.6000000000000005,4.500000000000001
-T.McLaurin o0.5 rush_td+rec_td,BetWhatHappensLive,Washington Commanders,t.mclaurin,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Rain,Paycor,outdoors,turf,900.0,0.5,5.0,4.5
-L.McCaffrey o0.5 rush_td+rec_td,BetWhatHappensLive,Washington Commanders,l.mccaffrey,Cincinnati Bengals,0.0,0.0,0,0.0,0,0.0,0,70,0,71,67,Rain,Paycor,outdoors,turf,2000.0,0.25,5.25,5.0
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+G.Davis o37.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,g.davis,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+T.Mclaurin u49.5 receiving yards,Rotowire Prizepicks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Rec_Yds
+G.Davis o37.5 receiving yards,Rotowire Sleeper,Jacksonville Jaguars,g.davis,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+B.Strange o2.5 Recs,PropBetGuy,Jacksonville Jaguars,b.strange,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,3,90,29,Rain,Highmark,outdoors,turf,-128.0,1.28,2.28,1.0000000000000002,1,0,Rec
+T.Irwin u13.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,t.irwin,Washington Commanders,1,1.0,1,1.0,1,1.0,1,75,3,74,37,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Rec_Yds
+T.Lawrence u225.5 passing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Pass_Yds
+K.Coleman o35.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.coleman,Jacksonville Jaguars,1,0.5,0,0.5,0,0.5,0,63,9,90,29,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+B.Strange o2.5 Recs,Theotherbabs,Jacksonville Jaguars,b.strange,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,3,97,33,Rain,Highmark,outdoors,turf,-190.0,2.0,3.052631578947368,1.052631578947368,1,0,Rec
+B.Strange o24.5 Rec Yds,Markus_Markets,Jacksonville Jaguars,b.strange,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,3,97,33,Rain,Highmark,outdoors,turf,-125.0,1.0,1.8,0.8,1,0,Rec_Yds
+B.Thomas o43.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,b.thomas,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+T.McLaurin o46.5 Rec Yds,boomerslocks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,-125.0,0.5,0.9,0.4,1,0,Rec_Yds
+M.Gesicki u2.5 Recs,boomerslocks,Cincinnati Bengals,m.gesicki,Washington Commanders,1,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,120.0,0.5,1.1,0.6000000000000001,0,1,Rec
+T.Irwin u13.5 Rec Yds,MoneylineHacks,Cincinnati Bengals,t.irwin,Washington Commanders,1,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,-121.0,2.0,3.652892561983471,1.652892561983471,0,1,Rec_Yds
+C.Brown u38.5 rushing + receiving yards,Rotowire Prizepicks,Cincinnati Bengals,c.brown,Washington Commanders,1,1.0,1,1.0,1,1.0,1,76,3,71,20,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,0,1,rushing + receiving yards
+K.Shakir o44.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,k.shakir,Jacksonville Jaguars,1,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+T.McLaurin o47.5 Rec Yds,Theotherbabs,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,-115.0,2.0,3.739130434782608,1.7391304347826084,1,0,Rec_Yds
+T.Lawrence o240.5 passing + rushing yards,Rotowire Prizepicks,Jacksonville Jaguars,t.lawrence,Buffalo Bills,0,0.5,0,0.5,0,0.5,0,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Pass_Yds+Rush_Yds
+C.Kirk u44.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,c.kirk,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,9,97,33,Rain,Highmark,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Rec_Yds
+T.Mclaurin u52.5 receiving yards,Rotowire Prizepicks,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,2,71,23,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Rec_Yds
+N.Brown o49.5 Rec Yds,charliedisturco,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,650.0,0.1,0.75,0.65,1,0,Rec_Yds
+N.Brown o24.5 Rec Yds,charliedisturco,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,160.0,0.5,1.3,0.8,1,0,Rec_Yds
+T.Mclaurin o48.5 receiving yards,Rotowire Sleeper,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,0.0,0,0.0,0,0.0,0,76,0,71,67,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+D.Kincaid u37.5 Rec Yds,GDAWG5000,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,105.0,0.5,1.025,0.5249999999999999,0,1,Rec_Yds
+D.Kincaid u37.5 Rec Yds,The_Oddsmaker,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,100.0,1.0,2.0,1.0,0,1,Rec_Yds
+A.Ekeler o17.5 Rec Yds,FirefighterBets,Washington Commanders,a.ekeler,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,-122.0,1.0,1.819672131147541,0.819672131147541,1,0,Rec_Yds
+J.Burrow u34.5 Pass Att,nick_giffen,Cincinnati Bengals,j.burrow,Washington Commanders,1,0.5,0,0.5,0,0.5,0,76,0,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0,0,1,Pass_Att
+J.Burrow o251.5 passing yards,Rotowire Sleeper,Cincinnati Bengals,j.burrow,Washington Commanders,1,0.5,0,0.5,0,0.5,0,76,2,71,23,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Pass_Yds
+D.Kincaid u40.5 Rec Yds,cowhitchurch,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,0,1,Rec_Yds
+J.Daniels o59.5 Rushing Yards,brianeedwards11_,Washington Commanders,j.daniels,Cincinnati Bengals,0,0.5,0,0.5,0,0.5,0,76,0,71,67,Rain,Paycor,outdoors,turf,140.0,0.7,1.68,0.98,1,0,Rush_Yds
+J.Burrow u34.5 Pass Att,cowhitchurch,Cincinnati Bengals,j.burrow,Washington Commanders,1,0.5,0,0.5,0,0.5,0,76,0,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0,0,1,Pass_Att
+D.Kincaid u37.5 Rec Yds,GreenDotDaily,Buffalo Bills,d.kincaid,Jacksonville Jaguars,1,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,100.0,1.0,2.0,1.0,0,1,Rec_Yds
+J.Burrow u34.5 Pass Att,GreenDotDaily,Cincinnati Bengals,j.burrow,Washington Commanders,1,0.5,0,0.5,0,0.5,0,76,0,70,67,Rain,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,0,1,Pass_Att
+N.Brown o24.5 Receiving Yards,GreenDotDaily,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,70,67,Rain,Paycor,outdoors,turf,165.0,0.5,1.325,0.825,1,0,Rec_Yds
+C.Brown o9.5 Longest Rush,MillyProps,Cincinnati Bengals,c.brown,Washington Commanders,1,0.5,0,0.5,0,0.5,0,76,0,70,67,Rain,Paycor,outdoors,turf,-120.0,0.5,0.9166666666666669,0.4166666666666667,1,0,Rush_Lng
+J.Allen u234.5 Pass Yds,GreenDotDaily,Buffalo Bills,j.allen,Jacksonville Jaguars,1,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-115.0,0.5,0.934782608695652,0.4347826086956521,0,1,pass yds
+T.McLaurin u21.5 Longest Reception,PropBetGuy,Washington Commanders,t.mclaurin,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,70,67,Rain,Paycor,outdoors,turf,-111.0,1.11,2.1100000000000003,1.0000000000000002,0,1,Rec_Lng
+L.Mccaffrey o15.5 receiving yards,Rotowire Sleeper,Washington Commanders,l.mccaffrey,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,2,70,67,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+L.Mccaffrey u18.5 receiving yards,Rotowire Prizepicks,Washington Commanders,l.mccaffrey,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,2,70,67,Rain,Paycor,outdoors,turf,100.0,1.5,3.0,1.5,0,1,Rec_Yds
+G.Davis o40.5 Rec Yds,FirefighterBets,Jacksonville Jaguars,g.davis,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,62,5,92,29,Rain,Highmark,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+B.Strange o24.5 Receiving Yards,JBBets1,Jacksonville Jaguars,b.strange,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,5,90,29,Rain,Highmark,outdoors,turf,-138.0,1.0,1.7246376811594204,0.7246376811594204,1,0,Rec_Yds
+A.Ekeler o39.5 Receiving Yards,PlayerPropSavant,Washington Commanders,a.ekeler,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,70,67,Rain,Paycor,outdoors,turf,390.0,0.4,1.96,1.56,1,0,Rec_Yds
+N.Brown o16.5 Rec Yds,Markus_Markets,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+N.Brown o16.5 Rec Yds,TheBMatt,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,-110.0,1.1,2.1,1.0,1,0,Rec_Yds
+G.Davis u3.5 Recs,PropBomb,Jacksonville Jaguars,g.davis,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,63,5,90,29,Rain,Highmark,outdoors,turf,-135.0,1.35,2.35,1.0,0,1,Rec
+N.Brown o1.5 Recs,kylemurray03,Washington Commanders,n.brown,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,76,0,71,67,Rain,Paycor,outdoors,turf,-118.0,1.18,2.18,0.9999999999999998,1,0,Rec
+B.Strange o27.5 Rec Yds,FirefighterBets,Jacksonville Jaguars,b.strange,Buffalo Bills,0,1.0,1,1.0,1,1.0,1,71,3,90,29,Overcast,Highmark,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335,1,0,Rec_Yds
+A.Ekeler o18.5 Rec Yds,theprophunter0_,Washington Commanders,a.ekeler,Cincinnati Bengals,0,1.0,1,1.0,1,1.0,1,70,0,71,67,Partly Cloudy,Paycor,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002,1,0,Rec_Yds

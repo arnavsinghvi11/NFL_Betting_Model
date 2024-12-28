@@ -1,4 +1,8 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+12,H.Henry o0.5 rush_td+rec_td,GDAWG5000,New England Patriots,h.henry,New York Jets,0.0,0.0,0,0.0,0,0.0,0,81,3,56,11,Rain,MetLife,outdoors,turf,500.0,0.5,3.0,2.5
+44,M.Williams o0.5 rush_td+rec_td,charliedisturco,New York Jets,m.williams,New England Patriots,1.0,0.0,0,0.0,0,0.0,0,76,6,56,2,Rain,MetLife,outdoors,turf,500.0,0.2,1.2000000000000002,1.0000000000000002
+57,H.Henry o0.5 rush_td+rec_td,GreenDotDaily,New England Patriots,h.henry,New York Jets,0.0,0.0,0,0.0,0,0.0,0,77,5,45,0,Partly Cloudy,MetLife,outdoors,turf,500.0,0.5,3.0,2.5
 72,B.Hall o0.5 rush_td+rec_td,theprophunter0_,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
 73,R.Stevenson o0.5 rush_td+rec_td,theprophunter0_,New England Patriots,r.stevenson,New York Jets,0.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,110.0,0.5,1.05,0.55
 75,B.Hall o0.5 rush_td+rec_td,JBBets1,New York Jets,b.hall,New England Patriots,1.0,1.0,1,1.0,1,1.0,1,81,6,45,0,Clear,MetLife,outdoors,turf,-105.0,0.5,0.9761904761904762,0.4761904761904761
+79,H.Henry o0.5 rush_td+rec_td,BetWhatHappensLive,New England Patriots,h.henry,New York Jets,0.0,0.0,0,0.0,0,0.0,0,79,3,45,0,Clear,MetLife,outdoors,turf,650.0,0.25,1.875,1.625

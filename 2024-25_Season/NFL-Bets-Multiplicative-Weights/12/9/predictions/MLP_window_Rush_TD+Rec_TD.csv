@@ -1,4 +1,4 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-4,T.Hudson o0.5 rush_td+rec_td,GDAWG5000,Cincinnati Bengals,t.hudson,Dallas Cowboys,0.0,0.5,0,0.5,0,0.5,0,61,7,53,0,Partly Cloudy,AT&amp;T,indoors,turf,1200.0,0.25,3.25,3.0
-17,T.Hudson o0.5 rush_td+rec_td,ParlayExpress,Cincinnati Bengals,t.hudson,Dallas Cowboys,0.0,0.5,0,0.5,0,0.5,0,61,3,62,4,Mostly Cloudy,AT&amp;T,indoors,turf,1300.0,0.25,3.5,3.25
+13,T.Higgins o0.5 rush_td+rec_td,rsura_,Cincinnati Bengals,t.higgins,Dallas Cowboys,0.0,0.5714285714285714,1,1.0,1,0.8,1,61,3,62,4,Mostly Cloudy,AT&amp;T,indoors,turf,125.0,1.0,2.25,1.25
+22,T.Higgins o0.5 rush_td+rec_td,GDAWG5000,Cincinnati Bengals,t.higgins,Dallas Cowboys,0.0,0.5714285714285714,1,1.0,1,0.8,1,61,3,62,4,Mostly Cloudy,AT&amp;T,indoors,turf,135.0,1.0,2.35,1.35
 25,K.Turpin o0.5 rush_td+rec_td,shadybiev,Dallas Cowboys,k.turpin,Cincinnati Bengals,1.0,0.25,0,0.3333333333333333,0,0.2,0,61,3,53,4,Mostly Cloudy,AT&amp;T,indoors,turf,700.0,0.75,6.0,5.25

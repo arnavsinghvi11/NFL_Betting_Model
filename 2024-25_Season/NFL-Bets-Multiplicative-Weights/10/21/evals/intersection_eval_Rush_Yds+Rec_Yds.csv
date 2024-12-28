@@ -1,2 +1,2 @@
-,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,K.Vidal o26.5 Rush + Rec Yds,PropBetGuy,Los Angeles Chargers,k.vidal,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,82,2,17,0,Partly Cloudy,State Farm,indoors,grass,-119.0,1.19,2.19,1.0,N,19.0
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,K.Vidal o26.5 Rush + Rec Yds,PropBetGuy,Los Angeles Chargers,k.vidal,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,82,2,17,0,Partly Cloudy,State Farm,indoors,grass,-119,1.19,2.19,1.0,1.0,0.0,Rush_Yds+Rec_Yds,N,19.0

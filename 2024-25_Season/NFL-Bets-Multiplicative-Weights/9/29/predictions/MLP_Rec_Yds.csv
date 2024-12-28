@@ -5,6 +5,7 @@
 13,N.Collins o72.5 receiving yards,Rotowire Prizepicks,Houston Texans,n.collins,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,87,6,42,1,Clear,NRG,indoors,turf,100.0,1.5,3.0,1.5
 14,R.Rice u78.5 receiving yards,Rotowire Prizepicks,Kansas City Chiefs,r.rice,Los Angeles Chargers,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,8,71,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
 15,C.Olave u70.5 receiving yards,Rotowire Prizepicks,New Orleans Saints,c.olave,Atlanta Falcons,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,76,9,74,12,Rain,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5
+17,M.Evans o59.5 Rec Yds,RoyalsProps,Tampa Bay Buccaneers,m.evans,Philadelphia Eagles,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,87,7,72,38,Scattered Rain Showers,Raymond James,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 20,D.Moore u60.5 receiving yards,Rotowire Prizepicks,Chicago Bears,d.moore,Los Angeles Rams,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,71,13,66,19,Rain,Soldier Field,outdoors,grass,100.0,1.5,3.0,1.5
 24,J.Cook o17.5 Rec Yds,gneiffer07,Buffalo Bills,j.cook,Baltimore Ravens,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,8,84,36,Rain,M&amp;T Bank,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
 31,G.Pickens o47.5 Rec Yds,Markus_Markets,Pittsburgh Steelers,g.pickens,Indianapolis Colts,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,72,7,93,40,Rain,Lucas Oil,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
@@ -29,12 +30,15 @@
 111,M.Hollins o11.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,m.hollins,Baltimore Ravens,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,70,8,93,50,Rain,M&amp;T Bank,outdoors,grass,100.0,1.5,3.0,1.5
 136,R.Doubs o39.5 receiving yards,Rotowire Prizepicks,Green Bay Packers,r.doubs,Minnesota Vikings,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,14,59,0,Foggy,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
 139,R.Shaheed o46.5 receiving yards,Rotowire Prizepicks,New Orleans Saints,r.shaheed,Atlanta Falcons,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,75,8,72,20,Rain,Mercedes-Benz,indoors,turf,100.0,1.5,3.0,1.5
+141,K.Allen o36.5 receiving yards,Rotowire Sleeper,Chicago Bears,k.allen,Los Angeles Rams,1.0,0.0,0,0.0,0,0.0,0,71,17,73,11,Rain,Soldier Field,outdoors,grass,100.0,1.5,3.0,1.5
+146,Z.Flowers o48.5 receiving yards,Rotowire Prizepicks,Baltimore Ravens,z.flowers,Buffalo Bills,1.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,69,8,97,57,Rain,M&amp;T Bank,outdoors,grass,100.0,1.5,3.0,1.5
 154,J.Reed o47.5 Rec Yds,KyleJustBets,Green Bay Packers,j.reed,Minnesota Vikings,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,71,14,63,0,Foggy,Lambeau Field,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 162,G.Wilson u57.5 Rec Yds,cowhitchurch,New York Jets,g.wilson,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,8,76,43,Mostly Cloudy,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
 163,G.Wilson u57.5 Rec Yds,The_Oddsmaker,New York Jets,g.wilson,Denver Broncos,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,8,76,43,Mostly Cloudy,MetLife,outdoors,turf,-110.0,1.1,2.1,1.0
 165,T.Palmer o14.5 Rec Yds,cowhitchurch,Tampa Bay Buccaneers,t.palmer,Philadelphia Eagles,1.0,0.5,0,0.5,0,0.5,0,88,6,75,38,Rain,Raymond James,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 166,T.Palmer o14.5 Rec Yds,The_Oddsmaker,Tampa Bay Buccaneers,t.palmer,Philadelphia Eagles,1.0,0.5,0,0.5,0,0.5,0,88,6,75,38,Rain,Raymond James,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 176,T.Palmer o14.5 Rec Yds,charliedisturco,Tampa Bay Buccaneers,t.palmer,Philadelphia Eagles,1.0,0.5,0,0.5,0,0.5,0,88,6,75,38,Rain,Raymond James,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
+179,K.Allen o39.5 receiving yards,Rotowire Prizepicks,Chicago Bears,k.allen,Los Angeles Rams,1.0,0.0,0,0.0,0,0.0,0,71,17,73,9,Rain,Soldier Field,outdoors,grass,100.0,1.5,3.0,1.5
 182,W.Dissly o10.5 Rec Yds,KyleJustBets,Los Angeles Chargers,w.dissly,Kansas City Chiefs,1.0,1.0,1,1.0,1,1.0,1,73,12,54,0,Foggy,SoFi,indoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
 185,R.Johnson o10.5 Rec Yds,JoeDellera,Chicago Bears,r.johnson,Los Angeles Rams,1.0,1.0,1,1.0,1,1.0,1,70,17,78,15,Rain,Soldier Field,outdoors,grass,-115.0,1.0,1.869565217391304,0.8695652173913042
 193,B.Thomas u48.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,b.thomas,Houston Texans,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,88,6,34,0,Clear,NRG,indoors,turf,100.0,1.5,3.0,1.5
@@ -51,6 +55,7 @@
 239,J.Jefferson o99.5 Rec Yds,CroweRadio,Minnesota Vikings,j.jefferson,Green Bay Packers,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,68,15,61,0,Clear,Lambeau Field,outdoors,grass,185.0,0.2,0.5700000000000001,0.37
 244,G.Pickens o49.5 Receiving Yards,JBBets1,Pittsburgh Steelers,g.pickens,Indianapolis Colts,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,70,11,84,49,Mostly Cloudy,Lucas Oil,indoors,turf,-132.0,1.0,1.7575757575757576,0.7575757575757576
 250,B.Thomas u47.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,b.thomas,Houston Texans,0.0,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,85,0,34,0,Clear,NRG,indoors,turf,100.0,1.5,3.0,1.5
+253,K.Osborn o13.5 receiving yards,Rotowire Sleeper,New England Patriots,k.osborn,San Francisco 49ers,0.0,0.5,0,0.5,0,0.5,0,73,0,60,0,Clear,Levi's,outdoors,grass,100.0,1.5,3.0,1.5
 265,M.Hollins o12.5 Rec Yds,MoneylineHacks,Buffalo Bills,m.hollins,Baltimore Ravens,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,68,10,93,36,Rain,M&amp;T Bank,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 268,D.Henry o5.5 receiving yards,Rotowire Prizepicks,Baltimore Ravens,d.henry,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,68,10,93,36,Rain,M&amp;T Bank,outdoors,grass,100.0,1.5,3.0,1.5
 270,D.Knox o8.5 receiving yards,Rotowire Prizepicks,Buffalo Bills,d.knox,Baltimore Ravens,0.0,0.5,0,0.5,0,0.5,0,68,10,93,36,Rain,M&amp;T Bank,outdoors,grass,100.0,1.5,3.0,1.5

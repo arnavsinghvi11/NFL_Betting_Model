@@ -1,14 +1,44 @@
-,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
-0,Z.Moss,Cincinnati Bengals,12,58,1,6,58,4.8,0,0.0,0,0,6,5,39,0,15,13,0,0,0,0,0,0,0,76.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
-1,C.Brown,Cincinnati Bengals,7,62,0,4,62,8.9,0,0.0,0,0,3,2,7,0,16,8,0,0,0,0,0,0,0,24.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
-2,J.Burrow,Cincinnati Bengals,1,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,4,4.0,0,0.0,0,100.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
-3,B.Robinson,Washington Commanders,16,33,1,2,33,2.1,0,0.0,0,0,1,1,4,0,7,4,0,0,0,0,0,0,0,76.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
-4,A.Ekeler,Washington Commanders,3,35,1,1,35,11.7,0,0.0,0,0,2,2,22,0,24,14,0,0,0,0,0,0,0,22.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
-5,J.Daniels,Washington Commanders,12,39,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,5,39,3.3,0,0.0,0,100.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
-6,C.Samuel,Buffalo Bills,1,0,0,0,0,0.0,0,0.0,0,0,3,3,22,0,0,10,0,0,0,0,0,0,0,27.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-7,K.Shakir,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,6,6,72,1,0,27,0,0,0,0,0,0,0,55.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-8,T.Johnson,Buffalo Bills,3,18,0,1,18,6.0,0,0.0,0,0,3,3,28,1,18,16,0,0,0,0,0,0,0,28.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-9,J.Cook,Buffalo Bills,11,39,1,2,39,3.5,0,0.0,0,0,5,4,48,0,13,19,0,0,0,0,0,0,0,50.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-10,J.Allen,Buffalo Bills,6,44,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,5,44,7.3,0,0.0,0,88.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-11,T.Etienne,Jacksonville Jaguars,11,68,0,4,68,6.2,0,0.0,0,0,6,4,17,0,22,8,0,0,0,0,0,0,0,69.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
-12,T.Lawrence,Jacksonville Jaguars,2,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,3,1.5,0,0.0,0,80.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+Unnamed: 0,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,Z.Moss,Cincinnati Bengals,12,58,1,6,58,4.8,0,0.0,0,0.0,6,5,39,0,15,13,0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+1.0,C.Brown,Cincinnati Bengals,7,62,0,4,62,8.9,0,0.0,0,0.0,3,2,7,0,16,8,0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+2.0,J.Burrow,Cincinnati Bengals,1,4,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,4,0,0,1.0,4.0,4.0,0.0,0.0,0.0,100.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+3.0,B.Robinson,Washington Commanders,16,33,1,2,33,2.1,0,0.0,0,0.0,1,1,4,0,7,4,0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+4.0,A.Ekeler,Washington Commanders,3,35,1,1,35,11.7,0,0.0,0,0.0,2,2,22,0,24,14,0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+5.0,J.Daniels,Washington Commanders,12,39,1,0,0,0.0,0,0.0,0,0.0,0,0,0,0,7,0,0,5.0,39.0,3.3,0.0,0.0,0.0,100.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+6.0,C.Samuel,Buffalo Bills,1,0,0,0,0,0.0,0,0.0,0,0.0,3,3,22,0,0,10,0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+7.0,K.Shakir,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,6,6,72,1,0,27,0,0.0,0.0,0.0,0.0,0.0,0.0,55.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+8.0,T.Johnson,Buffalo Bills,3,18,0,1,18,6.0,0,0.0,0,0.0,3,3,28,1,18,16,0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+9.0,J.Cook,Buffalo Bills,11,39,1,2,39,3.5,0,0.0,0,0.0,5,4,48,0,13,19,0,0.0,0.0,0.0,0.0,0.0,0.0,50.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+10.0,J.Allen,Buffalo Bills,6,44,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,13,0,0,5.0,44.0,7.3,0.0,0.0,0.0,88.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+11.0,T.Etienne,Jacksonville Jaguars,11,68,0,4,68,6.2,0,0.0,0,0.0,6,4,17,0,22,8,0,0.0,0.0,0.0,0.0,0.0,0.0,69.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+12.0,T.Lawrence,Jacksonville Jaguars,2,3,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,2,0,0,1.0,3.0,1.5,0.0,0.0,0.0,80.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,J.McNichols,Washington Commanders,1,1,0,0,0,0.0,1,1.0,0,0.0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,R.Davis,Buffalo Bills,7,22,1,1,15,2.1,7,1.0,0,0.0,1,1,1,0,10,1,0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,M.Trubisky,Buffalo Bills,1,-1,0,0,-1,-1.0,0,0.0,0,0.0,0,0,0,0,-1,0,0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,D.Duvernay,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,1,1,-1,0,0,-1,0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,T.Bigsby,Jacksonville Jaguars,2,9,0,1,4,2.0,5,2.5,1,2.0,0,0,0,0,7,0,0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,D.Johnson,Jacksonville Jaguars,2,12,0,1,9,4.5,3,1.5,0,0.0,1,0,0,0,11,0,0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,M.Jones,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,20.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,M.Valdes-Scantling,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,A.Iosivas,Cincinnati Bengals,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,D.Brown,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,P.Washington,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,Z.Ertz,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,M.Gesicki,Cincinnati Bengals,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,K.Coleman,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,J.Deguara,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,T.Scott,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,C.Kirk,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,B.Strange,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,G.Davis,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,L.McCaffrey,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,D.Kincaid,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,N.Brown,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,D.Knox,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,T.Higgins,Cincinnati Bengals,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,J.Chase,Cincinnati Bengals,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,L.Farrell,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,M.Hollins,Buffalo Bills,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Jacksonville Jaguars,1,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy
+0.0,T.McLaurin,Washington Commanders,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Cincinnati Bengals,0,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,E.All,Cincinnati Bengals,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Washington Commanders,1,Paycor,outdoors,turf,70,71,0,67,Rain
+0.0,B.Thomas,Jacksonville Jaguars,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,923,Buffalo Bills,0,Highmark,outdoors,turf,68,90,7,29,Mostly Cloudy

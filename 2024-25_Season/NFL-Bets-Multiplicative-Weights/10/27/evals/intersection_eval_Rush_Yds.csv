@@ -1,3 +1,6 @@
-,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Correct,Actual Value
-0,R.Davis o21.5 Rush Yds,PropBetGuy,Buffalo Bills,r.davis,Seattle Seahawks,0.0,1.0,1,1.0,1,1.0,1,56,15,88,99,Rain,Lumen Field,outdoors,turf,-113.0,1.13,2.13,1.0,Y,29.0
-1,N.Chubb u49.5 Rush Yds,CeeJPicks,Cleveland Browns,n.chubb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,53,13,49,1,Clear,Cleveland Browns,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996,N,52.0
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets,Correct,Actual Value
+0,R.Stevenson o42.5 rushing yards,Rotowire Sleeper,New England Patriots,r.stevenson,New York Jets,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,52,9,38,1,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,,,,Y,48.0
+1,R.Stevenson o45.5 rushing yards,Rotowire Prizepicks,New England Patriots,r.stevenson,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.4,0,51,9,34,1,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,,,,Y,48.0
+2,A.Kamara o51.5 rushing yards,Rotowire Prizepicks,New Orleans Saints,a.kamara,Los Angeles Chargers,0.0,0.5714285714285714,1,0.0,0,0.4,0,76,10,68,0,Clear,SoFi,indoors,turf,100.0,1.5,3.0,1.5,,,,Y,67.0
+3,R.Stevenson o45.5 rushing yards,Rotowire Sleeper,New England Patriots,r.stevenson,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.4,0,51,8,32,0,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5,,,,Y,48.0
+4,N.Chubb u49.5 Rush Yds,CeeJPicks,Cleveland Browns,n.chubb,Baltimore Ravens,1.0,1.0,1,1.0,1,1.0,1,53,13,49,1,Clear,Cleveland Browns,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996,,,,N,52.0

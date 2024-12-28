@@ -1,7 +1,20 @@
-,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
-0,K.Gainwell,Philadelphia Eagles,1,2,0,0,2,2.0,0,0.0,0,0,1,1,10,0,2,10,0,0,0,0,0,0,0,20.0,906,Green Bay Packers,1,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
-1,S.Barkley,Philadelphia Eagles,24,109,2,6,104,4.3,5,0.2,0,0,2,2,23,1,34,18,0,0,0,0,0,0,0,80.0,906,Green Bay Packers,1,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
-2,J.Hurts,Philadelphia Eagles,13,33,0,0,0,0,0,0,0,0,0,0,0,0,8,0,1,2,33,2.5,0,0.0,0,100.0,906,Green Bay Packers,1,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
-3,J.Reed,Green Bay Packers,1,33,1,1,33,33.0,0,0.0,0,0,6,4,138,1,33,70,0,0,0,0,0,0,0,72.0,906,Philadelphia Eagles,0,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
-4,E.Wilson,Green Bay Packers,4,46,0,2,46,11.5,0,0.0,0,0,3,2,2,0,18,2,0,0,0,0,0,0,0,24.0,906,Philadelphia Eagles,0,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
-5,J.Jacobs,Green Bay Packers,16,84,0,4,81,5.1,3,0.2,0,0,3,2,20,0,32,11,0,0,0,0,0,0,0,73.0,906,Philadelphia Eagles,0,Corinthians,indoors,turf,63,86,7,0,Mostly Cloudy
+Unnamed: 0,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Tgt,Rec,Rec_Yds,Rec_TD,Rush_Lng,Rec_Lng,FL,Rush_1D,Rush_YBC,Rush_YBC/Att,Rush_YAC,Rush_YAC/Att,Rush_BrkTkl,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0.0,K.Gainwell,Philadelphia Eagles,1,2,0,0,2,2.0,0,0.0,0,0,1,1,10,0,2,10,0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+1.0,S.Barkley,Philadelphia Eagles,24,109,2,6,104,4.3,5,0.2,0,0,2,2,23,1,34,18,0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+2.0,J.Hurts,Philadelphia Eagles,13,33,0,0,0,0.0,0,0.0,0,0,0,0,0,0,8,0,1,2.0,33.0,2.5,0.0,0.0,0.0,100.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+3.0,J.Reed,Green Bay Packers,1,33,1,1,33,33.0,0,0.0,0,0,6,4,138,1,33,70,0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+4.0,E.Wilson,Green Bay Packers,4,46,0,2,46,11.5,0,0.0,0,0,3,2,2,0,18,2,0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+5.0,J.Jacobs,Green Bay Packers,16,84,0,4,81,5.1,3,0.2,0,0,3,2,20,0,32,11,0,0.0,0.0,0.0,0.0,0.0,0.0,73.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,J.Dotson,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,M.Willis,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,J.Love,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,G.Calcaterra,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,C.Watson,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,R.Doubs,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,L.Musgrave,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,A.Brown,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,D.Smith,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,T.Kraft,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,D.Wicks,Green Bay Packers,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Philadelphia Eagles,0,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,J.Wilson,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy
+0.0,D.Goedert,Philadelphia Eagles,0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,906,Green Bay Packers,1,Corinthians,outdoors,grass,63,86,7,0,Mostly Cloudy

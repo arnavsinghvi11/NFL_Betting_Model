@@ -1,4 +1,1 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,C.Hubbard o18.5 Rush Att,gneiffer07,c.hubbard,N,10.0,Carolina Panthers,Dallas Cowboys,1.0,0.2307692307692307,0,0.3333333333333333,0,0.4,0,50,7,85,32,Rain,Bank of America,outdoors,grass,-110,1.1,2.1,1.0
-1,J.Winston o2.5 Rush Att,chrisgimino_,j.winston,N,2.0,Cleveland Browns,Kansas City Chiefs,1.0,0.6666666666666666,1,1.0,1,0.8,1,41,16,85,84,Rain,Cleveland Browns,outdoors,grass,-125,1.0,1.8,0.8
-2,B.Young o3.5 Rush Att,chrisgimino_,b.young,N,3.0,Carolina Panthers,Dallas Cowboys,1.0,0.375,0,0.3333333333333333,0,0.4,0,45,7,82,39,Rain,Bank of America,outdoors,grass,112,1.0,2.12,1.12
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit

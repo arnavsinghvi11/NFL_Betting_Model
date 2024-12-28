@@ -1,13 +1,16 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-2,M.Nabers u59.5 receiving yards,Rotowire Prizepicks,New York Giants,m.nabers,Dallas Cowboys,0.0,0.25,0,0.3333333333333333,0,0.4,0,54,10,38,1,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 4,D.Achane o29.5 receiving yards,Rotowire Sleeper,Miami Dolphins,d.achane,Green Bay Packers,0.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,28,8,68,8,Mostly Cloudy,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
 7,J.Reed o47.5 receiving yards,Rotowire Sleeper,Green Bay Packers,j.reed,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.2,0,28,8,68,8,Mostly Cloudy,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
 8,J.Reed o47.5 receiving yards,Rotowire Prizepicks,Green Bay Packers,j.reed,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.2,0,28,8,68,8,Mostly Cloudy,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
 18,C.Kmet u37.5 receiving yards,Rotowire Prizepicks,Chicago Bears,c.kmet,Detroit Lions,0.0,0.5,0,0.3333333333333333,0,0.4,0,40,9,66,7,Snow,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
+19,M.Nabers o60.5 Rec Yds,sandyplashkes,New York Giants,m.nabers,Dallas Cowboys,0.0,0.75,1,0.6666666666666666,1,0.6,1,54,10,38,0,Clear,AT&amp;T,indoors,turf,-112.0,1.12,2.12,1.0
 20,J.Reed o49.5 Rec Yds,sandyplashkes,Green Bay Packers,j.reed,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.2,0,28,13,68,8,Mostly Cloudy,Lambeau Field,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
+25,W.Robinson o29.5 receiving yards,Rotowire Prizepicks,New York Giants,w.robinson,Dallas Cowboys,0.0,0.8,1,1.0,1,0.8,1,54,10,38,0,Clear,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 30,C.Kmet u36.5 receiving yards,Rotowire Prizepicks,Chicago Bears,c.kmet,Detroit Lions,0.0,0.5,0,0.3333333333333333,0,0.4,0,40,9,66,7,Snow,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
 31,S.Laporta u39.5 receiving yards,Rotowire Prizepicks,Detroit Lions,s.laporta,Chicago Bears,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,40,9,66,7,Snow,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
-39,M.Nabers u69.5 receiving yards,Rotowire Prizepicks,New York Giants,m.nabers,Dallas Cowboys,0.0,0.5,0,0.6666666666666666,1,0.6,1,54,10,38,0,Partly Cloudy,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
+33,M.Nabers o59.5 Receiving Yards,Markus_Markets,New York Giants,m.nabers,Dallas Cowboys,0.0,0.75,1,0.6666666666666666,1,0.6,1,54,10,38,0,Partly Cloudy,AT&amp;T,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+34,M.Nabers o61.5 Rec Yds,charliedisturco,New York Giants,m.nabers,Dallas Cowboys,0.0,0.75,1,0.6666666666666666,1,0.6,1,54,10,38,0,Partly Cloudy,AT&amp;T,indoors,turf,-114.0,1.14,2.14,0.9999999999999998
+41,W.Robinson o30.5 receiving yards,Rotowire Prizepicks,New York Giants,w.robinson,Dallas Cowboys,0.0,0.7,1,0.6666666666666666,1,0.6,1,54,10,38,0,Partly Cloudy,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 44,C.Kmet u35.5 receiving yards,Rotowire Prizepicks,Chicago Bears,c.kmet,Detroit Lions,0.0,0.5,0,0.3333333333333333,0,0.4,0,40,10,60,6,Mostly Cloudy,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
 46,C.Kmet u33.5 Rec Yds,GDAWG5000,Chicago Bears,c.kmet,Detroit Lions,0.0,0.4,0,0.3333333333333333,0,0.4,0,40,12,60,6,Mostly Cloudy,Ford Field,indoors,turf,-110.0,0.55,1.05,0.5
 47,C.Kmet u33.5 Rec Yds,The_Oddsmaker,Chicago Bears,c.kmet,Detroit Lions,0.0,0.4,0,0.3333333333333333,0,0.4,0,40,12,60,6,Mostly Cloudy,Ford Field,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
@@ -15,7 +18,10 @@
 50,T.Patrick u22.5 receiving yards,Rotowire Prizepicks,Detroit Lions,t.patrick,Chicago Bears,1.0,0.375,0,0.3333333333333333,0,0.2,0,40,12,60,6,Mostly Cloudy,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
 65,J.Tolbert o21.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,j.tolbert,New York Giants,1.0,0.7,1,0.3333333333333333,0,0.6,1,50,12,39,0,Partly Cloudy,AT&amp;T,indoors,turf,100.0,1.5,3.0,1.5
 67,J.Smith u49.5 receiving yards,Rotowire Prizepicks,Miami Dolphins,j.smith,Green Bay Packers,0.0,0.5,0,0.3333333333333333,0,0.4,0,24,13,77,14,Snow,Lambeau Field,outdoors,grass,100.0,1.5,3.0,1.5
-86,T.Hill o62.5 Rec Yds,charliedisturco,Miami Dolphins,t.hill,Green Bay Packers,0.0,0.3,0,0.0,0,0.2,0,27,9,68,12,Snow,Lambeau Field,outdoors,grass,-110.0,1.1,2.1,1.0
 95,D.Moore o52.5 Rec Yds,rsura_,Chicago Bears,d.moore,Detroit Lions,0.0,0.5,0,0.6666666666666666,1,0.4,0,39,9,61,4,Overcast,Ford Field,indoors,turf,-110.0,1.1,2.1,1.0
-123,T.Hill o65.5 Rec Yds,shadybiev,Miami Dolphins,t.hill,Green Bay Packers,0.0,0.3,0,0.0,0,0.2,0,28,13,68,22,Overcast,Lambeau Field,outdoors,grass,100.0,3.0,6.0,3.0
+97,M.Nabers o67.5 Rec Yds,Theotherbabs,New York Giants,m.nabers,Dallas Cowboys,0.0,0.5,0,0.3333333333333333,0,0.4,0,52,16,37,2,Partly Cloudy,AT&amp;T,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+116,M.Nabers o67.5 Rec Yds,rsura_,New York Giants,m.nabers,Dallas Cowboys,0.0,0.5,0,0.3333333333333333,0,0.4,0,48,16,38,2,Clear,AT&amp;T,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
 128,J.Reed o49.5 Receiving Yards,Markus_Markets,Green Bay Packers,j.reed,Miami Dolphins,1.0,0.5,0,0.3333333333333333,0,0.2,0,27,10,68,22,Overcast,Lambeau Field,outdoors,grass,-112.0,1.0,1.8928571428571428,0.8928571428571428
+131,D.Wicks u41.5 Rec Yds,chrisgimino_,Green Bay Packers,d.wicks,Miami Dolphins,1.0,0.7777777777777778,1,1.0,1,0.8,1,27,10,68,22,Overcast,Lambeau Field,outdoors,grass,-105.0,0.95,1.8547619047619048,0.9047619047619048
+132,D.Moore o35.5 receiving yards,Rotowire Sleeper,Chicago Bears,d.moore,Detroit Lions,0.0,0.6363636363636364,1,1.0,1,0.6,1,39,9,61,4,Overcast,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
+134,T.Hill o28.5 Rec Yds,cawright95,Miami Dolphins,t.hill,Green Bay Packers,0.0,0.6363636363636364,1,1.0,1,0.8,1,27,10,68,22,Overcast,Lambeau Field,outdoors,grass,-113.0,1.13,2.13,1.0

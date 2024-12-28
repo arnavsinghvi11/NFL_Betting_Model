@@ -1,8 +1,5 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,K.Shakir o3.5 Recs,ThePropfessor_,k.shakir,Y,5.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,85,2,82,18,Rain,Hard Rock,outdoors,grass,100,1.0,2.0,1.0
-1,K.Coleman o3.5 Recs,FirefighterBets,k.coleman,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
-2,K.Shakir o3.5 Recs,Markus_Markets,k.shakir,Y,5.0,Buffalo Bills,Miami Dolphins,0.0,0.0,0,0.0,0,0.0,0,84,5,80,18,Rain,Hard Rock,outdoors,grass,102,1.0,2.02,1.02
-3,T.Hill o6.5 Recs,Markus_Markets,t.hill,N,3.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-130,1.0,1.7692307692307692,0.7692307692307692
-4,J.Waddle o4.5 Recs,kylemurray03,j.waddle,N,4.0,Miami Dolphins,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-135,1.35,2.35,1.0
-5,K.Coleman o3.5 Recs,Bettingyoda,k.coleman,N,0.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-125,1.0,1.8,0.8
-6,K.Shakir u3.5 Recs,MoneylineHacks,k.shakir,N,5.0,Buffalo Bills,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,K.Coleman o3.5 Recs,FirefighterBets,Buffalo Bills,k.coleman,,,,N,0.0,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,85,2,82,18,Rain,Hard Rock,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+1,K.Shakir u3.5 Recs,MoneylineHacks,Buffalo Bills,k.shakir,,,,N,5.0,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042
+2,J.Waddle o4.5 Recs,kylemurray03,Miami Dolphins,j.waddle,,,,N,4.0,Buffalo Bills,1.0,1.0,1,1.0,1,1.0,1,84,5,80,18,Rain,Hard Rock,outdoors,grass,-135,1.35,2.35,1.0
+3,K.Coleman o3.5 Recs,Bettingyoda,Buffalo Bills,k.coleman,,,,N,0.0,Miami Dolphins,0.0,1.0,1,1.0,1,1.0,1,84,2,82,18,Rain,Hard Rock,outdoors,grass,-125,1.0,1.8,0.8

@@ -1,13 +1,9 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,A.Jones o15.5 Rush Att,Proptology,a.jones,N,7.0,Minnesota Vikings,New York Jets,1.0,0.5,0,0.6666666666666666,1,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-130.0,1.3,2.3,0.9999999999999998
-1,A.Jones u15.5 Rush Att,chrisgimino_,a.jones,Y,7.0,Minnesota Vikings,New York Jets,1.0,0.5,0,0.3333333333333333,0,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
-2,D.Henry o18.5 Rush Att,cawright95,d.henry,N,15.0,Baltimore Ravens,Cincinnati Bengals,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,13,53,2,Clear,Paycor,outdoors,turf,-108.0,1.08,2.08,1.0
-3,J.Daniels o9.5 Rush Att,PropBetGuy,j.daniels,Y,11.0,Washington Commanders,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,106.0,1.0,2.06,1.06
-4,J.Daniels o9.5 Rush Att,Markus_Markets,j.daniels,Y,11.0,Washington Commanders,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,110.0,1.0,2.1,1.1
-5,J.Cook u14.5 Rush Att,cowhitchurch,j.cook,N,20.0,Buffalo Bills,Houston Texans,0.0,0.75,1,1.0,1,0.75,1,88,10,55,0,Clear,NRG,indoors,turf,100.0,1.0,2.0,1.0
-6,J.Cook u14.5 Rush Att,The_Oddsmaker,j.cook,N,20.0,Buffalo Bills,Houston Texans,0.0,0.75,1,1.0,1,0.75,1,88,10,55,0,Clear,NRG,indoors,turf,-110.0,1.1,2.1,1.0
-7,T.Etienne o12.5 Rush Att,Mjaybrxd,t.etienne,N,6.0,Jacksonville Jaguars,Indianapolis Colts,1.0,0.25,0,0.3333333333333333,0,0.25,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
-8,K.Walker o15.5 Rush Att,Markus_Markets,k.walker,N,5.0,Seattle Seahawks,New York Giants,1.0,0.5,0,0.5,0,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-120.0,1.0,1.8333333333333333,0.8333333333333335
-9,K.Murray o4.5 Rush Att,ThePropfessor_,k.murray,Y,7.0,Arizona Cardinals,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,88,6,30,2,Partly Cloudy,Levi's,outdoors,grass,-130.0,1.3,2.3,0.9999999999999998
-10,J.Cook o14.5 Rush Att,ccentral,j.cook,Y,20.0,Buffalo Bills,Houston Texans,0.0,0.25,0,0.0,0,0.25,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524
-11,J.Fields o9.5 Rush Att,PropBetGuy,j.fields,N,6.0,Pittsburgh Steelers,Dallas Cowboys,1.0,0.5,0,0.3333333333333333,0,0.5,0,80,14,66,70,Clear,Acrisure,outdoors,grass,105.0,1.0,2.05,1.0499999999999998
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,A.Jones o15.5 Rush Att,Proptology,Minnesota Vikings,a.jones,,,,N,7.0,New York Jets,1.0,0.5,0,0.6666666666666666,1,0.5,0,59,9,82,65,Mostly Cloudy,Tottenham,outdoors,grass,-130,1.3,2.3,0.9999999999999998
+1,D.Henry o18.5 Rush Att,cawright95,Baltimore Ravens,d.henry,,,,N,15.0,Cincinnati Bengals,0.0,0.5,0,0.6666666666666666,1,0.5,0,83,13,53,2,Clear,Paycor,outdoors,turf,-108,1.08,2.08,1.0
+2,J.Daniels o9.5 Rush Att,PropBetGuy,Washington Commanders,j.daniels,,,,Y,11.0,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,106,1.0,2.06,1.06
+3,J.Daniels o9.5 Rush Att,Markus_Markets,Washington Commanders,j.daniels,,,,Y,11.0,Cleveland Browns,1.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,110,1.0,2.1,1.1
+4,T.Etienne o12.5 Rush Att,Mjaybrxd,Jacksonville Jaguars,t.etienne,,,,N,6.0,Indianapolis Colts,1.0,0.25,0,0.3333333333333333,0,0.25,0,78,10,82,75,Rain,TIAA Bank,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+5,K.Walker o15.5 Rush Att,Markus_Markets,Seattle Seahawks,k.walker,,,,N,5.0,New York Giants,1.0,0.5,0,0.5,0,0.5,0,64,3,66,3,Clear,Lumen Field,outdoors,turf,-120,1.0,1.8333333333333333,0.8333333333333335
+6,K.Murray o4.5 Rush Att,ThePropfessor_,Arizona Cardinals,k.murray,,,,Y,7.0,San Francisco 49ers,0.0,0.75,1,0.6666666666666666,1,0.75,1,88,6,30,2,Partly Cloudy,Levi's,outdoors,grass,-130,1.3,2.3,0.9999999999999998
+7,J.Cook o14.5 Rush Att,ccentral,Buffalo Bills,j.cook,,,,Y,20.0,Houston Texans,0.0,0.25,0,0.0,0,0.25,0,83,8,55,0,Partly Cloudy,NRG,indoors,turf,-105,1.0,1.9523809523809523,0.9523809523809524

@@ -1,5 +1,11 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+33,C.Hubbard o58.5 Rush Yds,NicholaskMartin,Carolina Panthers,c.hubbard,Chicago Bears,0.0,0.75,1,1.0,1,0.75,1,73,19,24,0,Clear,Soldier Field,outdoors,grass,-110,0.5,0.9545454545454546,0.4545454545454546
+34,C.Hubbard o58.5 Rush Yds,wheatonbrando,Carolina Panthers,c.hubbard,Chicago Bears,0.0,0.75,1,1.0,1,0.75,1,73,19,24,0,Clear,Soldier Field,outdoors,grass,-105,0.75,1.4642857142857142,0.7142857142857142
 42,L.Jackson o54.5 Rush Yds,KyleJustBets,Baltimore Ravens,l.jackson,Cincinnati Bengals,0.0,0.5,0,0.3333333333333333,0,0.5,0,83,13,53,2,Clear,Paycor,outdoors,turf,-112,1.0,1.8928571428571428,0.8928571428571428
+52,J.Brissett u11.5 Rush Yds,cowhitchurch,New England Patriots,j.brissett,Miami Dolphins,1.0,0.75,1,1.0,1,0.75,1,66,1,50,0,Clear,Gillette,outdoors,turf,-120,0.6,1.1,0.5000000000000001
+53,J.Brissett u11.5 Rush Yds,nick_giffen,New England Patriots,j.brissett,Miami Dolphins,1.0,0.75,1,1.0,1,0.75,1,66,1,50,0,Clear,Gillette,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+55,R.Stevenson u59.5 Rush Yds,chrisgimino_,New England Patriots,r.stevenson,Miami Dolphins,1.0,0.5,0,0.6666666666666666,1,0.5,0,66,1,50,0,Clear,Gillette,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
+56,R.Stevenson u59.5 Rush Yds,ChrisRaybon,New England Patriots,r.stevenson,Miami Dolphins,1.0,0.5,0,0.6666666666666666,1,0.5,0,66,1,50,0,Clear,Gillette,outdoors,turf,-115,1.0,1.869565217391304,0.8695652173913042
 58,J.Ford o43.5 Rush Yds,MJCLocks,Cleveland Browns,j.ford,Washington Commanders,0.0,0.75,1,0.6666666666666666,1,0.75,1,74,6,53,3,Clear,FedExField,outdoors,grass,-110,1.1,2.1,1.0
 115,J.Mason o86.5 Rush Yds,therocketplays,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,88,6,30,2,Partly Cloudy,Levi's,outdoors,grass,-113,1.13,2.13,1.0
 127,E.Wilson o26.5 Rush Yds,PropBetGuy,Green Bay Packers,e.wilson,Los Angeles Rams,0.0,1.0,1,1.0,1,1.0,1,74,10,44,1,Foggy,SoFi,indoors,turf,-110,1.1,2.1,1.0
@@ -7,7 +13,15 @@
 129,J.Jacobs o62.5 Rush Yds,Markus_Markets,Green Bay Packers,j.jacobs,Los Angeles Rams,0.0,0.5,0,0.3333333333333333,0,0.5,0,74,10,44,1,Foggy,SoFi,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
 145,K.Walker o68.5 Rush Yds,ThePropfessor_,Seattle Seahawks,k.walker,New York Giants,1.0,1.0,1,1.0,1,1.0,1,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
 146,K.Walker o69.5 Rush Yds,PropBetGuy,Seattle Seahawks,k.walker,New York Giants,1.0,1.0,1,1.0,1,1.0,1,64,3,66,3,Clear,Lumen Field,outdoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
+158,D.Foreman u22.5 Rush Yds,ChrisRaybon,Cleveland Browns,d.foreman,Washington Commanders,0.0,0.5,0,0.5,0,0.5,0,74,6,53,3,Clear,FedExField,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
+159,J.Allen o32.5 Rush Yds,moneybadger24_,Buffalo Bills,j.allen,Houston Texans,0.0,0.5,0,0.3333333333333333,0,0.5,0,88,10,55,0,Clear,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+163,D.Foreman u22.5 Rush Yds,cowhitchurch,Cleveland Browns,d.foreman,Washington Commanders,0.0,0.5,0,0.5,0,0.5,0,74,6,48,1,Clear,FedExField,outdoors,grass,-110,1.1,2.1,1.0
+167,D.Foreman u20.5 Rush Yds,convince_me,Cleveland Browns,d.foreman,Washington Commanders,0.0,0.5,0,0.5,0,0.5,0,74,6,48,1,Clear,FedExField,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
 184,A.Ekeler o21.5 Rush Yds,moneybadger24_,Washington Commanders,a.ekeler,Cleveland Browns,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,70,3,48,1,Clear,FedExField,outdoors,grass,-120,1.8,3.3000000000000003,1.5000000000000002
 195,J.Ford o43.5 Rush Yds,theprophunter0_,Cleveland Browns,j.ford,Washington Commanders,0.0,0.75,1,0.6666666666666666,1,0.75,1,71,3,48,1,Partly Cloudy,FedExField,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
 222,C.Lamb o4.5 Rush Yds,PropBetGuy,Dallas Cowboys,c.lamb,Pittsburgh Steelers,0.0,0.5,0,0.3333333333333333,0,0.5,0,80,14,66,70,Clear,Acrisure,outdoors,grass,-110,1.1,2.1,1.0
 226,N.Harris o68.5 Rush Yds,ThePropfessor_,Pittsburgh Steelers,n.harris,Dallas Cowboys,1.0,0.75,1,0.6666666666666666,1,0.75,1,80,14,66,70,Clear,Acrisure,outdoors,grass,-110,1.1,2.1,1.0
+233,J.Williams o13.5 rushing yards,Rotowire Sleeper,Denver Broncos,j.williams,Las Vegas Raiders,1.0,0.75,1,0.6666666666666666,1,0.75,1,68,9,20,0,Clear,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5
+235,D.Henry o85.5 rushing yards,Rotowire Sleeper,Baltimore Ravens,d.henry,Cincinnati Bengals,0.0,0.5,0,0.6666666666666666,1,0.5,0,84,14,53,2,Clear,Paycor,outdoors,turf,100,1.5,3.0,1.5
+237,J.Mason o78.5 rushing yards,Rotowire Prizepicks,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,100,1.5,3.0,1.5
+238,J.Mason o78.5 rushing yards,Rotowire Sleeper,San Francisco 49ers,j.mason,Arizona Cardinals,1.0,0.75,1,0.6666666666666666,1,0.75,1,91,6,32,1,Clear,Levi's,outdoors,grass,100,1.5,3.0,1.5

@@ -1,7 +1,5 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 91,S.Barkley o2.5 Recs,chrisgimino_,Philadelphia Eagles,s.barkley,Pittsburgh Steelers,1.0,0.3076923076923077,0,0.3333333333333333,0,0.2,0,41,5,62,8,Rain,Lincoln Financial Field,outdoors,grass,154,1.0,2.54,1.54
-98,M.Williams o1.5 Recs,chrisgimino_,Pittsburgh Steelers,m.williams,Philadelphia Eagles,0.0,1.0,1,1.0,1,1.0,1,41,5,62,8,Rain,Lincoln Financial Field,outdoors,grass,-138,1.0,1.7246376811594204,0.7246376811594204
-100,J.McLaughlin o1.5 Recs,chrisgimino_,Denver Broncos,j.mclaughlin,Indianapolis Colts,1.0,0.3636363636363636,0,0.3333333333333333,0,0.2,0,53,16,20,1,Clear,Empower Field at Mile High,outdoors,grass,155,1.0,2.55,1.5499999999999998
 122,D.Montgomery o2.5 Recs,Theotherbabs,Detroit Lions,d.montgomery,Buffalo Bills,1.0,0.6153846153846154,1,1.0,1,0.8,1,41,9,89,43,Rain,Ford Field,indoors,turf,140,1.0,2.4,1.4
 235,N.Fant o2.5 Recs,moneylinewixted,Seattle Seahawks,n.fant,Green Bay Packers,1.0,0.7,1,1.0,1,1.0,1,45,3,81,6,Rain,Lumen Field,outdoors,turf,-135,3.0,5.222222222222222,2.2222222222222223
 248,J.Smith-Njigba o5.5 Recs,PlayerPropSavant,Seattle Seahawks,j.smith-njigba,Green Bay Packers,1.0,0.4615384615384615,0,0.3333333333333333,0,0.6,1,46,0,82,4,Partly Cloudy,Lumen Field,outdoors,turf,-120,1.2,2.2,1.0000000000000002

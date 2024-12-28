@@ -7,12 +7,11 @@
 40,T.Bigsby o38.5 Rush Yds,TheBMatt,Jacksonville Jaguars,t.bigsby,Chicago Bears,0.0,1.0,1,1.0,1,1.0,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
 43,T.Etienne o40.5 rushing yards,Rotowire Sleeper,Jacksonville Jaguars,t.etienne,Chicago Bears,0.0,0.8,1,0.6666666666666666,1,0.8,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,100.0,1.5,3.0,1.5
 50,B.Irving o37.5 Rush Yds,PropBetGuy,Tampa Bay Buccaneers,b.irving,New Orleans Saints,0.0,0.8,1,1.0,1,0.8,1,80,3,59,0,,Caesars Superdome,indoors,turf,-113.0,1.13,2.13,1.0
+52,K.Cousins u0.5 Rush Yds,ChrisRaybon,Atlanta Falcons,k.cousins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,79,10,46,1,Clear,Bank of America,outdoors,grass,-155.0,1.0,1.6451612903225803,0.6451612903225805
 53,T.Lawrence o7.5 Rush Yds,gneiffer07,Jacksonville Jaguars,t.lawrence,Chicago Bears,0.0,0.4,0,0.0,0,0.4,0,57,6,77,2,Overcast,Tottenham,outdoors,grass,-110.0,2.2,4.2,2.0
 61,R.Johnson o24.5 rushing yards,Rotowire Prizepicks,Chicago Bears,r.johnson,Jacksonville Jaguars,1.0,1.0,1,1.0,1,1.0,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,100.0,1.5,3.0,1.5
 64,S.Barkley o81.5 Rush Yds,TheBMatt,Philadelphia Eagles,s.barkley,Cleveland Browns,1.0,1.0,1,1.0,1,1.0,1,72,7,53,16,Rain,Lincoln Financial Field,outdoors,grass,-114.0,1.0,1.8771929824561404,0.8771929824561404
 66,J.Fields o36.5 rushing yards,Rotowire Prizepicks,Pittsburgh Steelers,j.fields,Las Vegas Raiders,0.0,0.4,0,0.3333333333333333,0,0.4,0,87,3,10,0,Clear,Allegiant,indoors,grass,100.0,1.5,3.0,1.5
-72,A.Dalton o2.5 rushing yards,Rotowire Prizepicks,Carolina Panthers,a.dalton,Atlanta Falcons,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,79,10,47,1,Clear,Bank of America,outdoors,grass,100.0,1.5,3.0,1.5
-74,T.Allgeier o37.5 rush yards,Jared Hochman,Atlanta Falcons,t.allgeier,Carolina Panthers,0.0,0.5,0,0.3333333333333333,0,0.5,0,79,10,47,1,Clear,Bank of America,outdoors,grass,100.0,0.75,1.5,0.75
 78,J.Fields o36.5 rushing yards,Rotowire Sleeper,Pittsburgh Steelers,j.fields,Las Vegas Raiders,0.0,0.4,0,0.3333333333333333,0,0.4,0,87,3,10,0,Clear,Allegiant,indoors,grass,100.0,1.5,3.0,1.5
 89,B.Irving o37.5 rush yards,Jared Hochman,Tampa Bay Buccaneers,b.irving,New Orleans Saints,0.0,0.8,1,1.0,1,0.8,1,80,3,57,0,Clear,Caesars Superdome,indoors,turf,100.0,0.75,1.5,0.75
 102,B.Irving o60.5 rush yards,Jared Hochman,Tampa Bay Buccaneers,b.irving,New Orleans Saints,0.0,0.4,0,0.3333333333333333,0,0.4,0,81,3,54,0,Clear,Caesars Superdome,indoors,turf,100.0,0.75,1.5,0.75
@@ -20,6 +19,7 @@
 113,J.Jacobs o66.5 Rush Yds,MJCLocks,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.6,1,0.3333333333333333,0,0.6,1,53,9,80,67,Rain,Lambeau Field,outdoors,grass,-113.0,1.13,2.13,1.0
 123,T.Sermon u50.5 Rush Yds,chrisgimino_,Indianapolis Colts,t.sermon,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,83,14,46,2,Partly Cloudy,Nissan,outdoors,grass,-120.0,1.0,1.8333333333333333,0.8333333333333335
 134,T.Bigsby o38.5 Rush Yds,cowhitchurch,Jacksonville Jaguars,t.bigsby,Chicago Bears,0.0,1.0,1,1.0,1,1.0,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-113.0,0.57,1.074424778761062,0.504424778761062
+137,K.Cousins u0.5 Rush Yds,cowhitchurch,Atlanta Falcons,k.cousins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,81,10,39,0,Clear,Bank of America,outdoors,grass,-165.0,0.5,0.803030303030303,0.303030303030303
 160,A.Ekeler u44.5 Rush Yds,chrisgimino_,Washington Commanders,a.ekeler,Baltimore Ravens,0.0,0.75,1,0.6666666666666666,1,0.75,1,79,10,42,3,Mostly Cloudy,M&amp;T Bank,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 165,D.Montgomery o55.5 Rush Yds,CeeJPicks,Detroit Lions,d.montgomery,Dallas Cowboys,0.0,0.5,0,0.3333333333333333,0,0.5,0,96,8,22,0,Clear,AT&amp;T,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
 171,T.Pollard o64.5 Rush Yds,therocketplays,Tennessee Titans,t.pollard,Indianapolis Colts,1.0,0.5,0,0.3333333333333333,0,0.5,0,81,13,51,3,Clear,Nissan,outdoors,grass,-110.0,1.1,2.1,1.0
@@ -27,6 +27,8 @@
 187,T.Bigsby o40.5 Rush Yds,Bward586,Jacksonville Jaguars,t.bigsby,Chicago Bears,0.0,1.0,1,1.0,1,1.0,1,57,6,77,2,Overcast,Tottenham,outdoors,grass,-110.0,1.1,2.1,1.0
 189,J.Hurts o41.5 Rush Yds,sandyplashkes,Philadelphia Eagles,j.hurts,Cleveland Browns,1.0,0.25,0,0.3333333333333333,0,0.25,0,76,9,42,4,Rain,Lincoln Financial Field,outdoors,grass,-114.0,1.14,2.14,0.9999999999999998
 191,J.Dobbins o68.5 Rush Yds,Mjaybrxd,Los Angeles Chargers,j.dobbins,Denver Broncos,0.0,0.5,0,0.3333333333333333,0,0.5,0,55,6,26,2,Clear,Empower Field at Mile High,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+196,T.Goodson u24.5 Rush Yds,chrisgimino_,Indianapolis Colts,t.goodson,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,81,13,51,3,Clear,Nissan,outdoors,grass,-116.0,1.0,1.862068965517241,0.8620689655172413
 238,J.Jacobs o59.5 Rushing Yards,JBBets1,Green Bay Packers,j.jacobs,Arizona Cardinals,1.0,0.6,1,0.3333333333333333,0,0.6,1,50,9,86,80,Overcast,Lambeau Field,outdoors,grass,-164.0,1.0,1.6097560975609757,0.6097560975609757
 240,T.Pollard o59.5 Rushing Yards,JBBets1,Tennessee Titans,t.pollard,Indianapolis Colts,1.0,0.75,1,0.6666666666666666,1,0.75,1,77,14,51,3,Clear,Nissan,outdoors,grass,-144.0,1.0,1.6944444444444444,0.6944444444444444
-271,J.Burrow o8.5 rushing yards,Rotowire Prizepicks,Cincinnati Bengals,j.burrow,New York Giants,0.0,0.6,1,0.3333333333333333,0,0.6,1,69,6,59,16,Rain,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+282,J.Hasty u17.5 Rush Yds,chrisgimino_,New England Patriots,j.hasty,Houston Texans,1.0,1.0,1,1.0,1,1.0,1,48,3,61,20,Overcast,Gillette,outdoors,turf,-117.0,0.85,1.5764957264957264,0.7264957264957265
+295,J.Mixon o55.5 rushing yards,Rotowire Sleeper,Houston Texans,j.mixon,New England Patriots,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,48,3,61,20,Overcast,Gillette,outdoors,turf,100.0,1.5,3.0,1.5

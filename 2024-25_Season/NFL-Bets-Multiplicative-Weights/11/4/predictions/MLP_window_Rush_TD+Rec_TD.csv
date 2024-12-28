@@ -1,1 +1,6 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+5,C.Otton o0.5 rush_td+rec_td,GDAWG5000,Tampa Bay Buccaneers,c.otton,Kansas City Chiefs,0.0,0.25,0,0.6666666666666666,1,0.4,0,62,9,100,84,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,333.0,0.5,2.165,1.665
+35,T.Kelce o0.5 rush_td+rec_td,JBBets1,Kansas City Chiefs,t.kelce,Tampa Bay Buccaneers,1.0,0.1428571428571428,0,0.3333333333333333,0,0.2,0,62,6,100,65,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,120.0,1.0,2.2,1.2000000000000002
+39,J.Watson o0.5 rush_td+rec_td,daletanhardt,Kansas City Chiefs,j.watson,Tampa Bay Buccaneers,1.0,0.0,0,0.0,0,0.0,0,64,5,100,65,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,550.0,0.8,5.2,4.4
+40,N.Gray o0.5 rush_td+rec_td,daletanhardt,Kansas City Chiefs,n.gray,Tampa Bay Buccaneers,1.0,0.0,0,0.0,0,0.0,0,64,5,100,65,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,470.0,1.0,5.7,4.7
+43,T.Palmer o0.5 rush_td+rec_td,nick_giffen,Tampa Bay Buccaneers,t.palmer,Kansas City Chiefs,0.0,0.0,0,0.0,0,0.0,0,63,6,100,65,Rain,GEHA Field at Arrowhead Stadium,outdoors,grass,350.0,0.5,2.25,1.75

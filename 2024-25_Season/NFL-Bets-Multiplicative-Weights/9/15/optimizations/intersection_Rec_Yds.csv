@@ -1,18 +1,26 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-M.Evans u70.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,M.Evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,80,8,51,9,Rain,Ford Field,indoors,turf,100,1.5,3.0,1.5
-J.Smith-njigba u44.5 receiving yards,Rotowire Prizepicks,Seattle Seahawks,j.smith-njigba,New England Patriots,0.0,1.0,1,1.0,1,1.0,1,77,5,58,1,Rain,Gillette,outdoors,turf,100,1.5,3.0,1.5
-Q.Johnston u33.5 Rec Yds,chrisgimino_,Los Angeles Chargers,q.johnston,Carolina Panthers,0.0,0.0,0,0.0,0,0.0,0,75,12,64,27,Rain,Bank of America,outdoors,grass,-117,1.0,1.8547008547008548,0.8547008547008548
-L.Mcconkey u46.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,12,80,27,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5
-L.Mcconkey u45.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,14,80,28,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5
-J.McMillan u30.5 Rec Yds,kylemurray03,Tampa Bay Buccaneers,j.mcmillan,Detroit Lions,0.0,0.0,0,0.0,0,0.0,0,81,7,49,1,Clear,Ford Field,indoors,turf,-111,1.11,2.1100000000000003,1.0000000000000002
-M.Evans u72.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,100,1.5,3.0,1.5
-T.Johnson u35.5 Rec Yds,kylemurray03,Los Angeles Rams,t.johnson,Arizona Cardinals,0.0,0.0,0,0.0,0,0.0,0,94,8,38,8,Rain,State Farm,indoors,grass,-114,1.14,2.14,0.9999999999999998
-J.Nailor u32.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.nailor,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,80,10,65,3,Rain,U.S. Bank,indoors,turf,100,1.5,3.0,1.5
-A.Lazard u37.5 receiving yards,Rotowire Prizepicks,New York Jets,a.lazard,Tennessee Titans,0.0,0.0,0,0.0,0,0.0,0,83,8,61,20,Rain,Nissan,outdoors,grass,100,1.5,3.0,1.5
-B.Cooks u47.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,b.cooks,New Orleans Saints,1.0,1.0,1,1.0,1,1.0,1,85,6,53,0,Clear,AT&amp;T,indoors,turf,100,1.5,3.0,1.5
-J.Palmer u40.5 Rec Yds,cowhitchurch,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,79,14,64,11,Rain,Bank of America,outdoors,grass,-113,1.0,1.8849557522123888,0.8849557522123894
-J.Palmer u39.5 Rec Yds,The_Oddsmaker,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,79,14,64,11,Rain,Bank of America,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996
-A.Iosivas u40.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,a.iosivas,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,100,1.5,3.0,1.5
-A.Gibson u10.5 Rec Yds,MoneylineHacks,New England Patriots,a.gibson,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-121,1.0,1.826446280991736,0.8264462809917354
-R.Odunze u38.5 Rec Yds,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-110,2.0,3.8181818181818175,1.8181818181818183
-J.Palmer u36.5 Rec Yds,Theotherbabs,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,14,66,10,Mostly Cloudy,Bank of America,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+J.Smith-njigba u44.5 receiving yards,Rotowire Prizepicks,Seattle Seahawks,j.smith-njigba,New England Patriots,0.0,1.0,1,1.0,1,1.0,1,77,5,58,1,Rain,Gillette,outdoors,turf,100,1.5,3.0,1.5,0,1,Rec_Yds
+J.Ford o17.5 Rec Yds,Markus_Markets,Cleveland Browns,j.ford,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,84,10,74,47,Rain,TIAA Bank,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+L.Mcconkey u46.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,12,80,27,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5,0,1,Rec_Yds
+L.Mcconkey u45.5 receiving yards,Rotowire Prizepicks,Los Angeles Chargers,l.mcconkey,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,14,80,28,Rain,Bank of America,outdoors,grass,100,1.5,3.0,1.5,0,1,Rec_Yds
+R.White o24.5 Rec Yds,kylemurray03,Tampa Bay Buccaneers,r.white,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,-111,1.11,2.1100000000000003,1.0000000000000002,1,0,Rec_Yds
+M.Evans u72.5 receiving yards,Rotowire Prizepicks,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,100,1.5,3.0,1.5,0,1,Rec_Yds
+B.Hall o27.5 Rec Yds,Markus_Markets,New York Jets,b.hall,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,81,9,50,9,Rain,Nissan,outdoors,grass,-114,1.0,1.8771929824561404,0.8771929824561404,1,0,Rec_Yds
+N.Collins o65.5 Rec Yds,Markus_Markets,Houston Texans,n.collins,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,90,5,60,8,Clear,NRG,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+A.Ekeler o20.5 Rec Yds,KyleJustBets,Washington Commanders,a.ekeler,New York Giants,1.0,1.0,1,1.0,1,1.0,1,79,9,56,0,Partly Cloudy,FedExField,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+J.Jennings o16.5 receiving yards,Rotowire Prizepicks,San Francisco 49ers,j.jennings,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,65,4,Partly Cloudy,U.S. Bank,indoors,turf,100,1.5,3.0,1.5,1,0,Rec_Yds
+J.Nailor u32.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.nailor,San Francisco 49ers,1.0,1.0,1,1.0,1,1.0,1,80,10,65,3,Rain,U.S. Bank,indoors,turf,100,1.5,3.0,1.5,0,1,Rec_Yds
+B.Cooks u47.5 receiving yards,Rotowire Prizepicks,Dallas Cowboys,b.cooks,New Orleans Saints,1.0,1.0,1,1.0,1,1.0,1,85,6,53,0,Clear,AT&amp;T,indoors,turf,100,1.5,3.0,1.5,0,1,Rec_Yds
+J.Jennings o16.5 receiving yards,Rotowire Sleeper,San Francisco 49ers,j.jennings,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,81,10,66,4,Partly Cloudy,U.S. Bank,indoors,turf,100,1.5,3.0,1.5,1,0,Rec_Yds
+N.Collins o65.5 receiving yards,Rohit Ponnaiya,Houston Texans,n.collins,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,89,7,59,7,Rain,NRG,indoors,turf,100,0.75,1.5,0.75,1,0,Rec_Yds
+J.Palmer u40.5 Rec Yds,cowhitchurch,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,79,14,64,11,Rain,Bank of America,outdoors,grass,-113,1.0,1.8849557522123888,0.8849557522123894,0,1,Rec_Yds
+J.Palmer u39.5 Rec Yds,The_Oddsmaker,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,79,14,64,11,Rain,Bank of America,outdoors,grass,-115,1.15,2.1499999999999995,0.9999999999999996,0,1,Rec_Yds
+W.Robinson o34.5 Rec Yds,FirefighterBets,New York Giants,w.robinson,Washington Commanders,0.0,1.0,1,1.0,1,1.0,1,78,10,54,0,Partly Cloudy,FedExField,outdoors,grass,-115,1.0,1.869565217391304,0.8695652173913042,1,0,Rec_Yds
+J.Meyers o36.5 Rec Yds,FirefighterBets,Las Vegas Raiders,j.meyers,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,80,13,49,0,Clear,M&amp;T Bank,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+C.Kupp o84.5 Rec Yds,KyleJustBets,Los Angeles Rams,c.kupp,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,98,8,26,10,Rain,State Farm,indoors,grass,-115,1.0,1.869565217391304,0.8695652173913042,1,0,Rec_Yds
+A.Iosivas u40.5 receiving yards,Rotowire Prizepicks,Cincinnati Bengals,a.iosivas,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,100,1.5,3.0,1.5,0,1,Rec_Yds
+R.Odunze u38.5 Rec Yds,MoneylineHacks,Chicago Bears,r.odunze,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-110,2.0,3.8181818181818175,1.8181818181818183,0,1,Rec_Yds
+J.Palmer u36.5 Rec Yds,Theotherbabs,Los Angeles Chargers,j.palmer,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,14,66,10,Mostly Cloudy,Bank of America,outdoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,0,1,Rec_Yds
+J.Reynolds o26.5 receiving yards,Rotowire Prizepicks,Denver Broncos,j.reynolds,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,8,16,17,Rain,Empower Field at Mile High,outdoors,grass,100,1.5,3.0,1.5,1,0,Rec_Yds
+G.Dortch o33.5 Rec Yds,FirefighterBets,Arizona Cardinals,g.dortch,Los Angeles Rams,1.0,1.0,1,1.0,1,1.0,1,97,8,26,10,Clear,State Farm,indoors,grass,-110,1.0,1.9090909090909087,0.9090909090909092,1,0,Rec_Yds
+N.Collins o64.5 Rec Yds,rsura_,Houston Texans,n.collins,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-110,1.15,2.1954545454545453,1.0454545454545454,1,0,Rec_Yds

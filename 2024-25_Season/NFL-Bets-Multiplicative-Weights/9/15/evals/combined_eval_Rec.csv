@@ -1,17 +1,26 @@
-,Play,Expert,Name,Correct,Actual Value,Team,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-0,G.Dulcich u2.5 Recs,kylemurray03,g.dulcich,N,3.0,Denver Broncos,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
-1,I.Likely u3.5 Recs,cowhitchurch,i.likely,Y,2.0,Baltimore Ravens,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-2,I.Likely u3.5 Recs,The_Oddsmaker,i.likely,Y,2.0,Baltimore Ravens,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
-3,B.Aiyuk u4.5 Recs,cowhitchurch,b.aiyuk,Y,4.0,San Francisco 49ers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
-4,B.Aiyuk u4.5 Recs,The_Oddsmaker,b.aiyuk,Y,4.0,San Francisco 49ers,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002
-5,J.Polk o1.5 Recs,cowhitchurch,j.polk,Y,2.0,New England Patriots,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
-6,J.Polk o1.5 Recs,boomerslocks,j.polk,Y,2.0,New England Patriots,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
-7,J.Polk o1.5 Recs,The_Oddsmaker,j.polk,Y,2.0,New England Patriots,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.32,2.3200000000000003,1.0000000000000002
-8,T.Irwin u2.5 Recs,cowhitchurch,t.irwin,Y,1.0,Cincinnati Bengals,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5
-9,T.Irwin u2.5 Recs,nick_giffen,t.irwin,Y,1.0,Cincinnati Bengals,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0
-10,J.Palmer u3.5 Recs,PropBomb,j.palmer,Y,2.0,Los Angeles Chargers,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0
-11,J.McLaughlin u2.5 Recs,MoneylineHacks,j.mclaughlin,Y,0.0,Denver Broncos,Pittsburgh Steelers,1.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,106,1.0,2.06,1.06
-12,R.Odunze u3.5 Recs,MoneylineHacks,r.odunze,Y,2.0,Chicago Bears,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
-13,R.Odunze u3.5 Recs,charliedisturco,r.odunze,Y,2.0,Chicago Bears,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
-14,R.Odunze u3.5 Recs,cowhitchurch,r.odunze,Y,2.0,Chicago Bears,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625
-15,R.Odunze u3.5 Recs,The_Oddsmaker,r.odunze,Y,2.0,Chicago Bears,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+,Play,Expert,Team,Name,Over?,Under?,Prop Bets,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,G.Dulcich u2.5 Recs,kylemurray03,Denver Broncos,g.dulcich,,,,N,3.0,Pittsburgh Steelers,1.0,1.0,1,1.0,1,1.0,1,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,-120,1.2,2.2,1.0000000000000002
+1,I.Likely u3.5 Recs,cowhitchurch,Baltimore Ravens,i.likely,,,,Y,2.0,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+2,I.Likely u3.5 Recs,The_Oddsmaker,Baltimore Ravens,i.likely,,,,Y,2.0,Las Vegas Raiders,1.0,0.0,0,0.0,0,0.0,0,80,12,49,1,Partly Cloudy,M&amp;T Bank,outdoors,grass,-114,1.14,2.14,0.9999999999999998
+3,E.Moore o2.5 Recs,cowhitchurch,Cleveland Browns,e.moore,,,,Y,6.0,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998
+4,E.Moore o2.5 Recs,The_Oddsmaker,Cleveland Browns,e.moore,,,,Y,6.0,Jacksonville Jaguars,0.0,1.0,1,1.0,1,1.0,1,81,13,79,45,Rain,TIAA Bank,outdoors,grass,-105,1.05,2.05,0.9999999999999998
+5,B.Aiyuk u4.5 Recs,cowhitchurch,San Francisco 49ers,b.aiyuk,,,,Y,4.0,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-114,1.0,1.8771929824561404,0.8771929824561404
+6,B.Aiyuk u4.5 Recs,The_Oddsmaker,San Francisco 49ers,b.aiyuk,,,,Y,4.0,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,9,69,3,Foggy,U.S. Bank,indoors,turf,-120,1.2,2.2,1.0000000000000002
+7,J.Polk o1.5 Recs,cowhitchurch,New England Patriots,j.polk,,,,Y,2.0,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
+8,J.Polk o1.5 Recs,boomerslocks,New England Patriots,j.polk,,,,Y,2.0,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.0,1.7575757575757576,0.7575757575757576
+9,J.Polk o1.5 Recs,The_Oddsmaker,New England Patriots,j.polk,,,,Y,2.0,Seattle Seahawks,1.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-132,1.32,2.3200000000000003,1.0000000000000002
+10,T.Irwin u2.5 Recs,cowhitchurch,Cincinnati Bengals,t.irwin,,,,Y,1.0,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,0.8,1.3,0.5
+11,T.Irwin u2.5 Recs,nick_giffen,Cincinnati Bengals,t.irwin,,,,Y,1.0,Kansas City Chiefs,0.0,1.0,1,1.0,1,1.0,1,85,9,51,9,Partly Cloudy,GEHA Field at Arrowhead Stadium,outdoors,grass,-160,1.6,2.6,1.0
+12,Z.Charbonnet o2.5 Recs,PropBetGuy,Seattle Seahawks,z.charbonnet,,,,Y,5.0,New England Patriots,0.0,0.0,0,0.0,0,0.0,0,76,6,48,0,Clear,Gillette,outdoors,turf,-102,1.02,2.02,1.0
+13,J.Palmer u3.5 Recs,PropBomb,Los Angeles Chargers,j.palmer,,,,Y,2.0,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,77,14,69,8,Mostly Cloudy,Bank of America,outdoors,grass,-125,1.25,2.25,1.0
+14,J.McLaughlin u2.5 Recs,MoneylineHacks,Denver Broncos,j.mclaughlin,,,,Y,0.0,Pittsburgh Steelers,1.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,106,1.0,2.06,1.06
+15,R.Odunze u3.5 Recs,MoneylineHacks,Chicago Bears,r.odunze,,,,Y,2.0,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,90,6,56,25,Rain,NRG,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
+16,R.Odunze u3.5 Recs,charliedisturco,Chicago Bears,r.odunze,,,,Y,2.0,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+17,R.Odunze u3.5 Recs,cowhitchurch,Chicago Bears,r.odunze,,,,Y,2.0,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,125,0.5,1.125,0.625
+18,R.Odunze u3.5 Recs,The_Oddsmaker,Chicago Bears,r.odunze,,,,Y,2.0,Houston Texans,0.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-120,1.2,2.2,1.0000000000000002
+19,B.Bowers o3.5 Recs,Markus_Markets,Las Vegas Raiders,b.bowers,,,,Y,9.0,Baltimore Ravens,0.0,1.0,1,1.0,1,1.0,1,81,9,53,1,Rain,M&amp;T Bank,outdoors,grass,-120,1.0,1.8333333333333333,0.8333333333333335
+20,C.Godwin o5.5 Recs,JoeDellera,Tampa Bay Buccaneers,c.godwin,,,,Y,7.0,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,81,7,49,1,Clear,Ford Field,indoors,turf,106,1.0,2.06,1.06
+21,D.Samuel o4.5 Recs,kylemurray03,San Francisco 49ers,d.samuel,,,,Y,8.0,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,80,7,68,9,Rain,U.S. Bank,indoors,turf,100,1.0,2.0,1.0
+22,A.Kamara o4.5 Recs,MillyProps,New Orleans Saints,a.kamara,,,,N,2.0,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,87,6,57,10,Clear,AT&amp;T,indoors,turf,-109,1.0,1.9174311926605505,0.9174311926605504
+23,A.Kamara o4.5 Recs,Proptology,New Orleans Saints,a.kamara,,,,N,2.0,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,87,6,57,10,Clear,AT&amp;T,indoors,turf,-117,3.0,5.564102564102564,2.564102564102564
+24,D.Samuel o4.5 Recs,ThePropfessor_,San Francisco 49ers,d.samuel,,,,Y,8.0,Minnesota Vikings,0.0,1.0,1,1.0,1,1.0,1,75,7,67,2,Clear,U.S. Bank,indoors,turf,-135,1.35,2.35,1.0

@@ -1,19 +1,23 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+1,J.Johnson o0.5 rush_td+rec_td,GDAWG5000,New Orleans Saints,J.Johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,91,7,47,4,Clear,AT&amp;T,indoors,turf,450,0.5,2.75,2.25
 62,M.Evans o0.5 rush_td+rec_td,gneiffer07,Tampa Bay Buccaneers,m.evans,Detroit Lions,0.0,1.0,1,1.0,1,1.0,1,82,7,50,2,Clear,Ford Field,indoors,turf,125,1.0,2.25,1.25
-65,J.Taylor o0.5 rush_td+rec_td,gneiffer07,Indianapolis Colts,j.taylor,Green Bay Packers,0.0,0.0,0,0.0,0,0.0,0,81,5,63,7,Mostly Cloudy,Lambeau Field,outdoors,grass,115,1.0,2.15,1.15
 69,A.Lazard o0.5 rush_td+rec_td,GDAWG5000,New York Jets,a.lazard,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,80,9,50,9,Rain,Nissan,outdoors,grass,360,0.5,2.3,1.7999999999999998
 70,J.Dobbins o0.5 rush_td+rec_td,gneiffer07,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,75,15,78,14,Rain,Bank of America,outdoors,grass,160,0.87,2.262,1.392
+71,D.Adams o0.5 rush_td+rec_td,gneiffer07,Las Vegas Raiders,d.adams,Baltimore Ravens,0.0,0.0,0,0.0,0,0.0,0,80,10,52,2,Rain,M&amp;T Bank,outdoors,grass,250,1.0,3.5,2.5
 81,C.Kupp o0.5 rush_td+rec_td,gneiffer07,Los Angeles Rams,c.kupp,Arizona Cardinals,0.0,1.0,1,1.0,1,1.0,1,94,8,38,8,Rain,State Farm,indoors,grass,100,1.0,2.0,1.0
-85,J.Fields o0.5 rush_td+rec_td,GDAWG5000,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,0.0,0,0.0,0,0.0,0,87,6,16,14,Rain,Empower Field at Mile High,outdoors,grass,225,0.5,1.625,1.125
 105,J.Dobbins o0.5 rush_td+rec_td,Proptology,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,76,14,78,9,Rain,Bank of America,outdoors,grass,150,1.0,2.5,1.5
-121,J.Fields o0.5 rush_td+rec_td,cowhitchurch,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,0.0,0,0.0,0,0.0,0,87,7,17,18,Rain,Empower Field at Mile High,outdoors,grass,215,0.5,1.575,1.075
+117,J.Johnson o0.5 rush_td+rec_td,cowhitchurch,New Orleans Saints,j.johnson,Dallas Cowboys,0.0,1.0,1,1.0,1,1.0,1,85,6,53,0,Clear,AT&amp;T,indoors,turf,645,0.5,3.725,3.225
 147,B.Robinson o0.5 rush_td+rec_td,cowhitchurch,Washington Commanders,b.robinson,New York Giants,1.0,1.0,1,1.0,1,1.0,1,78,8,54,0,Partly Cloudy,FedExField,outdoors,grass,140,0.5,1.2,0.7
 148,B.Robinson o0.5 rush_td+rec_td,nick_giffen,Washington Commanders,b.robinson,New York Giants,1.0,1.0,1,1.0,1,1.0,1,78,8,54,0,Partly Cloudy,FedExField,outdoors,grass,140,1.0,2.4,1.4
 156,N.Harris o0.5 rush_td+rec_td,Proptology,Pittsburgh Steelers,n.harris,Denver Broncos,0.0,0.0,0,0.0,0,0.0,0,86,7,18,18,Rain,Empower Field at Mile High,outdoors,grass,155,1.0,2.55,1.5499999999999998
-211,J.Fields o0.5 rush_td+rec_td,TheTDShow,Pittsburgh Steelers,j.fields,Denver Broncos,0.0,0.0,0,0.0,0,0.0,0,88,8,15,17,Rain,Empower Field at Mile High,outdoors,grass,220,1.0,3.2,2.2
+179,J.Chase o0.5 rush_td+rec_td,GDAWG5000,Cincinnati Bengals,j.chase,Kansas City Chiefs,0.0,0.0,0,0.0,0,0.0,0,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,162,1.0,2.62,1.62
+213,R.Rice o0.5 rush_td+rec_td,TheBMatt,Kansas City Chiefs,r.rice,Cincinnati Bengals,1.0,0.0,0,0.0,0,0.0,0,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,140,1.0,2.4,1.4
+214,J.Chase o0.5 rush_td+rec_td,TheTDShow,Cincinnati Bengals,j.chase,Kansas City Chiefs,0.0,0.0,0,0.0,0,0.0,0,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,162,1.0,2.62,1.62
+215,R.Rice o0.5 rush_td+rec_td,TheTDShow,Kansas City Chiefs,r.rice,Cincinnati Bengals,1.0,0.0,0,0.0,0,0.0,0,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,140,1.0,2.4,1.4
+218,S.LaPorta o0.5 rush_td+rec_td,JBBets1,Detroit Lions,s.laporta,Tampa Bay Buccaneers,1.0,0.0,0,0.0,0,0.0,0,81,8,44,0,Clear,Ford Field,indoors,turf,125,1.0,2.25,1.25
 220,B.Robinson o0.5 rush_td+rec_td,JBBets1,Washington Commanders,b.robinson,New York Giants,1.0,1.0,1,1.0,1,1.0,1,75,7,51,0,Partly Cloudy,FedExField,outdoors,grass,145,1.0,2.45,1.4500000000000002
 223,I.Pacheco o0.5 rush_td+rec_td,JBBets1,Kansas City Chiefs,i.pacheco,Cincinnati Bengals,1.0,1.0,1,1.0,1,1.0,1,86,9,50,4,Clear,GEHA Field at Arrowhead Stadium,outdoors,grass,-130,1.0,1.7692307692307692,0.7692307692307692
+227,M.Nabers o0.5 rush_td+rec_td,sandyplashkes,New York Giants,m.nabers,Washington Commanders,0.0,0.0,0,0.0,0,0.0,0,75,7,51,0,Partly Cloudy,FedExField,outdoors,grass,200,1.0,3.0,2.0
 228,J.Dobbins o0.5 rush_td+rec_td,theprophunter0_,Los Angeles Chargers,j.dobbins,Carolina Panthers,0.0,1.0,1,1.0,1,1.0,1,76,14,66,10,Mostly Cloudy,Bank of America,outdoors,grass,115,1.0,2.15,1.15
-231,J.Taylor o0.5 rush_td+rec_td,theprophunter0_,Indianapolis Colts,j.taylor,Green Bay Packers,0.0,0.0,0,0.0,0,0.0,0,82,7,58,1,Clear,Lambeau Field,outdoors,grass,-105,1.05,2.05,0.9999999999999998
 245,J.Mixon o0.5 rush_td+rec_td,moneybadger24_,Houston Texans,j.mixon,Chicago Bears,1.0,1.0,1,1.0,1,1.0,1,88,8,58,21,Mostly Cloudy,NRG,indoors,turf,-130,1.3,2.3,0.9999999999999998
 270,B.Robinson o0.5 rush_td+rec_td,moneybadger24_,Washington Commanders,b.robinson,New York Giants,1.0,0.5,0,0.5,0,0.5,0,75,7,51,0,Partly Cloudy,FedExField,outdoors,grass,-120,1.2,2.2,1.0000000000000002

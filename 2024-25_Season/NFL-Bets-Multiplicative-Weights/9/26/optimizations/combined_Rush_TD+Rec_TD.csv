@@ -1,6 +1,3 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-W.Robinson o0.5 rush_td+rec_td,GDAWG5000,New York Giants,w.robinson,Dallas Cowboys,1,0.3333333333333333,0,0.3333333333333333,0,0.3333333333333333,0,75,6,82,46,Rain,MetLife,outdoors,turf,460,0.5,2.8,2.3
-R.Dowdle o0.5 rush_td+rec_td,therocketplays,Dallas Cowboys,r.dowdle,New York Giants,0,0.0,0,0.0,0,0.0,0,72,6,93,48,Rain,MetLife,outdoors,turf,210,0.5,1.55,1.05
-R.Dowdle o0.5 rush_td+rec_td,sandyplashkes,Dallas Cowboys,r.dowdle,New York Giants,0,0.0,0,0.0,0,0.0,0,73,6,87,47,Rain,MetLife,outdoors,turf,200,0.5,1.5,1.0
-M.Nabers o0.5 rush_td+rec_td,CroweRadio,New York Giants,m.nabers,Dallas Cowboys,1,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,6,87,47,Rain,MetLife,outdoors,turf,150,0.4,1.0,0.6
-D.Singletary o0.5 rush_td+rec_td,theprophunter0_,New York Giants,d.singletary,Dallas Cowboys,1,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,110,1.0,2.1,1.1
+C.Lamb o0.5 rush_td+rec_td,JBBets1,Dallas Cowboys,c.lamb,New York Giants,0.0,0.5,0,0.6666666666666666,1,0.5,0,74,3,93,49,Overcast,MetLife,outdoors,turf,-105.0,0.95,1.8547619047619048,0.9047619047619048
+D.Singletary o0.5 rush_td+rec_td,theprophunter0_,New York Giants,d.singletary,Dallas Cowboys,1.0,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,73,5,93,49,Rain,MetLife,outdoors,turf,110.0,1.0,2.1,1.1

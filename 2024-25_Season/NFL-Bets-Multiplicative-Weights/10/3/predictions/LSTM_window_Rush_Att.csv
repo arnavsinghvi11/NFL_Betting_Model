@@ -1,9 +1,9 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-30,B.Irving o9.5 Rush Att,shadybiev,Tampa Bay Buccaneers,b.irving,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-105.0,1.58,3.084761904761905,1.5047619047619047
-31,T.Allgeier o7.5 Rush Att,shadybiev,Atlanta Falcons,t.allgeier,Tampa Bay Buccaneers,1,0.6666666666666666,1,0.6666666666666666,1,0.6666666666666666,1,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-125.0,1.88,3.384,1.504
-50,R.White u9.5 Rush Att,charliedisturco,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,0.55,1.05,0.5
-52,R.White u9.5 Rush Att,GDAWG5000,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,0.55,1.05,0.5
-53,R.White u9.5 Rush Att,The_Oddsmaker,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-58,R.White u9.5 Rush Att,GreenDotDaily,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
-64,R.White u9.5 Rush Att,cowhitchurch,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
-70,R.White u9.5 Rush Att,KyleJustBets,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+30,B.Irving o9.5 Rush Att,shadybiev,Tampa Bay Buccaneers,b.irving,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,80,4,Partly Cloudy,Mercedes-Benz,indoors,turf,-105.0,1.58,3.084761904761905,1.5047619047619047
+50,R.White u9.5 Rush Att,charliedisturco,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,0.55,1.05,0.5
+52,R.White u9.5 Rush Att,GDAWG5000,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,0.55,1.05,0.5
+53,R.White u9.5 Rush Att,The_Oddsmaker,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
+58,R.White u9.5 Rush Att,GreenDotDaily,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+64,R.White u9.5 Rush Att,cowhitchurch,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-110.0,1.1,2.1,1.0
+70,R.White u9.5 Rush Att,KyleJustBets,Tampa Bay Buccaneers,r.white,Atlanta Falcons,0.0,0.25,0,0.3333333333333333,0,0.25,0,74,5,78,1,Mostly Cloudy,Mercedes-Benz,indoors,turf,-135.0,1.0,1.7407407407407407,0.7407407407407407
+85,B.Robinson o14.5 Rush Att,Mjaybrxd,Atlanta Falcons,b.robinson,Tampa Bay Buccaneers,1.0,0.4,0,0.3333333333333333,0,0.4,0,79,6,78,1,Clear,Mercedes-Benz,indoors,turf,-105.0,1.0,1.9523809523809523,0.9523809523809524

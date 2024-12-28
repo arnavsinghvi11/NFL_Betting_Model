@@ -1,6 +1,7 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-A.Kamara u72.5 Rush Yds,gneiffer07,New Orleans Saints,a.kamara,Denver Broncos,1.0,0.3333333333333333,0,0.6666666666666666,1,0.4,0,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-115,1.15,2.1499999999999995,0.9999999999999996
-J.Williams u46.5 Rush Yds,gneiffer07,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120,1.2,2.2,1.0000000000000002
-J.Williams u47.5 Rush Yds,kylemurray03,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-120,1.2,2.2,1.0000000000000002
-S.Rattler o21.5 Rush Yds,moneybadger24_,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-120,1.2,2.2,1.0000000000000002
-J.Williams o9.5 Rush Yds,cowhitchurch,Denver Broncos,j.williams,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-106,0.53,1.03,0.5
+J.Williams u46.5 Rush Yds,gneiffer07,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,6,52,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+J.Williams u47.5 Rush Yds,kylemurray03,Denver Broncos,j.williams,New Orleans Saints,0.0,0.6666666666666666,1,0.3333333333333333,0,0.6,1,64,5,50,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+J.McLaughlin u19.5 Rush Yds,Theotherbabs,Denver Broncos,j.mclaughlin,New Orleans Saints,0.0,0.5,0,0.3333333333333333,0,0.6,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+S.Rattler o21.5 Rush Yds,moneybadger24_,New Orleans Saints,s.rattler,Denver Broncos,1.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002
+J.Williams o9.5 Rush Yds,cowhitchurch,Denver Broncos,j.williams,New Orleans Saints,0.0,1.0,1,1.0,1,1.0,1,65,5,48,0,Clear,Caesars Superdome,indoors,turf,-106.0,0.53,1.03,0.5
+B.Nix o25.5 Rush Yds,theprophunter0_,Denver Broncos,b.nix,New Orleans Saints,0.0,0.5,0,0.3333333333333333,0,0.4,0,65,5,50,0,Clear,Caesars Superdome,indoors,turf,-120.0,1.2,2.2,1.0000000000000002

@@ -1,24 +1,15 @@
-Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-T.Atwell o36.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-D.Robinson o27.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,d.robinson,Minnesota Vikings,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-T.Atwell o37.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-C.Parkinson o29.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,c.parkinson,Minnesota Vikings,1.0,0.6666666666666666,1,1.0,1,0.6,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-J.Addison o38.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-C.Parkinson o30.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,c.parkinson,Minnesota Vikings,1.0,0.6666666666666666,1,1.0,1,0.6,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-J.Jefferson o81.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.6,1,70,7,57,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-D.Robinson o26.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,d.robinson,Minnesota Vikings,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,70,7,57,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-J.Addison o40.5 receiving yards,Rotowire Sleeper,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,70,7,57,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-J.Addison o42.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,70,7,61,1,Partly Cloudy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-J.Jefferson o83.5 Rec Yds,RoyalsProps,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.6,1,69,1,63,1,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-C.Kupp o66.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,c.kupp,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-C.Kupp o67.5 Rec Yds,FirefighterBets,Los Angeles Rams,c.kupp,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,1,63,1,Foggy,SoFi,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
-J.Addison o42.5 Rec Yds,charliedisturco,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,69,1,63,0,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
-J.Addison o43.5 Rec Yds,shadybiev,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,69,1,63,0,Foggy,SoFi,indoors,turf,-112.0,2.8,5.3,2.5
-K.Williams o14.5 Rec Yds,shadybiev,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,0.3333333333333333,0,0.0,0,0.4,0,69,1,63,0,Foggy,SoFi,indoors,turf,-110.0,2.2,4.2,2.0
-J.Jefferson u88.5 Rec Yds,boomerslocks,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.6666666666666666,1,0.6666666666666666,1,0.6,1,69,1,63,0,Foggy,SoFi,indoors,turf,-104.0,1.0,1.9615384615384617,0.9615384615384616
-J.Addison o42.5 Rec Yds,GreenDotDaily,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,69,1,63,0,Foggy,SoFi,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
-P.Nacua o27.5 Rec Yds,Brinson,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,1,63,0,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996
-P.Nacua o27.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,1,63,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-P.Nacua o28.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,1,63,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5
-C.Kupp o67.5 Rec Yds,CeeJPicks,Los Angeles Rams,c.kupp,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,1,62,0,Foggy,SoFi,indoors,turf,-110.0,1.1,2.1,1.0
-T.Atwell o24.5 Receiving Yards,JBBets1,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,72,7,62,0,Clear,SoFi,indoors,turf,-160.0,1.0,1.625,0.625
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit,Over?,Under?,Prop Bets
+T.Atwell o36.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+D.Robinson o27.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,d.robinson,Minnesota Vikings,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+T.Atwell o37.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+J.Addison o38.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.addison,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.5,0,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+C.Kupp o66.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,c.kupp,Minnesota Vikings,1.0,0.5,0,0.5,0,0.5,0,69,7,64,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+J.Jefferson o81.5 receiving yards,Rotowire Prizepicks,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.6,1,70,7,57,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+D.Robinson o26.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,d.robinson,Minnesota Vikings,1.0,0.8333333333333334,1,0.6666666666666666,1,0.8,1,70,7,57,1,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+J.Jefferson o83.5 Rec Yds,RoyalsProps,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.5,0,0.6666666666666666,1,0.6,1,69,7,63,1,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,1,0,Rec_Yds
+K.Williams o14.5 Rec Yds,shadybiev,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,0.3333333333333333,0,0.0,0,0.4,0,69,7,63,0,Foggy,SoFi,indoors,turf,-110.0,2.2,4.2,2.0,1,0,Rec_Yds
+P.Nacua o27.5 Rec Yds,Brinson,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,7,63,0,Foggy,SoFi,indoors,turf,-115.0,1.15,2.1499999999999995,0.9999999999999996,1,0,Rec_Yds
+P.Nacua o27.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,1,63,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+P.Nacua o28.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,p.nacua,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,69,1,63,0,Foggy,SoFi,indoors,turf,100.0,1.5,3.0,1.5,1,0,Rec_Yds
+J.Jefferson o79.5 Receiving Yards,JBBets1,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.8333333333333334,1,1.0,1,1.0,1,72,7,62,0,Clear,SoFi,indoors,turf,-130.0,1.0,1.7692307692307692,0.7692307692307692,1,0,Rec_Yds
+T.Atwell o24.5 Receiving Yards,JBBets1,Los Angeles Rams,t.atwell,Minnesota Vikings,1.0,1.0,1,1.0,1,1.0,1,72,7,62,0,Clear,SoFi,indoors,turf,-160.0,1.0,1.625,0.625,1,0,Rec_Yds

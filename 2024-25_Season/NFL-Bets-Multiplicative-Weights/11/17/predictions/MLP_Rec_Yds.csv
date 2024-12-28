@@ -1,6 +1,6 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 3,P.Freiermuth o23.5 receiving yards,Rotowire Prizepicks,Pittsburgh Steelers,p.freiermuth,Baltimore Ravens,1.0,0.5555555555555556,1,0.3333333333333333,0,0.2,0,55,6,61,4,Rain,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
-18,C.Kupp o65.5 receiving yards,Rotowire Sleeper,Los Angeles Rams,c.kupp,New England Patriots,0.0,0.5,0,0.3333333333333333,0,0.5,0,58,8,40,0,Rain,Gillette,outdoors,turf,100.0,1.5,3.0,1.5
+6,C.Sutton o52.5 receiving yards,Rotowire Sleeper,Denver Broncos,c.sutton,Atlanta Falcons,1.0,0.625,1,1.0,1,0.8,1,50,5,32,5,Rain,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
 19,T.Hockenson o46.5 receiving yards,Rotowire Sleeper,Minnesota Vikings,t.hockenson,Tennessee Titans,0.0,1.0,1,1.0,1,1.0,1,67,8,59,3,Partly Cloudy,Nissan,outdoors,grass,100.0,1.5,3.0,1.5
 25,N.Westbrook-ikhine o23.5 receiving yards,Rotowire Prizepicks,Tennessee Titans,n.westbrook-ikhine,Minnesota Vikings,1.0,0.5,0,0.6666666666666666,1,0.5,0,67,8,59,3,Partly Cloudy,Nissan,outdoors,grass,100.0,1.5,3.0,1.5
 28,J.Johnson o21.5 receiving yards,Rotowire Sleeper,New Orleans Saints,j.johnson,Cleveland Browns,1.0,0.7142857142857143,1,0.6666666666666666,1,0.8,1,77,9,67,1,Rain,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
@@ -23,11 +23,18 @@
 136,J.Jennings o53.5 receiving yards,Rotowire Sleeper,San Francisco 49ers,j.jennings,Seattle Seahawks,1.0,0.5714285714285714,1,0.3333333333333333,0,0.6,1,59,3,58,65,Rain,Levi's,outdoors,grass,100.0,1.5,3.0,1.5
 138,J.Jefferson o79.5 Rec Yds,the_degenerates,Minnesota Vikings,j.jefferson,Tennessee Titans,0.0,0.75,1,0.6666666666666666,1,0.8,1,64,9,62,1,Partly Cloudy,Nissan,outdoors,grass,-115.0,1.15,2.1499999999999995,0.9999999999999996
 139,D.Robinson o23.5 receiving yards,Rotowire Prizepicks,Los Angeles Rams,d.robinson,New England Patriots,0.0,0.75,1,0.3333333333333333,0,0.6,1,58,8,30,0,Clear,Gillette,outdoors,turf,100.0,1.5,3.0,1.5
-145,C.Austin o21.5 receiving yards,Rotowire Sleeper,Pittsburgh Steelers,c.austin,Baltimore Ravens,1.0,0.4444444444444444,0,0.6666666666666666,1,0.6,1,41,6,58,2,Mostly Cloudy,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
+150,G.Pickens o69.5 Rec Yds,Theotherbabs,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.5555555555555556,1,1.0,1,0.6,1,41,6,58,2,Mostly Cloudy,Acrisure,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 158,B.Thomas o46.5 Rec Yds,Theotherbabs,Jacksonville Jaguars,b.thomas,Detroit Lions,0.0,0.7777777777777778,1,0.6666666666666666,1,0.6,1,54,10,71,6,Rain,Ford Field,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+160,L.Humphrey u22.5 Rec Yds,ChrisRaybon,Denver Broncos,l.humphrey,Atlanta Falcons,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,9,26,2,Clear,Empower Field at Mile High,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
 162,B.Thomas o44.5 receiving yards,Rotowire Prizepicks,Jacksonville Jaguars,b.thomas,Detroit Lions,0.0,0.7777777777777778,1,0.6666666666666666,1,0.6,1,54,10,71,6,Rain,Ford Field,indoors,turf,100.0,1.5,3.0,1.5
 164,T.Tucker o24.5 receiving yards,Rotowire Sleeper,Las Vegas Raiders,t.tucker,Miami Dolphins,0.0,0.5,0,0.6666666666666666,1,0.6,1,80,12,54,1,Partly Cloudy,Hard Rock,outdoors,grass,100.0,1.5,3.0,1.5
-170,M.Williams o13.5 receiving yards,Rotowire Prizepicks,New York Jets,m.williams,Indianapolis Colts,1.0,0.7142857142857143,1,0.3333333333333333,0,0.6,1,61,6,26,3,Partly Cloudy,MetLife,outdoors,turf,100.0,1.5,3.0,1.5
+176,L.Humphrey u22.5 Rec Yds,convince_me,Denver Broncos,l.humphrey,Atlanta Falcons,1.0,0.5,0,0.6666666666666666,1,0.6,1,53,9,26,2,Clear,Empower Field at Mile High,outdoors,grass,-110.0,1.0,1.9090909090909087,0.9090909090909092
+193,K.Shakir o57.5 Rec Yds,RoyalsProps,Buffalo Bills,k.shakir,Kansas City Chiefs,1.0,0.625,1,1.0,1,0.8,1,48,5,68,3,Rain,Highmark,outdoors,turf,-130.0,1.3,2.3,0.9999999999999998
+195,D.Moore o42.5 Rec Yds,theprophunter0_,Chicago Bears,d.moore,Green Bay Packers,1.0,0.375,0,0.0,0,0.2,0,53,11,67,8,Overcast,Soldier Field,outdoors,grass,-110.0,1.1,2.1,1.0
 212,L.Krull o9.5 receiving yards,Rotowire Prizepicks,Denver Broncos,l.krull,Atlanta Falcons,1.0,0.8,1,1.0,1,0.8,1,57,9,23,0,Clear,Empower Field at Mile High,outdoors,grass,100.0,1.5,3.0,1.5
 223,Q.Johnston o41.5 receiving yards,Rotowire Sleeper,Los Angeles Chargers,q.johnston,Cincinnati Bengals,1.0,0.3333333333333333,0,0.0,0,0.4,0,64,9,40,0,Clear,SoFi,indoors,turf,100.0,1.5,3.0,1.5
 230,J.Palmer u29.5 Rec Yds,Theotherbabs,Los Angeles Chargers,j.palmer,Cincinnati Bengals,1.0,0.2857142857142857,0,0.0,0,0.0,0,63,10,40,0,Clear,SoFi,indoors,turf,-115.0,1.0,1.869565217391304,0.8695652173913042
+232,B.Robinson o25.5 Rec Yds,nick_giffen,Atlanta Falcons,b.robinson,Denver Broncos,0.0,0.6,1,1.0,1,0.8,1,52,9,23,0,Clear,Empower Field at Mile High,outdoors,grass,-113.0,1.0,1.8849557522123888,0.8849557522123894
+233,J.Jeudy o42.5 receiving yards,Rotowire Prizepicks,Cleveland Browns,j.jeudy,New Orleans Saints,0.0,0.4444444444444444,0,0.6666666666666666,1,0.4,0,80,13,71,0,Mostly Cloudy,Caesars Superdome,indoors,turf,100.0,1.5,3.0,1.5
+234,G.Pickens o55.5 receiving yards,Rotowire Prizepicks,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.7,1,1.0,1,0.8,1,50,7,58,0,Clear,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
+237,G.Pickens o56.5 receiving yards,Rotowire Sleeper,Pittsburgh Steelers,g.pickens,Baltimore Ravens,1.0,0.7,1,1.0,1,0.8,1,50,7,58,0,Clear,Acrisure,outdoors,grass,100.0,1.5,3.0,1.5
