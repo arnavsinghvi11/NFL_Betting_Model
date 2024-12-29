@@ -1,10 +1,10 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-8,L.McConkey u5.5 Recs,TopShelfAction,Los Angeles Chargers,l.mcconkey,New England Patriots,0.0,0.6428571428571429,1,0.3333333333333333,0,0.2,0,43,5,92,66,Foggy,Gillette,outdoors,turf,110,0.6,1.26,0.66
-9,D.Douglas o3.5 Recs,TopShelfAction,New England Patriots,d.douglas,Los Angeles Chargers,1.0,0.6428571428571429,1,0.6666666666666666,1,0.8,1,43,5,92,66,Foggy,Gillette,outdoors,turf,125,0.75,1.6875,0.9375
-10,L.McConkey u6.5 Recs,PvB_Bets,Los Angeles Chargers,l.mcconkey,New England Patriots,0.0,0.9285714285714286,1,0.6666666666666666,1,0.8,1,43,5,92,66,Foggy,Gillette,outdoors,turf,-160,1.0,1.625,0.625
-24,D.Sample o1.5 Recs,PvB_Bets,Cincinnati Bengals,d.sample,Denver Broncos,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,140,1.0,2.4,1.4
-41,C.Kupp o4.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.6363636363636364,1,0.3333333333333333,0,0.4,0,59,5,89,1,Foggy,SoFi,indoors,turf,-140,1.0,1.7142857142857144,0.7142857142857144
-42,C.Kupp o6.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.3636363636363636,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,270,0.25,0.925,0.675
-43,C.Kupp o7.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.2727272727272727,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,490,0.15,0.885,0.735
-54,K.Williams o1.5 Recs,TopShelfAction,Los Angeles Rams,k.williams,Arizona Cardinals,1.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,59,5,89,1,Foggy,SoFi,indoors,turf,-110,0.6,1.1454545454545455,0.5454545454545455
-55,T.McBride u6.5 Recs,TopShelfAction,Arizona Cardinals,t.mcbride,Los Angeles Rams,0.0,0.5714285714285714,1,0.3333333333333333,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,-102,0.7,1.3862745098039215,0.6862745098039216
+8,L.McConkey u5.5 Recs,TopShelfAction,Los Angeles Chargers,l.mcconkey,New England Patriots,0.0,0.6428571428571429,1,0.3333333333333333,0,0.2,0,43,5,92,66,Foggy,Gillette,outdoors,turf,110.0,0.6,1.26,0.66
+9,D.Douglas o3.5 Recs,TopShelfAction,New England Patriots,d.douglas,Los Angeles Chargers,1.0,0.6428571428571429,1,0.6666666666666666,1,0.8,1,43,5,92,66,Foggy,Gillette,outdoors,turf,125.0,0.75,1.6875,0.9375
+10,L.McConkey u6.5 Recs,PvB_Bets,Los Angeles Chargers,l.mcconkey,New England Patriots,0.0,0.9285714285714286,1,0.6666666666666666,1,0.8,1,43,5,92,66,Foggy,Gillette,outdoors,turf,-160.0,1.0,1.625,0.625
+24,D.Sample o1.5 Recs,PvB_Bets,Cincinnati Bengals,d.sample,Denver Broncos,1.0,0.4444444444444444,0,0.3333333333333333,0,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,140.0,1.0,2.4,1.4
+41,C.Kupp o4.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.6363636363636364,1,0.3333333333333333,0,0.4,0,59,5,89,1,Foggy,SoFi,indoors,turf,-140.0,1.0,1.7142857142857144,0.7142857142857144
+42,C.Kupp o6.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.3636363636363636,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,270.0,0.25,0.925,0.675
+43,C.Kupp o7.5 Recs,MJCLocks,Los Angeles Rams,c.kupp,Arizona Cardinals,1.0,0.2727272727272727,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,490.0,0.15,0.885,0.735
+54,K.Williams o1.5 Recs,TopShelfAction,Los Angeles Rams,k.williams,Arizona Cardinals,1.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,59,5,89,1,Foggy,SoFi,indoors,turf,-110.0,0.6,1.1454545454545455,0.5454545454545455
+55,T.McBride u6.5 Recs,TopShelfAction,Arizona Cardinals,t.mcbride,Los Angeles Rams,0.0,0.5714285714285714,1,0.3333333333333333,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,-102.0,0.7,1.3862745098039215,0.6862745098039216

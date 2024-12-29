@@ -1,7 +1,7 @@
 ,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
-22,C.Brown u74.5 Rush Yds,sandyplashkes,Cincinnati Bengals,c.brown,Denver Broncos,1.0,0.6666666666666666,1,0.3333333333333333,0,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,-120,1.2,2.2,1.0000000000000002
-30,B.Nix o19.5 Rush Yds,wheatonbrando,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
-38,B.Nix o20.5 rushing yards,Tom Oldfield,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,100,0.75,1.5,0.75
-39,B.Nix o19.5 rushing yards,Pamela Maldonado,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,100,0.75,1.5,0.75
-46,J.Conner u58.5 Rush Yds,chrisgimino_,Arizona Cardinals,j.conner,Los Angeles Rams,0.0,0.4,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,-110,1.0,1.9090909090909087,0.9090909090909092
-53,B.Corum o13.5 Rush Yds,RoyalsProps,Los Angeles Rams,b.corum,Arizona Cardinals,1.0,0.5,0,0.6666666666666666,1,0.6,1,59,5,89,1,Foggy,SoFi,indoors,turf,-113,1.13,2.13,1.0
+22,C.Brown u74.5 Rush Yds,sandyplashkes,Cincinnati Bengals,c.brown,Denver Broncos,1.0,0.6666666666666666,1,0.3333333333333333,0,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,-120.0,1.2,2.2,1.0000000000000002
+30,B.Nix o19.5 Rush Yds,wheatonbrando,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+38,B.Nix o20.5 rushing yards,Tom Oldfield,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,100.0,0.75,1.5,0.75
+39,B.Nix o19.5 rushing yards,Pamela Maldonado,Denver Broncos,b.nix,Cincinnati Bengals,0.0,0.5333333333333333,1,0.6666666666666666,1,0.4,0,61,8,83,21,Partly Cloudy,Paycor,outdoors,turf,100.0,0.75,1.5,0.75
+46,J.Conner u58.5 Rush Yds,chrisgimino_,Arizona Cardinals,j.conner,Los Angeles Rams,0.0,0.4,0,0.0,0,0.2,0,59,5,89,1,Foggy,SoFi,indoors,turf,-110.0,1.0,1.9090909090909087,0.9090909090909092
+53,B.Corum o13.5 Rush Yds,RoyalsProps,Los Angeles Rams,b.corum,Arizona Cardinals,1.0,0.5,0,0.6666666666666666,1,0.6,1,59,5,89,1,Foggy,SoFi,indoors,turf,-113.0,1.13,2.13,1.0
