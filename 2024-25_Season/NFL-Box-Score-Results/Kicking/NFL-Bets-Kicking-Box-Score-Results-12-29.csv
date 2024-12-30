@@ -1,0 +1,18 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,M.Gay,Indianapolis Colts,3,3,2,3,1229,New York Giants,0,MetLife,outdoors,turf,54,93,0,10,Foggy
+1,G.Gano,New York Giants,6,6,1,1,1229,Indianapolis Colts,1,MetLife,outdoors,turf,54,93,0,10,Foggy
+2,E.Pineiro,Carolina Panthers,2,2,0,1,1229,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,76,86,6,72,Mostly Cloudy
+3,C.McLaughlin,Tampa Bay Buccaneers,6,6,2,2,1229,Carolina Panthers,1,Raymond James,outdoors,grass,76,86,6,72,Mostly Cloudy
+4,R.Patterson,Atlanta Falcons,3,3,1,2,1229,Washington Commanders,0,Northwest,outdoors,grass,58,93,7,85,Overcast
+5,Z.Gonzalez,Washington Commanders,3,3,1,1,1229,Atlanta Falcons,1,Northwest,outdoors,grass,58,93,7,85,Overcast
+6,D.Carlson,Las Vegas Raiders,1,2,4,4,1229,New Orleans Saints,0,Caesars Superdome,indoors,turf,61,84,9,0,Clear
+7,B.Grupe,New Orleans Saints,1,1,1,1,1229,Las Vegas Raiders,1,Caesars Superdome,indoors,turf,61,84,9,0,Clear
+8,J.Sanders,Miami Dolphins,2,2,2,2,1229,Cleveland Browns,0,Huntington Bank Field,outdoors,grass,61,76,9,71,Rain
+9,D.Hopkins,Cleveland Browns,0,0,1,1,1229,Miami Dolphins,1,Huntington Bank Field,outdoors,grass,61,76,9,71,Rain
+10,B.Aubrey,Dallas Cowboys,1,1,0,1,1229,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,64,87,14,13,Mostly Cloudy
+11,J.Elliott,Philadelphia Eagles,5,5,2,2,1229,Dallas Cowboys,1,Lincoln Financial Field,outdoors,grass,64,87,14,13,Mostly Cloudy
+12,B.McManus,Green Bay Packers,2,2,1,1,1229,Minnesota Vikings,0,U.S. Bank,indoors,turf,37,95,6,9,Foggy
+13,W.Reichard,Minnesota Vikings,3,3,2,4,1229,Green Bay Packers,1,U.S. Bank,indoors,turf,37,95,6,9,Foggy
+14,T.Bass,Buffalo Bills,5,5,1,1,1229,New York Jets,1,Highmark,outdoors,turf,51,92,7,46,Rain
+15,M.Wright,Tennessee Titans,1,1,2,2,1229,Jacksonville Jaguars,0,EverBank,outdoors,grass,65,90,0,97,Rain
+16,C.Little,Jacksonville Jaguars,2,2,2,2,1229,Tennessee Titans,1,EverBank,outdoors,grass,65,90,0,97,Rain

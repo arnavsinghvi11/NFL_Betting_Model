@@ -1,2 +1,18 @@
 Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
 A.Thielen o0.5 rush_td+rec_td,GDAWG5000,Carolina Panthers,a.thielen,Tampa Bay Buccaneers,0.0,0.375,0,0.3333333333333333,0,0.4,0,75,10,85,60,Rain,Raymond James,outdoors,grass,250,1.0,3.5,2.5
+J.Reed o0.5 rush_td+rec_td,GDAWG5000,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,2,90,9,Foggy,U.S. Bank,indoors,turf,187,0.25,0.7175,0.4675
+J.Reed o0.5 rush_td+rec_td,TopShelfAction,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,1,90,9,Foggy,U.S. Bank,indoors,turf,195,0.3,0.885,0.585
+D.Mooney o0.5 rush_td+rec_td,GDAWG5000,Atlanta Falcons,d.mooney,Washington Commanders,0.0,0.2666666666666666,0,0.0,0,0.0,0,58,13,96,96,Rain,Northwest,outdoors,grass,230,1.0,3.3,2.3
+B.Hall o0.5 rush_td+rec_td,GDAWG5000,New York Jets,b.hall,Buffalo Bills,0.0,0.4285714285714285,0,0.3333333333333333,0,0.4,0,53,21,92,66,Rain,Highmark,outdoors,turf,160,0.78,2.028,1.248
+B.Hall o0.5 rush_td+rec_td,TopShelfAction,New York Jets,b.hall,Buffalo Bills,0.0,0.4285714285714285,0,0.3333333333333333,0,0.4,0,53,21,92,66,Rain,Highmark,outdoors,turf,175,0.5,1.375,0.875
+B.Hall o0.5 rush_td+rec_td,shadybiev,New York Jets,b.hall,Buffalo Bills,0.0,0.4285714285714285,0,0.3333333333333333,0,0.4,0,53,21,92,46,Rain,Highmark,outdoors,turf,160,1.5,3.9,2.4000000000000004
+M.Evans o0.5 rush_td+rec_td,shadybiev,Tampa Bay Buccaneers,m.evans,Carolina Panthers,1.0,0.5,0,0.3333333333333333,0,0.4,0,75,10,86,72,Rain,Raymond James,outdoors,grass,-120,1.8,3.3000000000000003,1.5000000000000002
+D.Achane o0.5 rush_td+rec_td,shadybiev,Miami Dolphins,d.achane,Cleveland Browns,0.0,0.6,1,0.6666666666666666,1,0.8,1,60,20,76,20,Rain,Huntington Bank Field,outdoors,grass,130,1.5,3.45,1.95
+B.Hall o0.5 rush_td+rec_td,rsura_,New York Jets,b.hall,Buffalo Bills,0.0,0.4285714285714285,0,0.3333333333333333,0,0.4,0,53,21,92,46,Rain,Highmark,outdoors,turf,170,1.0,2.7,1.7000000000000002
+M.Nabers o0.5 rush_td+rec_td,sirlockselot_,New York Giants,m.nabers,Indianapolis Colts,1.0,0.2307692307692307,0,0.3333333333333333,0,0.2,0,50,0,93,10,Foggy,MetLife,outdoors,turf,230,1.0,3.3,2.3
+J.Reed o0.5 rush_td+rec_td,TheTDShow,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,39,2,87,15,Foggy,U.S. Bank,indoors,turf,190,1.0,2.9,1.9
+J.Nailor o0.5 rush_td+rec_td,daletanhardt,Minnesota Vikings,j.nailor,Green Bay Packers,1.0,0.3846153846153846,0,0.0,0,0.2,0,37,2,95,9,Foggy,U.S. Bank,indoors,turf,700,0.6,4.8,4.2
+J.Reed o0.5 rush_td+rec_td,daletanhardt,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,2,95,9,Foggy,U.S. Bank,indoors,turf,190,2.0,5.8,3.8
+M.Evans o0.5 rush_td+rec_td,daletanhardt,Tampa Bay Buccaneers,m.evans,Carolina Panthers,1.0,0.5,0,0.3333333333333333,0,0.4,0,76,9,86,72,Mostly Cloudy,Raymond James,outdoors,grass,-120,2.4,4.4,2.0000000000000004
+S.Barkley o0.5 rush_td+rec_td,CroweRadio,Philadelphia Eagles,s.barkley,Dallas Cowboys,1.0,0.5333333333333333,1,0.3333333333333333,0,0.6,1,64,14,87,13,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,-155,0.4,0.6580645161290323,0.2580645161290322
+J.Reed o0.5 rush_td+rec_td,sirlockselot_,Green Bay Packers,j.reed,Minnesota Vikings,0.0,0.3333333333333333,0,0.0,0,0.2,0,37,0,95,9,Foggy,U.S. Bank,indoors,turf,205,0.6,1.83,1.23
