@@ -1,0 +1,38 @@
+,Name,Team,Tgt,Rec,Rec_Yds,Rec_TD,1D,YBC,YBC/R,YAC,YAC/R,ADOT,BrkTkl,Rec/Br,Drop,Drop%,Rat,Rush_Att,Rush_Yds,Rush_TD,Rush_Lng,Rec_Lng,FL,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+1,T.Wallace,Baltimore Ravens,1,0,0,0,0,0,0,0,0,8.0,0,0,0,0.0,39.6,0,0,0,0,0,0,73.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+3,P.Ricard,Baltimore Ravens,1,1,14,0,0,1,1.0,13,13.0,1.0,0,0,0,0.0,118.7,0,0,0,0,14,0,46.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+5,I.Likely,Baltimore Ravens,5,3,38,0,2,24,8.0,14,4.7,8.6,0,0,0,0.0,83.7,0,0,0,0,19,0,61.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+7,M.Andrews,Baltimore Ravens,8,4,54,1,3,54,13.5,0,0.0,15.5,0,0,0,0.0,111.5,1,0,0,0,30,0,79.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+9,R.Bateman,Baltimore Ravens,8,5,76,1,4,43,8.6,33,6.6,11.6,0,0,0,0.0,133.3,0,0,0,0,24,0,71.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+11,Z.Flowers,Baltimore Ravens,2,1,12,0,1,-2,-2.0,14,14.0,1.5,0,0,0,0.0,68.7,1,9,0,9,12,0,20.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+13,K.Mitchell,Baltimore Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,4,10,0,4,0,0,21.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+15,D.Henry,Baltimore Ravens,3,2,23,0,2,0,0.0,23,11.5,2.7,0,0,0,0.0,89.6,20,138,2,43,13,0,70.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+17,J.Thrash,Cleveland Browns,1,0,0,0,0,0,0,0,0,27.0,0,0,0,0.0,39.6,0,0,0,0,0,0,54.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+19,B.Whiteheart,Cleveland Browns,1,1,1,0,0,0,0.0,1,1.0,0.0,0,0,0,0.0,79.2,0,0,0,0,1,0,36.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+21,E.Moore,Cleveland Browns,5,3,36,0,2,24,8.0,12,4.0,9.0,0,0,0,0.0,42.5,0,0,0,0,23,0,95.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+23,J.Akins,Cleveland Browns,8,6,60,1,3,36,6.0,24,4.0,8.1,0,0,0,0.0,135.4,0,0,0,0,21,0,69.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+25,J.Jeudy,Cleveland Browns,13,6,63,0,3,9,1.5,54,9.0,7.9,0,0,0,0.0,60.7,0,0,0,0,30,0,95.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+27,J.Kibodi,Cleveland Browns,3,1,15,0,1,4,4.0,11,11.0,3.0,0,0,0,0.0,11.1,5,24,0,17,15,0,29.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+29,D.Foreman,Cleveland Browns,1,1,8,0,0,2,2.0,6,6.0,2.0,0,0,0,0.0,100.0,10,27,0,8,8,0,66.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+31,G.Pickens,Pittsburgh Steelers,6,1,0,0,0,-2,-2.0,2,2.0,14.8,0,0,0,0.0,39.6,0,0,0,0,0,0,92.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+33,C.Austin,Pittsburgh Steelers,1,0,0,0,0,0,0,0,0,11.0,0,0,0,0.0,39.6,0,0,0,0,0,1,66.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+35,V.Jefferson,Pittsburgh Steelers,4,3,18,0,1,16,5.3,2,0.7,5.3,0,0,0,0.0,83.3,0,0,0,0,8,0,67.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+37,M.Williams,Pittsburgh Steelers,1,1,25,0,1,25,25.0,0,0.0,25.0,0,0,0,0.0,118.7,0,0,0,0,25,0,23.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+39,P.Freiermuth,Pittsburgh Steelers,11,8,85,1,4,49,6.1,36,4.5,5.9,0,0,0,0.0,125.2,0,0,0,0,19,0,80.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+41,C.Patterson,Pittsburgh Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,1,1,0,1,0,0,13.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+43,J.Warren,Pittsburgh Steelers,1,0,0,0,0,0,0,0,0,-6.0,0,0,0,0.0,39.6,6,21,0,9,0,0,38.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+45,N.Harris,Pittsburgh Steelers,5,4,20,0,2,2,0.5,18,4.5,-0.8,0,0,0,0.0,83.3,12,36,1,11,12,0,49.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+47,C.Grandy,Cincinnati Bengals,1,1,9,0,0,3,3.0,6,6.0,3.0,0,0,0,0.0,104.2,0,0,0,0,9,0,12.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+49,T.Hudson,Cincinnati Bengals,1,1,11,0,1,3,3.0,8,8.0,3.0,0,0,0,0.0,112.5,0,0,0,0,11,0,5.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+51,A.Iosivas,Cincinnati Bengals,3,2,12,0,0,5,2.5,7,3.5,5.3,0,0,0,0.0,74.3,0,0,0,0,9,0,86.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+53,D.Sample,Cincinnati Bengals,4,4,14,0,1,-5,-1.3,19,4.8,-1.3,0,0,0,0.0,81.2,0,0,0,0,8,0,55.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+55,T.Higgins,Cincinnati Bengals,5,4,53,0,3,50,12.5,3,0.8,10.0,0,0,0,0.0,110.8,0,0,0,0,18,0,68.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+57,M.Gesicki,Cincinnati Bengals,10,8,68,0,6,45,5.6,23,2.9,5.7,0,0,0,0.0,95.0,0,0,0,0,16,0,69.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+59,J.Chase,Cincinnati Bengals,14,10,96,1,4,70,7.0,26,2.6,6.2,0,0,0,0.0,84.2,0,0,0,0,19,0,99.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+61,K.Herbert,Cincinnati Bengals,8,7,14,0,0,-20,-2.9,34,4.9,-3.0,0,0,0,0.0,79.2,20,69,0,8,6,0,95.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+62,J.Burrow,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Pittsburgh Steelers,0,Acrisure,outdoors,grass,19,75,8,34,Overcast
+63,L.Jackson,Baltimore Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+64,B.Zappe,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+65,R.Ali,Baltimore Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Cleveland Browns,1,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy
+66,R.Wilson,Pittsburgh Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Cincinnati Bengals,1,Acrisure,outdoors,grass,19,75,8,34,Overcast
+67,D.Thompson-Robinson,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100004,Baltimore Ravens,0,M&amp;T Bank,outdoors,grass,32,37,17,0,Mostly Cloudy

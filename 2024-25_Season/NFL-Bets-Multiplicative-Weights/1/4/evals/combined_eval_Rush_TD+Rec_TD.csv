@@ -1,0 +1,5 @@
+,Play,Expert,Team,Name,Correct,Actual Value,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+0,I.Likely o0.5 rush_td+rec_td,GDAWG5000,Baltimore Ravens,i.likely,N,0.0,Cleveland Browns,1.0,0.3571428571428571,0,0.6666666666666666,1,0.6,1,31,17,42,1,Clear,M&amp;T Bank,outdoors,grass,300.0,1.0,4.0,3.0
+1,M.Andrews o0.5 rush_td+rec_td,Markus_Markets,Baltimore Ravens,m.andrews,Y,1.0,Cleveland Browns,1.0,0.5625,1,1.0,1,1.0,1,32,17,37,0,Clear,M&amp;T Bank,outdoors,grass,155.0,0.5,1.275,0.7749999999999999
+2,R.Bateman o0.5 rush_td+rec_td,shadybiev,Baltimore Ravens,r.bateman,Y,1.0,Cleveland Browns,1.0,0.4666666666666667,0,0.6666666666666666,1,0.6,1,33,17,37,0,Mostly Cloudy,M&amp;T Bank,outdoors,grass,240.0,1.0,3.4,2.4
+3,D.Henry o0.5 rush_td+rec_td,moneybadger24_,Baltimore Ravens,d.henry,Y,2.0,Cleveland Browns,1.0,0.6875,1,0.3333333333333333,0,0.2,0,32,17,37,0,Mostly Cloudy,M&amp;T Bank,outdoors,grass,160.0,0.5,1.3,0.8
