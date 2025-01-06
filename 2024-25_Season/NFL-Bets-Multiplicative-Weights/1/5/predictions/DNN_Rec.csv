@@ -1,0 +1,5 @@
+,Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+116,B.Robinson o1.5 Recs,TopShelfAction_duplicate,Atlanta Falcons,b.robinson,Carolina Panthers,1.0,0.9375,1,0.6666666666666666,1,0.8,1,45,8,48,20,Rain,Mercedes-Benz,indoors,turf,155.0,0.4,1.02,0.62
+138,T.Tucker o2.5 Recs,nick_giffen,Las Vegas Raiders,t.tucker,Los Angeles Chargers,1.0,0.3125,0,0.0,0,0.0,0,60,3,23,1,Clear,Allegiant,indoors,grass,135.0,1.0,2.35,1.35
+167,T.Lockett o2.5 Recs,TopShelfAction,Seattle Seahawks,t.lockett,Los Angeles Rams,0.0,0.5625,1,0.3333333333333333,0,0.4,0,72,0,24,0,Clear,SoFi,indoors,turf,188.0,0.3,0.864,0.5640000000000001
+175,T.McBride u6.5 Recs,TopShelfAction,Arizona Cardinals,t.mcbride,San Francisco 49ers,1.0,0.5333333333333333,1,0.3333333333333333,0,0.2,0,61,3,14,0,Clear,State Farm,indoors,grass,110.0,0.4,0.8400000000000001,0.44
