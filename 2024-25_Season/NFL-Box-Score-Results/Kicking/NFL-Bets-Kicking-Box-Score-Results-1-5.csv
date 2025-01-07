@@ -1,0 +1,29 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,C.Little,Jacksonville Jaguars,2,2,3,3,100005,Indianapolis Colts,0,Lucas Oil,indoors,turf,21,71,5,83,Snow
+1,M.Gay,Indianapolis Colts,2,2,4,5,100005,Jacksonville Jaguars,1,Lucas Oil,indoors,turf,21,71,5,83,Snow
+2,Z.Gonzalez,Washington Commanders,2,2,1,1,100005,Dallas Cowboys,0,AT&amp;T,indoors,turf,44,49,14,0,Clear
+3,B.Aubrey,Dallas Cowboys,1,1,4,4,100005,Washington Commanders,1,AT&amp;T,indoors,turf,44,49,14,0,Clear
+4,H.Butker,Kansas City Chiefs,0,0,0,1,100005,Denver Broncos,0,Empower Field at Mile High,outdoors,grass,30,54,6,3,Partly Cloudy
+5,W.Lutz,Denver Broncos,5,5,1,1,100005,Kansas City Chiefs,1,Empower Field at Mile High,outdoors,grass,30,54,6,3,Partly Cloudy
+6,J.Sanders,Miami Dolphins,2,2,2,2,100005,New York Jets,0,MetLife,outdoors,turf,31,36,17,0,Clear
+7,G.Joseph,New York Jets,3,3,1,1,100005,Miami Dolphins,1,MetLife,outdoors,turf,31,36,17,0,Clear
+8,B.Grupe,New Orleans Saints,1,1,4,4,100005,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,68,42,6,0,Partly Cloudy
+9,C.McLaughlin,Tampa Bay Buccaneers,3,3,2,2,100005,New Orleans Saints,1,Raymond James,outdoors,grass,68,42,6,0,Partly Cloudy
+10,G.Gano,New York Giants,1,1,2,2,100005,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,29,39,17,1,Clear
+11,J.Elliott,Philadelphia Eagles,2,2,2,3,100005,New York Giants,1,Lincoln Financial Field,outdoors,grass,29,39,17,1,Clear
+12,K.Fairbairn,Houston Texans,2,3,1,1,100005,Tennessee Titans,0,Nissan,outdoors,grass,36,84,9,40,Overcast
+13,M.Wright,Tennessee Titans,0,0,2,2,100005,Houston Texans,1,Nissan,outdoors,grass,36,84,9,40,Overcast
+14,J.Moody,San Francisco 49ers,3,3,1,2,100005,Arizona Cardinals,0,State Farm,indoors,grass,61,14,3,0,Clear
+15,C.Ryland,Arizona Cardinals,5,5,2,2,100005,San Francisco 49ers,1,State Farm,indoors,grass,61,14,3,0,Clear
+16,C.Dicker,Los Angeles Chargers,2,2,4,5,100005,Las Vegas Raiders,0,Allegiant,indoors,grass,57,23,0,1,Mostly Cloudy
+17,D.Carlson,Las Vegas Raiders,2,2,2,2,100005,Los Angeles Chargers,1,Allegiant,indoors,grass,57,23,0,1,Mostly Cloudy
+18,C.Santos,Chicago Bears,3,3,1,1,100005,Green Bay Packers,0,Lambeau Field,outdoors,grass,15,58,7,4,Overcast
+19,B.McManus,Green Bay Packers,1,1,3,3,100005,Chicago Bears,1,Lambeau Field,outdoors,grass,15,58,7,4,Overcast
+20,T.Bass,Buffalo Bills,1,2,1,1,100005,New England Patriots,0,Gillette,outdoors,turf,35,49,14,0,Overcast
+21,J.Slye,New England Patriots,2,2,3,3,100005,Buffalo Bills,1,Gillette,outdoors,turf,35,49,14,0,Overcast
+22,W.Reichard,Minnesota Vikings,0,0,3,4,100005,Detroit Lions,0,Ford Field,indoors,turf,23,70,6,6,Clear
+23,J.Bates,Detroit Lions,4,4,1,1,100005,Minnesota Vikings,1,Ford Field,indoors,turf,23,70,6,6,Clear
+24,E.Pineiro,Carolina Panthers,5,5,1,1,100005,Atlanta Falcons,0,Mercedes-Benz,indoors,turf,54,48,13,20,Overcast
+25,R.Patterson,Atlanta Falcons,5,5,1,2,100005,Carolina Panthers,1,Mercedes-Benz,indoors,turf,54,48,13,20,Overcast
+26,J.Myers,Seattle Seahawks,3,3,1,1,100005,Los Angeles Rams,0,SoFi,indoors,turf,75,24,0,0,Clear
+27,J.Karty,Los Angeles Rams,1,1,4,4,100005,Seattle Seahawks,1,SoFi,indoors,turf,75,24,0,0,Clear
