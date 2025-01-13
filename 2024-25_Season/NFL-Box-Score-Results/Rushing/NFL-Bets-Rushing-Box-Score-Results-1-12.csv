@@ -1,0 +1,53 @@
+,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Tgt,Rec,Rec_Yds,Rec_TD,Rec_Lng,FL,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+1,M.Trubisky,Buffalo Bills,3,-3,0,0,-3,-1.0,0,0.0,0,0,-1,0,0,0,0,0,0,7.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+3,R.Davis,Buffalo Bills,1,3,0,0,3,3.0,0,0.0,0,0,3,0,0,0,0,0,0,9.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+5,T.Johnson,Buffalo Bills,9,44,0,2,44,4.9,0,0.0,0,0,11,2,2,26,1,24,0,45.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+7,J.Cook,Buffalo Bills,23,120,1,7,120,5.2,0,0.0,0,0,19,0,0,0,0,0,0,45.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+9,J.Allen,Buffalo Bills,8,46,0,5,46,5.8,0,0.0,0,0,9,0,0,0,0,0,0,93.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+11,J.McLaughlin,Denver Broncos,2,-2,0,0,-2,-1.0,0,0.0,0,0,1,1,1,0,0,0,0,19.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+13,M.Mims,Denver Broncos,2,1,0,1,1,0.5,0,0.0,0,0,4,4,2,12,0,15,0,69.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+15,T.Badie,Denver Broncos,2,8,0,0,8,4.0,0,0.0,0,0,7,0,0,0,0,0,0,7.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+17,J.Williams,Denver Broncos,7,29,0,0,29,4.1,0,0.0,0,0,6,2,2,14,0,7,0,74.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+19,K.Gainwell,Philadelphia Eagles,3,14,0,2,14,4.7,0,0.0,0,0,6,0,0,0,0,0,0,17.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+21,S.Barkley,Philadelphia Eagles,25,119,0,4,119,4.8,0,0.0,0,0,17,2,2,4,0,4,0,83.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+23,J.Hurts,Philadelphia Eagles,6,36,0,2,36,6.0,0,0.0,0,0,15,0,0,0,0,0,0,100.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+25,E.Wilson,Green Bay Packers,3,6,0,0,6,2.0,0,0.0,0,0,4,3,1,23,0,23,0,17.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+27,T.Kraft,Green Bay Packers,2,10,0,2,10,5.0,0,0.0,0,0,8,5,5,26,0,12,0,97.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+29,J.Jacobs,Green Bay Packers,18,81,1,2,81,4.5,0,0.0,0,0,31,3,3,40,0,15,0,62.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+31,J.Love,Green Bay Packers,2,10,0,0,10,5.0,0,0.0,0,0,11,0,0,0,0,0,0,100.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+33,R.White,Tampa Bay Buccaneers,1,1,0,0,1,1.0,0,0.0,0,0,1,2,2,14,0,13,0,38.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+35,B.Irving,Tampa Bay Buccaneers,17,77,0,3,77,4.5,0,0.0,0,0,19,2,2,6,1,4,0,69.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+37,B.Mayfield,Tampa Bay Buccaneers,7,23,0,1,23,3.3,0,0.0,0,0,18,0,0,0,0,0,1,100.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+39,J.McNichols,Washington Commanders,1,1,0,0,1,1.0,0,0.0,0,0,1,0,0,0,0,0,0,14.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+41,M.Mariota,Washington Commanders,1,2,0,1,2,2.0,0,0.0,0,0,2,0,0,0,0,0,0,1.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+43,B.Robinson,Washington Commanders,10,16,0,0,16,1.6,0,0.0,0,0,5,5,4,22,0,13,0,51.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+45,A.Ekeler,Washington Commanders,8,27,0,2,27,3.4,0,0.0,0,0,12,4,3,26,0,18,0,47.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+47,J.Daniels,Washington Commanders,13,36,0,2,36,2.8,0,0.0,0,0,8,0,0,0,0,0,0,100.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+48,Z.Ertz,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+49,B.Melton,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+50,O.Zaccheaus,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+51,T.McLaurin,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+52,D.Kincaid,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+53,D.Smith,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+54,M.Hollins,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+55,J.Dotson,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+56,R.Doubs,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+57,J.Reed,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+58,L.Krull,Denver Broncos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+59,A.Cooper,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+60,A.Trautman,Denver Broncos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+61,T.Franklin,Denver Broncos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+62,C.Brooks,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+63,C.Samuel,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+64,G.Calcaterra,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+65,C.Otton,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+66,D.Goedert,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+67,D.Knox,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+68,C.Sutton,Denver Broncos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+69,K.Coleman,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+70,M.Evans,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+71,A.Brown,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+72,J.McMillan,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+73,D.Wicks,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+74,D.Brown,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+75,K.Shakir,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow

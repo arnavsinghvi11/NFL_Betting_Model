@@ -1,0 +1,7 @@
+,Name,Team,XPM,XPA,FGM,FGA,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,W.Lutz,Denver Broncos,1,1,0,1,1000012,Buffalo Bills,0,Highmark,outdoors,turf,31,80,10,5,Snow
+1,T.Bass,Buffalo Bills,2,2,3,3,1000012,Denver Broncos,1,Highmark,outdoors,turf,31,80,10,5,Snow
+2,B.McManus,Green Bay Packers,1,1,1,2,1000012,Philadelphia Eagles,0,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+3,J.Elliott,Philadelphia Eagles,1,2,3,3,1000012,Green Bay Packers,1,Corinthians,outdoors,grass,40,59,5,0,Mostly Cloudy
+4,Z.Gonzalez,Washington Commanders,2,2,3,3,1000012,Tampa Bay Buccaneers,0,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
+5,C.McLaughlin,Tampa Bay Buccaneers,2,2,2,2,1000012,Washington Commanders,1,Raymond James,outdoors,grass,57,57,0,2,Partly Cloudy
