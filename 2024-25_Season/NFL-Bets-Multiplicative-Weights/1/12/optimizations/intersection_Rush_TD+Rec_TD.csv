@@ -1,0 +1,6 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+S.Barkley o0.5 rush_td+rec_td,JCBetsNFL,Philadelphia Eagles,s.barkley,Green Bay Packers,1.0,0.5,0,0.3333333333333333,0,0.4,0,35,3,59,0,Clear,Lincoln Financial Field,outdoors,grass,-170,1.7,2.7,1.0000000000000002
+J.Jacobs o0.5 Rush_TD+Rec_TD,Ryan Gilbert,Green Bay Packers,j.jacobs,Philadelphia Eagles,0.0,0.6470588235294118,1,1.0,1,1.0,1,38,3,59,0,Clear,Lincoln Financial Field,outdoors,grass,100,0.75,1.5,0.75
+K.Shakir o0.5 rush_td+rec_td,TheTDShow,Buffalo Bills,k.shakir,Denver Broncos,1.0,0.2666666666666666,0,0.3333333333333333,0,0.4,0,28,5,87,5,Mostly Cloudy,Highmark,outdoors,turf,240,1.0,3.4,2.4
+J.Jacobs o0.5 rush_td+rec_td,Ryan Gilbert,Green Bay Packers,j.jacobs,Philadelphia Eagles,0.0,0.6470588235294118,1,1.0,1,1.0,1,39,3,59,0,Mostly Cloudy,Lincoln Financial Field,outdoors,grass,100,0.75,1.5,0.75
+J.Jacobs o0.5 rush_td+rec_td,Steakfriend123,Green Bay Packers,j.jacobs,Philadelphia Eagles,0.0,0.6470588235294118,1,1.0,1,1.0,1,41,5,59,0,Partly Cloudy,Lincoln Financial Field,outdoors,grass,-120,1.2,2.2,1.0000000000000002
