@@ -1,0 +1,5 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Jefferson o0.5 rush_td+rec_td,JCBetsNFL,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.4705882352941176,0,0.3333333333333333,0,0.6,1,59,8,42,5,Rain,SoFi,indoors,turf,-107,1.07,2.0700000000000003,1.0000000000000002
+K.Williams o0.5 rush_td+rec_td,Steakfriend123,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,0.75,1,0.6666666666666666,1,0.8,1,59,3,19,0,Clear,SoFi,indoors,turf,-140,1.4,2.4,1.0
+J.Jefferson o0.5 rush_td+rec_td,Steakfriend123,Minnesota Vikings,j.jefferson,Los Angeles Rams,0.0,0.4705882352941176,0,0.3333333333333333,0,0.6,1,59,3,19,0,Clear,SoFi,indoors,turf,-125,1.25,2.25,1.0
+K.Williams o0.5 rush_td+rec_td,JCBetsNFL,Los Angeles Rams,k.williams,Minnesota Vikings,1.0,0.75,1,0.6666666666666666,1,0.8,1,59,3,19,0,Clear,SoFi,indoors,turf,-140,1.4,2.4,1.0
