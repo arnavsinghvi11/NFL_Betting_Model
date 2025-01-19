@@ -1,0 +1,4 @@
+Play,Expert,Team,Name,Opponent,Hmcrt_adv,All Game Percentages,All Game Correct,Last 3 Percentages,Last 3 Correct,Last 5 Percentages,Last 5 Correct,Temperature,Wind,Humidity,Precipitation,Forecast,Stadium,Roof,Surface,Odds,Units,Payout,Profit
+J.Goff u0.5 Int,goodelleaks,Detroit Lions,j.goff,Washington Commanders,1.0,0.6470588235294118,1,0.6666666666666666,1,0.6,1,25,9,79,2,Mostly Cloudy,Ford Field,indoors,turf,-135,1.5,2.611111111111111,1.1111111111111112
+C.Stroud o0.5 Int,PvB_Bets,Houston Texans,c.stroud,Kansas City Chiefs,0.0,0.5,0,0.6666666666666666,1,0.6,1,24,12,50,1,Clear,GEHA Field at Arrowhead,outdoors,grass,-140,1.0,1.7142857142857144,0.7142857142857144
+J.Goff u0.5 Int,JCBetsNFL,Detroit Lions,j.goff,Washington Commanders,1.0,0.6470588235294118,1,0.6666666666666666,1,0.6,1,23,9,73,0,Mostly Cloudy,Ford Field,indoors,turf,-150,1.5,2.5,1.0
