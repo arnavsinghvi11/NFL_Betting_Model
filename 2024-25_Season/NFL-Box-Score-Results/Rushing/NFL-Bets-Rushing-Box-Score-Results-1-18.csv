@@ -1,0 +1,36 @@
+,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Tgt,Rec,Rec_Yds,Rec_TD,Rec_Lng,FL,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+0,M.Araiza,Kansas City Chiefs,1,-18,0,0,-18,-18.0,0,0.0,0,0,-18,0,0,0,0,0,0,0.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+2,X.Worthy,Kansas City Chiefs,1,-8,0,0,-8,-8.0,0,0.0,0,0,-8,6,5,45,0,21,0,82.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+4,I.Pacheco,Kansas City Chiefs,5,18,0,0,18,3.6,0,0.0,0,0,10,1,0,0,0,0,0,31.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+6,K.Hunt,Kansas City Chiefs,8,44,1,4,44,5.5,0,0.0,0,0,12,1,1,2,0,2,0,47.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+8,P.Mahomes,Kansas City Chiefs,7,14,0,1,14,2.0,0,0.0,0,0,15,0,0,0,0,0,0,100.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+10,D.Ogunbowale,Houston Texans,1,9,0,0,9,9.0,0,0.0,0,0,9,1,1,0,0,0,0,31.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+12,D.Pierce,Houston Texans,4,10,0,0,10,2.5,0,0.0,0,0,6,1,0,0,0,0,0,21.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+14,J.Mixon,Houston Texans,18,88,1,3,88,4.9,0,0.0,0,0,13,3,2,12,0,6,0,53.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+16,C.Stroud,Houston Texans,6,42,0,3,42,7.0,0,0.0,0,0,28,0,0,0,0,0,0,100.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+18,J.Gibbs,Detroit Lions,14,105,2,6,105,7.5,0,0.0,0,0,33,11,6,70,0,23,0,75.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+20,D.Montgomery,Detroit Lions,7,28,0,2,28,4.0,0,0.0,0,0,11,0,0,0,0,0,0,25.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+22,J.Williams,Detroit Lions,1,61,1,1,61,61.0,0,0.0,0,0,61,4,1,19,0,19,0,88.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+24,J.Goff,Detroit Lions,1,7,0,1,7,7.0,0,0.0,0,0,7,0,0,0,0,0,1,96.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+26,M.Mariota,Washington Commanders,1,-1,0,0,-1,-1.0,0,0.0,0,0,-1,0,0,0,0,0,0,1.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+28,J.McNichols,Washington Commanders,4,8,1,1,8,2.0,0,0.0,0,0,3,0,0,0,0,0,0,17.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+30,A.Ekeler,Washington Commanders,6,47,0,1,47,7.8,0,0.0,0,0,35,4,4,41,0,24,0,37.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+32,B.Robinson,Washington Commanders,15,77,2,6,77,5.1,0,0.0,0,0,15,0,0,0,0,0,0,53.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+34,J.Daniels,Washington Commanders,16,51,0,4,51,3.2,0,0.0,0,0,15,0,0,0,0,0,0,100.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+35,Z.Ertz,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+36,J.Metchie,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+37,J.Bates,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+38,I.Smith,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+39,S.LaPorta,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+40,N.Collins,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+41,K.Raymond,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+42,A.St.,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+43,J.Crowder,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+44,D.Brown,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+45,O.Zaccheaus,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+46,T.Kelce,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+47,T.Patrick,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Washington Commanders,1,Ford Field,indoors,turf,27,73,7,0,Clear
+48,X.Hutchinson,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+49,D.Schultz,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
+50,T.McLaurin,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Detroit Lions,0,Ford Field,indoors,turf,27,73,7,0,Clear
+51,N.Gray,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000018,Houston Texans,1,GEHA Field at Arrowhead,outdoors,grass,23,52,17,1,Clear
