@@ -1,0 +1,39 @@
+,Name,Team,Rush_Att,Rush_Yds,Rush_TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,Rush_Lng,Tgt,Rec,Rec_Yds,Rec_TD,Rec_Lng,FL,Pct,Date,Opponent,Hmcrt_adv,Stadium,Roof,Surface,Temperature,Humidity,Wind,Precipitation,Forecast
+1,K.Pickett,Philadelphia Eagles,2,-3,0,0,-3,-1.5,0,0.0,0,0,-1,0,0,0,0,0,0,7.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+3,K.Gainwell,Philadelphia Eagles,3,8,0,0,8,2.7,0,0.0,0,0,4,2,2,16,0,8,0,17.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+5,D.Goedert,Philadelphia Eagles,2,13,0,0,13,6.5,0,0.0,0,0,9,8,7,85,0,26,0,82.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+7,W.Shipley,Philadelphia Eagles,4,77,1,3,77,19.3,0,0.0,0,0,57,0,0,0,0,0,0,10.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+9,S.Barkley,Philadelphia Eagles,15,118,3,5,118,7.9,0,0.0,0,0,60,2,1,4,0,4,0,73.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+11,J.Hurts,Philadelphia Eagles,10,16,3,5,16,1.6,0,0.0,0,0,9,0,0,0,0,0,0,93.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+13,A.Ekeler,Washington Commanders,8,15,0,0,15,1.9,0,0.0,0,0,4,7,5,17,0,7,1,59.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+15,B.Robinson,Washington Commanders,11,36,0,1,36,3.3,0,0.0,0,0,7,0,0,0,0,0,0,52.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+17,J.Daniels,Washington Commanders,6,48,1,3,48,8.0,0,0.0,0,0,19,0,0,0,0,0,0,95.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+19,I.Pacheco,Kansas City Chiefs,5,12,0,0,12,2.4,0,0.0,0,0,5,2,2,12,0,10,0,29.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+21,X.Worthy,Kansas City Chiefs,2,16,0,0,16,8.0,0,0.0,0,0,8,7,6,85,1,26,0,82.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+23,K.Hunt,Kansas City Chiefs,17,64,1,4,64,3.8,0,0.0,0,0,12,1,1,6,0,6,0,58.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+25,P.Mahomes,Kansas City Chiefs,11,43,2,6,43,3.9,0,0.0,0,0,12,0,0,0,0,0,1,100.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+27,R.Davis,Buffalo Bills,2,4,0,0,4,2.0,0,0.0,0,0,4,0,0,0,0,0,0,12.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+29,T.Johnson,Buffalo Bills,6,19,0,1,19,3.2,0,0.0,0,0,8,1,1,0,0,0,0,41.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+31,J.Cook,Buffalo Bills,13,85,2,4,85,6.5,0,0.0,0,0,33,3,3,49,0,23,0,45.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+33,J.Allen,Buffalo Bills,11,39,0,5,39,3.5,0,0.0,0,0,13,0,0,0,0,0,0,100.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+34,C.Samuel,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+35,J.Smith-Schuster,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+36,M.Hollins,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+37,K.Coleman,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+38,A.Brown,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+39,M.Brown,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+40,A.Cooper,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+41,D.Smith,Philadelphia Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Washington Commanders,1,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+42,T.Kelce,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+43,D.Knox,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+44,Z.Ertz,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+45,D.Kincaid,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+46,D.Hopkins,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+47,S.Perine,Kansas City Chiefs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Buffalo Bills,1,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+48,D.Brown,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+49,J.Crowder,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+50,B.Sinnott,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+51,T.McLaurin,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+52,O.Zaccheaus,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
+53,K.Shakir,Buffalo Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Kansas City Chiefs,0,GEHA Field at Arrowhead,outdoors,grass,31,46,8,0,Clear
+54,J.Bates,Washington Commanders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,1000026,Philadelphia Eagles,0,Lincoln Financial Field,outdoors,grass,42,48,11,0,Mostly Cloudy
